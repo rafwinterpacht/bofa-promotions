@@ -1,0 +1,27 @@
+{
+  "a": "stardust/replica/gates/all-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal/origin.png",
+  "b": "stardust/replica/gates/all-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal/eds.png",
+  "compared": {
+    "width": 750,
+    "height": 454,
+    "mode": "overlap"
+  },
+  "heightDelta": -446,
+  "differingPixels": 40651,
+  "pct": 11.94,
+  "threshold": 10,
+  "pass": false,
+  "diff": "stardust/replica/gates/all-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 454,
+      "pct": 11.9
+    }
+  ]
+}

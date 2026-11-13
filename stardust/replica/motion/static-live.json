@@ -1,0 +1,294 @@
+{
+  "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3104,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1604,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "102.5px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": "a[href*=\"plus-2026-modal\"]",
+      "frames": [
+        {
+          "t": 25590.299999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 25795.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 26001.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 26206.19999999972,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "modal__wide"
+        ],
+        "el": "div.header.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.aem-wrap--modal.aem-GridColumn.aem-GridColumn--default--12 > dialog.modal.js-initialized > div.modal__content.trap.modal__wide",
+        "y": 727
+      },
+      {
+        "added": [
+          "t-track-body-copy-link"
+        ],
+        "el": "div.modal__content.trap.modal__wide > div.modal__body--wrapper > div.modal__body.modal__align--center.modal__body--1466013868 > p.text-center > a.t-track-body-copy-link",
+        "y": 727
+      },
+      {
+        "added": [
+          "ap-no-overflow"
+        ],
+        "el": "html.ap-no-overflow",
+        "y": 727
+      },
+      {
+        "added": [
+          "modal__1466013868"
+        ],
+        "el": "header.helix-cta.helix-modal > div.header.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.aem-wrap--modal.aem-GridColumn.aem-GridColumn--default--12 > dialog.modal.js-initialized.modal__1466013868",
+        "y": 727
+      }
+    ]
+  }
+}

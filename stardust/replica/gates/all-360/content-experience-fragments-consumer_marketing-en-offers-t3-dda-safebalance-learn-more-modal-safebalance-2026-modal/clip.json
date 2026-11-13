@@ -1,0 +1,446 @@
+{
+ "url": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal",
+ "at": "2026-11-13T20:35:23.368Z",
+ "width": 360,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 900,
+ "pageW": 360,
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 4,
+  "horizontal": 0,
+  "offPage": 1,
+  "textNodes": 33,
+  "controls": 14,
+  "total": 0
+ },
+ "findings": [
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 14,
+   "path": "div.modal-dialog-frame > div.modal-dialog-body > div.modal-dialog-notes > p",
+   "text": "*when you add an owner under the age of 25 to an existing ac",
+   "clipper": "dialog.modal-dialog-dialog",
+   "rect": {
+    "l": 44,
+    "t": 920,
+    "r": 309,
+    "b": 939,
+    "w": 265,
+    "h": 19
+   },
+   "clip": {
+    "l": 0,
+    "t": 0,
+    "r": 360,
+    "b": 900,
+    "w": 360,
+    "h": 900
+   },
+   "lines": 14
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.modal-dialog-body > div.modal-dialog-notes > p > a",
+   "text": "personal schedule of fees",
+   "clipper": "dialog.modal-dialog-dialog",
+   "rect": {
+    "l": 44,
+    "t": 1211,
+    "r": 315,
+    "b": 1252,
+    "w": 271,
+    "h": 41
+   },
+   "clip": {
+    "l": 0,
+    "t": 0,
+    "r": 360,
+    "b": 900,
+    "w": 360,
+    "h": 900
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.modal-dialog-body > div.modal-dialog-notes > p > a",
+   "text": "personal schedule of fees",
+   "clipper": "dialog.modal-dialog-dialog",
+   "rect": {
+    "l": 174,
+    "t": 1211,
+    "r": 315,
+    "b": 1230,
+    "w": 141,
+    "h": 19
+   },
+   "clip": {
+    "l": 0,
+    "t": 0,
+    "r": 360,
+    "b": 900,
+    "w": 360,
+    "h": 900
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.modal-dialog-frame > div.modal-dialog-body > div.modal-dialog-notes > p",
+   "text": "for more information.",
+   "clipper": "dialog.modal-dialog-dialog",
+   "rect": {
+    "l": 75,
+    "t": 1233,
+    "r": 225,
+    "b": 1252,
+    "w": 150,
+    "h": 19
+   },
+   "clip": {
+    "l": 0,
+    "t": 0,
+    "r": 360,
+    "b": 900,
+    "w": 360,
+    "h": 900
+   },
+   "lines": 1
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 297,
+   "y": 77,
+   "w": 14,
+   "h": 30
+  },
+  {
+   "x": 69,
+   "y": 113,
+   "w": 222,
+   "h": 38
+  },
+  {
+   "x": 109,
+   "y": 153,
+   "w": 142,
+   "h": 38
+  },
+  {
+   "x": 97,
+   "y": 193,
+   "w": 167,
+   "h": 38
+  },
+  {
+   "x": 117,
+   "y": 233,
+   "w": 126,
+   "h": 38
+  },
+  {
+   "x": 68,
+   "y": 315,
+   "w": 225,
+   "h": 20
+  },
+  {
+   "x": 45,
+   "y": 338,
+   "w": 270,
+   "h": 20
+  },
+  {
+   "x": 62,
+   "y": 360,
+   "w": 236,
+   "h": 20
+  },
+  {
+   "x": 143,
+   "y": 383,
+   "w": 74,
+   "h": 20
+  },
+  {
+   "x": 53,
+   "y": 421,
+   "w": 253,
+   "h": 19
+  },
+  {
+   "x": 144,
+   "y": 443,
+   "w": 71,
+   "h": 19
+  },
+  {
+   "x": 170,
+   "y": 482,
+   "w": 21,
+   "h": 19
+  },
+  {
+   "x": 56,
+   "y": 520,
+   "w": 249,
+   "h": 19
+  },
+  {
+   "x": 109,
+   "y": 543,
+   "w": 143,
+   "h": 19
+  },
+  {
+   "x": 170,
+   "y": 581,
+   "w": 21,
+   "h": 19
+  },
+  {
+   "x": 56,
+   "y": 619,
+   "w": 249,
+   "h": 19
+  },
+  {
+   "x": 76,
+   "y": 642,
+   "w": 208,
+   "h": 19
+  },
+  {
+   "x": 60,
+   "y": 664,
+   "w": 241,
+   "h": 19
+  },
+  {
+   "x": 137,
+   "y": 686,
+   "w": 81,
+   "h": 19
+  },
+  {
+   "x": 218,
+   "y": 685,
+   "w": 5,
+   "h": 12
+  },
+  {
+   "x": 45,
+   "y": 724,
+   "w": 5,
+   "h": 12
+  },
+  {
+   "x": 50,
+   "y": 725,
+   "w": 250,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 747,
+   "w": 246,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 770,
+   "w": 238,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 792,
+   "w": 269,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 814,
+   "w": 249,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 837,
+   "w": 246,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 859,
+   "w": 260,
+   "h": 19
+  },
+  {
+   "x": 44,
+   "y": 882,
+   "w": 95,
+   "h": 19
+  },
+  {
+   "x": 139,
+   "y": 882,
+   "w": 3,
+   "h": 19
+  },
+  {
+   "x": 62,
+   "y": 154,
+   "w": 7,
+   "h": 17
+  },
+  {
+   "x": 69,
+   "y": 154,
+   "w": 42,
+   "h": 17
+  },
+  {
+   "x": 111,
+   "y": 154,
+   "w": 11,
+   "h": 17
+  },
+  {
+   "x": 122,
+   "y": 154,
+   "w": 48,
+   "h": 17
+  },
+  {
+   "x": 171,
+   "y": 154,
+   "w": 11,
+   "h": 17
+  },
+  {
+   "x": 182,
+   "y": 154,
+   "w": 124,
+   "h": 17
+  },
+  {
+   "x": 306,
+   "y": 154,
+   "w": 7,
+   "h": 17
+  },
+  {
+   "x": 44,
+   "y": 178,
+   "w": 103,
+   "h": 17
+  },
+  {
+   "x": 147,
+   "y": 178,
+   "w": 11,
+   "h": 17
+  },
+  {
+   "x": 158,
+   "y": 178,
+   "w": 122,
+   "h": 17
+  },
+  {
+   "x": 313,
+   "y": 178,
+   "w": 3,
+   "h": 17
+  },
+  {
+   "x": 113,
+   "y": 202,
+   "w": 135,
+   "h": 17
+  },
+  {
+   "x": 28,
+   "y": 226,
+   "w": 219,
+   "h": 17
+  },
+  {
+   "x": 247,
+   "y": 226,
+   "w": 84,
+   "h": 17
+  },
+  {
+   "x": 150,
+   "y": 250,
+   "w": 41,
+   "h": 17
+  },
+  {
+   "x": 68,
+   "y": 274,
+   "w": 224,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 298,
+   "w": 110,
+   "h": 17
+  },
+  {
+   "x": 45,
+   "y": 348,
+   "w": 270,
+   "h": 17
+  }
+ ],
+ "groups": [
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 2,
+   "clipper": "dialog.modal-dialog-dialog",
+   "path": "div.modal-dialog-frame > div.modal-dialog-body > div.modal-dialog-notes > p",
+   "text": "*when you add an owner under the age of 25 to an existing ac",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "dialog.modal-dialog-dialog",
+   "path": "div.modal-dialog-body > div.modal-dialog-notes > p > a",
+   "text": "personal schedule of fees",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "dialog.modal-dialog-dialog",
+   "path": "div.modal-dialog-body > div.modal-dialog-notes > p > a",
+   "text": "personal schedule of fees",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "tier": "chrome"
+}

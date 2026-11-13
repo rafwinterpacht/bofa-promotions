@@ -1,0 +1,6 @@
+{
+  "instrument": "crawl-fullpage",
+  "asymmetric": true,
+  "note": "stitch exit 1:   - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html\", waiting until \"domcontentloaded\" — crawl screenshot used",
+  "at": "2026-11-13T18:39:59.638Z"
+}

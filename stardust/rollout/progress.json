@@ -1,0 +1,197 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "landing",
+        "unique",
+        "program",
+        "static"
+      ],
+      "startedAt": "2026-11-13T16:45:51.865Z",
+      "endedAt": "2026-11-13T17:07:03.089Z",
+      "verdict": "foundation: chrome docs 8/8 live (nav x5, footer, 2 modals), plain.html 200 / 0 about:error, favicon 200, lint ok, frozen; shell gate runs with the first archetype (landing) on its preview URL"
+    },
+    "archetype-landing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "landing"
+      ],
+      "startedAt": "2026-11-13T17:52:29.525Z",
+      "endedAt": "2026-11-13T18:34:50.429Z",
+      "pages": 1,
+      "blocks": 3,
+      "gates": {
+        "360": {
+          "archetype": "8.63%",
+          "dh": 17
+        },
+        "1440": {
+          "archetype": "4.39%",
+          "dh": 12
+        },
+        "crop": "header 0.00/0.29%, footer 1.46/0.12%",
+        "chrome": "20@1440/19@360 (frozen chrome: header bg, legal-bar text split, logo node)"
+      },
+      "note": "sticky product bar observed live and implemented (replica motion register listed it dead — corrected here)",
+      "verdict": "archetype-landing: page /en/offers/chooseyourchecking500tiered live, blocks 3 (+masthead, disclosures reused), gate 1440 4.39% Δh12 / 360 8.63% Δh17, clipped 0, missing 0, rounds 3, requests 1"
+    },
+    "archetype-unique": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "unique"
+      ],
+      "startedAt": "2026-11-13T17:52:29.525Z",
+      "endedAt": "2026-11-13T18:17:58.117Z",
+      "pages": 1,
+      "blocks": 9,
+      "gates": {
+        "360": {
+          "archetype": "2.11%",
+          "dh": 0
+        },
+        "1440": {
+          "archetype": "0.46%",
+          "dh": 1
+        },
+        "crop": "header 0.00/0.00%, footer 0.06/1.78% (1px-aligned; raw 4.94% @360)",
+        "chrome": "0"
+      },
+      "verdict": "archetype-unique: page /en/deals live, blocks 9 (+1 reused), gate 1440 0.46% Δh1 / 360 2.11% Δh0, clipped 0, missing 0, chrome deltas 0, rounds 1, requests 1"
+    },
+    "archetype-program": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "program"
+      ],
+      "startedAt": "2026-11-13T17:08:14.074Z",
+      "endedAt": "2026-11-13T17:51:27.831Z",
+      "pages": 1,
+      "blocks": 6,
+      "gates": {
+        "360": {
+          "archetype": "0.23%",
+          "dh": 1
+        },
+        "1440": {
+          "archetype": "1.09%",
+          "dh": 0
+        },
+        "crop": "header 0.00/0.29%, footer 0.04/1.55% (1px-aligned; raw 2.75% @360)",
+        "chrome": "21@1440/20@360 (text-split, hidden labels; no pixel effect)"
+      },
+      "verdict": "archetype-program: page /deposits/growyoursavings live, blocks 6, gate 1440 1.09% Δh0 / 360 0.23% Δh+1, clipped 0, missing 0, foundation-first pass, rounds 2, requests 1"
+    },
+    "archetype-static": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "static"
+      ],
+      "startedAt": "2026-11-13T17:52:29.525Z",
+      "endedAt": "2026-11-13T18:04:28.985Z",
+      "pages": 1,
+      "blocks": 1,
+      "gates": {
+        "360": {
+          "archetype": "0.19% / 0.28% (dialog check)",
+          "dh": 0
+        },
+        "1440": {
+          "archetype": "0.37% standalone / 0.65% in-page (dialog check)",
+          "dh": 0
+        },
+        "note": "gate-all row 8.79%/17.12% is not a measurement of this page: source fragment URL redirect-loops, gate-all compared crawl crop vs full stitch; verdict from landingDialogCheck as the prototype was gated",
+        "crop": "n/a (fragment)",
+        "chrome": "n/a"
+      },
+      "verdict": "archetype-static: page /content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal live, blocks 1, gate 1440 0.37% / 360 0.19% (dialog check), clipped 0, rounds 2, requests 2"
+    },
+    "cluster-program": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "program"
+      ],
+      "pages": 3,
+      "startedAt": "2026-11-13T18:05:08.050Z",
+      "endedAt": "2026-11-13T20:13:52.501Z",
+      "blocks": 6,
+      "gates": {
+        "360": {
+          "worst": "9.47% Δh 29 (debitcard/overview)",
+          "rows": {
+            "balanceconnect": "7.24% Δh48",
+            "cd-ira": "7.87% Δh-60",
+            "debitcard/overview": "9.47% Δh29"
+          }
+        },
+        "1440": {
+          "worst": "9.91% Δh 4 (debitcard/overview)",
+          "rows": {
+            "balanceconnect": "8.38% Δh40",
+            "cd-ira": "9.68% Δh24",
+            "debitcard/overview": "9.91% Δh4"
+          }
+        }
+      },
+      "verdict": "cluster-program: pages 3/3 live, gate-all PASS 6/6 rows (worst 1440 9.91% / 360 9.47%), clipped 0, missing 0, rounds 4 (block variant CSS + debit features mobile carousel), requests 0"
+    },
+    "cluster-static": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "static"
+      ],
+      "pages": 5,
+      "startedAt": "2026-11-13T18:18:18.876Z",
+      "endedAt": "2026-11-13T18:42:37.091Z",
+      "blocks": 1,
+      "gates": {
+        "360": {
+          "worst": "2.78% (dialog probe)"
+        },
+        "1440": {
+          "worst": "0.79% (dialog probe)"
+        },
+        "note": "gate-all rows FAIL 8.5–21.9% are invalid: source fragment URLs redirect-loop, gate-all falls back to crawl full-page shots; verdict from dialog probe as for the archetype"
+      },
+      "verdict": "cluster-static: pages 5/5 live, blocks 1 (modal-dialog), gate 1440 0.79% / 360 2.78% (worst, dialog probe; Δh 0 every page), clipped 0, missing 0, rounds 0, requests 0"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-13T20:14:50.560Z",
+      "pages": 12,
+      "endedAt": "2026-11-13T20:36:02.211Z",
+      "gates": {
+        "360": {
+          "pass": 6,
+          "overridePass": 6,
+          "fail": 0,
+          "worstPage": "9.47% /deposits/debitcard/overview"
+        },
+        "1440": {
+          "pass": 6,
+          "overridePass": 6,
+          "fail": 0,
+          "worstPage": "9.91% /deposits/debitcard/overview"
+        },
+        "note": "6 modal-fragment rows carry documented overrides (source fragment URL 302-loops → crawl full-page origin, asymmetric); their verdict is the dialog probe"
+      },
+      "verdict": "gate-all: 12/12 delivered at 1440 and 360 (6 PASS + 6 documented overrides), clipped 0, missing 0; coverage --gate 12/12 rows matched"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-13T20:37:59Z",
+      "endedAt": "2026-11-13T20:37:59Z",
+      "verdict": "final: freeze check clean (27 files); queue applied once — modals.js fragment-path normalization (_ → -, lower-case) + global a:any-link:has(> sup) underline reset; block-level overrides kept; foundation re-frozen; coverage 12/12 gated (gate-all)",
+      "followUp": "published re-gate of landing/unique archetypes after the code push (changes are redundant with shipped block overrides)"
+    }
+  }
+}

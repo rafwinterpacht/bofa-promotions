@@ -1,0 +1,38 @@
+/* ==========================================================================
+   Offer-term modal fragments (page type `static`, experience fragments).
+   Loaded after canon.css. Every rule below corrects canon's fragment-modal
+   block against the live modal (source main.min: .helix-modal .modal*,
+   .modal .modal__body, .text h2, .modal .modal__wide h2; live computed styles
+   gates/static/live-<w>.json) and is a back-port request for canon.css.
+   ========================================================================== */
+
+/* Source modal is a <dialog>: the UA padding (1em) is kept, so the box is
+   viewport − 32px wide at 360 (328px) and centred at 1440 (x 345). */
+.modal-dialog { padding: 1rem; }
+
+/* .modal .modal__body p { margin: 1rem 0 0 } + p:first-child { margin-top: 0 } */
+.modal-dialog__body p { margin: 1rem 0 0; }
+.modal-dialog__body p:first-child { margin-top: 0; }
+
+/* Bold run inside a centred div stays inline (no source rule changes it). */
+.modal-dialog__body .text-center b { display: inline; margin-bottom: 0; }
+.modal-dialog__body .text-center + p { display: block; margin-bottom: 0; }
+
+/* Headings: .modal h2 (larger / 700 / mb .25rem); .modal .modal__wide h2
+   (2rem / 400); line-height from .text h2 (1.25, ≥640px 1.125). */
+.modal-dialog:not(.modal-dialog--exit) .modal-dialog__body h2 {
+  font-family: Connections; font-size: larger; font-weight: 700; line-height: 1.25; margin: 0 0 .25rem;
+}
+.modal-dialog--wide:not(.modal-dialog--exit) .modal-dialog__body h2 { font-size: 2rem; font-weight: 400; }
+@media (min-width: 640px) {
+  .modal-dialog:not(.modal-dialog--exit) .modal-dialog__body h2 { line-height: 1.125; }
+}
+
+/* Source appends serviceJson.additionalCopy straight into .modal__body, so its
+   <p> is a regular sibling (margin-top 1rem, live odp gap 16px). The landing
+   wraps it in .modal-dialog__additional; keep the source spacing. */
+.modal-dialog__body .modal-dialog__additional > p:first-child { margin-top: 1rem; }
+
+/* Scroll lock while a modal is open (source adds body.ap-no-overflow → overflow: hidden;
+   observed by motion-observe on the live modal open). */
+body:has(dialog.modal-dialog[open]) { overflow: hidden; }

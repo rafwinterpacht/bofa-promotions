@@ -1,0 +1,200 @@
+/* faq — accordion (source .accordion section-left, bright-red dropdown control) */
+.faq {
+  margin-bottom: 60px;
+  padding: 0 var(--gutter);
+}
+
+.faq .faq-items {
+  max-width: 60rem;
+  margin: 3.75rem auto 0;
+  padding: 0 1rem;
+}
+
+.faq .faq-options {
+  font-size: 1rem;
+  line-height: 1.4;
+  text-align: right;
+}
+
+.faq .faq-options p {
+  margin: 0;
+}
+
+.faq .faq-options a:any-link {
+  color: var(--color-royal-blue);
+}
+
+.faq .faq-divider,
+.faq .faq-collapse,
+.faq.all-open .faq-expand {
+  display: none;
+}
+
+.faq.all-open .faq-collapse {
+  display: inline;
+}
+
+.faq .faq-item {
+  margin: 8px 0;
+}
+
+.faq .faq-handle {
+  display: flex;
+  width: calc(100% - 4px);
+  height: fit-content;
+  min-height: 2.8125rem;
+  margin: 2px auto;
+  padding: 0.5rem 0.6875rem;
+  border: 2px outset transparent;
+  background: #f5f5f5;
+  color: var(--color-black);
+  font-size: 1.25rem;
+  line-height: 1.4;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.faq .faq-toggle {
+  display: inline-block;
+  flex: none;
+  align-self: flex-start;
+  width: 1.5rem;
+  height: 0.875rem;
+  margin: 0.5rem 1rem 0 0;
+  padding: 0;
+  border: 0;
+  background: url("dropdown-bright-red.png") 0 0 / contain no-repeat;
+  cursor: pointer;
+}
+
+.faq .faq-handle.is-active .faq-toggle {
+  transform: rotate(180deg);
+  transition: all 0.5s ease-in-out;
+}
+
+.faq .faq-title {
+  display: flex;
+  align-self: center;
+  width: 75%;
+  overflow: hidden;
+}
+
+.faq .faq-title :is(h2, h3, h4) {
+  margin: 0;
+  padding: 0;
+  color: var(--color-black);
+
+  /* same stack as --font-sans, without the quoted alias, so the face is named Connections */
+  font-family: Connections, connections-fallback, arial, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 100;
+  line-height: 1.2083;
+  letter-spacing: 0.01px;
+}
+
+.faq .faq-answer {
+  display: none;
+  overflow: hidden;
+  padding: 0.625rem 1.25rem 0;
+}
+
+.faq .faq-item.is-open .faq-answer {
+  display: block;
+}
+
+.faq .faq-answer p {
+  margin: 0 0 1.6875rem;
+  font-size: 1.125rem;
+  letter-spacing: 0.01px;
+}
+
+.faq .faq-answer ul {
+  margin: 1.125rem 0 1.6875rem;
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.faq .faq-answer li {
+  font-size: 1.125rem;
+}
+
+.faq .faq-answer li ul {
+  margin: 10px 0 0;
+  list-style: "- ";
+}
+
+@media (width >= 640px) {
+  .faq .faq-items {
+    max-width: 28.8125rem;
+    margin-top: 3.125rem;
+    padding: 0;
+  }
+
+  .faq .faq-title {
+    width: 85%;
+  }
+
+  .faq .faq-answer {
+    padding: 0.625rem 2.5625rem 0;
+  }
+}
+
+@media (width >= 1024px) {
+  .faq {
+    margin-bottom: 50px;
+  }
+
+  .faq .faq-items {
+    max-width: 39.4375rem;
+  }
+
+  .faq .faq-handle {
+    min-height: 3.75rem;
+    font-size: 1.5rem;
+  }
+
+  .faq .faq-toggle {
+    width: 1.875rem;
+    height: 1.125rem;
+    margin: 0.75rem 1.5rem 0 0.5rem;
+  }
+
+  .faq .faq-title :is(h2, h3, h4) {
+    font-size: 2rem;
+    line-height: 1.1875;
+  }
+
+  .faq .faq-answer {
+    padding: 0 5.125rem;
+  }
+}
+
+@media (width >= 1240px) and (width <= 1440px) {
+  .faq .faq-items {
+    max-width: 54rem;
+  }
+}
+
+@media (width >= 1440px) {
+  .faq .faq-items {
+    max-width: 68rem;
+  }
+
+  .faq .faq-toggle {
+    margin-right: 1.5rem;
+    margin-left: 0;
+  }
+
+  .faq .faq-title {
+    width: 92%;
+  }
+
+  .faq .faq-answer {
+    padding-left: 1rem;
+  }
+
+  .faq .faq-answer-text {
+    margin: 0.9375rem 6.875rem 0 6.25rem;
+  }
+}

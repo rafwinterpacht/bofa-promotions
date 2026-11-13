@@ -1,0 +1,145 @@
+/* long-form-text — centred text band (source .long-form-text--blue) */
+.long-form-text {
+  padding: 0 var(--gutter);
+}
+
+.long-form-text.blue {
+  background-color: var(--color-dark-blue);
+  color: var(--color-white);
+}
+
+.long-form-text .long-form-text-wrapper {
+  max-width: 1068px;
+  margin: 0 auto;
+  padding: 3rem 0;
+  text-align: center;
+}
+
+.long-form-text .long-form-text-wrapper p {
+  margin: 0 0 1rem;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.long-form-text .long-form-text-icon picture {
+  display: inline;
+}
+
+.long-form-text .long-form-text-icon img {
+  display: inline;
+  width: 50px;
+  height: 50px;
+  vertical-align: baseline;
+}
+
+.long-form-text .long-form-text-lead p {
+  margin: 0;
+  font-size: 23.2px;
+}
+
+.long-form-text.blue a:any-link {
+  color: var(--color-white);
+}
+
+/* headings + CTAs (source .long-form-text h2 / .secondary-cta) */
+.long-form-text .long-form-text-wrapper h2 {
+  margin: 0;
+  font-weight: 100;
+}
+
+.long-form-text .long-form-text-wrapper h2:not(:last-child) {
+  margin-bottom: 1.25rem;
+  line-height: 1.2;
+}
+
+.long-form-text .long-form-text-wrapper:has(.button-wrapper) {
+  max-width: none;
+}
+
+.long-form-text .long-form-text-wrapper p.button-wrapper {
+  display: inline-block;
+  margin: 0;
+}
+
+.long-form-text .long-form-text-wrapper a.button:any-link {
+  width: 100%;
+  margin: 0.5rem auto;
+}
+
+.long-form-text.red {
+  background-color: var(--color-bright-red);
+  color: var(--color-white);
+}
+
+.long-form-text.flagscape {
+  background: #ae132a url("./flagscape-red.svg") 50% / cover no-repeat;
+  color: var(--color-white);
+}
+
+.long-form-text.white-cta a.button.secondary:any-link {
+  background-color: var(--color-white);
+  color: var(--color-dark-blue);
+}
+
+.long-form-text.white-cta a.button.secondary:hover,
+.long-form-text.white-cta a.button.secondary:focus {
+  background-color: #e6e6e6;
+  color: var(--color-dark-blue);
+}
+
+.long-form-text:is(.red, .flagscape) sup a:any-link {
+  color: var(--color-white);
+}
+
+/* cta-band: 40px heading and a full-width CTA below 640px (source .long-form-text.cta) */
+@media (width < 1068px) {
+  .long-form-text.cta-band .long-form-text-wrapper h2 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+}
+
+/* red (debit card overview): 40px/50px heading over a 16px gap below 1068px (source) */
+@media (width < 1068px) {
+  .long-form-text.red .long-form-text-wrapper h2 {
+    margin-bottom: 16px;
+    font-size: 2.5rem;
+    line-height: 1.25;
+  }
+}
+
+@media (width < 640px) {
+  .long-form-text.cta-band .long-form-text-wrapper p.button-wrapper {
+    display: block;
+  }
+}
+
+@media (width >= 640px) {
+  .long-form-text .long-form-text-wrapper a.button:any-link {
+    width: auto;
+    min-width: auto;
+    margin: 0.5rem;
+  }
+}
+
+@media (width >= 1068px) {
+  .long-form-text .long-form-text-wrapper h2 {
+    font-size: 3.5rem;
+    line-height: 1.4;
+  }
+
+  .long-form-text .long-form-text-wrapper h2:not(:last-child) {
+    font-size: 3rem;
+    line-height: 1.125;
+  }
+
+  .long-form-text .long-form-text-wrapper a.button:any-link {
+    min-width: 260px;
+  }
+}
+
+/* footnote references: the pipeline serves <a><sup>n</sup></a> — no underline (source) */
+/* stylelint-disable-next-line no-descending-specificity -- a footnote link, not a CTA */
+.long-form-text a:any-link:has(> sup) {
+  text-decoration: none;
+}

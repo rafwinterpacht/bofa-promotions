@@ -1,0 +1,51 @@
+/* banner — content banner heading band (source .content-banner) */
+.banner {
+  margin: 0 18px;
+  background: var(--color-white);
+}
+
+.banner .banner-inner {
+  padding: 24px;
+  text-align: center;
+}
+
+.banner .banner-inner :is(h1, h2, h3) {
+  margin: 0;
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: 3rem;
+  font-weight: 100;
+  line-height: 1.25;
+}
+
+.banner.dark {
+  background: var(--color-dark-blue);
+}
+
+.banner.dark .banner-inner :is(h1, h2, h3) {
+  color: var(--color-white);
+  font-size: 2rem;
+  line-height: 1.25;
+}
+
+@media (width >= 640px) {
+  .banner {
+    margin: 0 auto;
+  }
+
+  .banner .banner-inner {
+    padding: 24px calc(100% / 12 + 48px);
+  }
+}
+
+@media (width >= 1088px) {
+  .banner .banner-inner :is(h1, h2, h3) {
+    font-size: 3.5rem;
+    line-height: 1.125;
+  }
+
+  .banner.dark .banner-inner :is(h1, h2, h3) {
+    font-size: 2.5rem;
+    line-height: 1.25;
+  }
+}

@@ -1,0 +1,194 @@
+/* ==========================================================================
+   Program archetype — deposits/growyoursavings (deposit product pages)
+   Components (named after the source AEM components, reused by siblings):
+   masthead (--left, deep, full-bleed photo), content-tile (--right/--left,
+   overview items), multi-step-content (--vertical, 3 columns),
+   image-with-text-offset (--left, red panel), long-form-text (--blue band).
+   Imports canon.css first (linked in the page). Values lifted from source CSS
+   + computed styles; per-page images set below the component rules.
+   ========================================================================== */
+
+:root {
+  --display-md: 40px;
+  --overview-icon: 40px;
+}
+@media (min-width: 1068px) {
+  :root { --display-md: 48px; }
+}
+
+/* ---------- Header: "En español" CTA (expanded-nav__cta--wrapper) ---------- */
+.cta--standard { background-color: transparent; border: 2px solid transparent; color: var(--color-royal-blue); text-decoration: none; }
+.cta--standard:hover, .cta--standard:focus { background-color: transparent; color: var(--color-dark-blue); text-decoration: underline; }
+.site-header__cta { display: none; }
+.site-header__cta .cta { display: flex; font-size: 1rem; line-height: 1; min-width: 240px; margin: 1.5rem 0 0; padding: 1rem; }
+.site-nav--mobile.is-open + .site-header__cta--mobile { display: flex; flex-direction: column; align-items: center; margin: 0 5%; }
+.site-header__cta--mobile .cta { max-width: fit-content; height: 36px; border-radius: 25px; }
+@media (min-width: 1024px) {
+  .site-header__cta--desktop { display: flex; align-items: center; margin-left: auto; height: 100%; }
+  .site-header__cta--desktop .cta { display: inline-flex; min-width: 175px; height: 44px; margin: auto 0 auto 1rem; padding: 1.25rem; }
+  .site-nav--mobile.is-open + .site-header__cta--mobile { display: none; }
+}
+
+/* ---------- Masthead (masthead--custom masthead--left, wrapper .deep) ---------- */
+.masthead {
+  padding: 0 var(--gutter); color: var(--color-white); text-align: center;
+  background-repeat: no-repeat; background-position: bottom; background-size: cover;
+}
+.masthead__wrapper {
+  display: flex; flex-direction: column; align-items: center; position: relative;
+  max-width: var(--page-max); margin: 0 auto; min-height: 500px; padding: 6.4vw 0 46vw;
+}
+.masthead__section { position: relative; max-width: 100%; }
+.masthead__heading { margin: .5rem 0 1.25rem; }
+.masthead__title { font-family: Connections; font-size: var(--display-md); line-height: 1.35; font-weight: 100; color: var(--color-white); margin: 0; }
+.masthead__copy { font-size: 1.25rem; line-height: 1.3; max-width: 980px; }
+.masthead__copy p { margin: 0; }
+.masthead__lower { margin: 1.5rem 0; }
+.masthead .cta { margin: 8px 8px 8px 0; }
+@media (max-width: 639px) { .masthead .cta { padding: 0 8px; } }
+@media (min-width: 640px) {
+  .masthead { background-position: 50%; text-align: left; }
+  .masthead__wrapper { flex-direction: row; align-items: center; min-height: 500px; padding: 3rem 0; }
+  .masthead__section { display: flex; flex: 0 1 60%; flex-direction: column; padding: 1vw 0; }
+  .masthead__heading { margin: 0 0 1.5rem; }
+  .masthead__copy { font-size: 1.5rem; line-height: 1.25; max-width: 85%; }
+  .masthead__lower { margin: 2rem 0 1.5rem; }
+}
+@media (min-width: 1068px) {
+  .masthead__wrapper { min-height: 600px; }
+  .masthead__section { flex: 0 1 55%; }
+}
+
+/* ---------- Content tile (text column + photo; overview icon list) ---------- */
+.content-tile { background: var(--color-white); }
+.content-tile__row { display: flex; flex-direction: column; max-width: var(--page-max); margin: 0 auto; }
+.content-tile__column { max-width: 100%; padding: 2% var(--gutter) 0; }
+.content-tile__column::before { content: ""; display: block; height: 1.5625rem; } /* source: empty .content-tile__icon (1.25rem + .3125rem padding) */
+.content-tile__title {
+  margin: .5rem 0; font-family: Connections; font-size: 8.69565vw; line-height: 1.167; font-weight: 100; font-style: normal; color: var(--color-black);
+}
+.content-tile__title-copy, .image-with-text-offset__heading-copy { font-size: var(--display-md); }
+.content-tile__copy { margin-bottom: 1rem; padding-right: 11px; font-size: 1.125rem; line-height: 1.3; }
+.content-tile__copy > p { margin: 1em 0; }
+.content-tile__copy b { font-weight: 700; }
+.content-tile__cta { margin-bottom: 2rem; }
+.content-tile__cta .cta { margin: 0; }
+.content-tile__legal { margin-bottom: 1.875rem; }
+.content-tile__legal p { margin: 1rem 0; }
+.content-tile__img img { display: block; width: 100%; height: auto; margin: 0 auto; }
+
+.overview__items { list-style: none; margin: 1.25rem 0 0; padding: 0; text-align: left; }
+.overview-item { display: flex; margin: 0 .25rem .25rem; padding-left: 8px; font-size: 20px; line-height: 24px; }
+.overview-item:last-child { margin-bottom: 0; }
+.overview-item__icon { flex: none; width: var(--overview-icon); max-width: 4.375rem; margin-right: 1.375rem; color: var(--color-bright-red); }
+.overview-item__icon .icon { font-size: 2.5rem; }
+.overview-item__content { font-size: 1.125rem; line-height: 1.3; }
+.overview-item__heading { margin: 0 0 .125rem; font-family: Connections; font-size: 1.25rem; font-weight: 500; line-height: 1.3; }
+.overview-item__heading sup { top: -1rem; }
+.overview-item__copy { margin-bottom: 1.438rem; }
+.overview-item p { margin: 0; }
+
+.icon-finance-accounts::before { content: "\e98c"; }
+.icon-finance-savings::before { content: "\e9b0"; }
+.icon-people-group::before { content: "\e9ed"; }
+.icon-preferred-rewards::before { content: "\e9f5"; }
+.icon-finance-keep-the-change::before { content: "\e9a6"; }
+.icon-arrow-transfer::before { content: "\e93f"; }
+.icon-finance-deposit::before { content: "\e99c"; }
+
+@media (min-width: 640px) {
+  .content-tile__row { flex-direction: row; align-items: center; }
+  .content-tile__column, .content-tile__img { flex: 0 0 50%; max-width: 50%; }
+  .content-tile__title { font-size: 4.5vw; }
+  .content-tile__copy { font-size: 1.25rem; }
+  .overview-item__content { font-size: 1.25rem; }
+  .overview-item__heading { font-size: 1.5rem; line-height: 1.25; }
+}
+@media (min-width: 1068px) {
+  .content-tile__column::before { display: none; }
+  .content-tile__title { font-size: 3rem; line-height: 1.125; }
+  .overview-item__icon { margin: 0 1.25rem 0 0; }
+}
+
+/* ---------- Multi-step content (vertical: 3 centred steps) ---------- */
+.multi-step-content { padding: 0 var(--gutter); text-align: center; }
+.multi-step-content__wrapper { max-width: var(--page-max); margin: 0 auto; padding: 3rem 0; }
+.multi-step-content__heading { font-family: Connections; font-size: var(--display-md); line-height: 1.2; font-weight: 100; color: var(--color-black); }
+.multi-step-content__list { margin: 0 auto; text-align: center; }
+.multi-step-content__items { display: flow-root; }
+.multi-step-content-item { max-width: 350px; margin: 3.25rem auto 0; padding: .625rem; }
+.multi-step-content-item__icon { width: 100px; height: 70px; margin: 0 auto 16px; }
+.multi-step-content-item__icon img { display: block; width: 100px; height: 70px; }
+.multi-step-content-item__heading { margin-bottom: 1rem; color: var(--color-bright-red); font-size: 1.375em; font-weight: 700; }
+.multi-step-content-item__copy p { margin: 0; font-size: 1.25rem; line-height: 1.4; }
+.multi-step-content__subcopy { max-width: 980px; width: 100%; margin: 2rem auto 0; }
+@media (min-width: 640px) {
+  .multi-step-content__heading { line-height: 1.1675; }
+  .multi-step-content__items { display: inline-flex; width: 32.5%; }
+  .multi-step-content__subcopy { margin-top: 3.25rem; }
+}
+@media (min-width: 980px) {
+  .multi-step-content__heading { line-height: 1.125; }
+  .multi-step-content__items { width: 33%; }
+}
+
+/* ---------- Image with text offset (photo + overlapping red panel) ---------- */
+.image-with-text-offset { max-width: var(--page-max); margin: 0 auto; }
+.image-with-text-offset__background { height: 325px; background-position: 50%; background-repeat: no-repeat; background-size: cover; }
+.image-with-text-offset__wrapper { margin: -65px 0 65px; padding: 2vw var(--gutter) 3vw; text-align: left; }
+.image-with-text-offset--left .image-with-text-offset__wrapper { margin-right: 5%; }
+.image-with-text-offset__wrapper--red { background-color: var(--color-regal-red); }
+.image-with-text-offset__section { max-width: 100%; color: var(--color-white); }
+.image-with-text-offset__heading { margin: .5rem 0; font-family: Connections; font-size: 8.69565vw; line-height: 1.167; font-weight: 100; font-style: normal; }
+.image-with-text-offset__copy { max-width: 980px; margin: .75rem 0 1.5rem; font-size: 1.125rem; line-height: 1.3; }
+.image-with-text-offset__copy p { margin: 1em 0; }
+.image-with-text-offset__copy a { color: var(--color-white); }
+.image-with-text-offset__copy b { font-weight: 700; }
+@media (min-width: 640px) {
+  .image-with-text-offset { display: flex; flex-direction: column; position: relative; height: 485px; margin-bottom: 50px; }
+  .image-with-text-offset__background { height: 425px; min-height: 425px; }
+  .image-with-text-offset--left .image-with-text-offset__background { margin-right: 5%; }
+  .image-with-text-offset__wrapper { position: absolute; bottom: 0; left: 0; width: 66%; margin: 0; }
+  .image-with-text-offset--left .image-with-text-offset__wrapper { margin-right: 0; }
+  .image-with-text-offset__heading { font-size: 4.5vw; }
+  .image-with-text-offset__copy { margin: 0 0 1rem; font-size: 1.25rem; }
+}
+@media (min-width: 1068px) {
+  .image-with-text-offset { height: 765px; }
+  .image-with-text-offset__background { height: 700px; max-height: 700px; }
+  .image-with-text-offset__wrapper { width: 58%; }
+  .image-with-text-offset__heading { font-size: 3rem; line-height: 1.125; }
+}
+
+/* ---------- Long-form text (blue band, centred) ---------- */
+.long-form-text { padding: 0 var(--gutter); }
+.long-form-text--blue { background-color: var(--color-dark-blue); }
+.long-form-text__wrapper { max-width: 1068px; margin: 0 auto; padding: 3rem 0; text-align: center; }
+.long-form-text__wrapper p { margin: 0 0 1rem; font-size: 1.25rem; line-height: 1.4; }
+.long-form-text__wrapper p:last-child { margin-bottom: 0; }
+.long-form-text__wrapper img { width: 50px; height: 50px; vertical-align: baseline; }
+.long-form-text__wrapper .long-form-text__lead { font-size: 23.2px; }
+.color-reverse { color: var(--color-white); }
+
+/* ---------- Page images (per-breakpoint renditions, lifted from the source) ---------- */
+#masthead { background-image: url("assets/deposits-growyoursavings/C02_mobile_750x1280_V4.jpg"); }
+#image-with-text-offset .image-with-text-offset__background { background-image: url("assets/deposits-growyoursavings/_mobile_383x326.jpg"); }
+@media (min-width: 643px) {
+  #masthead { background-image: url("assets/deposits-growyoursavings/C02_desktop-mobile_1440x490.jpg"); }
+  #image-with-text-offset .image-with-text-offset__background { background-image: url("assets/deposits-growyoursavings/_desktop-tablet_1382x700.jpg"); }
+}
+
+/* ---------- Canon override (back-port request): header region is transparent on the source
+   (chrome-parity REGION STYLE backgroundColor); the white comes from the bar itself. ---------- */
+.site-header__inner { background: transparent; }
+@media (max-width: 1023px) { .site-header__bar { background: transparent; } }
+
+/* Module caps: on the source every section box is 1440 wide and centred at 2560 (no content-root cap). */
+.masthead, .multi-step-content, .long-form-text { max-width: var(--page-max); margin-left: auto; margin-right: auto; }
+
+/* Canon override (back-port request): the source legal bar (.footer) sits on #ededed like the
+   disclosures above it — sampled 237,237,237 under the logo/links at 360 and 1440. */
+.site-footer { background-color: var(--color-gray); }
+
+/* Body-copy link hover (motion-observe: live main a → color rgb(1, 33, 105) on hover). */
+main a:not(.cta):hover { color: var(--color-dark-blue); }

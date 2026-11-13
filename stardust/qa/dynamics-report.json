@@ -1,0 +1,83 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-13T20:41:25.987Z",
+  "origin": "https://main--78f2fb76--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json",
+  "contract": "stardust/martech-contract.json"
+ },
+ "results": [
+  {
+   "feature": "offer-page terms / account-detail modals (6 experience-fragment dialogs)",
+   "id": "offer-terms-modals",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"Bank of America Advantage Plus Banking®\" · 0 fields · Escape closes: true",
+   "thirdParty": "",
+   "ms": 5333,
+   "environmentLimit": null
+  },
+  {
+   "feature": "offer-page terms / account-detail modals (6 experience-fragment dialogs)",
+   "id": "offer-terms-modals",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"New Eligible Accounts\" · 0 fields · Escape closes: true",
+   "thirdParty": "",
+   "ms": 4158,
+   "environmentLimit": null
+  },
+  {
+   "feature": "offer-page terms / account-detail modals (6 experience-fragment dialogs)",
+   "id": "offer-terms-modals",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"Qualifying Direct Deposit\" · 0 fields · Escape closes: true",
+   "thirdParty": "",
+   "ms": 4153,
+   "environmentLimit": null
+  },
+  {
+   "feature": "exit-notice modal for off-site links",
+   "id": "exit-notice-modal",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"You are now leaving a Bank of America website.\" · 0 fields · Escape closes: true",
+   "thirdParty": "",
+   "ms": 5235,
+   "environmentLimit": null
+  },
+  {
+   "feature": "client-rendered component copy delivered as static content (rows 8–21)",
+   "id": "no-runtime-errors",
+   "class": "CR",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 6 page(s)",
+   "thirdParty": "",
+   "ms": 13229,
+   "environmentLimit": null
+  },
+  {
+   "feature": "martech: consent + tag routing",
+   "id": "martech",
+   "class": "T",
+   "status": "scaffolded-off",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (3 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6182,
+   "environmentLimit": null
+  }
+ ]
+}

@@ -1,0 +1,314 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-13T16:44:53.741Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T16:44:53.741Z",
+  "fragments": [
+    {
+      "id": "footer",
+      "blockPath": "fragments/footer.html",
+      "status": "pending"
+    },
+    {
+      "id": "header",
+      "blockPath": "fragments/header.html",
+      "status": "pending"
+    }
+  ],
+  "deliveryOrder": [
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+    "deposits-growyoursavings",
+    "deposits-balanceconnect",
+    "deposits-debitcard-overview",
+    "deposits-growyoursavings-cd-ira",
+    "en-deals",
+    "en-offers-chooseyourchecking500tiered"
+  ],
+  "steps": [
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "path": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "modal-dialog",
+          "edsBlockName": "modal-dialog"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+      "path": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "modal-dialog",
+          "edsBlockName": "modal-dialog",
+          "convertedBy": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+        }
+      ]
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+      "path": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "modal-dialog",
+          "edsBlockName": "modal-dialog",
+          "convertedBy": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+        }
+      ]
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+      "path": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "modal-dialog",
+          "edsBlockName": "modal-dialog",
+          "convertedBy": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+        }
+      ]
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+      "path": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "modal-dialog",
+          "edsBlockName": "modal-dialog",
+          "convertedBy": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+        }
+      ]
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+      "path": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "modal-dialog",
+          "edsBlockName": "modal-dialog",
+          "convertedBy": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+        }
+      ]
+    },
+    {
+      "slug": "deposits-growyoursavings",
+      "path": "/deposits/growyoursavings",
+      "templateId": "deposits-growyoursavings",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "masthead",
+          "edsBlockName": "masthead"
+        },
+        {
+          "id": "content-tile",
+          "edsBlockName": "content-tile"
+        },
+        {
+          "id": "multi-step-content",
+          "edsBlockName": "multi-step-content"
+        },
+        {
+          "id": "image-with-text-offset",
+          "edsBlockName": "image-with-text-offset"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "deposits-balanceconnect",
+      "path": "/deposits/balanceconnect",
+      "templateId": "deposits-growyoursavings",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "masthead",
+          "edsBlockName": "masthead",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "content-tile",
+          "edsBlockName": "content-tile",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "multi-step-content",
+          "edsBlockName": "multi-step-content",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "image-with-text-offset",
+          "edsBlockName": "image-with-text-offset",
+          "convertedBy": "deposits-growyoursavings"
+        }
+      ]
+    },
+    {
+      "slug": "deposits-debitcard-overview",
+      "path": "/deposits/debitcard/overview",
+      "templateId": "deposits-growyoursavings",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "masthead",
+          "edsBlockName": "masthead",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "content-tile",
+          "edsBlockName": "content-tile",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "multi-step-content",
+          "edsBlockName": "multi-step-content",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "image-with-text-offset",
+          "edsBlockName": "image-with-text-offset",
+          "convertedBy": "deposits-growyoursavings"
+        }
+      ]
+    },
+    {
+      "slug": "deposits-growyoursavings-cd-ira",
+      "path": "/deposits/growyoursavings/cd-ira",
+      "templateId": "deposits-growyoursavings",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "masthead",
+          "edsBlockName": "masthead",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "content-tile",
+          "edsBlockName": "content-tile",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "multi-step-content",
+          "edsBlockName": "multi-step-content",
+          "convertedBy": "deposits-growyoursavings"
+        },
+        {
+          "id": "image-with-text-offset",
+          "edsBlockName": "image-with-text-offset",
+          "convertedBy": "deposits-growyoursavings"
+        }
+      ]
+    },
+    {
+      "slug": "en-deals",
+      "path": "/en/deals",
+      "templateId": "en-deals",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "masthead-notch",
+          "edsBlockName": "masthead-notch"
+        },
+        {
+          "id": "features",
+          "edsBlockName": "features"
+        },
+        {
+          "id": "pcard",
+          "edsBlockName": "pcard"
+        },
+        {
+          "id": "story",
+          "edsBlockName": "story"
+        },
+        {
+          "id": "banner",
+          "edsBlockName": "banner"
+        },
+        {
+          "id": "carousel",
+          "edsBlockName": "carousel"
+        },
+        {
+          "id": "tiles",
+          "edsBlockName": "tiles"
+        },
+        {
+          "id": "faq",
+          "edsBlockName": "faq"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "en-offers-chooseyourchecking500tiered",
+      "path": "/en/offers/chooseyourchecking500tiered",
+      "templateId": "en-offers-chooseyourchecking500tiered",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "product-details",
+          "edsBlockName": "product-details"
+        },
+        {
+          "id": "steps",
+          "edsBlockName": "steps"
+        },
+        {
+          "id": "promo-card-row",
+          "edsBlockName": "promo-card-row"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "masthead",
+          "edsBlockName": "masthead",
+          "convertedBy": "deposits-growyoursavings"
+        }
+      ]
+    }
+  ]
+}

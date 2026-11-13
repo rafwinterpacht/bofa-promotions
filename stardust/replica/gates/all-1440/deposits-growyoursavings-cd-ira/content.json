@@ -1,0 +1,5296 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T20:31:04.088Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+  "at": "2026-11-13T20:30:43.109Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5000,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperLogo > a#nav-_-logo",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__wrapperLogo > a#nav-_-logo > img.expanded-nav__logo",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__cta--wrapper.only-desktop > a#expanded-navigation909259969-_-en-espanol",
+    "x": 1193,
+    "y": 11,
+    "w": 175,
+    "h": 44,
+    "text": "en español",
+    "href": "/es/deposits/growyoursavings/cd-ira.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem.hasSubMenu > a#expanded-navigation1702834493_checking",
+    "x": 70,
+    "y": 66,
+    "w": 76,
+    "h": 37,
+    "text": "checking",
+    "href": "/en/offers/2026t3unauth.html"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem.hasSubMenu > button.uc-icon.uc-icon-action-dropdown",
+    "x": 153,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "text": "open checking menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem.hasSubMenu > button.uc-icon.uc-icon-action-dropdown",
+    "x": 153,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "label": "open checking menu",
+    "value": "open checking menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem > a#expanded-navigation1963615795_savings",
+    "x": 196,
+    "y": 66,
+    "w": 65,
+    "h": 37,
+    "text": "savings",
+    "href": "/deposits/growyoursavings.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem > a#expanded-navigation361341591_cds_iras",
+    "x": 290,
+    "y": 66,
+    "w": 78,
+    "h": 37,
+    "text": "cds/iras",
+    "href": "/deposits/growyoursavings/cd-ira.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__heading > h1.masthead__heading--copy.text-black",
+    "x": 72,
+    "y": 251,
+    "w": 713,
+    "h": 130,
+    "level": 1,
+    "text": "we’re here to help you find the best savings option!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__copy.text > p",
+    "x": 72,
+    "y": 404,
+    "w": 606,
+    "h": 90,
+    "text": "Wherever you are in life, Bank of America's CD and IRA accounts are available to"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#features-1467199209 > div.container.section__wrapper > h2.features__heading.text-black",
+    "x": 72,
+    "y": 671,
+    "w": 1296,
+    "h": 112,
+    "level": 2,
+    "text": "cds and iras offer guaranteed rates, low opening minimums and a variety of terms."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item > div.features__icon.icon__black > img",
+    "x": 338,
+    "y": 847,
+    "w": 60,
+    "h": 60,
+    "text": "",
+    "file": "icon_insurance_red"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 238,
+    "y": 923,
+    "w": 260,
+    "h": 130,
+    "text": "FDIC insured: All Bank of America savings accounts, CDs and IRAs are FDIC insure"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item > div.features__icon.icon__black > img",
+    "x": 690,
+    "y": 847,
+    "w": 60,
+    "h": 60,
+    "text": "",
+    "file": "icon_investing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 590,
+    "y": 923,
+    "w": 260,
+    "h": 52,
+    "text": "CDs have guaranteed rates until maturity."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item > div.features__icon.icon__black > img",
+    "x": 1042,
+    "y": 847,
+    "w": 60,
+    "h": 60,
+    "text": "",
+    "file": "icon_interest"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 942,
+    "y": 923,
+    "w": 260,
+    "h": 78,
+    "text": "Array of options: Explore a variety of rates and terms based on your goals."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__img.col-xs-12 > picture > img",
+    "x": 0,
+    "y": 1167,
+    "w": 720,
+    "h": 492,
+    "text": "",
+    "file": "Desktop_790x540_01_C-08"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.row.content-tile__row > div.content-tile__column > h2.content-tile__title",
+    "x": 792,
+    "y": 1220,
+    "w": 576,
+    "h": 54,
+    "level": 2,
+    "text": "certificate of deposit (cd)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > h2.content-tile__title > span.content-tile__title--copy.text-black",
+    "x": 792,
+    "y": 1220,
+    "w": 576,
+    "h": 54,
+    "text": "Certificate of Deposit (CD)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__copy.col-xs-12 > p",
+    "x": 792,
+    "y": 1294,
+    "w": 565,
+    "h": 52,
+    "text": "A CD typically earns higher interest than a traditional savings account."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 1366,
+    "w": 489,
+    "h": 52,
+    "text": "Enjoy the flexibility to choose terms that best match your savings objective (te"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 1445,
+    "w": 335,
+    "h": 26,
+    "text": "Guaranteed rate of return until maturity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 1498,
+    "w": 489,
+    "h": 52,
+    "text": "Options to choose from such as Featured, Fixed Term or Flexible CDs"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1235392857-0",
+    "x": 1218,
+    "y": 1498,
+    "w": 7,
+    "h": 14,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-928987784-0",
+    "x": 1324,
+    "y": 1498,
+    "w": 7,
+    "h": 14,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1675861292-0",
+    "x": 952,
+    "y": 1524,
+    "w": 7,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 1577,
+    "w": 117,
+    "h": 26,
+    "text": "No annual fee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#product-details > div.container.section__wrapper > h2.product-details__heading.text-black",
+    "x": 72,
+    "y": 1757,
+    "w": 1296,
+    "h": 56,
+    "level": 2,
+    "text": "compare our cd options:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-gray > div.product-details__productItemHeader.bg-gray > h3.product-details__productTitle.product-details__productTitle--bold",
+    "x": 108,
+    "y": 1878,
+    "w": 349,
+    "h": 26,
+    "level": 3,
+    "text": "featured 1 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3.product-details__productTitle.product-details__productTitle--bold > sup > a#footnote-1235392857-1",
+    "x": 264,
+    "y": 1877,
+    "w": 8,
+    "h": 18,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productIntro.text > p",
+    "x": 108,
+    "y": 1928,
+    "w": 349,
+    "h": 27,
+    "text": "Lock in a promotional rate"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 132,
+    "y": 1971,
+    "w": 325,
+    "h": 24,
+    "text": "Multiple term options available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 132,
+    "y": 2011,
+    "w": 325,
+    "h": 24,
+    "text": "Rates vary based on balance/term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 132,
+    "y": 2051,
+    "w": 325,
+    "h": 24,
+    "text": "Early withdrawal penalty applies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > b",
+    "x": 140,
+    "y": 2091,
+    "w": 311,
+    "h": 25,
+    "text": "$1,000 minimum opening deposit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productCTA > a#product-details843431995-_-learn-more",
+    "x": 133,
+    "y": 2188,
+    "w": 300,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/featured-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-gray > div.product-details__productItemHeader.bg-gray > h3.product-details__productTitle.product-details__productTitle--bold",
+    "x": 545,
+    "y": 1878,
+    "w": 349,
+    "h": 26,
+    "level": 3,
+    "text": "fixed term 2 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3.product-details__productTitle.product-details__productTitle--bold > sup > a#footnote-928987784-1",
+    "x": 711,
+    "y": 1877,
+    "w": 8,
+    "h": 18,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productIntro.text > p",
+    "x": 545,
+    "y": 1928,
+    "w": 349,
+    "h": 27,
+    "text": "Set your preferred term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 569,
+    "y": 1971,
+    "w": 325,
+    "h": 24,
+    "text": "28-day to 10-year terms available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 569,
+    "y": 2011,
+    "w": 325,
+    "h": 24,
+    "text": "Rates vary based on balance/term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 569,
+    "y": 2051,
+    "w": 325,
+    "h": 24,
+    "text": "Early withdrawal penalty applies."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > b",
+    "x": 577,
+    "y": 2091,
+    "w": 311,
+    "h": 25,
+    "text": "$1,000 minimum opening deposit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productCTA > a#product-details836749171-_-learn-more",
+    "x": 570,
+    "y": 2188,
+    "w": 300,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/standard-term-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-gray > div.product-details__productItemHeader.bg-gray > h3.product-details__productTitle.product-details__productTitle--bold",
+    "x": 983,
+    "y": 1878,
+    "w": 349,
+    "h": 26,
+    "level": 3,
+    "text": "flexible 3 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3.product-details__productTitle.product-details__productTitle--bold > sup > a#footnote-1675861292-1",
+    "x": 1133,
+    "y": 1877,
+    "w": 8,
+    "h": 18,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productIntro.text > p",
+    "x": 983,
+    "y": 1928,
+    "w": 349,
+    "h": 27,
+    "text": "Easier access to your money"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 1007,
+    "y": 1971,
+    "w": 325,
+    "h": 24,
+    "text": "12-month term available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productIntro.text > ul > li",
+    "x": 1007,
+    "y": 2011,
+    "w": 325,
+    "h": 96,
+    "text": "Early withdrawal penalty waived (except within the first 6 days of account openi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > b",
+    "x": 1015,
+    "y": 2123,
+    "w": 311,
+    "h": 25,
+    "text": "$1,000 minimum opening deposit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productCTA > a#product-details1507316841-_-learn-more",
+    "x": 1007,
+    "y": 2188,
+    "w": 300,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/flexible-cd/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__img.col-xs-12 > picture > img",
+    "x": 0,
+    "y": 2481,
+    "w": 720,
+    "h": 492,
+    "text": "",
+    "file": "Desktop_790x540_03_C-08"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.row.content-tile__row > div.content-tile__column > h2.content-tile__title",
+    "x": 792,
+    "y": 2408,
+    "w": 576,
+    "h": 108,
+    "level": 2,
+    "text": "bank of america individual retirement accounts (ira)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > h2.content-tile__title > span.content-tile__title--copy.text-black",
+    "x": 792,
+    "y": 2408,
+    "w": 576,
+    "h": 108,
+    "text": "Bank of America Individual Retirement Accounts (IRA)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__copy.col-xs-12 > p",
+    "x": 792,
+    "y": 2536,
+    "w": 565,
+    "h": 52,
+    "text": "An IRA offers tax advantages. The sooner you start, the longer your money has to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 2608,
+    "w": 489,
+    "h": 52,
+    "text": "Enjoy the certainty of fixed rates for a term and compound interest over time wi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 2687,
+    "w": 489,
+    "h": 78,
+    "text": "Open a Money Market IRA with a low minimum balance and the option of building yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 2792,
+    "w": 489,
+    "h": 78,
+    "text": "Options include Traditional, Roth, and SEP plans that offer tax advantages, and "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-551276878-0",
+    "x": 1145,
+    "y": 2792,
+    "w": 7,
+    "h": 14,
+    "text": "4",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1857325746-0",
+    "x": 1025,
+    "y": 2844,
+    "w": 7,
+    "h": 14,
+    "text": "5",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 864,
+    "y": 2897,
+    "w": 487,
+    "h": 26,
+    "text": "No annual fee or custodial fees for Bank of America IRAs*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__copy > p > sub",
+    "x": 864,
+    "y": 2932,
+    "w": 412,
+    "h": 18,
+    "text": "*Fees may apply for other transactions, including account closure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__cta > a#content-tile1593250758-_-learn-more",
+    "x": 792,
+    "y": 2988,
+    "w": 260,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/iras/retirement-accounts/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#tiles > div.container.section__wrapper > h2.tiles__heading.text-black",
+    "x": 72,
+    "y": 3132,
+    "w": 1296,
+    "h": 108,
+    "level": 2,
+    "text": "alternatively, you can open an investment ira with merrill for your future needs:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 520,
+    "y": 3264,
+    "w": 399,
+    "h": 121,
+    "text": "",
+    "file": "merrill_lo3_rgb_symbol"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__item.tiles__item--one > div.tiles__content > h3.tiles__subHeading.text-black",
+    "x": 536,
+    "y": 3405,
+    "w": 367,
+    "h": 35,
+    "level": 3,
+    "text": "investment iras"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > p",
+    "x": 536,
+    "y": 3456,
+    "w": 367,
+    "h": 104,
+    "text": "Looking for a full range of investment choices? Open an IRA from Merrill and cho"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__cta > a#tile314051945-_-learn-more",
+    "x": 646,
+    "y": 3592,
+    "w": 148,
+    "h": 64,
+    "text": "learn more",
+    "href": "/investing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#secondary-cta > div.container.section__wrapper > h2.secondary-cta__heading.text-white",
+    "x": 72,
+    "y": 3810,
+    "w": 1296,
+    "h": 58,
+    "level": 2,
+    "text": "speak to an associate for the most current cd and ira options:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container.section__wrapper > div.secondary-cta__cta-container > a#cta-banner588536753-_-schedule-an-appointment",
+    "x": 435,
+    "y": 3895,
+    "w": 289,
+    "h": 64,
+    "text": "schedule an appointment",
+    "href": "/mycommunications/public/appointments/getTopics.go"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container.section__wrapper > div.secondary-cta__cta-container > a#cta-banner1289552087-_-find-a-location",
+    "x": 745,
+    "y": 3895,
+    "w": 260,
+    "h": 64,
+    "text": "find a location",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__item.disclosures__item--generic > p > b",
+    "x": 72,
+    "y": 4060,
+    "w": 648,
+    "h": 18,
+    "text": "Investing involves risk. There is always the potential of losing money when you "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 4094,
+    "w": 1296,
+    "h": 20,
+    "text": "Bank of America, Merrill, their affiliates, and advisors do not provide tax advi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1235392857 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 4134,
+    "w": 1268,
+    "h": 76,
+    "text": "Featured CD/IRA CD terms may vary. The minimum balance required to open a Featur"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_bankofamerica_com",
+    "x": 335,
+    "y": 4154,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1235392857 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 4135,
+    "w": 12,
+    "h": 14,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-928987784 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 4233,
+    "w": 1257,
+    "h": 76,
+    "text": "Fixed Term CD/IRA CD terms may vary. The minimum balance required to open a Fixe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_bankofamerica_com1",
+    "x": 123,
+    "y": 4272,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-928987784 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 4233,
+    "w": 12,
+    "h": 14,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1675861292 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 4331,
+    "w": 1273,
+    "h": 95,
+    "text": "Flexible CD/IRA CD terms may vary. The minimum balance required to open a Flexib"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_bankofamerica_com1",
+    "x": 335,
+    "y": 4351,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1675861292 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 4331,
+    "w": 12,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-551276878 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 4449,
+    "w": 1267,
+    "h": 37,
+    "text": "There is a single, 5-year holding period when determining whether earnings can b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-551276878 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 4449,
+    "w": 12,
+    "h": 14,
+    "text": "4",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1857325746 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 4508,
+    "w": 1168,
+    "h": 17,
+    "text": "Contribution and compensation limits are subject to a cost-of-living adjustment "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1857325746 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 4509,
+    "w": 12,
+    "h": 14,
+    "text": "5",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 4548,
+    "w": 1279,
+    "h": 37,
+    "text": "Merrill Lynch, Pierce, Fenner & Smith Incorporated (“MLPF&S\" or “Merrill\") makes"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__item.disclosures__item--generic > p > a#disclosures_member-sipc",
+    "x": 634,
+    "y": 4568,
+    "w": 81,
+    "h": 17,
+    "text": "member sipc",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 4600,
+    "w": 1296,
+    "h": 39,
+    "text": "Banking, mortgage and home equity products are provided by Bank of America, N.A."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 4659,
+    "w": 1296,
+    "h": 20,
+    "text": "Investment products are provided by MLPF&S and:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__item.disclosures__item--generic > ul.table > li",
+    "x": 72,
+    "y": 4689,
+    "w": 432,
+    "h": 36,
+    "text": "Are Not FDIC Insured"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__item.disclosures__item--generic > ul.table > li",
+    "x": 504,
+    "y": 4689,
+    "w": 432,
+    "h": 36,
+    "text": "Are Not Bank Guaranteed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__item.disclosures__item--generic > ul.table > li",
+    "x": 936,
+    "y": 4689,
+    "w": 432,
+    "h": 36,
+    "text": "May Lose Value"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__boalogo > a#footer-_-logo",
+    "x": 72,
+    "y": 4795,
+    "w": 200,
+    "h": 26,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__boalogo > a#footer-_-logo > img",
+    "x": 72,
+    "y": 4795,
+    "w": 200,
+    "h": 20,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__copy.text > div.footer__bottom",
+    "x": 72,
+    "y": 4840,
+    "w": 1296,
+    "h": 48,
+    "text": "| | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_PrivacySecurity",
+    "x": 94,
+    "y": 4843,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_Security",
+    "x": 147,
+    "y": 4843,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_AdPractices",
+    "x": 207,
+    "y": 4843,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#footer_children_s-privacy",
+    "x": 342,
+    "y": 4843,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#launchOtPc",
+    "x": 457,
+    "y": 4843,
+    "w": 126,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#cobrowse",
+    "x": 619,
+    "y": 4840,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_EHL",
+    "x": 291,
+    "y": 4867,
+    "w": 148,
+    "h": 17,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-content.aem-GridColumn > div.footer_wrapper.not-modal > div.footer__copyright",
+    "x": 72,
+    "y": 4888,
+    "w": 1296,
+    "h": 24,
+    "text": "© Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.not-modal > div.container.section__wrapper > p.footer__ar",
+    "x": 72,
+    "y": 4940,
+    "w": 1296,
+    "h": 20,
+    "text": "MAP8769624-08132027 | LP-08-26-0253.B"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 1,
+    "textNodes": 113,
+    "controls": 39,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--78f2fb76--aemcoder.aem.page/deposits/growyoursavings/cd-ira",
+  "at": "2026-11-13T20:31:03.857Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4976,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-brand > p > a",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p > a > img.header-logo",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-ctas > p > a",
+    "x": 1193,
+    "y": 11,
+    "w": 175,
+    "h": 44,
+    "text": "en español",
+    "href": "/es/deposits/growyoursavings.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.has-sub > p > a",
+    "x": 70,
+    "y": 66,
+    "w": 76,
+    "h": 37,
+    "text": "checking",
+    "href": "/en/offers/2026t3unauth.html"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.has-sub > button.header-nav-toggle",
+    "x": 153,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "text": "open checking menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.has-sub > button.header-nav-toggle",
+    "x": 153,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "label": "open checking menu",
+    "value": "open checking menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 196,
+    "y": 66,
+    "w": 65,
+    "h": 37,
+    "text": "savings",
+    "href": "/deposits/growyoursavings"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 290,
+    "y": 66,
+    "w": 78,
+    "h": 37,
+    "text": "cds/iras",
+    "href": "/deposits/growyoursavings/cd-ira.html"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-media-desktop > picture > img",
+    "x": 0,
+    "y": 123,
+    "w": 1440,
+    "h": 500,
+    "text": "",
+    "file": "media_125e98b76d42f2a8809b40ffac0e4e9514"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-heading > h1#were-here-to-help-you-find-the-best-savings-option",
+    "x": 72,
+    "y": 251,
+    "w": 713,
+    "h": 130,
+    "level": 1,
+    "text": "we’re here to help you find the best savings option!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-copy > p",
+    "x": 72,
+    "y": 405,
+    "w": 606,
+    "h": 90,
+    "text": "Wherever you are in life, Bank of America's CD and IRA accounts are available to"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-wrapper > div.multi-step-content-heading > h2#cds-and-iras-offer-guaranteed-rates-low-opening-minimums-and-a-variety-of-terms",
+    "x": 72,
+    "y": 671,
+    "w": 1296,
+    "h": 90,
+    "level": 2,
+    "text": "cds and iras offer guaranteed rates, low opening minimums and a variety of terms."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 338,
+    "y": 825,
+    "w": 60,
+    "h": 60,
+    "text": "",
+    "file": "media_1576ca9c987696ece695f8fcf3f48ec70a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 238,
+    "y": 901,
+    "w": 260,
+    "h": 130,
+    "text": "FDIC insured: All Bank of America savings accounts, CDs and IRAs are FDIC insure"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 690,
+    "y": 825,
+    "w": 60,
+    "h": 60,
+    "text": "",
+    "file": "media_16938fc639642ae34eeb166353e1597941"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 590,
+    "y": 901,
+    "w": 260,
+    "h": 52,
+    "text": "CDs have guaranteed rates until maturity."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 1042,
+    "y": 825,
+    "w": 60,
+    "h": 60,
+    "text": "",
+    "file": "media_186ce1dfb870cadc2c08d6dab831f4907c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 942,
+    "y": 901,
+    "w": 260,
+    "h": 78,
+    "text": "Array of options: Explore a variety of rates and terms based on your goals."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-media-desktop > picture > img",
+    "x": 0,
+    "y": 1145,
+    "w": 720,
+    "h": 492,
+    "text": "",
+    "file": "media_151a18012efdbc6f67d4011593878de0ee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-title > h2#certificate-of-deposit-cd",
+    "x": 792,
+    "y": 1198,
+    "w": 576,
+    "h": 54,
+    "level": 2,
+    "text": "certificate of deposit (cd)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-copy > p",
+    "x": 792,
+    "y": 1272,
+    "w": 565,
+    "h": 52,
+    "text": "A CD typically earns higher interest than a traditional savings account."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 1344,
+    "w": 489,
+    "h": 52,
+    "text": "Enjoy the flexibility to choose terms that best match your savings objective (te"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 1423,
+    "w": 335,
+    "h": 26,
+    "text": "Guaranteed rate of return until maturity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 1476,
+    "w": 489,
+    "h": 52,
+    "text": "Options to choose from such as Featured, Fixed Term or Flexible CDs"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > a#footnote-1235392857-0",
+    "x": 1217,
+    "y": 1477,
+    "w": 7,
+    "h": 24,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > a#footnote-928987784-0",
+    "x": 1322,
+    "y": 1477,
+    "w": 7,
+    "h": 24,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > a#footnote-1675861292-0",
+    "x": 928,
+    "y": 1503,
+    "w": 7,
+    "h": 24,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 1555,
+    "w": 117,
+    "h": 26,
+    "text": "No annual fee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-inner > div.product-details-heading > h2#compare-our-cd-options",
+    "x": 72,
+    "y": 1735,
+    "w": 1296,
+    "h": 65,
+    "level": 2,
+    "text": "compare our cd options:"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-title > h3#featured1-cd-account",
+    "x": 108,
+    "y": 1866,
+    "w": 349,
+    "h": 23,
+    "level": 3,
+    "text": "featured 1 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-title > h3#featured1-cd-account > a#footnote-1235392857-1",
+    "x": 265,
+    "y": 1866,
+    "w": 8,
+    "h": 22,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-intro > p",
+    "x": 108,
+    "y": 1912,
+    "w": 349,
+    "h": 27,
+    "text": "Lock in a promotional rate"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 132,
+    "y": 1955,
+    "w": 325,
+    "h": 27,
+    "text": "Multiple term options available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 132,
+    "y": 1994,
+    "w": 325,
+    "h": 27,
+    "text": "Rates vary based on balance/term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 132,
+    "y": 2033,
+    "w": 325,
+    "h": 27,
+    "text": "Early withdrawal penalty applies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > strong",
+    "x": 132,
+    "y": 2073,
+    "w": 311,
+    "h": 25,
+    "text": "$1,000 minimum opening deposit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-cta > p.button-wrapper > a.button.secondary",
+    "x": 133,
+    "y": 2177,
+    "w": 300,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/featured-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-title > h3#fixed-term2-cd-account",
+    "x": 545,
+    "y": 1866,
+    "w": 349,
+    "h": 23,
+    "level": 3,
+    "text": "fixed term 2 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-title > h3#fixed-term2-cd-account > a#footnote-928987784-1",
+    "x": 711,
+    "y": 1866,
+    "w": 8,
+    "h": 22,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-intro > p",
+    "x": 545,
+    "y": 1912,
+    "w": 349,
+    "h": 27,
+    "text": "Set your preferred term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 569,
+    "y": 1955,
+    "w": 325,
+    "h": 27,
+    "text": "28-day to 10-year terms available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 569,
+    "y": 1994,
+    "w": 325,
+    "h": 27,
+    "text": "Rates vary based on balance/term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 569,
+    "y": 2033,
+    "w": 325,
+    "h": 27,
+    "text": "Early withdrawal penalty applies."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > strong",
+    "x": 569,
+    "y": 2073,
+    "w": 311,
+    "h": 25,
+    "text": "$1,000 minimum opening deposit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-cta > p.button-wrapper > a.button.secondary",
+    "x": 570,
+    "y": 2177,
+    "w": 300,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/standard-term-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-title > h3#flexible3-cd-account",
+    "x": 983,
+    "y": 1866,
+    "w": 349,
+    "h": 23,
+    "level": 3,
+    "text": "flexible 3 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-title > h3#flexible3-cd-account > a#footnote-1675861292-1",
+    "x": 1135,
+    "y": 1866,
+    "w": 8,
+    "h": 22,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-intro > p",
+    "x": 983,
+    "y": 1912,
+    "w": 349,
+    "h": 27,
+    "text": "Easier access to your money"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 1007,
+    "y": 1955,
+    "w": 325,
+    "h": 27,
+    "text": "12-month term available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-intro > ul > li",
+    "x": 1007,
+    "y": 1994,
+    "w": 325,
+    "h": 108,
+    "text": "Early withdrawal penalty waived (except within the first 6 days of account openi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > strong",
+    "x": 1007,
+    "y": 2115,
+    "w": 311,
+    "h": 25,
+    "text": "$1,000 minimum opening deposit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-cta > p.button-wrapper > a.button.secondary",
+    "x": 1007,
+    "y": 2177,
+    "w": 300,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/flexible-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-box > div.product-sticky-title > h3#featured1-cd-account",
+    "x": 99,
+    "y": -884,
+    "w": 357,
+    "h": 32,
+    "level": 3,
+    "text": "featured 1 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-title > h3#featured1-cd-account > a#footnote-1235392857-2",
+    "x": 257,
+    "y": -883,
+    "w": 7,
+    "h": 28,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-cta > p.button-wrapper.is-clone > a.button.secondary",
+    "x": 142,
+    "y": -832,
+    "w": 270,
+    "h": 48,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/featured-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-box > div.product-sticky-title > h3#fixed-term2-cd-account",
+    "x": 542,
+    "y": -884,
+    "w": 357,
+    "h": 32,
+    "level": 3,
+    "text": "fixed term 2 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-title > h3#fixed-term2-cd-account > a#footnote-928987784-2",
+    "x": 711,
+    "y": -883,
+    "w": 7,
+    "h": 28,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-cta > p.button-wrapper.is-clone > a.button.secondary",
+    "x": 585,
+    "y": -832,
+    "w": 270,
+    "h": 48,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/standard-term-cd/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-box > div.product-sticky-title > h3#flexible3-cd-account",
+    "x": 984,
+    "y": -884,
+    "w": 357,
+    "h": 32,
+    "level": 3,
+    "text": "flexible 3 cd account"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-title > h3#flexible3-cd-account > a#footnote-1675861292-2",
+    "x": 1136,
+    "y": -883,
+    "w": 7,
+    "h": 28,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-cta > p.button-wrapper.is-clone > a.button.secondary",
+    "x": 1028,
+    "y": -832,
+    "w": 270,
+    "h": 48,
+    "text": "learn more",
+    "href": "/deposits/bank-cds/flexible-cd/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-media-desktop > picture > img",
+    "x": 0,
+    "y": 2440,
+    "w": 720,
+    "h": 492,
+    "text": "",
+    "file": "media_148dbc6899e3603d7875875e9abb86e823"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-title > h2#bankofamerica-individual-retirement-accounts-ira",
+    "x": 792,
+    "y": 2355,
+    "w": 576,
+    "h": 108,
+    "level": 2,
+    "text": "bank of america individual retirement accounts (ira)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-copy > p",
+    "x": 792,
+    "y": 2483,
+    "w": 565,
+    "h": 52,
+    "text": "An IRA offers tax advantages. The sooner you start, the longer your money has to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 2555,
+    "w": 489,
+    "h": 52,
+    "text": "Enjoy the certainty of fixed rates for a term and compound interest over time wi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 2634,
+    "w": 489,
+    "h": 78,
+    "text": "Open a Money Market IRA with a low minimum balance and the option of building yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 2739,
+    "w": 489,
+    "h": 78,
+    "text": "Options include Traditional, Roth, and SEP plans that offer tax advantages, and "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > a#footnote-551276878-0",
+    "x": 1144,
+    "y": 2740,
+    "w": 7,
+    "h": 24,
+    "text": "4",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > a#footnote-1857325746-0",
+    "x": 1024,
+    "y": 2792,
+    "w": 7,
+    "h": 24,
+    "text": "5",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 864,
+    "y": 2844,
+    "w": 487,
+    "h": 26,
+    "text": "No annual fee or custodial fees for Bank of America IRAs*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > sub",
+    "x": 864,
+    "y": 2902,
+    "w": 457,
+    "h": 20,
+    "text": "*Fees may apply for other transactions, including account closure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-cta > p.button-wrapper > a.button.secondary",
+    "x": 792,
+    "y": 2958,
+    "w": 260,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/iras/retirement-accounts/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles.copy > div.tiles-heading > h2#alternatively-you-can-open-an-investment-ira-with-merrill-for-your-future-needs",
+    "x": 72,
+    "y": 3102,
+    "w": 1296,
+    "h": 108,
+    "level": 2,
+    "text": "alternatively, you can open an investment ira with merrill for your future needs:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-all > picture > img",
+    "x": 520,
+    "y": 3234,
+    "w": 399,
+    "h": 121,
+    "text": "",
+    "file": "media_1720b1219e3b4f1705038dcd2cee384082"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item.tiles-item-first > div.tiles-subheading > h3#investment-iras",
+    "x": 536,
+    "y": 3375,
+    "w": 367,
+    "h": 35,
+    "level": 3,
+    "text": "investment iras"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-row > div.tiles-item.tiles-item-first > p",
+    "x": 520,
+    "y": 3426,
+    "w": 399,
+    "h": 104,
+    "text": "Looking for a full range of investment choices? Open an IRA from Merrill and cho"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-cta > p.button-wrapper > a.button.secondary",
+    "x": 646,
+    "y": 3578,
+    "w": 148,
+    "h": 64,
+    "text": "learn more",
+    "href": "/investing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text.flagscape > div.long-form-text-wrapper > h2#speak-to-an-associate-for-the-most-current-cd-and-ira-options",
+    "x": 72,
+    "y": 3796,
+    "w": 1296,
+    "h": 54,
+    "level": 2,
+    "text": "speak to an associate for the most current cd and ira options:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text-wrapper > p.button-wrapper > a.button.secondary",
+    "x": 437,
+    "y": 3878,
+    "w": 289,
+    "h": 64,
+    "text": "schedule an appointment",
+    "href": "/mycommunications/public/appointments/getTopics.go"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text-wrapper > p.button-wrapper > a.button.secondary",
+    "x": 743,
+    "y": 3878,
+    "w": 260,
+    "h": 64,
+    "text": "find a location",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > strong",
+    "x": 74,
+    "y": 4027,
+    "w": 648,
+    "h": 18,
+    "text": "Investing involves risk. There is always the potential of losing money when you "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-last > p",
+    "x": 74,
+    "y": 4061,
+    "w": 1277,
+    "h": 20,
+    "text": "Bank of America, Merrill, their affiliates, and advisors do not provide tax advi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 4101,
+    "w": 1268,
+    "h": 76,
+    "text": "Featured CD/IRA CD terms may vary. The minimum balance required to open a Featur"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 335,
+    "y": 4121,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 4101,
+    "w": 5,
+    "h": 12,
+    "text": "1",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 4199,
+    "w": 1256,
+    "h": 76,
+    "text": "Fixed Term CD/IRA CD terms may vary. The minimum balance required to open a Fixe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 123,
+    "y": 4239,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 4200,
+    "w": 5,
+    "h": 12,
+    "text": "2",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 4298,
+    "w": 1271,
+    "h": 95,
+    "text": "Flexible CD/IRA CD terms may vary. The minimum balance required to open a Flexib"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 335,
+    "y": 4317,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 4298,
+    "w": 5,
+    "h": 12,
+    "text": "3",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 4416,
+    "w": 1266,
+    "h": 37,
+    "text": "There is a single, 5-year holding period when determining whether earnings can b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 4416,
+    "w": 5,
+    "h": 12,
+    "text": "4",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 4475,
+    "w": 1168,
+    "h": 17,
+    "text": "Contribution and compensation limits are subject to a cost-of-living adjustment "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 4475,
+    "w": 5,
+    "h": 12,
+    "text": "5",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 4515,
+    "w": 1277,
+    "h": 37,
+    "text": "Merrill Lynch, Pierce, Fenner & Smith Incorporated (“MLPF&S\" or “Merrill\") makes"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 636,
+    "y": 4534,
+    "w": 81,
+    "h": 17,
+    "text": "member sipc",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 74,
+    "y": 4567,
+    "w": 1277,
+    "h": 39,
+    "text": "Banking, mortgage and home equity products are provided by Bank of America, N.A."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-last > p",
+    "x": 74,
+    "y": 4626,
+    "w": 1277,
+    "h": 20,
+    "text": "Investment products are provided by MLPF&S and:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > ul > li",
+    "x": 74,
+    "y": 4656,
+    "w": 426,
+    "h": 36,
+    "text": "Are Not FDIC Insured"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > ul > li",
+    "x": 499,
+    "y": 4656,
+    "w": 426,
+    "h": 36,
+    "text": "Are Not Bank Guaranteed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > ul > li",
+    "x": 925,
+    "y": 4656,
+    "w": 426,
+    "h": 36,
+    "text": "May Lose Value"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-logo > a",
+    "x": 72,
+    "y": 4772,
+    "w": 1296,
+    "h": 20,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-logo > a > img",
+    "x": 72,
+    "y": 4772,
+    "w": 200,
+    "h": 20,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copy",
+    "x": 72,
+    "y": 4817,
+    "w": 1296,
+    "h": 48,
+    "text": "| | | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 94,
+    "y": 4820,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 147,
+    "y": 4820,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 207,
+    "y": 4820,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/modals/advertising-practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 342,
+    "y": 4820,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 457,
+    "y": 4820,
+    "w": 122,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-copy > span.icon.icon-optout > img",
+    "x": 587,
+    "y": 4819,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "optout"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 619,
+    "y": 4817,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/deposits/growyoursavings/cd-ira"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a.footer-ehl",
+    "x": 291,
+    "y": 4844,
+    "w": 148,
+    "h": 17,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copyright",
+    "x": 72,
+    "y": 4864,
+    "w": 1296,
+    "h": 24,
+    "text": "© 2026 Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-code",
+    "x": 72,
+    "y": 4916,
+    "w": 1296,
+    "h": 20,
+    "text": "MAP8769624-08132027 | LP-08-26-0253.B"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 1,
+    "textNodes": 122,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "we’re here to help you find the best savings option!",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "cds and iras offer guaranteed rates, low opening minimums and a variety of terms.",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 4
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 4,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "certificate of deposit (cd)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "compare our cd options:",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MOVED LINK",
+    "MOVED LINK",
+    "MOVED LINK"
+   ]
+  },
+  {
+   "index": 5,
+   "heading": "featured 1 cd account",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "fixed term 2 cd account",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "flexible 3 cd account",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 14,
+    "image": 0
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 14,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "bank of america individual retirement accounts (ira)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 7,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "alternatively, you can open an investment ira with merrill for your future needs:",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "investment iras",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "speak to an associate for the most current cd and ira options:",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "MOVED LINK",
+   "msg": "\"1\" short in band \"compare our cd options:\" but visible elsewhere on the served page",
+   "band": 4,
+   "n": 1,
+   "text": "1"
+  },
+  {
+   "sev": "🟡",
+   "kind": "MOVED LINK",
+   "msg": "\"2\" short in band \"compare our cd options:\" but visible elsewhere on the served page",
+   "band": 4,
+   "n": 1,
+   "text": "2"
+  },
+  {
+   "sev": "🟡",
+   "kind": "MOVED LINK",
+   "msg": "\"3\" short in band \"compare our cd options:\" but visible elsewhere on the served page",
+   "band": 4,
+   "n": 1,
+   "text": "3"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"bankofamerica.com\" served in band \"speak to an associate for the most current cd and ira options:\", no origin link or button",
+   "band": 11,
+   "n": 3,
+   "text": "bankofamerica.com"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"member sipc\" served in band \"speak to an associate for the most current cd and ira options:\", no origin link or button",
+   "band": 11,
+   "n": 1,
+   "text": "member sipc"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"speak to an associate for the most current cd and ira options:\": 0 origin → 13 served visible",
+   "band": 11,
+   "origin": 0,
+   "eds": 13,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 3,
+  "extraLinks": 4,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 6,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1244,
+    "y": 23,
+    "w": 73,
+    "h": 19
+   },
+   {
+    "x": 70,
+    "y": 71,
+    "w": 76,
+    "h": 24
+   },
+   {
+    "x": 196,
+    "y": 71,
+    "w": 65,
+    "h": 24
+   },
+   {
+    "x": 290,
+    "y": 71,
+    "w": 78,
+    "h": 24
+   },
+   {
+    "x": 72,
+    "y": 254,
+    "w": 691,
+    "h": 57
+   },
+   {
+    "x": 72,
+    "y": 319,
+    "w": 288,
+    "h": 57
+   },
+   {
+    "x": 72,
+    "y": 405,
+    "w": 553,
+    "h": 28
+   },
+   {
+    "x": 72,
+    "y": 435,
+    "w": 546,
+    "h": 28
+   },
+   {
+    "x": 72,
+    "y": 465,
+    "w": 330,
+    "h": 28
+   },
+   {
+    "x": 74,
+    "y": 670,
+    "w": 1293,
+    "h": 57
+   },
+   {
+    "x": 562,
+    "y": 726,
+    "w": 316,
+    "h": 57
+   },
+   {
+    "x": 299,
+    "y": 924,
+    "w": 138,
+    "h": 24
+   },
+   {
+    "x": 265,
+    "y": 950,
+    "w": 207,
+    "h": 24
+   },
+   {
+    "x": 253,
+    "y": 976,
+    "w": 229,
+    "h": 24
+   },
+   {
+    "x": 245,
+    "y": 1002,
+    "w": 246,
+    "h": 24
+   },
+   {
+    "x": 342,
+    "y": 1028,
+    "w": 51,
+    "h": 24
+   },
+   {
+    "x": 607,
+    "y": 924,
+    "w": 227,
+    "h": 24
+   },
+   {
+    "x": 659,
+    "y": 950,
+    "w": 122,
+    "h": 24
+   },
+   {
+    "x": 958,
+    "y": 924,
+    "w": 228,
+    "h": 24
+   },
+   {
+    "x": 962,
+    "y": 950,
+    "w": 219,
+    "h": 24
+   },
+   {
+    "x": 986,
+    "y": 976,
+    "w": 172,
+    "h": 24
+   },
+   {
+    "x": 792,
+    "y": 1218,
+    "w": 513,
+    "h": 57
+   },
+   {
+    "x": 792,
+    "y": 1295,
+    "w": 515,
+    "h": 24
+   },
+   {
+    "x": 792,
+    "y": 1321,
+    "w": 70,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1367,
+    "w": 486,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1393,
+    "w": 418,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1446,
+    "w": 335,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1499,
+    "w": 353,
+    "h": 24
+   },
+   {
+    "x": 1218,
+    "y": 1498,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 1224,
+    "y": 1499,
+    "w": 99,
+    "h": 24
+   },
+   {
+    "x": 1324,
+    "y": 1498,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 864,
+    "y": 1525,
+    "w": 87,
+    "h": 24
+   },
+   {
+    "x": 952,
+    "y": 1524,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 958,
+    "y": 1525,
+    "w": 39,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1578,
+    "w": 117,
+    "h": 24
+   },
+   {
+    "x": 474,
+    "y": 1756,
+    "w": 491,
+    "h": 57
+   },
+   {
+    "x": 180,
+    "y": 1878,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 264,
+    "y": 1877,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 272,
+    "y": 1878,
+    "w": 113,
+    "h": 25
+   },
+   {
+    "x": 108,
+    "y": 1929,
+    "w": 222,
+    "h": 24
+   },
+   {
+    "x": 140,
+    "y": 1971,
+    "w": 261,
+    "h": 24
+   },
+   {
+    "x": 140,
+    "y": 2011,
+    "w": 286,
+    "h": 24
+   },
+   {
+    "x": 140,
+    "y": 2051,
+    "w": 271,
+    "h": 24
+   },
+   {
+    "x": 140,
+    "y": 2091,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 225,
+    "y": 2206,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 607,
+    "y": 1878,
+    "w": 103,
+    "h": 25
+   },
+   {
+    "x": 711,
+    "y": 1877,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 720,
+    "y": 1878,
+    "w": 113,
+    "h": 25
+   },
+   {
+    "x": 545,
+    "y": 1929,
+    "w": 206,
+    "h": 24
+   },
+   {
+    "x": 577,
+    "y": 1971,
+    "w": 285,
+    "h": 24
+   },
+   {
+    "x": 577,
+    "y": 2011,
+    "w": 286,
+    "h": 24
+   },
+   {
+    "x": 577,
+    "y": 2051,
+    "w": 281,
+    "h": 24
+   },
+   {
+    "x": 577,
+    "y": 2091,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 662,
+    "y": 2206,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 1060,
+    "y": 1878,
+    "w": 72,
+    "h": 25
+   },
+   {
+    "x": 1133,
+    "y": 1877,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 1141,
+    "y": 1878,
+    "w": 113,
+    "h": 25
+   },
+   {
+    "x": 983,
+    "y": 1929,
+    "w": 240,
+    "h": 24
+   },
+   {
+    "x": 1015,
+    "y": 1971,
+    "w": 208,
+    "h": 24
+   },
+   {
+    "x": 1015,
+    "y": 2011,
+    "w": 271,
+    "h": 24
+   },
+   {
+    "x": 1015,
+    "y": 2035,
+    "w": 276,
+    "h": 24
+   },
+   {
+    "x": 1015,
+    "y": 2059,
+    "w": 267,
+    "h": 24
+   },
+   {
+    "x": 1015,
+    "y": 2083,
+    "w": 102,
+    "h": 24
+   },
+   {
+    "x": 1015,
+    "y": 2123,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 1099,
+    "y": 2206,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 792,
+    "y": 2406,
+    "w": 510,
+    "h": 57
+   },
+   {
+    "x": 792,
+    "y": 2460,
+    "w": 509,
+    "h": 57
+   },
+   {
+    "x": 792,
+    "y": 2537,
+    "w": 524,
+    "h": 24
+   },
+   {
+    "x": 792,
+    "y": 2563,
+    "w": 206,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2609,
+    "w": 404,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2635,
+    "w": 366,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2688,
+    "w": 467,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2714,
+    "w": 471,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2740,
+    "w": 76,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2793,
+    "w": 280,
+    "h": 24
+   },
+   {
+    "x": 1145,
+    "y": 2792,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 1152,
+    "y": 2793,
+    "w": 164,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2819,
+    "w": 466,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2845,
+    "w": 160,
+    "h": 24
+   },
+   {
+    "x": 1025,
+    "y": 2844,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 864,
+    "y": 2898,
+    "w": 487,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2932,
+    "w": 412,
+    "h": 18
+   },
+   {
+    "x": 864,
+    "y": 3006,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 86,
+    "y": 3130,
+    "w": 1268,
+    "h": 57
+   },
+   {
+    "x": 594,
+    "y": 3184,
+    "w": 252,
+    "h": 57
+   },
+   {
+    "x": 624,
+    "y": 3406,
+    "w": 192,
+    "h": 33
+   },
+   {
+    "x": 560,
+    "y": 3457,
+    "w": 320,
+    "h": 24
+   },
+   {
+    "x": 558,
+    "y": 3483,
+    "w": 324,
+    "h": 24
+   },
+   {
+    "x": 562,
+    "y": 3509,
+    "w": 316,
+    "h": 24
+   },
+   {
+    "x": 539,
+    "y": 3535,
+    "w": 363,
+    "h": 24
+   },
+   {
+    "x": 662,
+    "y": 3610,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 105,
+    "y": 3810,
+    "w": 1229,
+    "h": 57
+   },
+   {
+    "x": 451,
+    "y": 3913,
+    "w": 257,
+    "h": 28
+   },
+   {
+    "x": 801,
+    "y": 3913,
+    "w": 149,
+    "h": 28
+   },
+   {
+    "x": 72,
+    "y": 4060,
+    "w": 648,
+    "h": 18
+   },
+   {
+    "x": 72,
+    "y": 4095,
+    "w": 469,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4134,
+    "w": 1241,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4154,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 335,
+    "y": 4154,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 450,
+    "y": 4154,
+    "w": 884,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4174,
+    "w": 1268,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4193,
+    "w": 464,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4135,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4233,
+    "w": 1185,
+    "h": 17
+   },
+   {
+    "x": 1259,
+    "y": 4233,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4252,
+    "w": 1207,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4272,
+    "w": 50,
+    "h": 17
+   },
+   {
+    "x": 123,
+    "y": 4272,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 4272,
+    "w": 1093,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4292,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4233,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4331,
+    "w": 1219,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4351,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 335,
+    "y": 4351,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 450,
+    "y": 4351,
+    "w": 876,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4370,
+    "w": 1273,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4390,
+    "w": 1270,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4410,
+    "w": 1030,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4331,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4449,
+    "w": 1267,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4469,
+    "w": 415,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4449,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4508,
+    "w": 1168,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4509,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 72,
+    "y": 4548,
+    "w": 1279,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4568,
+    "w": 562,
+    "h": 17
+   },
+   {
+    "x": 634,
+    "y": 4568,
+    "w": 81,
+    "h": 17
+   },
+   {
+    "x": 715,
+    "y": 4568,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4601,
+    "w": 1284,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4621,
+    "w": 1043,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4660,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 190,
+    "y": 4694,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 601,
+    "y": 4694,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 1079,
+    "y": 4694,
+    "w": 145,
+    "h": 25
+   },
+   {
+    "x": 87,
+    "y": 4843,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 4843,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 4843,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 4843,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 196,
+    "y": 4843,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 4843,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 331,
+    "y": 4843,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 342,
+    "y": 4843,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 446,
+    "y": 4843,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 457,
+    "y": 4843,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 4843,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 4843,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4867,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 4867,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4891,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 88,
+    "y": 4891,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 118,
+    "y": 4891,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4941,
+    "w": 262,
+    "h": 17
+   }
+  ],
+  "eds": [
+   {
+    "x": 1244,
+    "y": 23,
+    "w": 73,
+    "h": 19
+   },
+   {
+    "x": 70,
+    "y": 71,
+    "w": 76,
+    "h": 24
+   },
+   {
+    "x": 196,
+    "y": 71,
+    "w": 65,
+    "h": 24
+   },
+   {
+    "x": 290,
+    "y": 71,
+    "w": 78,
+    "h": 24
+   },
+   {
+    "x": 72,
+    "y": 254,
+    "w": 689,
+    "h": 57
+   },
+   {
+    "x": 72,
+    "y": 319,
+    "w": 288,
+    "h": 57
+   },
+   {
+    "x": 72,
+    "y": 406,
+    "w": 553,
+    "h": 28
+   },
+   {
+    "x": 72,
+    "y": 436,
+    "w": 544,
+    "h": 28
+   },
+   {
+    "x": 72,
+    "y": 466,
+    "w": 330,
+    "h": 28
+   },
+   {
+    "x": 100,
+    "y": 670,
+    "w": 1239,
+    "h": 47
+   },
+   {
+    "x": 669,
+    "y": 715,
+    "w": 101,
+    "h": 47
+   },
+   {
+    "x": 299,
+    "y": 902,
+    "w": 138,
+    "h": 24
+   },
+   {
+    "x": 265,
+    "y": 928,
+    "w": 207,
+    "h": 24
+   },
+   {
+    "x": 253,
+    "y": 954,
+    "w": 229,
+    "h": 24
+   },
+   {
+    "x": 245,
+    "y": 980,
+    "w": 246,
+    "h": 24
+   },
+   {
+    "x": 342,
+    "y": 1006,
+    "w": 51,
+    "h": 24
+   },
+   {
+    "x": 607,
+    "y": 902,
+    "w": 227,
+    "h": 24
+   },
+   {
+    "x": 662,
+    "y": 928,
+    "w": 117,
+    "h": 24
+   },
+   {
+    "x": 961,
+    "y": 902,
+    "w": 223,
+    "h": 24
+   },
+   {
+    "x": 962,
+    "y": 928,
+    "w": 219,
+    "h": 24
+   },
+   {
+    "x": 986,
+    "y": 954,
+    "w": 172,
+    "h": 24
+   },
+   {
+    "x": 792,
+    "y": 1196,
+    "w": 511,
+    "h": 57
+   },
+   {
+    "x": 792,
+    "y": 1273,
+    "w": 515,
+    "h": 24
+   },
+   {
+    "x": 792,
+    "y": 1299,
+    "w": 70,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1345,
+    "w": 485,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1371,
+    "w": 418,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1424,
+    "w": 335,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1477,
+    "w": 353,
+    "h": 24
+   },
+   {
+    "x": 1218,
+    "y": 1480,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 1223,
+    "y": 1477,
+    "w": 99,
+    "h": 24
+   },
+   {
+    "x": 1323,
+    "y": 1480,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 1328,
+    "y": 1477,
+    "w": 23,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1503,
+    "w": 64,
+    "h": 24
+   },
+   {
+    "x": 929,
+    "y": 1506,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 934,
+    "y": 1503,
+    "w": 39,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 1556,
+    "w": 117,
+    "h": 24
+   },
+   {
+    "x": 433,
+    "y": 1734,
+    "w": 573,
+    "h": 66
+   },
+   {
+    "x": 191,
+    "y": 1866,
+    "w": 74,
+    "h": 22
+   },
+   {
+    "x": 266,
+    "y": 1862,
+    "w": 7,
+    "h": 15
+   },
+   {
+    "x": 273,
+    "y": 1866,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 108,
+    "y": 1913,
+    "w": 222,
+    "h": 24
+   },
+   {
+    "x": 132,
+    "y": 1956,
+    "w": 261,
+    "h": 24
+   },
+   {
+    "x": 132,
+    "y": 1995,
+    "w": 286,
+    "h": 24
+   },
+   {
+    "x": 132,
+    "y": 2034,
+    "w": 271,
+    "h": 24
+   },
+   {
+    "x": 132,
+    "y": 2073,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 225,
+    "y": 2195,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 619,
+    "y": 1866,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 712,
+    "y": 1862,
+    "w": 7,
+    "h": 15
+   },
+   {
+    "x": 719,
+    "y": 1866,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 545,
+    "y": 1913,
+    "w": 200,
+    "h": 24
+   },
+   {
+    "x": 569,
+    "y": 1956,
+    "w": 285,
+    "h": 24
+   },
+   {
+    "x": 569,
+    "y": 1995,
+    "w": 286,
+    "h": 24
+   },
+   {
+    "x": 569,
+    "y": 2034,
+    "w": 275,
+    "h": 24
+   },
+   {
+    "x": 569,
+    "y": 2073,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 662,
+    "y": 2195,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 1070,
+    "y": 1866,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 1136,
+    "y": 1862,
+    "w": 7,
+    "h": 15
+   },
+   {
+    "x": 1143,
+    "y": 1866,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 983,
+    "y": 1913,
+    "w": 240,
+    "h": 24
+   },
+   {
+    "x": 1007,
+    "y": 1956,
+    "w": 208,
+    "h": 24
+   },
+   {
+    "x": 1007,
+    "y": 1995,
+    "w": 271,
+    "h": 24
+   },
+   {
+    "x": 1007,
+    "y": 2022,
+    "w": 274,
+    "h": 24
+   },
+   {
+    "x": 1007,
+    "y": 2049,
+    "w": 267,
+    "h": 24
+   },
+   {
+    "x": 1007,
+    "y": 2076,
+    "w": 102,
+    "h": 24
+   },
+   {
+    "x": 1007,
+    "y": 2115,
+    "w": 311,
+    "h": 25
+   },
+   {
+    "x": 1099,
+    "y": 2195,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 167,
+    "y": -883,
+    "w": 89,
+    "h": 28
+   },
+   {
+    "x": 258,
+    "y": -877,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 263,
+    "y": -883,
+    "w": 124,
+    "h": 28
+   },
+   {
+    "x": 234,
+    "y": -819,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 599,
+    "y": -883,
+    "w": 112,
+    "h": 28
+   },
+   {
+    "x": 712,
+    "y": -877,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 717,
+    "y": -883,
+    "w": 124,
+    "h": 28
+   },
+   {
+    "x": 676,
+    "y": -819,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 1059,
+    "y": -883,
+    "w": 77,
+    "h": 28
+   },
+   {
+    "x": 1137,
+    "y": -877,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 1142,
+    "y": -883,
+    "w": 124,
+    "h": 28
+   },
+   {
+    "x": 1119,
+    "y": -819,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 792,
+    "y": 2353,
+    "w": 510,
+    "h": 57
+   },
+   {
+    "x": 792,
+    "y": 2407,
+    "w": 509,
+    "h": 57
+   },
+   {
+    "x": 792,
+    "y": 2484,
+    "w": 524,
+    "h": 24
+   },
+   {
+    "x": 792,
+    "y": 2510,
+    "w": 206,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2556,
+    "w": 403,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2582,
+    "w": 366,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2635,
+    "w": 467,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2661,
+    "w": 471,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2687,
+    "w": 76,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2740,
+    "w": 280,
+    "h": 24
+   },
+   {
+    "x": 1145,
+    "y": 2743,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 1151,
+    "y": 2740,
+    "w": 164,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2766,
+    "w": 466,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2792,
+    "w": 160,
+    "h": 24
+   },
+   {
+    "x": 1025,
+    "y": 2795,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 864,
+    "y": 2845,
+    "w": 487,
+    "h": 24
+   },
+   {
+    "x": 864,
+    "y": 2902,
+    "w": 457,
+    "h": 20
+   },
+   {
+    "x": 864,
+    "y": 2976,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 86,
+    "y": 3100,
+    "w": 1268,
+    "h": 57
+   },
+   {
+    "x": 594,
+    "y": 3154,
+    "w": 252,
+    "h": 57
+   },
+   {
+    "x": 624,
+    "y": 3376,
+    "w": 192,
+    "h": 33
+   },
+   {
+    "x": 560,
+    "y": 3427,
+    "w": 320,
+    "h": 24
+   },
+   {
+    "x": 558,
+    "y": 3453,
+    "w": 324,
+    "h": 24
+   },
+   {
+    "x": 562,
+    "y": 3479,
+    "w": 316,
+    "h": 24
+   },
+   {
+    "x": 539,
+    "y": 3505,
+    "w": 363,
+    "h": 24
+   },
+   {
+    "x": 662,
+    "y": 3596,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 105,
+    "y": 3794,
+    "w": 1229,
+    "h": 57
+   },
+   {
+    "x": 453,
+    "y": 3896,
+    "w": 257,
+    "h": 28
+   },
+   {
+    "x": 798,
+    "y": 3896,
+    "w": 149,
+    "h": 28
+   },
+   {
+    "x": 74,
+    "y": 4027,
+    "w": 648,
+    "h": 18
+   },
+   {
+    "x": 74,
+    "y": 4062,
+    "w": 467,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4101,
+    "w": 1241,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4121,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 335,
+    "y": 4121,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 450,
+    "y": 4121,
+    "w": 884,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4140,
+    "w": 1268,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4160,
+    "w": 463,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4101,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4199,
+    "w": 1234,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4219,
+    "w": 1207,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4239,
+    "w": 50,
+    "h": 17
+   },
+   {
+    "x": 123,
+    "y": 4239,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 4239,
+    "w": 1091,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4258,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4200,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4298,
+    "w": 1219,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4317,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 335,
+    "y": 4317,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 450,
+    "y": 4317,
+    "w": 875,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4337,
+    "w": 1271,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4357,
+    "w": 1270,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4376,
+    "w": 1029,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4298,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4416,
+    "w": 1266,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4435,
+    "w": 414,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4416,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4475,
+    "w": 1168,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 4475,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 4515,
+    "w": 1277,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4534,
+    "w": 562,
+    "h": 17
+   },
+   {
+    "x": 636,
+    "y": 4534,
+    "w": 81,
+    "h": 17
+   },
+   {
+    "x": 716,
+    "y": 4534,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4568,
+    "w": 1242,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4587,
+    "w": 1083,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 4627,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 188,
+    "y": 4661,
+    "w": 197,
+    "h": 25
+   },
+   {
+    "x": 594,
+    "y": 4661,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 1065,
+    "y": 4661,
+    "w": 145,
+    "h": 25
+   },
+   {
+    "x": 87,
+    "y": 4820,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 4820,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 4820,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 4820,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 196,
+    "y": 4820,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 4820,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 331,
+    "y": 4820,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 342,
+    "y": 4820,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 446,
+    "y": 4820,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 457,
+    "y": 4820,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 611,
+    "y": 4820,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 4820,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4844,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 4844,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4867,
+    "w": 337,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 4917,
+    "w": 262,
+    "h": 17
+   }
+  ]
+ }
+}

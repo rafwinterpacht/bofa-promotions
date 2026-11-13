@@ -1,0 +1,38 @@
+{
+  "/deposits/growyoursavings": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:33:34.143Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/deposits/balanceconnect": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:47:45.215Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/deposits/debitcard/overview": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:43:08.762Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/deposits/growyoursavings/cd-ira": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:02:40.595Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

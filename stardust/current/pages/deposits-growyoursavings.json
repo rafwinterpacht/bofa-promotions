@@ -1,0 +1,629 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:25:11.868Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "deposits-growyoursavings",
+  "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:25:11.868Z",
+  "finalUrl": "https://promotions.bankofamerica.com/deposits/growyoursavings",
+  "title": "Grow Your Savings | Bank of America",
+  "description": "Grow Your Savings",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "What are you saving for? We can help."
+    },
+    {
+      "tag": "h2",
+      "text": "Ways to waive the monthly maintenance fee"
+    },
+    {
+      "tag": "h2",
+      "text": "Here’s how you can start saving toward your goals:"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 — Create a Life Plan"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 — Track your spending"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 — Set a timetable"
+    },
+    {
+      "tag": "h2",
+      "text": "Ways to Save"
+    },
+    {
+      "tag": "h3",
+      "text": "Keep the Change®6"
+    },
+    {
+      "tag": "h3",
+      "text": "Automatic Transfers"
+    },
+    {
+      "tag": "h3",
+      "text": "Split Direct Deposits"
+    },
+    {
+      "tag": "h2",
+      "text": "Help stay on track with Better Money Habits®"
+    }
+  ],
+  "body": [
+    "A Bank of America Advantage Savings account, with access to simple, easy-to-use features, is designed to help you save toward your goals.",
+    "Open a Bank of America Advantage Savings account with us, and we’ll waive the $8 monthly maintenance fee for the first 6 months from account opening.1 After that, we'll continue to waive the monthly maintenance fee each statement cycle when you meet one of the following:",
+    "Maintain a $500 minimum daily balance or more in your account",
+    "Maintain a $500 minimum daily balance or more in your account",
+    "Own a Bank of America Advantage Relationship Banking® account2",
+    "Own a Bank of America Advantage Relationship Banking® account2",
+    "An owner of this account is under the age of 252",
+    "An owner of this account is under the age of 252",
+    "An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors or Premier tier3",
+    "An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors or Premier tier3",
+    "See the Personal Schedule of Fees for details.",
+    "Set short- and long-term financial goals and get personalized guidance when you need it with a Bank of America Life Plan®.4",
+    "Try out the Spending & Budgeting Tool5 to help you manage your money with interactive category-specific charts.",
+    "Use the Short-Term Savings Calculator to see how long it takes to save for the things you need or want.",
+    "Start saving today with these simple tools:",
+    "Keep the Change®6 We'll round up your debit card purchases to the nearest dollar amount, then transfer the difference from your eligible checking to the enrolled savings account.",
+    "We'll round up your debit card purchases to the nearest dollar amount, then transfer the difference from your eligible checking to the enrolled savings account.",
+    "Automatic Transfers Schedule recurring transfers from your checking to your savings account at the amount and frequency you choose.",
+    "Schedule recurring transfers from your checking to your savings account at the amount and frequency you choose.",
+    "Split Direct Deposits Automatically deposit a portion of your paycheck into savings.",
+    "Automatically deposit a portion of your paycheck into savings.",
+    "Whether you're just starting out, saving to buy a home or preparing for retirement, Better Money Habits has a wide range of tips and tools you can use — at no cost to you.",
+    "Learn more",
+    "All Bank of America savings accounts, CDs and IRAs are FDIC insured up to applicable limits."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "En español",
+      "href": "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html"
+    },
+    {
+      "label": "Checking",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html"
+    },
+    {
+      "label": "Savings",
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+    },
+    {
+      "label": "CDs/IRAs",
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html"
+    },
+    {
+      "label": "Open a savings account",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0L7XT02O1"
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-1877364746"
+    },
+    {
+      "label": "2",
+      "href": "#disclosure-1478299230"
+    },
+    {
+      "label": "2",
+      "href": "#disclosure-1478299230"
+    },
+    {
+      "label": "3",
+      "href": "#disclosure-1551565431"
+    },
+    {
+      "label": "Open a savings account",
+      "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0L7XT02O1"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/"
+    },
+    {
+      "label": "Bank of America Life Plan®",
+      "href": "https://promo.bankofamerica.com/life-plan/"
+    },
+    {
+      "label": "4",
+      "href": "#disclosure-1872958078"
+    },
+    {
+      "label": "Spending & Budgeting Tool",
+      "href": "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/spending-budgeting/"
+    },
+    {
+      "label": "5",
+      "href": "#disclosure-16956903"
+    },
+    {
+      "label": "Short-Term Savings Calculator",
+      "href": "https://www.bankofamerica.com/deposits/savings/savings-goal-calculator/"
+    },
+    {
+      "label": "6",
+      "href": "#disclosure-2027415311"
+    },
+    {
+      "label": "See an example of how you can add money to your savings when you use these features, check it out",
+      "href": "/content/dam/consumer-marketing/deposits/grow-your-savings/ways-to-save-2026.pdf"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://bettermoneyhabits.bankofamerica.com/en"
+    },
+    {
+      "label": "1",
+      "href": "#footnote-1877364746-0"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go"
+    },
+    {
+      "label": "2",
+      "href": "#footnote-1478299230-0"
+    },
+    {
+      "label": "Personal Schedule of Fees",
+      "href": "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go"
+    },
+    {
+      "label": "CEBI Program",
+      "href": "https://promo.bankofamerica.com/cebi-disclosures"
+    },
+    {
+      "label": "3",
+      "href": "#footnote-1551565431-0"
+    },
+    {
+      "label": "4",
+      "href": "#footnote-1872958078-0"
+    },
+    {
+      "label": "5",
+      "href": "#footnote-16956903-0"
+    },
+    {
+      "label": "6",
+      "href": "#footnote-2027415311-0"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Security",
+      "href": "https://web.bankofamerica.com/en/security"
+    },
+    {
+      "label": "Advertising Practices",
+      "href": "#"
+    },
+    {
+      "label": "Children's Privacy",
+      "href": "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "#lot"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "#lot"
+    },
+    {
+      "label": "Equal Housing Lender",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup"
+    }
+  ],
+  "links": [
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#",
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices",
+    "https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#main-content",
+    "https://www.bankofamerica.com/",
+    "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html",
+    "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards.html",
+    "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+    "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0L7XT02O1",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#disclosure-1877364746",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#disclosure-1478299230",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#disclosure-1551565431",
+    "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/",
+    "https://promo.bankofamerica.com/life-plan/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#disclosure-1872958078",
+    "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/spending-budgeting/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#disclosure-16956903",
+    "https://www.bankofamerica.com/deposits/savings/savings-goal-calculator/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#disclosure-2027415311",
+    "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/ways-to-save-2026.pdf",
+    "https://bettermoneyhabits.bankofamerica.com/en",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#footnote-1877364746-0",
+    "https://www.bankofamerica.com/deposits/resources/personal-schedule-fees.go",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#footnote-1478299230-0",
+    "https://promo.bankofamerica.com/cebi-disclosures",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#footnote-1551565431-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#footnote-1872958078-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#footnote-16956903-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#footnote-2027415311-0",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#lot",
+    "https://www.bankofamerica.com/help/equalhousing-popup",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.onetrust.com/solutions/consent-and-preferences/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/C08_desktop-tablet-790x540.jpg",
+        "alt": "",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_compass.svg",
+        "alt": "Compass",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_spending.svg",
+        "alt": "Wallet",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_time.svg",
+        "alt": "Clock",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/C08_desktop-tablet-790x540.png",
+        "alt": "",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_insurance.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+        "alt": "Bank of America Logo ",
+        "w": 849,
+        "h": 84
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 10,
+    "cssBackgrounds": [
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/masthead/C02_desktop-mobile_1440x490.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/_desktop-tablet_1382x700.jpg"
+    ],
+    "modals": [
+      "× Important notice: You are now leaving a Bank of America website. By clicking Continue you will be taken to a website that is not affiliated with Bank of America and may offer a different privacy policy and level of security. Bank of America is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use. You can click the Continue button to proceed or the Cancel button to return to the previous page. Continue Cancel Advertising Practices We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that. Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the Digital Advertising Alliance or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs. content additional copy",
+      "Your Privacy ChoicesOpt-Out Request HonoredYour Privacy ChoicesYour Privacy ChoicesCalifornia Notice of Right to Opt-Out from Sale/SharingSharing and Selling of Personal DataYour Privacy ChoicesThis feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us. Local Privacy Notices and Requirements The Privacy Choices displayed are specific to your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the Opens in a new windowInstitutional Privacy and the Opens in a new windowConsumer Privacy pages. Marketing Preferences To manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our Opens in a new windowPrivacy Page. California Residents To learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection. California Notice of Right to Opt-Out from Sale/SharingAlways ActiveBank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. Bank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. How to opt-out of sharing your information: We offer two (2) methods for opting out: 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests. An authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.Sharing and Selling of Personal Data Sharing and Selling of Personal Data Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information. By switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities. If you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. At any time, you may change your preference setting using the toggle bar. Any manual adjustment will override previous settings. Back ButtonCookie List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave SettingsReject All Allow All"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--type-display-inline--alt-glyphs": "styleset(raised-baseline)",
+    "--connections-inline": "\"connections inline alts\",\"connections inline\",\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--connections": "\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--background-color": "#fff",
+    "--highlight-color": "#000",
+    "--secondary-color": "#000",
+    "--main-text-color": "#000",
+    "--interaction-color": "#2f42ff",
+    "--focus-outline-color": "#2f42ff",
+    "--divider-color": "rgba(0,0,0,.24)",
+    "--border-color": "rgba(0,0,0,.24)",
+    "--accordion-subtext-color": "#000",
+    "--unity-grid--col-gap": "2rem",
+    "--unity-grid--row-gap": "1.5rem",
+    "--unity-screen-padding-x": "4rem",
+    "--uc-nav-height": "0",
+    "--red-120": "#4f011d",
+    "--red-110": "#780032",
+    "--red-100": "#94002b",
+    "--red-90": "#c41230",
+    "--red-80": "#e31837",
+    "--red-20": "#ffe6e3",
+    "--blue-120": "#001543",
+    "--blue-110": "#012169",
+    "--blue-100": "#0d1ba7",
+    "--blue-90": "#1d2ecf",
+    "--blue-30": "#cedfff",
+    "--blue-20": "#dfeaff",
+    "--blue-10": "#f3f6ff",
+    "--neutral-10": "#f7f4f4",
+    "--neutral-20": "#f3f0f0",
+    "--neutral-30": "#edeaea",
+    "--white": "#fff",
+    "--frost-light-48": "hsla(0,0%,100%,.48)",
+    "--frost-light-64": "hsla(0,0%,100%,.64)",
+    "--frost-light-72": "hsla(0,0%,100%,.72)",
+    "--frost-dark-48": "rgba(0,0,0,.48)",
+    "--frost-dark-64": "rgba(0,0,0,.64)",
+    "--frost-dark-72": "rgba(0,0,0,.72)",
+    "--uc-zalc-zones": "3",
+    "--backdrop-filter": "none",
+    "--dynamic-color": "#919191",
+    "--features-hex-color": "transparent",
+    "--nav-height": "0",
+    "--win-height": "0",
+    "--fdic-height": "0"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 2219,
+    "realImageCount": 10,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a053.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/js/events/v10/session.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1702,
+        "hits": 1,
+        "example": "https://tilt.bankofamerica.com/7216/js/events/v10/session.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/sri-hashes.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 680,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "smetrics.bankofamerica.com",
+        "path": "/ee/or2/v1/interact",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 8,
+        "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 47,
+        "hits": 2,
+        "example": "https://tilt.bankofamerica.com/7216/3233584533156522009/js/events/v10/jsEvent.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458f0/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 3142,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 14190,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 15
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "storage.glancecdn.net",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [
+      {
+        "marker": "modal-exit--continue",
+        "href": "#"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://youradchoices.com/control"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.networkadvertising.org/choices"
+      },
+      {
+        "marker": "show__modal",
+        "href": "#"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 3,
+      "thirdPartyEndpoints": 8,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/deposits-growyoursavings.png",
+  "renderedHtml": "pages/deposits-growyoursavings.html",
+  "crawlSlug": "deposits-growyoursavings-html"
+}

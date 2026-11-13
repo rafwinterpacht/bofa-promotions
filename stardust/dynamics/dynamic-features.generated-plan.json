@@ -1,0 +1,781 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-13T16:45:03.322Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--78f2fb76--aemcoder.aem.page",
+  "migrated": null,
+  "knowledge": null,
+  "chrome": null
+ },
+ "rows": [
+  {
+   "id": "a-first-party-api-post-n-js-events-v10-session-json",
+   "class": "A",
+   "feature": "first-party API POST /{n}/js/events/v10/session.json",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 6,
+    "of": 12
+   },
+   "evidence": [
+    "POST /{n}/js/events/v10/session.json → 200"
+   ],
+   "pattern": "decided-out",
+   "disposition": "data-fed",
+   "target": null,
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "none (session-bound off-origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-first-party-api-post-n-hash-js-events-v10-jsevent-json",
+   "class": "A",
+   "feature": "first-party API POST /{n}/{hash}/js/events/v10/jsEvent.json",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 6,
+    "of": 12
+   },
+   "evidence": [
+    "POST /{n}/{hash}/js/events/v10/jsEvent.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-first-party-api-post-ee-or2-v1-interact",
+   "class": "A",
+   "feature": "first-party API POST /ee/or2/v1/interact",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 6,
+    "of": 12
+   },
+   "evidence": [
+    "POST /ee/or2/v1/interact?configId,requestId → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "target": "block",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-cms-app-settings-object-digitaldata",
+   "class": "A",
+   "feature": "CMS / app settings object digitalData",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-adobedatalayer",
+   "class": "A",
+   "feature": "CMS / app settings object adobeDataLayer",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-utag-data",
+   "class": "A",
+   "feature": "CMS / app settings object utag_data",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "cr-client-rendered-slot-masthead-copy-text-js-initialized",
+   "class": "CR",
+   "feature": "client-rendered slot masthead__copy text js-initialized",
+   "pages": 2,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=masthead"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-multi-step-content-item-copy-text-js",
+   "class": "CR",
+   "feature": "client-rendered slot multi-step-content-item__copy text js-initialized",
+   "pages": 2,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=multi-step-content"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-text-js-initialized",
+   "class": "CR",
+   "feature": "client-rendered slot text js-initialized",
+   "pages": 2,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=long-form-text"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-product-details-not-modal-bg-white",
+   "class": "CR",
+   "feature": "client-rendered slot product-details not-modal bg-white",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "Bank of America Advantage Banking Change to accessible versi"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-product-details-productkeydesc-text-",
+   "class": "CR",
+   "feature": "client-rendered slot product-details__productKeyDesc text js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=productDetails"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-product-details-productdesc-text-js-",
+   "class": "CR",
+   "feature": "client-rendered slot product-details__productDesc text js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=productDetails"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-uc-uc-component-uc-heading",
+   "class": "CR",
+   "feature": "client-rendered slot uc uc-component uc-heading",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "Cash back deals — tailored to you As a Bank of America custo"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-features-not-modal-horizontal",
+   "class": "CR",
+   "feature": "client-rendered slot features not-modal horizontal",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "Cash back made simple CLICK Pick deals from your list of off"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-features-item-copy-text-js-initializ",
+   "class": "CR",
+   "feature": "client-rendered slot features__item--copy text js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=featuredList"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-preferred-cards-not-modal-js-initial",
+   "class": "CR",
+   "feature": "client-rendered slot preferred-cards not-modal js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component=preferred-cards"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-preferred-cards-subheading-text-js-i",
+   "class": "CR",
+   "feature": "client-rendered slot preferred-cards__subHeading text js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=preferredCards"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-content-tile-copy-col-xs-12-text",
+   "class": "CR",
+   "feature": "client-rendered slot content-tile__copy col-xs-12 text",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=content-tile"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-content-tile-legalcopy-text-js-initi",
+   "class": "CR",
+   "feature": "client-rendered slot content-tile__legalCopy text js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=content-tile"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-image-with-text-offset-copy-text-js-",
+   "class": "CR",
+   "feature": "client-rendered slot image-with-text-offset__copy text js-initialized",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "data-component-context=image-with-text-offset"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "i18n-locale-variants-en-us",
+   "class": "I18N",
+   "feature": "locale variants en-us",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-es-es-en-us",
+   "class": "I18N",
+   "feature": "locale variants es,es,en-us",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "https://promotions.bankofamerica.com/es/deals.html",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-es-en-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants es,en,en,en,en",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html",
+    "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "m-modal-trigger-modal-exit-continue-chrome-only-a-content",
+   "class": "M",
+   "feature": "modal trigger modal-exit--continue (chrome only) → a:content",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 6,
+    "of": 12
+   },
+   "evidence": [
+    "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered#",
+    "https://promotions.bankofamerica.com/en/deals#",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-data-modal-target-chrome-only-a-content",
+   "class": "M",
+   "feature": "modal trigger data-modal-target (chrome only) → a:content",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 15,
+    "of": 12
+   },
+   "evidence": [
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-show-modal-chrome-only-a-content",
+   "class": "M",
+   "feature": "modal trigger show__modal (chrome only) → a:content",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 6,
+    "of": 12
+   },
+   "evidence": [
+    "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered#",
+    "https://promotions.bankofamerica.com/en/deals#",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → button:content",
+   "pages": 3,
+   "probed": 3,
+   "reach": {
+    "pages": 4,
+    "of": 12
+   },
+   "evidence": [
+    "Filter Button"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-not-modal-target-outside-dom-at-capture",
+   "class": "M",
+   "feature": "modal trigger not-modal → target outside DOM at capture",
+   "pages": 2,
+   "probed": 3,
+   "reach": {
+    "pages": 4,
+    "of": 12
+   },
+   "evidence": [
+    "Change to accessible version"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "m-modal-trigger-aria-controls-dialog-dialog-content",
+   "class": "M",
+   "feature": "modal trigger aria-controls→dialog → dialog:content",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "t-tag-manager-tealium",
+   "class": "T",
+   "feature": "tag manager: Tealium",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "tags.tiqcdn.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-consent-onetrust",
+   "class": "T",
+   "feature": "consent: OneTrust",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "cdn.cookielaw.org",
+    "geolocation.onetrust.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "CMP domain script reuse on the new host"
+  },
+  {
+   "id": "t-unknown-third-party-host-storage-glancecdn-net",
+   "class": "T",
+   "feature": "unknown third-party host storage.glancecdn.net",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "storage.glancecdn.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "adobedc.demdex.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id-first-party-",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID (first-party subdomain — needs a CNAME on the new host)",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "smetrics.bankofamerica.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-core-thepointyspritesclub-com",
+   "class": "T",
+   "feature": "unknown third-party host core.thepointyspritesclub.com",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "core.thepointyspritesclub.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "bat.bing.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "pages": 3,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "onetrust-text-resize"
+   ],
+   "pattern": "embed-passthrough",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "embeds",
+   "decision": "resolve the runtime src from a rendered capture"
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [
+    "https://www.bankofamerica.com/deposits/bank-account-interest-rates/",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html"
+   ],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "target": null,
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  },
+  {
+   "id": "x-commerce-signals-cart-false-prices-31",
+   "class": "X",
+   "feature": "commerce signals (cart: false, prices: 31)",
+   "pages": 1,
+   "probed": 3,
+   "reach": null,
+   "evidence": [],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "target": null,
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  }
+ ]
+}

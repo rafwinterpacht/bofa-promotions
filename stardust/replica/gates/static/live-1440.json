@@ -1,0 +1,2278 @@
+{
+ "chain": [
+  {
+   "tag": "div",
+   "cls": "modal__content trap modal__wide",
+   "rect": [
+    345,
+    88,
+    750,
+    527
+   ],
+   "padding": "0px",
+   "margin": "72px 329px",
+   "overflowY": "visible",
+   "position": "relative"
+  },
+  {
+   "tag": "dialog",
+   "cls": "modal js-initialized modal__1466013868",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "padding": "16px",
+   "margin": "0px",
+   "overflowY": "auto",
+   "position": "fixed"
+  },
+  {
+   "tag": "div",
+   "cls": "aem-wrap--modal aem-GridColumn aem-GridColumn--default--12",
+   "rect": [
+    0,
+    0,
+    1440,
+    0
+   ],
+   "padding": "0px",
+   "margin": "0px",
+   "overflowY": "visible",
+   "position": "static"
+  },
+  {
+   "tag": "div",
+   "cls": "aem-Grid aem-Grid--12 aem-Grid--default--12 ",
+   "rect": [
+    0,
+    0,
+    1440,
+    103
+   ],
+   "padding": "0px",
+   "margin": "0px",
+   "overflowY": "visible",
+   "position": "static"
+  },
+  {
+   "tag": "div",
+   "cls": "header responsivegrid",
+   "rect": [
+    0,
+    0,
+    1440,
+    103
+   ],
+   "padding": "0px",
+   "margin": "0px",
+   "overflowY": "visible",
+   "position": "static"
+  },
+  {
+   "tag": "header",
+   "cls": "helix-cta helix-modal",
+   "rect": [
+    0,
+    0,
+    1440,
+    103
+   ],
+   "padding": "0px",
+   "margin": "0px",
+   "overflowY": "visible",
+   "position": "static"
+  }
+ ],
+ "rows": [
+  {
+   "depth": 0,
+   "tag": "div",
+   "cls": "modal__content trap modal__wide",
+   "rect": [
+    345,
+    88,
+    750,
+    527
+   ],
+   "text": "×\nBank of America Advantage Plus Banking®\n \n \nWe'l",
+   "st": {
+    "display": "block",
+    "position": "relative",
+    "width": "750px",
+    "maxWidth": "750px",
+    "height": "527.078px",
+    "margin": "72px 329px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "32px",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.4) 0px 0px 48px 0px",
+    "overflowY": "visible",
+    "top": "0px",
+    "right": "0px"
+   },
+   "before": null,
+   "scroll": [
+    750,
+    750,
+    527,
+    527
+   ]
+  },
+  {
+   "depth": 1,
+   "tag": "div",
+   "cls": "modal__nav",
+   "rect": [
+    345,
+    88,
+    750,
+    0
+   ],
+   "text": "×",
+   "st": {
+    "display": "flex",
+    "position": "sticky",
+    "width": "750px",
+    "maxWidth": "none",
+    "height": "0px",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "0px",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    750,
+    750,
+    55,
+    0
+   ]
+  },
+  {
+   "depth": 2,
+   "tag": "button",
+   "cls": "modal__close close t-track-close",
+   "rect": [
+    1040,
+    112,
+    31,
+    31
+   ],
+   "text": "×",
+   "st": {
+    "display": "block",
+    "position": "absolute",
+    "width": "31px",
+    "maxWidth": "none",
+    "height": "31px",
+    "margin": "24px 24px 0px 0px",
+    "padding": "0px 4px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "24px",
+    "fontWeight": "700",
+    "lineHeight": "24px",
+    "color": "rgb(255, 255, 255)",
+    "textAlign": "center",
+    "borderRadius": "50%",
+    "backgroundColor": "rgb(0, 0, 0)",
+    "boxShadow": "rgba(0, 0, 0, 0.15) 0px 0px 16px 0px",
+    "overflowY": "visible",
+    "top": "0px",
+    "right": "0px"
+   },
+   "before": null,
+   "scroll": [
+    31,
+    31,
+    31,
+    31
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "span",
+   "cls": "",
+   "rect": [
+    1048,
+    113,
+    14,
+    30
+   ],
+   "text": "×",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "24px",
+    "fontWeight": "700",
+    "lineHeight": "24px",
+    "color": "rgb(255, 255, 255)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 1,
+   "tag": "div",
+   "cls": "modal__body--wrapper",
+   "rect": [
+    345,
+    88,
+    750,
+    527
+   ],
+   "text": "Bank of America Advantage Plus Banking®\n \n \nWe'll ",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "750px",
+    "maxWidth": "none",
+    "height": "527.078px",
+    "margin": "0px",
+    "padding": "64px 10px 12px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    750,
+    750,
+    527,
+    527
+   ]
+  },
+  {
+   "depth": 2,
+   "tag": "div",
+   "cls": "modal__body modal__body--exit exit modal__align--left",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Important notice: You are now leaving a Bank of Am",
+   "st": {
+    "display": "none",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px 24px 24px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "div",
+   "cls": "text js-initialized",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Important notice: You are now leaving a Bank of Am",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "h1",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Important notice:",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px 0px 4px",
+    "padding": "0px",
+    "fontFamily": "Connections",
+    "fontSize": "32px",
+    "fontWeight": "400",
+    "lineHeight": "36px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "span",
+   "cls": "text-coolGray100",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Important notice:",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections",
+    "fontSize": "32px",
+    "fontWeight": "400",
+    "lineHeight": "36px",
+    "color": "rgb(100, 100, 100)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "h2",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "You are now leaving a Bank of America website.",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px 0px 4px",
+    "padding": "0px",
+    "fontFamily": "Connections",
+    "fontSize": "32px",
+    "fontWeight": "400",
+    "lineHeight": "36px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "span",
+   "cls": "horizontal-line",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "1px",
+    "margin": "0px auto 8px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgb(186, 186, 186)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "By clicking Continue you will be taken to a websit",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "b",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Continue",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "br",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "br",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "b",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Continue",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "b",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Cancel",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "div",
+   "cls": "modal__links",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Continue Cancel",
+   "st": {
+    "display": "flex",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "24px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "cta cta--blue modal-exit--continue js-modal--continue t-track-exit t-track-cta",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Continue",
+   "st": {
+    "display": "flex",
+    "position": "relative",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px 24px 12px 0px",
+    "padding": "8px 16px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "color": "rgb(255, 255, 255)",
+    "textAlign": "center",
+    "borderRadius": "35px",
+    "backgroundColor": "rgb(1, 33, 105)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": {
+    "content": "\"\"",
+    "width": "auto",
+    "margin": "0px",
+    "border": "2px solid rgb(1, 33, 105)",
+    "display": "block"
+   },
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "cta cta--grey cta--cancel modal-exit--cancel js-modal--close close t-track-cta",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Cancel",
+   "st": {
+    "display": "flex",
+    "position": "relative",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px 24px 12px 0px",
+    "padding": "8px 16px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "35px",
+    "backgroundColor": "rgb(237, 237, 237)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": {
+    "content": "\"\"",
+    "width": "auto",
+    "margin": "0px",
+    "border": "2px solid rgb(0, 0, 0)",
+    "display": "block"
+   },
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 2,
+   "tag": "div",
+   "cls": "modal__body modal__body--advertising text modal__wide js-initialized",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Advertising Practices   We strive to provide you w",
+   "st": {
+    "display": "none",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "750px",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px 24px 24px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "h1",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Advertising Practices",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px 0px 4px",
+    "padding": "0px",
+    "fontFamily": "Connections",
+    "fontSize": "32px",
+    "fontWeight": "400",
+    "lineHeight": "36px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "span",
+   "cls": "horizontal-line",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "1px",
+    "margin": "0px auto 8px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgb(186, 186, 186)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "We strive to provide you with information about pr",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Bank of America participates in the Digital Advert",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "t-track-body-copy-link",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "YourAdChoices",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 83, 194)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "t-track-body-copy-link",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Network Advertising Initiative's Opt-Out Tool",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 83, 194)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "To learn more about relationship-based ads, online",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "t-track-body-copy-link",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Bank of America Online Privacy Notice",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 83, 194)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "t-track-body-copy-link",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "Online Privacy FAQs",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 83, 194)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 2,
+   "tag": "div",
+   "cls": "modal__body modal__body--mobile-app text modal__wide js-initialized",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "content additional copy",
+   "st": {
+    "display": "none",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "750px",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px 24px 24px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "content",
+   "st": {
+    "display": "none",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "text": "additional copy",
+   "st": {
+    "display": "none",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 2,
+   "tag": "div",
+   "cls": "modal__body  modal__align--center modal__body--1466013868 text",
+   "rect": [
+    355,
+    152,
+    730,
+    451
+   ],
+   "text": "Bank of America Advantage Plus Banking®\n \n \nWe'll ",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "730px",
+    "maxWidth": "none",
+    "height": "451.078px",
+    "margin": "0px",
+    "padding": "0px 24px 24px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    730,
+    730,
+    451,
+    451
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "h2",
+   "cls": "",
+   "rect": [
+    379,
+    152,
+    682,
+    36
+   ],
+   "text": "Bank of America Advantage Plus Banking®",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "36px",
+    "margin": "0px 0px 4px",
+    "padding": "0px",
+    "fontFamily": "Connections",
+    "fontSize": "32px",
+    "fontWeight": "400",
+    "lineHeight": "36px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    37,
+    36
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "div",
+   "cls": "text-center",
+   "rect": [
+    379,
+    192,
+    682,
+    22
+   ],
+   "text": "",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "22.3906px",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    22,
+    22
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "div",
+   "cls": "text-center",
+   "rect": [
+    379,
+    214,
+    682,
+    22
+   ],
+   "text": "",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "22.3906px",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    22,
+    22
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "div",
+   "cls": "text-center",
+   "rect": [
+    379,
+    237,
+    682,
+    45
+   ],
+   "text": "We'll waive the $12 monthly maintenance fee each s",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "44.7812px",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    45,
+    45
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "b",
+   "cls": "",
+   "rect": [
+    384,
+    238,
+    671,
+    42
+   ],
+   "text": "We'll waive the $12 monthly maintenance fee each s",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 5,
+   "tag": "span",
+   "cls": "text-regalRed",
+   "rect": [
+    384,
+    238,
+    671,
+    42
+   ],
+   "text": "We'll waive the $12 monthly maintenance fee each s",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "22.4px",
+    "color": "rgb(196, 18, 48)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "br",
+   "cls": "",
+   "rect": [
+    771,
+    260,
+    0,
+    19
+   ],
+   "text": "",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    379,
+    298,
+    682,
+    22
+   ],
+   "text": "Have at least one qualifying direct deposit of $25",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "22.3906px",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    22,
+    22
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "b",
+   "cls": "",
+   "rect": [
+    863,
+    299,
+    5,
+    20
+   ],
+   "text": "",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    379,
+    336,
+    682,
+    22
+   ],
+   "text": "OR",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "22.3906px",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    22,
+    22
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "span",
+   "cls": "ornament",
+   "rect": [
+    622,
+    337,
+    197,
+    19
+   ],
+   "text": "OR",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": {
+    "content": "\"\"",
+    "width": "64px",
+    "margin": "0px 12px 4px",
+    "border": "1px solid rgb(0, 0, 0)",
+    "display": "inline-block"
+   },
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    379,
+    374,
+    682,
+    22
+   ],
+   "text": "Maintain a minimum daily balance of $1,500 in your",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "22.3906px",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    22,
+    22
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "",
+   "rect": [
+    379,
+    413,
+    682,
+    22
+   ],
+   "text": "OR",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "22.3906px",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    22,
+    22
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "span",
+   "cls": "ornament",
+   "rect": [
+    622,
+    414,
+    197,
+    19
+   ],
+   "text": "OR",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": {
+    "content": "\"\"",
+    "width": "64px",
+    "margin": "0px 12px 4px",
+    "border": "1px solid rgb(0, 0, 0)",
+    "display": "inline-block"
+   },
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "text-center",
+   "rect": [
+    379,
+    451,
+    682,
+    45
+   ],
+   "text": "An account owner is enrolled in BofA Rewards™ and ",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "44.7812px",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    45,
+    45
+   ]
+  },
+  {
+   "depth": 3,
+   "tag": "p",
+   "cls": "text-center",
+   "rect": [
+    379,
+    512,
+    682,
+    67
+   ],
+   "text": "*The monthly maintenance fee waiver does not apply",
+   "st": {
+    "display": "block",
+    "position": "static",
+    "width": "682px",
+    "maxWidth": "none",
+    "height": "67.1719px",
+    "margin": "16px 0px 0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    682,
+    682,
+    67,
+    67
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "a",
+   "cls": "t-track-body-copy-link",
+   "rect": [
+    913,
+    558,
+    95,
+    19
+   ],
+   "text": "BofA Rewards",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 83, 194)",
+    "textAlign": "center",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "depth": 4,
+   "tag": "span",
+   "cls": "text-left",
+   "rect": [
+    1009,
+    558,
+    3,
+    19
+   ],
+   "text": ".",
+   "st": {
+    "display": "inline",
+    "position": "static",
+    "width": "auto",
+    "maxWidth": "none",
+    "height": "auto",
+    "margin": "0px",
+    "padding": "0px",
+    "fontFamily": "Connections, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "left",
+    "borderRadius": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "overflowY": "visible",
+    "top": "auto",
+    "right": "auto"
+   },
+   "before": null,
+   "scroll": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "doc": [
+  1440,
+  1440
+ ]
+}

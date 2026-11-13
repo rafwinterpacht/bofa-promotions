@@ -1,0 +1,85 @@
+{
+  "slug": "en-deals",
+  "type": "unique",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "masthead-notch",
+    "features",
+    "pcard",
+    "story",
+    "banner",
+    "carousel",
+    "tiles",
+    "faq",
+    "header",
+    "footer"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "masthead-notch",
+    "long-form",
+    "brand-strip",
+    "separator",
+    "features",
+    "features-cta",
+    "separator",
+    "pcard",
+    "pcard",
+    "pcard",
+    "story",
+    "banner",
+    "carousel",
+    "tiles",
+    "banner",
+    "faq"
+  ],
+  "canonShas": {
+    "header": "78f7b0012042",
+    "footer": "bd0eeaa46e42",
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Cash Back Deals Every Day with Bank of America",
+    "description": "Enjoy cash back deals every day as a Bank of America customer. Get cash back, discounts and more with deals from thousands of top brands, personalized to you.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Cash Back Deals Every Day with Bank of America",
+    "description": "Enjoy cash back deals every day as a Bank of America customer. Get cash back, discounts and more with deals from thousands of top brands, personalized to you.",
+    "url": "https://promotions.bankofamerica.com/en/deals.html"
+  },
+  "migratedAt": "2026-11-13T16:43:44Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "b5c42fe78595",
+  "sourceProposedSha": "2e2364448d55",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 31,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://promotions.bankofamerica.com/es/deals.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/es/deals.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/deals.html",
+  "outputPathDefault": null,
+  "sidecar": "en/deals._meta.json",
+  "driverVersion": "1"
+}

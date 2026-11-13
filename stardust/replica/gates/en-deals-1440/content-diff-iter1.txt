@@ -1,0 +1,29 @@
+
+Content diff @ 1440px (profile "generic", roots: #main-content, header, footer)
+root "#main-content"
+  source: 114 text nodes — 16 headings, 0 eyebrows, 13 CTAs, 85 body; 15 img
+  build: 111 text nodes — 16 headings, 0 eyebrows, 13 CTAs, 82 body; 15 img
+  editable texts (outermost h*/p/ul/ol): source 61 / build 61
+  attributes (placeholder/aria-label/title): source 12 / build 8; icons: source 5 / build 5
+  accepted (invisible, nothing lost): 2 SAME IMAGE — "icon_right ↔ 0 0 30 55 / 1 shape(s)", "icon_left ↔ 0 0 30 55 / 1 shape(s)"
+root "header"
+  source: 26 text nodes — 2 headings, 0 eyebrows, 13 CTAs, 11 body; 1 img
+  build: 26 text nodes — 2 headings, 0 eyebrows, 13 CTAs, 11 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 11 / build 11
+  attributes (placeholder/aria-label/title): source 4 / build 4; icons: source 1 / build 1
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 16 CTAs, 11 body; 1 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 16 CTAs, 11 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 6 / build 6
+  attributes (placeholder/aria-label/title): source 15 / build 15; icons: source 1 / build 1
+
+Findings: 8 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 5 · accepted 🟢 2 (owner 0, auto 2) · advisory 3
+  🟠 FONT FORK [header]: 1 matched line(s) render a DIFFERENT face: body "×": source Connections vs build Connections→sys (12%). A matched line renders a different typeface. A "→sys" on the source side means it named a font it never loaded; confirm the substitution is intended, else load the missing face.
+  🟡 MISSING SR-ONLY TEXT [#main-content]: source body "Change to accessible version" (visually hidden, read by assistive tech) not found in build. Visually hidden text the source gives screen readers is gone — restore it (sr-only text or the aria-label it fed).
+  🟡 MISSING BODY [#main-content]: source body "icon_right"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [#main-content]: source body "icon_left"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING ARIA-LABEL [#main-content]: source <button> aria-label="1 of 4" has no build <button> with that aria-label (build <button> aria-labels: "Next", "Previous"). Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING ARIA-LABEL [#main-content]: source <button> aria-label="2 of 4" has no build <button> with that aria-label (build <button> aria-labels: "Next", "Previous"). Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING ARIA-LABEL [#main-content]: source <button> aria-label="3 of 4" has no build <button> with that aria-label (build <button> aria-labels: "Next", "Previous"). Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING ARIA-LABEL [#main-content]: source <button> aria-label="4 of 4" has no build <button> with that aria-label (build <button> aria-labels: "Next", "Previous"). Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.

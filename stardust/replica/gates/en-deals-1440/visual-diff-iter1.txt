@@ -1,0 +1,863 @@
+[live-session] waiting to pace live navigations to promotions.bankofamerica.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/en-deals-1440/vdiff-iter1/
+
+build red flags (advisory): 
+  • IMAGE DID NOT LOAD: app_carousel-2-sept-25.jpg rendered 1440x696 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: app_carousel-3-dt-1440x692-april-2026.jpg rendered 1440x696 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 6490,
+  "textLen": 1982,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "245x44",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "brandsCount_Left_1440x500.gif",
+    "natural": "1440x500",
+    "rendered": "704x244",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "brandsCount_Right_1440x500.gif",
+    "natural": "1440x500",
+    "rendered": "704x244",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_scroll2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_card2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_accounts2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2217760282-1440x490.jpg",
+    "natural": "1440x490",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_rewards_rgb_center.png",
+    "natural": "2354x330",
+    "rendered": "300x42",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-4-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-1-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-2-sept-25.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-3-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-4-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-1-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "card-790x540-dt.jpg",
+    "natural": "790x540",
+    "rendered": "399x273",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mobile-bank-phone-790x540-dt.jpg",
+    "natural": "790x540",
+    "rendered": "399x273",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BOA.PNG",
+    "natural": "849x84",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Cash back deals — tailored to yo",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Top Brands",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Explore deals tailored to you fr",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "30px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Cash back made simple",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "CLICK",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "SHOP",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "EARN",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Stack your rewards",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Daily Essentials",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Special event deals",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "June",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "July",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "August",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "October",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "December",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Exclusive deals for BofA Rewards",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Check your deals — here's how:",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Cash back deals are an exclusive",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Don't have a Bank of America cre",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "28px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Not enrolled in Mobile or Online",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "28px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Frequently asked questions",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "What is the cash back deals prog",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "How do I earn rewards with cash ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "How do cash back deals differ fr",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "What Bank of America cards are c",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "If I have a joint account, what ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "uc-heading__subheadline",
+    "width": 992,
+    "left": 224
+   },
+   {
+    "sel": "text",
+    "width": 1068,
+    "left": 186
+   },
+   {
+    "sel": "features__items",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "preferred-cards__cardWrapper",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "preferred-cards__cardWrapper",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "preferred-cards__cardWrapper",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "storyblock-content__wrapper",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "uc",
+    "width": 1104,
+    "left": 168
+   },
+   {
+    "sel": "content-carousel__row",
+    "width": 1462,
+    "left": -1451
+   },
+   {
+    "sel": "content-carousel__row",
+    "width": 1462,
+    "left": -11
+   },
+   {
+    "sel": "content-carousel__row",
+    "width": 1462,
+    "left": 1429
+   },
+   {
+    "sel": "content-carousel__row",
+    "width": 1462,
+    "left": 2869
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 6441,
+  "textLen": 1952,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "245x44",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "brandsCount_Left_1440x500.gif",
+    "natural": "1440x500",
+    "rendered": "704x244",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "brandsCount_Right_1440x500.gif",
+    "natural": "1440x500",
+    "rendered": "704x244",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_scroll2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_card2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_accounts2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2217760282509x339.jpg",
+    "natural": "509x339",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_rewards_rgb_center.png",
+    "natural": "2354x330",
+    "rendered": "300x42",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-4-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-1-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-2-sept-25.jpg",
+    "natural": "0x0",
+    "rendered": "1440x696",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "app_carousel-3-dt-1440x692-april-2026.jpg",
+    "natural": "0x0",
+    "rendered": "1440x696",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "app_carousel-4-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "app_carousel-1-dt-1440x692-april-2026.jpg",
+    "natural": "1440x692",
+    "rendered": "1440x696",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "card-790x540-dt.jpg",
+    "natural": "790x540",
+    "rendered": "399x273",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mobile-bank-phone-790x540-dt.jpg",
+    "natural": "790x540",
+    "rendered": "399x273",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Cash back deals — tailored to yo",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Top Brands",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Explore deals tailored to you fr",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "30px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Cash back made simple",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "CLICK",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "SHOP",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "EARN",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Stack your rewards",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Daily Essentials",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Special event deals",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "June",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "July",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "August",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "October",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "December",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "21.6px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Exclusive deals for BofA Rewards",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Check your deals — here's how:",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Cash back deals are an exclusive",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Don't have a Bank of America cre",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "28px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Not enrolled in Mobile or Online",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "28px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Frequently asked questions",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "What is the cash back deals prog",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "How do I earn rewards with cash ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "How do cash back deals differ fr",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "What Bank of America cards are c",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "If I have a joint account, what ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "masthead-notch__sub",
+    "width": 992,
+    "left": 224
+   },
+   {
+    "sel": "long-form__wrapper",
+    "width": 1068,
+    "left": 186
+   },
+   {
+    "sel": "features__items",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "pcard__card",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "pcard__card",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "pcard__card",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "story",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "banner__inner",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "tiles__row",
+    "width": 1318,
+    "left": 61
+   },
+   {
+    "sel": "banner__inner",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "faq__item",
+    "width": 1088,
+    "left": 176
+   },
+   {
+    "sel": "faq__item",
+    "width": 1088,
+    "left": 176
+   }
+  ]
+ }
+}

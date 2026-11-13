@@ -1,0 +1,51 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:29:24.267Z",
+    "waitMode": "modal-click",
+    "waitMs": 1483,
+    "httpStatus": 200,
+    "note": "experience fragment: direct navigation 302s to an error page on the source; captured as rendered in its host page modal (click on the offer page link), content from the modal service endpoint"
+  },
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:29:24.268Z",
+  "finalUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+  "kind": "modal-fragment",
+  "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "serviceUrl": "https://promotions.bankofamerica.com/services/consumer-marketing/modalitem.xf_path./content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal",
+  "serviceJson": {
+    "modalType": "additional-info",
+    "rteMarkup": "<h2>Bank&nbsp;of&nbsp;America Advantage Plus Banking®</h2>\n<div class=\"text-center\">\n &nbsp;\n</div>\n<div class=\"text-center\">\n &nbsp;\n</div>\n<div class=\"text-center\">\n <b><span class=\"text-regalRed\">We'll waive the $12 monthly maintenance fee each statement cycle when you meet one of the following:</span></b>\n <br>\n</div>\n<p>Have at least one qualifying direct deposit of&nbsp;$250<b> </b>or more</p>\n<p><span class=\"ornament\">or</span></p>\n<p>Maintain a minimum daily balance of $1,500 in your account</p>\n<p><span class=\"ornament\">or</span></p>\n<p class=\"text-center\">An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*</p>\n<p class=\"text-center\">*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to <a href=\"/content/consumer-info/en/rewards/bofa-rewards.html\" target=\"_blank\" rel=\"noopener noreferrer\">BofA Rewards</a><span class=\"text-left\">.</span></p>",
+    "modalId": 1466013868,
+    "modalSize": "modal__wide",
+    "alignment": "modal__align--center",
+    "ariaLabel": "Plus Banking"
+  },
+  "title": "Bank of America Advantage Plus Banking®",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Bank of America Advantage Plus Banking®"
+    }
+  ],
+  "body": [
+    "Have at least one qualifying direct deposit of $250 or more",
+    "or",
+    "Maintain a minimum daily balance of $1,500 in your account",
+    "or",
+    "An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*",
+    "*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards."
+  ],
+  "ctas": [
+    {
+      "text": "BofA Rewards",
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html"
+    }
+  ],
+  "text": "Bank of America Advantage Plus Banking®\n\n  \n\n\n  \n\n\n We'll waive the $12 monthly maintenance fee each statement cycle when you meet one of the following:\n \n\nHave at least one qualifying direct deposit of $250 or more\nor\nMaintain a minimum daily balance of $1,500 in your account\nor\nAn account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*\n*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards.",
+  "screenshot": "assets/screenshots/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal.png",
+  "renderedHtml": "pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal.html",
+  "crawlSlug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal-html"
+}

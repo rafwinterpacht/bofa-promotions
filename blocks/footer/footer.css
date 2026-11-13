@@ -1,20 +1,95 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* footer — canon .site-footer legal bar, grey #ededed (foundation request), scoped under .footer */
+.footer {
+  padding: 0 var(--gutter);
+  background-color: var(--color-gray);
+  font-family: var(--font-sans);
+  text-align: center;
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+.footer .footer-inner {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 40px 0 20px;
+  font-size: 0.875rem;
+  line-height: 1.4;
 }
 
-footer .footer p {
+.footer p {
   margin: 0;
 }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+.footer .footer-logo {
+  margin-bottom: 21px;
+}
+
+.footer .footer-logo a {
+  display: block;
+}
+
+.footer .footer-logo img {
+  display: inline-block;
+  width: 200px;
+  height: 20px;
+  vertical-align: top;
+}
+
+.footer .footer-copy {
+  line-height: 1.71;
+}
+
+.footer .footer-lock {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  margin: 0.313rem 0.125rem 0;
+  background: url("/icons/lock.svg") no-repeat 0 0;
+}
+
+.footer .footer-ehl::after {
+  content: "";
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin: 0 0 0 0.313rem;
+  background: url("/icons/house.svg") no-repeat 0 0.125rem;
+}
+
+.footer .icon-optout {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.28em;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.footer .footer-copy .icon-optout + a {
+  display: inline-block;
+}
+
+.footer .icon-optout img {
+  display: inline-block;
+}
+
+.footer .footer-copyright {
+  width: 225px;
+  margin: 0 auto;
+  line-height: 1.71;
+}
+
+.footer .footer-code {
+  margin: 28px 0 20px;
+}
+
+@media (width >= 640px) {
+  .footer {
+    text-align: left;
+  }
+
+  .footer .footer-logo {
+    margin-bottom: 25px;
+  }
+
+  .footer .footer-copyright {
+    width: 100%;
   }
 }

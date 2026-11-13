@@ -1,0 +1,8 @@
+{
+ "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal": {
+  "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+  "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, \u0394h 0 every page \u2014 stardust/replica/progress.json types.static (prototype dialog probe 1440 0.27% / 360 0.13%, \u0394h 0)",
+  "by": "hands-off",
+  "date": "2026-11-13"
+ }
+}

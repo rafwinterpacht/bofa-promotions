@@ -1,0 +1,2316 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-13T15:37:41.421Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+   "https://promotions.bankofamerica.com/en/deals.html",
+   "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/en/offers/chooseyourchecking500tiered": {
+   "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+   "status": 200,
+   "host": "promotions.bankofamerica.com",
+   "title": "Up to $500 Tiered Checking offer | Bank of America",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Continue",
+     "href": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered#",
+     "marker": "modal-exit--continue",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 8,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "YourAdChoices",
+     "href": "https://youradchoices.com/control",
+     "marker": "data-modal-target",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Network Advertising Initiative's Opt-Out Tool",
+     "href": "https://www.networkadvertising.org/choices",
+     "marker": "data-modal-target",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 45,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Change to accessible version",
+     "href": null,
+     "marker": "not-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Learn more",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Balance Connect® for overdraft protection",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Learn more",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Learn more",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Balance Connect® for overdraft protection",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "new eligible",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Qualifying Direct Deposits",
+     "href": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Important notice:",
+      "textLen": 1834,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Advertising Practices",
+     "href": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered#",
+     "marker": "show__modal",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 21,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "header",
+     "heading": "Important notice:",
+     "textLen": 1988,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "document",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 1832,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 584,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 15,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Advertising Practices",
+     "textLen": 1223,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 23,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "uc-expanded-nav",
+     "heading": "",
+     "textLen": 153,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "main",
+     "heading": "New checking customers earn up to $500",
+     "textLen": 2395,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 23,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [
+    "https://www.bankofamerica.com/deposits/bank-account-interest-rates/",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+    "https://www.bankofamerica.com/deposits/bank-account-interest-rates/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 31
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://business.bofa.com/en-us/content/global-privacy-notices.html"
+    ]
+   },
+   "cms": {
+    "digitalData": [
+     "pageInstanceID",
+     "load_cobrowse",
+     "load_coremetrics",
+     "load_opinionlabs",
+     "load_touchcommerce",
+     "load_audiencemanager",
+     "load_knotch",
+     "load_adobetarget",
+     "load_alloy",
+     "load_epsilon",
+     "load_genesys_chat",
+     "load_cheq",
+     "disable_pageviewonload",
+     "page",
+     "product",
+     "user",
+     "version",
+     "environmentVariables",
+     "privacy"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "adobeDataLayer": [
+     "0",
+     "1",
+     "version",
+     "push",
+     "getState",
+     "addEventListener",
+     "removeEventListener"
+    ],
+    "utag_data": [
+     "pageInstanceID",
+     "load_cobrowse",
+     "load_coremetrics",
+     "load_opinionlabs",
+     "load_touchcommerce",
+     "load_audiencemanager",
+     "load_knotch",
+     "load_adobetarget",
+     "load_alloy",
+     "load_epsilon",
+     "load_genesys_chat",
+     "load_cheq",
+     "disable_pageviewonload",
+     "page.pageInfo.pageID",
+     "page.pageInfo.language",
+     "page.pageInfo.segmentValue",
+     "page.pageInfo.attr",
+     "page.category.primaryCategory",
+     "page.attributes.pageIDHistory.pageInfoArrayIndex",
+     "page.attributes.pageIDHistory.pageID",
+     "page.attributes.pageIDHistory.timestamp",
+     "page.attributes.SASIEnabled",
+     "page.attributes.needOLBcookie",
+     "page.attributes.standardDART.",
+     "page.attributes.standardDARTes.",
+     "page.attributes.gaId.",
+     "page.attributes.EpsilonPromoID",
+     "page.attributes.chat.site_id",
+     "page.attributes.chat.account_type",
+     "page.attributes.chat.monitoring"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "_satellite",
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "utag"
+   ],
+   "clientRendered": [
+    {
+     "cls": "masthead__copy text js-initialized",
+     "attrs": [
+      "data-component-context=masthead"
+     ],
+     "text": "Open a new eligible checking account and make Qualifying Dir"
+    },
+    {
+     "cls": "product-details not-modal bg-white",
+     "attrs": [],
+     "text": "Bank of America Advantage Banking Change to accessible versi"
+    },
+    {
+     "cls": "product-details__productKeyDesc text js-initialized",
+     "attrs": [
+      "data-component-context=productDetails"
+     ],
+     "text": "$12 or $0 monthly maintenance fee Learn more Multiple ways t"
+    },
+    {
+     "cls": "product-details__productDesc text js-initialized",
+     "attrs": [
+      "data-component-context=productDetails"
+     ],
+     "text": "Offers Balance Connect® for overdraft protection5 Paper chec"
+    },
+    {
+     "cls": "product-details__productKeyDesc text js-initialized",
+     "attrs": [
+      "data-component-context=productDetails"
+     ],
+     "text": "$4.95 or $0 monthly maintenance fee Learn more A great start"
+    },
+    {
+     "cls": "product-details__productDesc text js-initialized",
+     "attrs": [
+      "data-component-context=productDetails"
+     ],
+     "text": "Helps prevent overspending3 — no Overdraft Item Fees No pape"
+    },
+    {
+     "cls": "product-details__productKeyDesc text js-initialized",
+     "attrs": [
+      "data-component-context=productDetails"
+     ],
+     "text": "$25 or $0 monthly maintenance fee Learn more No fees on sele"
+    },
+    {
+     "cls": "product-details__productDesc text js-initialized",
+     "attrs": [
+      "data-component-context=productDetails"
+     ],
+     "text": "Offers Balance Connect® for overdraft protection5 Paper chec"
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "Open a new eligible checking account through this offer page"
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "Only new checking customers can take advantage of this offer"
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "Set up and receive Qualifying Direct Deposits into your new "
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "After the Deposit Period ends and all requirements are met, "
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 7,
+   "inlineFetch": false,
+   "mainText": 2243,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "promotions.bankofamerica.com": 40,
+    "tags.tiqcdn.com": 16,
+    "cdn.cookielaw.org": 12,
+    "storage.glancecdn.net": 2,
+    "geolocation.onetrust.com": 1,
+    "core.thepointyspritesclub.com": 2,
+    "bat.bing.com": 4,
+    "www.googletagmanager.com": 2,
+    "tilt.bankofamerica.com": 3,
+    "adobedc.demdex.net": 1,
+    "smetrics.bankofamerica.com": 5
+   },
+   "thirdPartyHosts": [
+    "tags.tiqcdn.com",
+    "cdn.cookielaw.org",
+    "storage.glancecdn.net",
+    "geolocation.onetrust.com",
+    "core.thepointyspritesclub.com",
+    "bat.bing.com",
+    "www.googletagmanager.com",
+    "adobedc.demdex.net"
+   ],
+   "scripts": [
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/siteconfig.min.4aec1c29a964c3fde4d369c57aca4713.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/tealium.min.60020099621ebcfa59db0863199755a4.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components.min.aa453236830176f8c1f7e67f991bcaf6.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main.min.43c3d407e6539ca369ac3c14890d028a.js",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/heading-group-heading-group.15f9006faee65922de96.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/content-card-container-content-card-container.58490daeb119a9aa0c74.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/background-background.02d460119f04ee0aa082.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/consumer-flag-carousel.8ccd590499d7e2a96c0f.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/ExpandedNavigation.198889e58aa88be1e9af.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_flag_flag-carousel_flag-carousel_js.0536cc2e975faa29e128.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/elements-text-text-js.aa76049088da80b7df54.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-modal-variants-templates-additionalInfoTemplate-js.b56ecb09171704ccc9c2.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-modal-modal-js.68dc807a0a342bd7bdb6.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-product-details-v2-product-details-v2-js.d714bcac5f19285351e9.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-footer-footer-js.65afea2ed1c6918bd046.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_jquery_dist-module_jquery_module_js.088c37ff71bbe6f7f2a4.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/dynamicCodes.834c5e8e43043f366aba.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_sanitize-html_index_js.9703976f158698ad85c2.bundle.js",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.99.js?utv=ut4.48.202602210123",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.49.js?utv=ut4.48.202605160016",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.32.js?utv=ut4.48.202608080021",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.51.js?utv=ut4.48.202605160016",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.93.js?utv=ut4.48.202511150115",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.101.js?utv=ut4.48.202603210011",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.42.js?utv=ut4.48.202602210123",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.60.js?utv=ut4.48.202608080021",
+    "https://tags.tiqcdn.com/dle/bofa/onetrust/prod-_-promotions-bankofamerica-com.js?cb=0.845037244921327",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=bofa/mcoe/202609260023&cb=1794584262655",
+    "https://tags.tiqcdn.com/dle/bofa/mcoe/prod-_-dep-mkt-checking-2026t3500-tiered.js",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.52.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.18.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.4.js?utv=ut4.48.202609260023",
+    "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/otSDKStub.js",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.12.js?utv=ut4.48.202609260023",
+    "https://storage.glancecdn.net/cobrowse/js/GlanceCobrowseLoader_6.54.0M.js",
+    "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+    "https://core.thepointyspritesclub.com/ct?id=9281&url=https%3A%2F%2Fpromotions.bankofamerica.com%2Fen%2Foffers%2Fchooseyourchecking500tiered&sf=0&tpi=&ch=&uvid=&tsf=0&tsfmi=&tsfu=&cb=1794584262886&hl=2",
+    "https://bat.bing.com/bat.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-NNP0RK1XHF&l=gDataLayer&cx=c",
+    "https://bat.bing.com/p/action/175016615.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-1054100448",
+    "https://storage.glancecdn.net/cobrowse/js/GlancePresenceVisitor_6.54.0M.js"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "tilt.bankofamerica.com",
+     "path": "/{n}/js/events/v10/session.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://tilt.bankofamerica.com/3784/js/events/v10/session.json"
+    },
+    {
+     "method": "POST",
+     "host": "tilt.bankofamerica.com",
+     "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://tilt.bankofamerica.com/3784/3368692521963466443/js/events/v10/jsEvent.json"
+    },
+    {
+     "method": "POST",
+     "host": "smetrics.bankofamerica.com",
+     "path": "/ee/or2/v1/interact",
+     "query": [
+      "configId",
+      "requestId"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a0",
+    "GET geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+    "GET cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "POST adobedc.demdex.net/ee/v1/interact"
+   ],
+   "postBodies": [
+    {
+     "url": "https://tilt.bankofamerica.com/3784/js/events/v10/session.json",
+     "body": "se=17945842632460.545d28b0125d52a48ea1dcb584f38fe5_3784&wf=_17945842632460.545d28b0125d52a48ea1dcb584f38fe5_3784&sj=celebrus&aP=_17945842632460.545d28b0125d52a48ea1dcb584f38fe5_&bd=true&si=false&aM=not_available&aO=-1&vb=3&wa=9.7.5.371&z1=1&ch=en&aW=_17945842632460.545d28b0125d52a48ea1dcb584f38fe5_&bu=true&ba=no%20info&aJ=en-US&ci=0&cl=900&cm=1440&cn=900&co=1440&zv=24&xs=900&xt=1440&az=celebrusses"
+    },
+    {
+     "url": "https://adobedc.demdex.net/ee/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=1b15035e-9fcd-4502-907b-1e4da3cb8799",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":8,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"decisioning.propositionFetch\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered\"},\"webReferrer\":{"
+    },
+    {
+     "url": "https://tilt.bankofamerica.com/3784/3368692521963466443/js/events/v10/jsEvent.json",
+     "body": "z=_87e3e66221f3444f8f57cb641b1e666a5b42db40e7a34731b68911dfe21c7999_475651e109f84d8fa0e036e2e47e7f58&y=92861355136!3736!a55278586aD457!2L+E==15u=+b92684623adlocuetrp=+a=+a+audontmex+a+a-1010y=O=926841_1Q=457285d14632540.ea4dc2b0525d8f3_+ea184b58fa40145=0aoA=+=5aC4q7+a0+1==+aaj+10=0adg0+00=0+44=1ak++a=09S=+aaa044=1v90b=aZ0+=+v48p0+85=9r90=1x14s=+x0+gmorot0+44=pcofnkeontibas.+co=erama.icm=1102chcpn+"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=281daef8-f945-46d6-a05e-8bc8209791fb",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":4,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webpagedetails.pageViews\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered\",\"name\":\"Dep:Mkt:"
+    },
+    {
+     "url": "https://tilt.bankofamerica.com/3784/3368692521963466443/js/events/v10/jsEvent.json",
+     "body": "z=_87e3e66221f3444f8f57cb641b1e666a5b42db40e7a34731b68911dfe21c7999_475651e109f84d8fa0e036e2e47e7f58&y=92861355136!3736!a55278586aD457!7y+E==16j=+y92684943yl9+3+y7379k=y880++=2=7ym++yyq9n==0yop=9=0yr+=2717+0=4tz6s=+y5+3449ffa575101e86ee74d8030e2eie5ee78+f5=3xd96fa0d75341a690b+afe2c02c13683ba15a=5!1838732569552+a=P17!66aE8!4426+7D=58946igDaa56=danit=22Bql+ataq7vceanqgepastInpq2dq2ID3A2q2Cqadlroq222"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=97b74f41-4a2b-4497-8713-353f65e1ffec",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.25PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered\",\"na"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=df23cb5f-4f8c-4e6d-a8ba-91c4f8fb86e4",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.50PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered\",\"na"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=d401aeae-42a4-43e8-95e6-80651faa62a9",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.75PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered\",\"na"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=815756bd-f7d9-4903-97b6-fb9928f75e0b",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.100PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered\",\"n"
+    }
+   ],
+   "textAtLoad": 2243,
+   "mainEmptyAtLoad": false
+  },
+  "/en/deals.html": {
+   "url": "https://promotions.bankofamerica.com/en/deals.html",
+   "status": 200,
+   "host": "promotions.bankofamerica.com",
+   "title": "Cash Back Deals Every Day with Bank of America",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Continue",
+     "href": "https://promotions.bankofamerica.com/en/deals#",
+     "marker": "modal-exit--continue",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 8,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "YourAdChoices",
+     "href": "https://youradchoices.com/control",
+     "marker": "data-modal-target",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Network Advertising Initiative's Opt-Out Tool",
+     "href": "https://www.networkadvertising.org/choices",
+     "marker": "data-modal-target",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 45,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Change to accessible version",
+     "href": null,
+     "marker": "not-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Advertising Practices",
+     "href": "https://promotions.bankofamerica.com/en/deals#",
+     "marker": "show__modal",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 21,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "document",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 1832,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 584,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 15,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Advertising Practices",
+     "textLen": 1223,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 23,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "uc-expanded-nav",
+     "heading": "",
+     "textLen": 147,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "section",
+     "heading": "Top Brands",
+     "textLen": 180,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "section",
+     "heading": "Cash back made simple",
+     "textLen": 230,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 30,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://promotions.bankofamerica.com/es/deals.html",
+     "https://promotions.bankofamerica.com/es/deals.html",
+     "https://business.bofa.com/en-us/content/global-privacy-notices.html"
+    ]
+   },
+   "cms": {
+    "digitalData": [
+     "pageInstanceID",
+     "load_cobrowse",
+     "load_coremetrics",
+     "load_opinionlabs",
+     "load_touchcommerce",
+     "load_audiencemanager",
+     "load_knotch",
+     "load_adobetarget",
+     "load_alloy",
+     "load_epsilon",
+     "load_genesys_chat",
+     "load_cheq",
+     "disable_pageviewonload",
+     "page",
+     "product",
+     "user",
+     "version",
+     "environmentVariables",
+     "privacy"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "adobeDataLayer": [
+     "0",
+     "1",
+     "version",
+     "push",
+     "getState",
+     "addEventListener",
+     "removeEventListener"
+    ],
+    "utag_data": [
+     "pageInstanceID",
+     "load_cobrowse",
+     "load_coremetrics",
+     "load_opinionlabs",
+     "load_touchcommerce",
+     "load_audiencemanager",
+     "load_knotch",
+     "load_adobetarget",
+     "load_alloy",
+     "load_epsilon",
+     "load_genesys_chat",
+     "load_cheq",
+     "disable_pageviewonload",
+     "page.pageInfo.pageID",
+     "page.pageInfo.language",
+     "page.pageInfo.segmentValue",
+     "page.pageInfo.attr",
+     "page.category.primaryCategory",
+     "page.attributes.pageIDHistory.pageInfoArrayIndex",
+     "page.attributes.pageIDHistory.pageID",
+     "page.attributes.pageIDHistory.timestamp",
+     "page.attributes.SASIEnabled",
+     "page.attributes.needOLBcookie",
+     "page.attributes.standardDART.",
+     "page.attributes.standardDARTes.",
+     "page.attributes.gaId.",
+     "page.attributes.EpsilonPromoID",
+     "page.attributes.chat.site_id",
+     "page.attributes.chat.account_type",
+     "page.attributes.chat.monitoring"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "_satellite",
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "utag"
+   ],
+   "clientRendered": [
+    {
+     "cls": "uc uc-component uc-heading",
+     "attrs": [],
+     "text": "Cash back deals — tailored to you As a Bank of America custo"
+    },
+    {
+     "cls": "text js-initialized",
+     "attrs": [
+      "data-component-context=long-form-text"
+     ],
+     "text": "Top Brands Explore deals tailored to you from easy-to search"
+    },
+    {
+     "cls": "features not-modal horizontal",
+     "attrs": [],
+     "text": "Cash back made simple CLICK Pick deals from your list of off"
+    },
+    {
+     "cls": "features__item--copy text js-initialized",
+     "attrs": [
+      "data-component-context=featuredList"
+     ],
+     "text": "CLICK Pick deals from your list of offers in Mobile2 or Onli"
+    },
+    {
+     "cls": "features__item--copy text js-initialized",
+     "attrs": [
+      "data-component-context=featuredList"
+     ],
+     "text": "SHOP Pay with your eligible Bank of America credit or debit "
+    },
+    {
+     "cls": "features__item--copy text js-initialized",
+     "attrs": [
+      "data-component-context=featuredList"
+     ],
+     "text": "EARN Your account will be credited with the cash back you've"
+    },
+    {
+     "cls": "preferred-cards not-modal js-initialized",
+     "attrs": [
+      "data-component=preferred-cards"
+     ],
+     "text": "Stack your rewards Your cash back is on top of any other cas"
+    },
+    {
+     "cls": "preferred-cards__subHeading text js-initialized",
+     "attrs": [
+      "data-component-context=preferredCards"
+     ],
+     "text": "Your cash back is on top of any other cash back, discounts o"
+    },
+    {
+     "cls": "preferred-cards not-modal js-initialized",
+     "attrs": [
+      "data-component=preferred-cards"
+     ],
+     "text": "Daily Essentials Discover limited-time deals on everyday ess"
+    },
+    {
+     "cls": "preferred-cards__subHeading text js-initialized",
+     "attrs": [
+      "data-component-context=preferredCards"
+     ],
+     "text": "Discover limited-time deals on everyday essentials like gas,"
+    },
+    {
+     "cls": "preferred-cards not-modal js-initialized",
+     "attrs": [
+      "data-component=preferred-cards"
+     ],
+     "text": "Special event deals June FIFA World Cup 2026TM July Sizzling"
+    },
+    {
+     "cls": "preferred-cards__subHeading text js-initialized",
+     "attrs": [
+      "data-component-context=preferredCards"
+     ],
+     "text": "June FIFA World Cup 2026TM July Sizzling Summer Road Trip Au"
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 8,
+   "inlineFetch": false,
+   "mainText": 1945,
+   "domAddedAfterLoad": 2,
+   "hosts": {
+    "promotions.bankofamerica.com": 59,
+    "tags.tiqcdn.com": 15,
+    "cdn.cookielaw.org": 12,
+    "geolocation.onetrust.com": 1,
+    "storage.glancecdn.net": 2,
+    "adobedc.demdex.net": 1,
+    "www.googletagmanager.com": 1,
+    "tilt.bankofamerica.com": 3,
+    "smetrics.bankofamerica.com": 5
+   },
+   "thirdPartyHosts": [
+    "tags.tiqcdn.com",
+    "cdn.cookielaw.org",
+    "geolocation.onetrust.com",
+    "storage.glancecdn.net",
+    "adobedc.demdex.net",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/siteconfig.min.4aec1c29a964c3fde4d369c57aca4713.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/tealium.min.60020099621ebcfa59db0863199755a4.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main.min.43c3d407e6539ca369ac3c14890d028a.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components.min.aa453236830176f8c1f7e67f991bcaf6.js",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/heading-group-heading-group.15f9006faee65922de96.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/button-button.41d99eb902a13f70a359.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/background-v2-background-v2.706430c43dac7e33c646.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/consumer-flag-carousel.8ccd590499d7e2a96c0f.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/background-background.02d460119f04ee0aa082.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components/resources/chunks/content-banner-content-banner.cf6bcdadbe3a7ba7bbab.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_flag_flag-carousel_flag-carousel_js.0536cc2e975faa29e128.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-tiles-tiles-js.3fa9860f5bf59896ffc1.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-footer-footer-js.65afea2ed1c6918bd046.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/dynamicCodes.834c5e8e43043f366aba.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/ExpandedNavigation.198889e58aa88be1e9af.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-modal-variants-templates-additionalInfoTemplate-js.b56ecb09171704ccc9c2.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_sanitize-html_index_js.9703976f158698ad85c2.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-modal-modal-js.68dc807a0a342bd7bdb6.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/elements-text-text-js.aa76049088da80b7df54.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-accordion-accordion-js.d7f51a10cc47fd267684.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-features-features-js.fd9e2e6d14c38321590a.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/unity-content-banner-content-banner-js.72829c8d20d684a35268.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_jquery_dist-module_jquery_module_js.088c37ff71bbe6f7f2a4.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-preferred-cards-preferred-cards-js.1f28b845f08daefdf244.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-content-carousel-content-carousel-js.5c94500174c8ffea9820.bundle.js",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.99.js?utv=ut4.48.202602210123",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.32.js?utv=ut4.48.202608080021",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.49.js?utv=ut4.48.202605160016",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.51.js?utv=ut4.48.202605160016",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.101.js?utv=ut4.48.202603210011",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.60.js?utv=ut4.48.202608080021",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.42.js?utv=ut4.48.202602210123",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=bofa/mcoe/202609260023&cb=1794584275361",
+    "https://tags.tiqcdn.com/dle/bofa/onetrust/prod-_-promotions-bankofamerica-com.js?cb=0.9060285793015314",
+    "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/otSDKStub.js",
+    "https://tags.tiqcdn.com/dle/bofa/mcoe/prod-_-osp-content-olb-bankamerideals.js",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.52.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.12.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.18.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.4.js?utv=ut4.48.202609260023",
+    "https://storage.glancecdn.net/cobrowse/js/GlanceCobrowseLoader_6.54.0M.js",
+    "https://storage.glancecdn.net/cobrowse/js/GlancePresenceVisitor_6.54.0M.js",
+    "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-NNP0RK1XHF&l=gDataLayer&cx=c"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "tilt.bankofamerica.com",
+     "path": "/{n}/js/events/v10/session.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://tilt.bankofamerica.com/4068/js/events/v10/session.json"
+    },
+    {
+     "method": "POST",
+     "host": "smetrics.bankofamerica.com",
+     "path": "/ee/or2/v1/interact",
+     "query": [
+      "configId",
+      "requestId"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact"
+    },
+    {
+     "method": "POST",
+     "host": "tilt.bankofamerica.com",
+     "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://tilt.bankofamerica.com/4068/3314649326435379369/js/events/v10/jsEvent.json"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a0",
+    "GET geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+    "GET cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "POST adobedc.demdex.net/ee/v1/interact"
+   ],
+   "postBodies": [
+    {
+     "url": "https://tilt.bankofamerica.com/4068/js/events/v10/session.json",
+     "body": "se=17945842757170.8c90a852c25524f87c2373437c8c3ad6_4068&wf=_17945842757170.8c90a852c25524f87c2373437c8c3ad6_4068&sj=celebrus&aP=_17945842757170.8c90a852c25524f87c2373437c8c3ad6_&bd=true&si=false&aM=not_available&aO=-1&vb=3&wa=9.7.5.371&z1=1&ch=en&aW=_17945842757170.8c90a852c25524f87c2373437c8c3ad6_&bu=true&ba=no%20info&aJ=en-US&ci=0&cl=900&cm=1440&cn=900&co=1440&zv=24&xs=900&xt=1440&az=celebrusses"
+    },
+    {
+     "url": "https://adobedc.demdex.net/ee/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=057ed5ea-8d49-47b9-bd1a-a67b0fa38a32",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":15,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"decisioning.propositionFetch\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/deals\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screen"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=9ea2de2e-8772-4326-b875-6cad12698e15",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":8,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webpagedetails.pageViews\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/deals\",\"name\":\"OSP:Content:OLB;BankAmeriDeals\",\"serv"
+    },
+    {
+     "url": "https://tilt.bankofamerica.com/4068/3314649326435379369/js/events/v10/jsEvent.json",
+     "body": "z=_a5bee3885f4c4d8da4b2de684910988299a641f8794343369f4166b7c50a140d_0c2fe51b222043328ee42213112b7405&y=49466355131!3358!a03242303aD457!2L+E==10u=+b92784216adlocuetrp=+a=+a+audontmex+a+a-1010y=O=927841_1Q=457a890c17578c0.cf873252245578c_+d237c433aa40146=0aoA=+=7aC6q7+a0+1==+aaj+20=0adg0+00=0+44=1ak++a=09S=+aaa044=1v90b=aZ0+=+v48p0+85=9r90=1x14s=+x0+gmorot0+44=pcofnkeontibas.+co=erama.icm=1102chcpn+"
+    },
+    {
+     "url": "https://tilt.bankofamerica.com/4068/3314649326435379369/js/events/v10/jsEvent.json",
+     "body": "z=_a5bee3885f4c4d8da4b2de684910988299a641f8794343369f4166b7c50a140d_0c2fe51b222043328ee42213112b7405&y=49466355131!3358!a03242303aD457!8P+E==10n=+a92784277a+at=gidilDtag2pnsqavq27BaeIq32eInctaDqr2qq2222Aqodpcod_oq22Coa2lA2quewbrq2se322_catrCqq2lotq2csdemorrieCqq2l3A2quetripilao22_oadn2qlsfonq2bs3A2d_oaa2Ceq2lqrcme2uctoomhcealCq2eqAfq3sadieuq2lo22_anq2erdemncagaCqq2l3A2quetrcno22o22_kadtalCqqhqAfq3"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=bfad0788-caf2-4fca-b655-2adb658e59f4",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.25PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/deals\",\"name\":\"OSP:Content:OLB;BankAmer"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=f311a93b-d8e2-49b2-b77b-1eedc5ecd07c",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.50PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/deals\",\"name\":\"OSP:Content:OLB;BankAmer"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=fb3b913f-4906-488f-b73f-7f6c18e010b4",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":2,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.75PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/deals\",\"name\":\"OSP:Content:OLB;BankAmer"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=c50f771e-94f0-4e3e-8b34-3c5752b35d39",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":2,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.100PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/en/deals\",\"name\":\"OSP:Content:OLB;BankAme"
+    }
+   ],
+   "textAtLoad": 1945,
+   "mainEmptyAtLoad": false
+  },
+  "/deposits/growyoursavings.html": {
+   "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+   "status": 200,
+   "host": "promotions.bankofamerica.com",
+   "title": "Grow Your Savings | Bank of America",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Continue",
+     "href": "https://promotions.bankofamerica.com/deposits/growyoursavings#",
+     "marker": "modal-exit--continue",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 8,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "YourAdChoices",
+     "href": "https://youradchoices.com/control",
+     "marker": "data-modal-target",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Network Advertising Initiative's Opt-Out Tool",
+     "href": "https://www.networkadvertising.org/choices",
+     "marker": "data-modal-target",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 45,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Advertising Practices",
+     "href": "https://promotions.bankofamerica.com/deposits/growyoursavings#",
+     "marker": "show__modal",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "a",
+      "heading": "",
+      "textLen": 21,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "header",
+     "heading": "Important notice:",
+     "textLen": 2010,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "document",
+     "heading": "Important notice:",
+     "textLen": 1834,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 1832,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Important notice:",
+     "textLen": 584,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 15,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Advertising Practices",
+     "textLen": 1223,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 23,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "uc-expanded-nav",
+     "heading": "",
+     "textLen": 175,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "main",
+     "heading": "What are you saving for? We can help.",
+     "textLen": 2219,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 25,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 5
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html",
+     "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+     "https://info.bankofamerica.com/en/rewards/bofa-rewards.html",
+     "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+     "https://info.bankofamerica.com/en/rewards/bofa-rewards.html"
+    ]
+   },
+   "cms": {
+    "digitalData": [
+     "pageInstanceID",
+     "load_cobrowse",
+     "load_coremetrics",
+     "load_opinionlabs",
+     "load_touchcommerce",
+     "load_audiencemanager",
+     "load_knotch",
+     "load_adobetarget",
+     "load_alloy",
+     "load_epsilon",
+     "load_genesys_chat",
+     "load_cheq",
+     "disable_pageviewonload",
+     "page",
+     "product",
+     "user",
+     "version",
+     "environmentVariables",
+     "privacy"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "adobeDataLayer": [
+     "0",
+     "1",
+     "version",
+     "push",
+     "getState",
+     "addEventListener",
+     "removeEventListener"
+    ],
+    "utag_data": [
+     "pageInstanceID",
+     "load_cobrowse",
+     "load_coremetrics",
+     "load_opinionlabs",
+     "load_touchcommerce",
+     "load_audiencemanager",
+     "load_knotch",
+     "load_adobetarget",
+     "load_alloy",
+     "load_epsilon",
+     "load_genesys_chat",
+     "load_cheq",
+     "disable_pageviewonload",
+     "page.pageInfo.pageID",
+     "page.pageInfo.language",
+     "page.pageInfo.segmentValue",
+     "page.pageInfo.attr",
+     "page.category.primaryCategory",
+     "page.attributes.pageIDHistory.pageInfoArrayIndex",
+     "page.attributes.pageIDHistory.pageID",
+     "page.attributes.pageIDHistory.timestamp",
+     "page.attributes.SASIEnabled",
+     "page.attributes.needOLBcookie",
+     "page.attributes.standardDART.",
+     "page.attributes.standardDARTes.",
+     "page.attributes.gaId.",
+     "page.attributes.EpsilonPromoID",
+     "page.attributes.chat.site_id",
+     "page.attributes.chat.account_type",
+     "page.attributes.chat.monitoring"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "_satellite",
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "utag"
+   ],
+   "clientRendered": [
+    {
+     "cls": "masthead__copy text js-initialized",
+     "attrs": [
+      "data-component-context=masthead"
+     ],
+     "text": "A Bank of America Advantage Savings account, with access to "
+    },
+    {
+     "cls": "content-tile__copy col-xs-12 text",
+     "attrs": [
+      "data-component-context=content-tile"
+     ],
+     "text": "Open a Bank of America Advantage Savings account with us, an"
+    },
+    {
+     "cls": "content-tile__legalCopy text js-initialized",
+     "attrs": [
+      "data-component-context=content-tile"
+     ],
+     "text": "See the Personal Schedule of Fees for details."
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "Set short- and long-term financial goals and get personalize"
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "Try out the Spending & Budgeting Tool5 to help you manage yo"
+    },
+    {
+     "cls": "multi-step-content-item__copy text js-initialized",
+     "attrs": [
+      "data-component-context=multi-step-content"
+     ],
+     "text": "Use the Short-Term Savings Calculator to see how long it tak"
+    },
+    {
+     "cls": "content-tile__copy col-xs-12 text",
+     "attrs": [
+      "data-component-context=content-tile"
+     ],
+     "text": "Start saving today with these simple tools: Keep the Change®"
+    },
+    {
+     "cls": "image-with-text-offset__copy text js-initialized",
+     "attrs": [
+      "data-component-context=image-with-text-offset"
+     ],
+     "text": "Whether you're just starting out, saving to buy a home or pr"
+    },
+    {
+     "cls": "text js-initialized",
+     "attrs": [
+      "data-component-context=long-form-text"
+     ],
+     "text": "All Bank of America savings accounts, CDs and IRAs are FDIC "
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 7,
+   "inlineFetch": false,
+   "mainText": 2219,
+   "domAddedAfterLoad": 12,
+   "hosts": {
+    "promotions.bankofamerica.com": 36,
+    "tags.tiqcdn.com": 16,
+    "storage.glancecdn.net": 2,
+    "cdn.cookielaw.org": 12,
+    "geolocation.onetrust.com": 1,
+    "adobedc.demdex.net": 1,
+    "www.googletagmanager.com": 1,
+    "tilt.bankofamerica.com": 3,
+    "smetrics.bankofamerica.com": 9
+   },
+   "thirdPartyHosts": [
+    "tags.tiqcdn.com",
+    "storage.glancecdn.net",
+    "cdn.cookielaw.org",
+    "geolocation.onetrust.com",
+    "adobedc.demdex.net",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/siteconfig.min.4aec1c29a964c3fde4d369c57aca4713.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/tealium.min.60020099621ebcfa59db0863199755a4.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/unity/core/clientlibs/clientlib-components.min.aa453236830176f8c1f7e67f991bcaf6.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main.min.43c3d407e6539ca369ac3c14890d028a.js",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_sanitize-html_index_js.9703976f158698ad85c2.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/ExpandedNavigation.198889e58aa88be1e9af.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-modal-variants-templates-additionalInfoTemplate-js.b56ecb09171704ccc9c2.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-modal-modal-js.68dc807a0a342bd7bdb6.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/elements-text-text-js.aa76049088da80b7df54.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/generic-footer-footer-js.65afea2ed1c6918bd046.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/dynamicCodes.834c5e8e43043f366aba.bundle.js",
+    "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/chunks/vendors-node_modules_jquery_dist-module_jquery_module_js.088c37ff71bbe6f7f2a4.bundle.js",
+    "https://tags.tiqcdn.com/dle/bofa/mcoe/prod-_-dep-mkt-savings-grow-your-savings_2021.js",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.99.js?utv=ut4.48.202602210123",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.49.js?utv=ut4.48.202605160016",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.32.js?utv=ut4.48.202608080021",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.51.js?utv=ut4.48.202605160016",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.101.js?utv=ut4.48.202603210011",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.42.js?utv=ut4.48.202602210123",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.60.js?utv=ut4.48.202608080021",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=bofa/mcoe/202609260023&cb=1794584287934",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.52.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.23.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.18.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.12.js?utv=ut4.48.202609260023",
+    "https://tags.tiqcdn.com/utag/bofa/globals/prod/utag.4.js?utv=ut4.48.202609260023",
+    "https://storage.glancecdn.net/cobrowse/js/GlanceCobrowseLoader_6.54.0M.js",
+    "https://tags.tiqcdn.com/dle/bofa/onetrust/prod-_-promotions-bankofamerica-com.js?cb=0.32739549267938495",
+    "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/otSDKStub.js",
+    "https://storage.glancecdn.net/cobrowse/js/GlancePresenceVisitor_6.54.0M.js",
+    "https://cdn.cookielaw.org/scripttemplates/202606.1.0/otBannerSdk.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-NNP0RK1XHF&l=gDataLayer&cx=c"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "tilt.bankofamerica.com",
+     "path": "/{n}/js/events/v10/session.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://tilt.bankofamerica.com/6848/js/events/v10/session.json"
+    },
+    {
+     "method": "POST",
+     "host": "smetrics.bankofamerica.com",
+     "path": "/ee/or2/v1/interact",
+     "query": [
+      "configId",
+      "requestId"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact"
+    },
+    {
+     "method": "POST",
+     "host": "tilt.bankofamerica.com",
+     "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://tilt.bankofamerica.com/6848/3341670924198592522/js/events/v10/jsEvent.json"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a0",
+    "GET geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+    "GET cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "POST adobedc.demdex.net/ee/v1/interact"
+   ],
+   "postBodies": [
+    {
+     "url": "https://tilt.bankofamerica.com/6848/js/events/v10/session.json",
+     "body": "se=17945842883450.56bcfa49a1fbcfdf130c1695ebc061f0_6848&wf=_17945842883450.56bcfa49a1fbcfdf130c1695ebc061f0_6848&sj=celebrus&aP=_17945842883450.56bcfa49a1fbcfdf130c1695ebc061f0_&bd=true&si=false&aM=not_available&aO=-1&vb=3&wa=9.7.5.371&z1=1&ch=en&aW=_17945842883450.56bcfa49a1fbcfdf130c1695ebc061f0_&bu=true&ba=no%20info&aJ=en-US&ci=0&cl=900&cm=1440&cn=900&co=1440&zv=24&xs=900&xt=1440&az=celebrusses"
+    },
+    {
+     "url": "https://adobedc.demdex.net/ee/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=f0edf8ff-e7a4-43eb-9e37-821811411f32",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":17,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"decisioning.propositionFetch\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\"},\"webReferrer\":{\"URL\":\"\"}},\""
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=2e4c67ec-ebfa-4cf8-ab38-d7b7ae6380b0",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":3,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webpagedetails.pageViews\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\",\"name\":\"Dep:Mkt:Savings;grow-"
+    },
+    {
+     "url": "https://tilt.bankofamerica.com/6848/3341670924198592522/js/events/v10/jsEvent.json",
+     "body": "z=_affa86d0892541d4b735f9328769b12776d0063b8f58460c8632c43fe1075160_c828c72801344159815cc76322a175ae&y=70163355134!3415!a79244946aD457!2L+E==17u=+b92884638adlocuetrp=+a=+a+audontmex+a+a-1010y=O=928841_1Q=457fabca4583560.3df16149cffb1c0_+f0ceb9561a40140=0aoA=+=4aC8q7+a0+1==+aaj+59=0adg0+00=0+44=1ak++a=09S=+aaa044=1v90b=aZ0+=+v48p0+85=9r90=1x14s=+x0+gmorot0+44=pcofnkeontibas.+co=erama.icm=1102chcpn+"
+    },
+    {
+     "url": "https://tilt.bankofamerica.com/6848/3341670924198592522/js/events/v10/jsEvent.json",
+     "body": "z=_affa86d0892541d4b735f9328769b12776d0063b8f58460c8632c43fe1075160_c828c72801344159815cc76322a175ae&y=70163355134!3415!a79244946aD457!8P+E==17n=+a92884689a+at=gidilDtag2pnsqavq27BaeIq32eInctaDqr2qq2222Aqodpcod_oq22Coa2lA2quewbrq2se322_catrCqq2lotq2csdemorrieCqq2l3A2quetripilao22_oadn2qlsfonq2bs3A2d_oaa2Ceq2lqrcme2uctoomhcealCq2eqAfq3sadieuq2lo22_anq2erdemncagaCqq2l3A2quetrcno22o22_kadtalCqqhqAfq3"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=01cb864b-03e3-48b5-8a7f-476de2d88356",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.workbookCustomEvents\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\"},\"webRe"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=f7a2f858-0807-4dc0-bedf-18782f90f350",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.workbookCustomEvents\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\"},\"webRe"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=69592785-8616-4bce-a2cb-acdf81559ae4",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.25PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\",\"name\":\"Dep:Mkt:"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=3c29b3b8-2023-44e4-8559-0f5e2abaa144",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.50PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\",\"name\":\"Dep:Mkt:"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=2e5ada68-b139-4e3a-947b-104032783ac0",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":2,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.workbookCustomEvents\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\"},\"webRe"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=f2a078c6-cda1-4e15-98f3-55b81a131098",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.75PerScroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\",\"name\":\"Dep:Mkt:"
+    },
+    {
+     "url": "https://smetrics.bankofamerica.com/ee/or2/v1/interact?configId=f45f4a2b-c94b-4b81-a49b-acd898ade560&requestId=33fe5b6c-3a1c-4642-adb7-7794a00f3e7f",
+     "body": "{\"meta\":{\"configOverrides\":{\"com_adobe_target\":{\"propertyToken\":\"8a80ea05-e1a4-2d7a-0751-980f4c503943\"}},\"target\":{\"migration\":true},\"queueTimeMillis\":1,\"state\":{\"domain\":\"bankofamerica.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"web.webinteraction.linkClicks.workbookCustomEvents\",\"web\":{\"webPageDetails\":{\"URL\":\"https://promotions.bankofamerica.com/deposits/growyoursavings\"},\"webRe"
+    }
+   ],
+   "textAtLoad": 2219,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-first-party-api-post-n-js-events-v10-session-json",
+   "class": "A",
+   "feature": "first-party API POST /{n}/js/events/v10/session.json",
+   "api": {
+    "method": "POST",
+    "path": "/{n}/js/events/v10/session.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /{n}/js/events/v10/session.json → 200"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 6,
+    "of": 12
+   }
+  },
+  {
+   "id": "a-first-party-api-post-n-hash-js-events-v10-jsevent-json",
+   "class": "A",
+   "feature": "first-party API POST /{n}/{hash}/js/events/v10/jsEvent.json",
+   "api": {
+    "method": "POST",
+    "path": "/{n}/{hash}/js/events/v10/jsEvent.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /{n}/{hash}/js/events/v10/jsEvent.json → 200"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 6,
+    "of": 12
+   }
+  },
+  {
+   "id": "a-first-party-api-post-ee-or2-v1-interact",
+   "class": "A",
+   "feature": "first-party API POST /ee/or2/v1/interact",
+   "api": {
+    "method": "POST",
+    "path": "/ee/or2/v1/interact"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /ee/or2/v1/interact?configId,requestId → 200"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 6,
+    "of": 12
+   }
+  },
+  {
+   "id": "a-cms-app-settings-object-digitaldata",
+   "class": "A",
+   "feature": "CMS / app settings object digitalData",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-adobedatalayer",
+   "class": "A",
+   "feature": "CMS / app settings object adobeDataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-utag-data",
+   "class": "A",
+   "feature": "CMS / app settings object utag_data",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-masthead-copy-text-js-initialized",
+   "class": "CR",
+   "feature": "client-rendered slot masthead__copy text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=masthead"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-multi-step-content-item-copy-text-js",
+   "class": "CR",
+   "feature": "client-rendered slot multi-step-content-item__copy text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=multi-step-content"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-text-js-initialized",
+   "class": "CR",
+   "feature": "client-rendered slot text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=long-form-text"
+   ],
+   "pages": [
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-product-details-not-modal-bg-white",
+   "class": "CR",
+   "feature": "client-rendered slot product-details not-modal bg-white",
+   "hint": "client-rendered",
+   "evidence": [
+    "Bank of America Advantage Banking Change to accessible versi"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-product-details-productkeydesc-text-",
+   "class": "CR",
+   "feature": "client-rendered slot product-details__productKeyDesc text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=productDetails"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-product-details-productdesc-text-js-",
+   "class": "CR",
+   "feature": "client-rendered slot product-details__productDesc text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=productDetails"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-uc-uc-component-uc-heading",
+   "class": "CR",
+   "feature": "client-rendered slot uc uc-component uc-heading",
+   "hint": "client-rendered",
+   "evidence": [
+    "Cash back deals — tailored to you As a Bank of America custo"
+   ],
+   "pages": [
+    "/en/deals.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-features-not-modal-horizontal",
+   "class": "CR",
+   "feature": "client-rendered slot features not-modal horizontal",
+   "hint": "client-rendered",
+   "evidence": [
+    "Cash back made simple CLICK Pick deals from your list of off"
+   ],
+   "pages": [
+    "/en/deals.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-features-item-copy-text-js-initializ",
+   "class": "CR",
+   "feature": "client-rendered slot features__item--copy text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=featuredList"
+   ],
+   "pages": [
+    "/en/deals.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-preferred-cards-not-modal-js-initial",
+   "class": "CR",
+   "feature": "client-rendered slot preferred-cards not-modal js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component=preferred-cards"
+   ],
+   "pages": [
+    "/en/deals.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-preferred-cards-subheading-text-js-i",
+   "class": "CR",
+   "feature": "client-rendered slot preferred-cards__subHeading text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=preferredCards"
+   ],
+   "pages": [
+    "/en/deals.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-content-tile-copy-col-xs-12-text",
+   "class": "CR",
+   "feature": "client-rendered slot content-tile__copy col-xs-12 text",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=content-tile"
+   ],
+   "pages": [
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-content-tile-legalcopy-text-js-initi",
+   "class": "CR",
+   "feature": "client-rendered slot content-tile__legalCopy text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=content-tile"
+   ],
+   "pages": [
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-image-with-text-offset-copy-text-js-",
+   "class": "CR",
+   "feature": "client-rendered slot image-with-text-offset__copy text js-initialized",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-component-context=image-with-text-offset"
+   ],
+   "pages": [
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-us",
+   "class": "I18N",
+   "feature": "locale variants en-us",
+   "hint": "locale",
+   "evidence": [
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-es-es-en-us",
+   "class": "I18N",
+   "feature": "locale variants es,es,en-us",
+   "hint": "locale",
+   "evidence": [
+    "https://promotions.bankofamerica.com/es/deals.html",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html"
+   ],
+   "pages": [
+    "/en/deals.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-es-en-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants es,en,en,en,en",
+   "hint": "locale",
+   "evidence": [
+    "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html",
+    "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards.html"
+   ],
+   "pages": [
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-modal-exit-continue-chrome-only-a-content",
+   "class": "M",
+   "feature": "modal trigger modal-exit--continue (chrome only) → a:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered#",
+    "https://promotions.bankofamerica.com/en/deals#",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 6,
+    "of": 12
+   }
+  },
+  {
+   "id": "m-modal-trigger-data-modal-target-chrome-only-a-content",
+   "class": "M",
+   "feature": "modal trigger data-modal-target (chrome only) → a:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 15,
+    "of": 12
+   }
+  },
+  {
+   "id": "m-modal-trigger-show-modal-chrome-only-a-content",
+   "class": "M",
+   "feature": "modal trigger show__modal (chrome only) → a:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered#",
+    "https://promotions.bankofamerica.com/en/deals#",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings#"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 6,
+    "of": 12
+   }
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → button:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "Filter Button"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ],
+   "reach": {
+    "pages": 4,
+    "of": 12
+   }
+  },
+  {
+   "id": "m-modal-trigger-not-modal-target-outside-dom-at-capture",
+   "class": "M",
+   "feature": "modal trigger not-modal → target outside DOM at capture",
+   "hint": "modal",
+   "evidence": [
+    "Change to accessible version"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html"
+   ],
+   "reach": {
+    "pages": 4,
+    "of": 12
+   }
+  },
+  {
+   "id": "m-modal-trigger-aria-controls-dialog-dialog-content",
+   "class": "M",
+   "feature": "modal trigger aria-controls→dialog → dialog:content",
+   "hint": "modal",
+   "evidence": [
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "t-tag-manager-tealium",
+   "class": "T",
+   "feature": "tag manager: Tealium",
+   "role": "tag manager: Tealium",
+   "hint": "tags",
+   "evidence": [
+    "tags.tiqcdn.com"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "t-consent-onetrust",
+   "class": "T",
+   "feature": "consent: OneTrust",
+   "role": "consent: OneTrust",
+   "hint": "tags",
+   "evidence": [
+    "cdn.cookielaw.org",
+    "geolocation.onetrust.com"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-storage-glancecdn-net",
+   "class": "T",
+   "feature": "unknown third-party host storage.glancecdn.net",
+   "hint": "inspect",
+   "evidence": [
+    "storage.glancecdn.net"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID",
+   "role": "analytics: Adobe Analytics / Experience Cloud ID",
+   "hint": "tags",
+   "evidence": [
+    "adobedc.demdex.net"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id-first-party-",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID (first-party subdomain — needs a CNAME on the new host)",
+   "hint": "tags",
+   "evidence": [
+    "smetrics.bankofamerica.com"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-core-thepointyspritesclub-com",
+   "class": "T",
+   "feature": "unknown third-party host core.thepointyspritesclub.com",
+   "hint": "inspect",
+   "evidence": [
+    "core.thepointyspritesclub.com"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "bat.bing.com"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "hint": "embed-runtime",
+   "evidence": [
+    "onetrust-text-resize"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered",
+    "/en/deals.html",
+    "/deposits/growyoursavings.html"
+   ]
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "hint": "decided-out",
+   "evidence": [
+    "https://www.bankofamerica.com/deposits/bank-account-interest-rates/",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html"
+   ],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  },
+  {
+   "id": "x-commerce-signals-cart-false-prices-31",
+   "class": "X",
+   "feature": "commerce signals (cart: false, prices: 31)",
+   "hint": "decided-out",
+   "evidence": [],
+   "pages": [
+    "/en/offers/chooseyourchecking500tiered"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 6,
+  "of": 12,
+  "endpoints": {
+   "GET cdn.cookielaw.org/consent/{uuid}/{uuid}.json": 6,
+   "GET geolocation.onetrust.com/cookieconsentpub/v1/geo/location": 6,
+   "GET cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json": 6,
+   "GET cdn.cookielaw.org/consent/{uuid}/{uuid}/en.json": 6,
+   "POST tilt.bankofamerica.com/{n}/js/events/v10/session.json": 6,
+   "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json": 6,
+   "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json": 6,
+   "GET cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css": 6,
+   "POST tilt.bankofamerica.com/{n}/{hash}/js/events/v10/jsEvent.json": 6,
+   "POST privacyportal-bofa.my.onetrust.com/request/v1/consentreceipts": 3,
+   "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg": 6,
+   "POST smetrics.bankofamerica.com/ee/or2/v1/interact": 6
+  },
+  "searchFormPages": 0,
+  "formPages": 0,
+  "triggerPages": {
+   "modal-exit--continue": 6,
+   "data-modal-target": 15,
+   "show__modal": 6,
+   "not-modal": 4,
+   "aria-haspopup": 4
+  }
+ }
+}

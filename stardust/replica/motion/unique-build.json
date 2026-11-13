@@ -1,0 +1,626 @@
+{
+  "url": "http://localhost:8791/en-deals-proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 4800,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 6000,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 5205,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3705,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "site-header site-header--expanded",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".carousel__arrow--next",
+      "frames": [
+        {
+          "t": 20733,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        },
+        {
+          "t": 20939.299999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        },
+        {
+          "t": 21144,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        },
+        {
+          "t": 21348.599999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".carousel__dots li:nth-child(3) button",
+      "frames": [
+        {
+          "t": 22366.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, -777.6, 0)",
+          "dots": []
+        },
+        {
+          "t": 22572.799999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, -777.6, 0)",
+          "dots": []
+        },
+        {
+          "t": 22779.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, -777.6, 0)",
+          "dots": []
+        },
+        {
+          "t": 22985.200000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, -777.6, 0)",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".faq__handle",
+      "frames": [
+        {
+          "t": 23999.39999999944,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 24203.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 24410.200000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 24618.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".faq__expand",
+      "frames": [
+        {
+          "t": 25642.200000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 25846.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 26050.599999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 26256.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": "#standalone-button_view-your-deals",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(227, 24, 55)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.25s ease-out"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(227, 24, 55)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.25s ease-out"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".site-header__ctas--desktop .site-header__cta",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 83, 194)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(1, 33, 105)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "background-color",
+        "el": "main > section.carousel > ul.carousel__dots > li.is-active > button",
+        "y": 4311,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "background-color",
+        "el": "main > section.carousel > ul.carousel__dots > li > button",
+        "y": 4311,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "body > main > section.carousel > div.carousel__viewport > div.carousel__track",
+        "y": 4311,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "background-color",
+        "el": "main > section.carousel > ul.carousel__dots > li > button",
+        "y": 4747,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "body > main > section.carousel > div.carousel__viewport > div.carousel__track",
+        "y": 4747,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "background-color",
+        "el": "main > section.carousel > ul.carousel__dots > li.is-active > button",
+        "y": 4747,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.faq > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5808,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758,
+        "dur": "0.3s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "main > section.carousel > div.carousel__viewport > div.carousel__track > div.carousel__slide.is-active",
+        "y": 4294
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body > main > section.carousel > ul.carousel__dots > li.is-active",
+        "y": 4294
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "main > section.carousel > div.carousel__viewport > div.carousel__track > div.carousel__slide.is-active",
+        "y": 4747
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body > main > section.carousel > ul.carousel__dots > li.is-active",
+        "y": 4747
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "section.faq > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5808
+      },
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "body > main > section.faq > div.faq__items > div.faq__item.is-open",
+        "y": 5808
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "body > main > section.faq.faq--all-open > div.faq__items > div.faq__item.is-open",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "body > main > section.faq.faq--all-open > div.faq__items > div.faq__item.is-open",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "body > main > section.faq.faq--all-open > div.faq__items > div.faq__item.is-open",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "section.faq.faq--all-open > div.faq__items > div.faq__item.is-open > h3.faq__question > button.faq__handle.is-active",
+        "y": 5758
+      },
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "body > main > section.faq.faq--all-open > div.faq__items > div.faq__item.is-open",
+        "y": 5758
+      },
+      {
+        "added": [
+          "faq--all-open"
+        ],
+        "el": "html > body > main > section.faq.faq--all-open",
+        "y": 5758
+      }
+    ]
+  }
+}

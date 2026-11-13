@@ -1,0 +1,168 @@
+/* pcard — rounded image + text card (source .preferred-card) */
+.pcard {
+  padding: 0 var(--gutter);
+}
+
+.pcard .pcard-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 24px;
+  overflow: hidden;
+  border: 1px solid var(--color-gray-border);
+  border-radius: 32px;
+  background: var(--color-white);
+}
+
+.pcard .pcard-img {
+  position: relative;
+  height: 300px;
+  background: var(--color-white);
+}
+
+.pcard .pcard-img picture {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+.pcard .pcard-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.pcard .pcard-content {
+  display: flex;
+  align-items: center;
+}
+
+.pcard .pcard-body {
+  width: 100%;
+  padding: 48px 24px;
+}
+
+.pcard .pcard-heading :is(h2, h3) {
+  margin: 0 0 20.6px;
+  color: var(--color-bright-red);
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.pcard .pcard-text {
+  padding-bottom: 31px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+.pcard .pcard-text p {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.pcard .pcard-text p + p {
+  margin-top: 20px;
+}
+
+.pcard .pcard-row {
+  display: flex;
+  width: calc(100% + 20px);
+  margin-left: -11px;
+}
+
+.pcard .pcard-col {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.pcard .pcard-col + .pcard-col {
+  padding-left: 3%;
+}
+
+.pcard .pcard-col h3 {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.pcard .pcard-col p + p {
+  margin-top: 0;
+}
+
+.pcard .pcard-col p:has(+ h3) {
+  margin-bottom: 20px;
+}
+
+/* a bold-only paragraph is a month label: the source keeps one blank line above it
+   (an nbsp paragraph, which the delivery pipeline drops) */
+.pcard .pcard-col p:has(> strong:only-child) {
+  margin-top: 1.2em;
+}
+
+@media (width >= 768px) {
+  .pcard .pcard-card {
+    flex-direction: row;
+    min-height: 550px;
+  }
+
+  .pcard .pcard-img {
+    flex: 1 1 50%;
+    height: auto;
+  }
+
+  .pcard .pcard-content {
+    flex: 1 1 50%;
+  }
+
+  .pcard.image-right .pcard-img {
+    order: 2;
+  }
+
+  .pcard .pcard-body {
+    padding: 32px 72px 32px 96px;
+  }
+}
+
+@media (width >= 1068px) {
+  .pcard .pcard-heading :is(h2, h3) {
+    margin-bottom: 28px;
+    font-size: 2.5rem;
+  }
+
+  .pcard .pcard-text {
+    padding-bottom: 40px;
+    font-size: 1.5rem;
+  }
+
+  .pcard .pcard-text p {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+
+  .pcard .pcard-text p + p {
+    margin-top: 24px;
+  }
+
+  .pcard .pcard-col p + p {
+    margin-top: 0;
+  }
+
+  .pcard .pcard-col p:has(+ h3) {
+    margin-bottom: 24px;
+  }
+
+  .pcard .pcard-row {
+    width: calc(100% + 17px);
+  }
+
+  .pcard .pcard-col h3 {
+    font-size: 1.35rem;
+  }
+}

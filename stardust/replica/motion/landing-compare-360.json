@@ -1,0 +1,78 @@
+{
+  "live": "stardust/replica/motion/landing-live-360.json",
+  "build": "stardust/replica/motion/landing-build-360.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 4,
+  "counts": {
+    "behaviors": 8,
+    "parity": 0,
+    "missing": 3,
+    "extra": 0,
+    "tolerance": 1,
+    "dead": 3,
+    "advisory": 1
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "widget",
+      "name": ".product-details__productList .uc-carousel-next → .product-details__content > .product-details__arrow--next",
+      "state": "unobserved",
+      "note": "live probe not found",
+      "line": "motion widget .product-details__productList .uc-carousel-next → .product-details__content > .product-details__arrow--next: unobserved on live — not required (live probe not found)"
+    },
+    {
+      "cls": "widget",
+      "name": ".product-details__productTabItem:nth-child(3) → .product-details__tab:nth-child(3)",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .product-details__productTabItem:nth-child(3) → .product-details__tab:nth-child(3): dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "tolerance",
+      "deltas": [
+        "timing delta 200ms > 150ms [longest duration: live 500ms, build 300ms]"
+      ],
+      "note": "1 event(s) on live, 2 on build",
+      "line": "motion transition transform: timing delta 200ms > 150ms [longest duration: live 500ms, build 300ms] (1 event(s) on live, 2 on build)"
+    },
+    {
+      "cls": "class",
+      "name": "uc-carousel-active",
+      "state": "missing",
+      "note": "trigger class added 34× on live, never on build",
+      "line": "motion class uc-carousel-active: MISSING on build (trigger class added 34× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "uc-carousel-center",
+      "state": "missing",
+      "note": "trigger class added 26× on live, never on build",
+      "line": "motion class uc-carousel-center: MISSING on build (trigger class added 26× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "uc-carousel-current",
+      "state": "missing",
+      "note": "trigger class added 14× on live, never on build",
+      "line": "motion class uc-carousel-current: MISSING on build (trigger class added 14× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "is-active",
+      "state": "advisory",
+      "note": "added 4× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-active: extra on build — advisory (added 4× on build, never on live — check it drives no invented behavior)"
+    }
+  ]
+}

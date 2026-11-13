@@ -1,0 +1,32 @@
+{
+  "a": "stardust/replica/gates/all-360/content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal/origin.png",
+  "b": "stardust/replica/gates/all-360/content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 708,
+    "mode": "overlap"
+  },
+  "heightDelta": -192,
+  "differingPixels": 43870,
+  "pct": 17.21,
+  "threshold": 10,
+  "pass": false,
+  "diff": "stardust/replica/gates/all-360/content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 17.3
+    },
+    {
+      "y0": 500,
+      "y1": 708,
+      "pct": 17
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "deposits-growyoursavings-cd-ira",
+  "type": "program",
+  "renderBranch": "A'",
+  "template": "deposits-growyoursavings",
+  "modules": [
+    "masthead",
+    "multi-step-content",
+    "content-tile",
+    "product-details",
+    "tiles",
+    "long-form-text",
+    "disclosures"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "root"
+  ],
+  "canonShas": {
+    "header": "5083c95fa72b",
+    "footer": "3b7671d25e57",
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "CDs/IRAs | Bank of America",
+    "description": "CDs/IRAs",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "CDs/IRAs | Bank of America",
+    "description": "CDs/IRAs",
+    "url": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html"
+  },
+  "migratedAt": "2026-11-13T18:19:18Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "e7ff6c1977b4",
+  "sourceProposedSha": "f718277623e3",
+  "fidelityTier": "sibling",
+  "archetypeSource": "deposits-growyoursavings",
+  "archetypeSha": "7448ec4a9b6c",
+  "variants": [
+    "masthead.dark masthead.short multi-step-content.features multi-step-content.gray long-form-text.flagscape"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff.mjs capture vs rendered clone (--profile generic --main main, 1440, accepted stardust/.work/rollout/program/accepted.json): Tiers looks-same 🔴 0 · nothing-lost 🟡 0 (job program-rt4)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 2,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://promotions.bankofamerica.com/es/deposits/growyoursavings/cd-ira.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/es/deposits/growyoursavings/cd-ira.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "deposits/growyoursavings/cd-ira.html",
+  "outputPathDefault": null,
+  "sidecar": "deposits/growyoursavings/cd-ira._meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,33 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://promotions.bankofamerica.com/en/deals.html (live side from cache stardust/replica/gates/en-deals-360/chrome-live.json, probed 2026-11-13T16:36:51.571Z — delete the file to re-probe)
+  build: http://localhost:8791/en-deals-proposed.html
+
+■ header: 1 delta(s) — 1 paired of 1/1 texts, 1/1 icons
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+
+■ footer: 23 delta(s) — 27 paired of 27/27 texts, 1/1 icons
+  REGION BOX   Δy -2px (8906→8904)
+  PAIR         "1"  Δy -2px (8925→8923)
+  PAIR         "You must be enrolled in Online Banking o"  Δy -2px (8925→8923)
+  PAIR         "1"  Δy -2px (8925→8923)
+  PAIR         "Mobile Banking requires that you downloa"  Δy -2px (9180→9178)
+  PAIR         "4"  Δy -2px (9377→9375)
+  PAIR         "BofA Rewards™ members will be eligible f"  Δy -2px (9377→9375)
+  PAIR         "BofA Rewards exclusive deals."  Δy -2px (9376→9374)
+  PAIR         "Deals homepage"  Δy -2px (9455→9453)
+  PAIR         "4"  Δy -2px (9377→9375)
+  PAIR         "Merrill, Bank of America and the Bank of"  Δy -2px (9495→9493)
+  PAIR         "| | | | | Bank of America, N.A. Member F"  Δy -2px (9703→9701)
+  PAIR         "|"  Δy -2px (9706→9704)
+  PAIR         "Privacy"  Δy -2px (9706→9704)
+  PAIR         "Security"  Δy -2px (9706→9704)
+  PAIR         "Advertising Practices"  Δy -2px (9706→9704)
+  PAIR         "Children's Privacy"  Δy -2px (9730→9728)
+  PAIR         "Your Privacy Choices"  Δy -2px (9730→9728)
+  PAIR         "Browse with Specialist"  Δy -2px (9751→9749)
+  PAIR         "Equal Housing Lender"  Δy -2px (9778→9776)
+  PAIR         "© Bank of America Corporation. All right"  Δy -2px (9823→9821)
+  PAIR         "2026"  Δy -2px (9826→9824)
+  PAIR         "MAP8839938-10082027 | LP-01-26-2423"  Δy -2px (9899→9897)
+
+✗ 24 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

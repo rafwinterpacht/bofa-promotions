@@ -1,0 +1,89 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-13T16:45:03.325Z",
+  "input": "stardust/current/_dynamics.json",
+  "martech": "stardust/martech"
+ },
+ "productionHosts": [
+  "promotions.bankofamerica.com"
+ ],
+ "consent": {
+  "cmp": {
+   "vendor": "OneTrust",
+   "src": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+   "attrs": {
+    "data-domain-script": "6ba00e9c-679a-491c-bd2d-7c496f18a053"
+   },
+   "groups": "OnetrustActiveGroups",
+   "event": "OneTrustGroupsUpdated",
+   "viaTagManager": false,
+   "enabled": false
+  },
+  "model": "owner-decision",
+  "categories": [],
+  "ruleSets": 0,
+  "consentMode": {
+   "pages": 0,
+   "of": 3,
+   "libraries": [
+    "tags/www.googletagmanager.com-js-G-6KEPN1V5EM.js",
+    "tags/www.googletagmanager.com-js-G-R1YNK5WY2C.js",
+    "tags/www.googletagmanager.com-js-G-NNP0RK1XHF.js"
+   ]
+  }
+ },
+ "routes": [
+  {
+   "id": "google-tag-manager-1",
+   "vendor": "Google Tag Manager",
+   "src": "https://www.googletagmanager.com/gtag/js?id=G-NNP0RK1XHF&l=gDataLayer&cx=c",
+   "boot": "gtag",
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  },
+  {
+   "id": "google-tag-manager-2",
+   "vendor": "Google Tag Manager",
+   "src": "https://www.googletagmanager.com/gtag/js?id=AW-1054100448",
+   "boot": "gtag",
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  },
+  {
+   "id": "tealium",
+   "vendor": "Tealium",
+   "src": "https://tags.tiqcdn.com/utag/bofa/mcoe/prod/utag.js",
+   "boot": null,
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  }
+ ],
+ "otherTags": [
+  "marketing: ad / retargeting pixel"
+ ],
+ "tagManagers": [
+  "Google Tag Manager",
+  "Tealium"
+ ],
+ "dataLayers": [
+  "adobeDataLayer",
+  "dataLayer",
+  "digitalData",
+  "utag_data",
+  "gDataLayer"
+ ],
+ "tagNotes": {},
+ "rewrite": {
+  "library": null,
+  "rules": [],
+  "dataElements": [],
+  "dataLayer": [],
+  "dataLayerPaths": []
+ },
+ "aemMartech": null,
+ "target": null
+}

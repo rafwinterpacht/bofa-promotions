@@ -1,0 +1,761 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:25:01.315Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-deals",
+  "url": "https://promotions.bankofamerica.com/en/deals.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:25:01.315Z",
+  "finalUrl": "https://promotions.bankofamerica.com/en/deals",
+  "title": "Cash Back Deals Every Day with Bank of America",
+  "description": "Enjoy cash back deals every day as a Bank of America customer by shopping your favorite brands and using your eligible Bank of America credit or debit card.",
+  "og": {
+    "title": "Cash back deals every day with BankAmeriDeals®",
+    "description": "As a Bank of America customer, get cash back, discounts and more just by shopping your favorite brands.",
+    "image": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Cash back deals — tailored to you"
+    },
+    {
+      "tag": "h2",
+      "text": "Top Brands"
+    },
+    {
+      "tag": "h3",
+      "text": "Explore deals tailored to you from easy-to search categories like Travel, Retail, Health & Beauty, Entertainment and more.1"
+    },
+    {
+      "tag": "h2",
+      "text": "Cash back made simple"
+    },
+    {
+      "tag": "h3",
+      "text": "CLICK"
+    },
+    {
+      "tag": "h3",
+      "text": "SHOP"
+    },
+    {
+      "tag": "h3",
+      "text": "EARN"
+    },
+    {
+      "tag": "h2",
+      "text": "Stack your rewards"
+    },
+    {
+      "tag": "h2",
+      "text": "Daily Essentials"
+    },
+    {
+      "tag": "h2",
+      "text": "Special event deals"
+    },
+    {
+      "tag": "h3",
+      "text": "June"
+    },
+    {
+      "tag": "h3",
+      "text": "July"
+    },
+    {
+      "tag": "h3",
+      "text": "August"
+    },
+    {
+      "tag": "h3",
+      "text": "October"
+    },
+    {
+      "tag": "h3",
+      "text": "December"
+    },
+    {
+      "tag": "h2",
+      "text": "Exclusive deals for BofA RewardsTM members"
+    },
+    {
+      "tag": "h2",
+      "text": "Check your deals — here's how:"
+    },
+    {
+      "tag": "h2",
+      "text": "Cash back deals are an exclusive benefit for Bank of America credit and debit card holders.1"
+    },
+    {
+      "tag": "h3",
+      "text": "Don't have a Bank of America credit or debit card?"
+    },
+    {
+      "tag": "h3",
+      "text": "Not enrolled in Mobile or Online Banking?"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What is the cash back deals program?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do I earn rewards with cash back deals?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do cash back deals differ from my credit card rewards?"
+    },
+    {
+      "tag": "h3",
+      "text": "What Bank of America cards are considered not eligible to earn rewards from cash back deals?"
+    },
+    {
+      "tag": "h3",
+      "text": "If I have a joint account, what happens with my deals?"
+    }
+  ],
+  "body": [
+    "As a Bank of America customer, get cash back, discounts and more with deals from thousands of top brands, personalized to you.",
+    "Here are some brands that have been featured:",
+    "Pick deals from your list of offers in Mobile2 or Online Banking.",
+    "Pay with your eligible Bank of America credit or debit card.1",
+    "Your account will be credited with the cash back you've earned.3",
+    "Your cash back is on top of any other cash back, discounts or rewards your eligible Bank of America credit card may offer.",
+    "Discover limited-time deals on everyday essentials like gas, lunch or coffee.",
+    "These deals are only available for a few hours — check back often so you don't miss out!",
+    "FIFA World Cup 2026TM",
+    "Sizzling Summer",
+    "Road Trip",
+    "Back to School",
+    "Cool Tech, Hot Savings",
+    "Double Days",
+    "Spooky Deals",
+    "November",
+    "Black Friday",
+    "National Cash Back Day",
+    "HoliDeals",
+    "BofA RewardsTM members get access to premium deals. Not a member? It's free to join, you just need a BofA personal checking account.4"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "En español",
+      "href": "https://promotions.bankofamerica.com/es/deals.html"
+    },
+    {
+      "label": "Not a customer? Open an account today.",
+      "href": "https://promo.bankofamerica.com/hp-oaa2/"
+    },
+    {
+      "label": "VIEW YOUR DEALS",
+      "href": "https://www.bankofamerica.com/deeplink/redirect.go?target=deals_newest&screen=Deals:Entry&SortedBy=Newest&version=7.1.0"
+    },
+    {
+      "label": "View your deals",
+      "href": "https://www.bankofamerica.com/deeplink/redirect.go?target=deals_newest&screen=Deals:Entry&SortedBy=Newest&version=7.1.0"
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-1279581369"
+    },
+    {
+      "label": "2",
+      "href": "#disclosure-1372637601"
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-1279581369"
+    },
+    {
+      "label": "3",
+      "href": "#disclosure-73991137"
+    },
+    {
+      "label": "View your deals",
+      "href": "https://www.bankofamerica.com/deeplink/redirect.go?target=deals_newest&screen=Deals:Entry&SortedBy=Newest&version=7.1.0"
+    },
+    {
+      "label": "4",
+      "href": "#disclosure-1553673808"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://info.bankofamerica.com/en/rewards/bofa-rewards"
+    },
+    {
+      "label": "icon_right",
+      "href": null
+    },
+    {
+      "label": "icon_left",
+      "href": null
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "3",
+      "href": null
+    },
+    {
+      "label": "4",
+      "href": null
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-1279581369"
+    },
+    {
+      "label": "Open an account",
+      "href": "https://promo.bankofamerica.com/hp-oaa2/"
+    },
+    {
+      "label": "Enroll now",
+      "href": "https://www.bankofamerica.com"
+    },
+    {
+      "label": "Expand all",
+      "href": "#"
+    },
+    {
+      "label": "What is the cash back deals program?",
+      "href": null
+    },
+    {
+      "label": "How do I earn rewards with cash back deals?",
+      "href": null
+    },
+    {
+      "label": "How do cash back deals differ from my credit card rewards?",
+      "href": null
+    },
+    {
+      "label": "What Bank of America cards are considered not eligible to earn rewards from cash back deals?",
+      "href": null
+    },
+    {
+      "label": "If I have a joint account, what happens with my deals?",
+      "href": null
+    },
+    {
+      "label": "1",
+      "href": "#footnote-1279581369-0"
+    },
+    {
+      "label": "2",
+      "href": "#footnote-1372637601-0"
+    },
+    {
+      "label": "3",
+      "href": "#footnote-73991137-0"
+    },
+    {
+      "label": "Deals homepage",
+      "href": "https://bankofamerica.com/deals"
+    },
+    {
+      "label": "4",
+      "href": "#footnote-1553673808-0"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Security",
+      "href": "https://web.bankofamerica.com/en/security"
+    },
+    {
+      "label": "Advertising Practices",
+      "href": "#"
+    },
+    {
+      "label": "Children's Privacy",
+      "href": "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "#lot"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "#lot"
+    },
+    {
+      "label": "Equal Housing Lender",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup"
+    }
+  ],
+  "links": [
+    "https://promotions.bankofamerica.com/en/deals#",
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices",
+    "https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US",
+    "https://promotions.bankofamerica.com/en/deals#main-content",
+    "https://promotions.bankofamerica.com/es/deals.html",
+    "https://www.bankofamerica.com/",
+    "https://promo.bankofamerica.com/hp-oaa2/",
+    "https://www.bankofamerica.com/deeplink/redirect.go?target=deals_newest&screen=Deals:Entry&SortedBy=Newest&version=7.1.0",
+    "https://promotions.bankofamerica.com/en/deals#disclosure-1279581369",
+    "https://promotions.bankofamerica.com/en/deals#disclosure-1372637601",
+    "https://promotions.bankofamerica.com/en/deals#disclosure-73991137",
+    "https://promotions.bankofamerica.com/en/deals#disclosure-1553673808",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards",
+    "https://promotions.bankofamerica.com/en/deals#footnote-1279581369-0",
+    "https://promotions.bankofamerica.com/en/deals#footnote-1372637601-0",
+    "https://promotions.bankofamerica.com/en/deals#footnote-73991137-0",
+    "https://bankofamerica.com/deals",
+    "https://promotions.bankofamerica.com/en/deals#footnote-1553673808-0",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://promotions.bankofamerica.com/en/deals#lot",
+    "https://www.bankofamerica.com/help/equalhousing-popup",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.onetrust.com/solutions/consent-and-preferences/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/brandsCount_Left_1440x500.gif",
+        "alt": "Dunkin, Best Buy, CVS, Sephora, Nike, Lyft, Macy's, Walmart",
+        "w": 1440,
+        "h": 500
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/brandsCount_Right_1440x500.gif",
+        "alt": "Expedia, The Home Depot, Fanatics, Lyft, Lululemon, McDonald's, Dunkin, Best Buy",
+        "w": 1440,
+        "h": 500
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/assets-corporate/icons/bofa_icon_scroll2_186rgb.svg",
+        "alt": "scroll",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/assets-corporate/icons/bofa_icon_card2_186rgb.svg",
+        "alt": "credit card",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/assets-corporate/icons/bofa_icon_accounts2_186rgb.svg",
+        "alt": "dollar sign",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/gettyimages-2217760282-1440x490.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 490
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/deposits/onboarding/bofa_rewards_rgb_center.png",
+        "alt": "BofA Rewards",
+        "w": 2354,
+        "h": 330
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/carousel-art/app_carousel-4-dt-1440x692-april-2026.jpg",
+        "alt": "Earn. You get your cash back within 30 days. Screenshot of the Bank of America app with screen showing cash back earned, paid and pending.",
+        "w": 1440,
+        "h": 692
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/carousel-art/app_carousel-1-dt-1440x692-april-2026.jpg",
+        "alt": "Open the app, then scroll down and find deals. Screenshot of the Bank of America app on the \"Accounts\" screen with the BankAmeriDeals section near the bottom.",
+        "w": 1440,
+        "h": 692
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/carousel-art/app_carousel-2-sept-25.jpg",
+        "alt": "Click, then pick the deals you like. Screenshot of the Bank of America app on the \"Deals\" popup screen showing various offers. ",
+        "w": 1440,
+        "h": 692
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/carousel-art/app_carousel-3-dt-1440x692-april-2026.jpg",
+        "alt": "Shop. Shop online and in-store to get cash back, instant discounts, coupon codes and more. Screenshot of the Bank of America app with an offer detail.",
+        "w": 1440,
+        "h": 692
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/carousel-art/app_carousel-4-dt-1440x692-april-2026.jpg",
+        "alt": "Earn. You get your cash back within 30 days. Screenshot of the Bank of America app with screen showing cash back earned, paid and pending.",
+        "w": 1440,
+        "h": 692
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/carousel-art/app_carousel-1-dt-1440x692-april-2026.jpg",
+        "alt": "Open the app, then scroll down and find deals. Screenshot of the Bank of America app on the \"Accounts\" screen with the BankAmeriDeals section near the bottom.",
+        "w": 1440,
+        "h": 692
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/card-790x540-dt.jpg",
+        "alt": "",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/mobile-bank-phone-790x540-dt.jpg",
+        "alt": "",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+        "alt": "Bank of America Logo ",
+        "w": 849,
+        "h": 84
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/GettyImages-1440137255-mh-dt-1028X500.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/GettyImages-2183115577-509x339.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/GettyImages-2166886876-509x339.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/GettyImages-1965118672-509x339.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/bankamerideals/gettyimages-2217760282-1440x490.jpg"
+    ],
+    "modals": [
+      "× Important notice: You are now leaving a Bank of America website. By clicking Continue you will be taken to a website that is not affiliated with Bank of America and may offer a different privacy policy and level of security. Bank of America is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use. You can click the Continue button to proceed or the Cancel button to return to the previous page. Continue Cancel Advertising Practices We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that. Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the Digital Advertising Alliance or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs. content additional copy",
+      "Your Privacy ChoicesOpt-Out Request HonoredYour Privacy ChoicesYour Privacy ChoicesCalifornia Notice of Right to Opt-Out from Sale/SharingSharing and Selling of Personal DataYour Privacy ChoicesThis feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us. Local Privacy Notices and Requirements The Privacy Choices displayed are specific to your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the Opens in a new windowInstitutional Privacy and the Opens in a new windowConsumer Privacy pages. Marketing Preferences To manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our Opens in a new windowPrivacy Page. California Residents To learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection. California Notice of Right to Opt-Out from Sale/SharingAlways ActiveBank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. Bank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. How to opt-out of sharing your information: We offer two (2) methods for opting out: 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests. An authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.Sharing and Selling of Personal Data Sharing and Selling of Personal Data Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information. By switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities. If you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. At any time, you may change your preference setting using the toggle bar. Any manual adjustment will override previous settings. Back ButtonCookie List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave SettingsReject All Allow All"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--type-display-inline--alt-glyphs": "styleset(raised-baseline)",
+    "--connections-inline": "\"connections inline alts\",\"connections inline\",\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--connections": "\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--background-color": "#fff",
+    "--highlight-color": "#000",
+    "--secondary-color": "#000",
+    "--main-text-color": "#000",
+    "--interaction-color": "#2f42ff",
+    "--focus-outline-color": "#2f42ff",
+    "--divider-color": "rgba(0,0,0,.24)",
+    "--border-color": "rgba(0,0,0,.24)",
+    "--accordion-subtext-color": "#000",
+    "--unity-grid--col-gap": "2rem",
+    "--unity-grid--row-gap": "1.5rem",
+    "--unity-screen-padding-x": "4rem",
+    "--uc-nav-height": "0",
+    "--red-120": "#4f011d",
+    "--red-110": "#780032",
+    "--red-100": "#94002b",
+    "--red-90": "#c41230",
+    "--red-80": "#e31837",
+    "--red-20": "#ffe6e3",
+    "--blue-120": "#001543",
+    "--blue-110": "#012169",
+    "--blue-100": "#0d1ba7",
+    "--blue-90": "#1d2ecf",
+    "--blue-30": "#cedfff",
+    "--blue-20": "#dfeaff",
+    "--blue-10": "#f3f6ff",
+    "--neutral-10": "#f7f4f4",
+    "--neutral-20": "#f3f0f0",
+    "--neutral-30": "#edeaea",
+    "--white": "#fff",
+    "--frost-light-48": "hsla(0,0%,100%,.48)",
+    "--frost-light-64": "hsla(0,0%,100%,.64)",
+    "--frost-light-72": "hsla(0,0%,100%,.72)",
+    "--frost-dark-48": "rgba(0,0,0,.48)",
+    "--frost-dark-64": "rgba(0,0,0,.64)",
+    "--frost-dark-72": "rgba(0,0,0,.72)",
+    "--uc-zalc-zones": "3",
+    "--backdrop-filter": "none",
+    "--dynamic-color": "#919191",
+    "--features-hex-color": "transparent",
+    "--nav-height": "0",
+    "--win-height": "0",
+    "--fdic-height": "0",
+    "--unityContentBannerHeight": "undefinedpx"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 26,
+    "mainTextLen": 6810,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a053.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/sri-hashes.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 680,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458f0/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/js/events/v10/session.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1702,
+        "hits": 1,
+        "example": "https://tilt.bankofamerica.com/7216/js/events/v10/session.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 47,
+        "hits": 2,
+        "example": "https://tilt.bankofamerica.com/7216/3233584533156520955/js/events/v10/jsEvent.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 14190,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 3142,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "smetrics.bankofamerica.com",
+        "path": "/ee/or2/v1/interact",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 4,
+        "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "privacyportal-bofa.my.onetrust.com",
+        "path": "/request/v1/consentreceipts",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://privacyportal-bofa.my.onetrust.com/request/v1/consentreceipts",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 14
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "storage.glancecdn.net",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [
+      {
+        "marker": "modal-exit--continue",
+        "href": "#"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://youradchoices.com/control"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.networkadvertising.org/choices"
+      },
+      {
+        "marker": "not-modal",
+        "href": null
+      },
+      {
+        "marker": "show__modal",
+        "href": "#"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.onetrust.com/solutions/consent-and-preferences/"
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 3,
+      "thirdPartyEndpoints": 9,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-deals.png",
+  "renderedHtml": "pages/en-deals.html",
+  "crawlSlug": "en-deals-html"
+}

@@ -1,0 +1,638 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-13T15:50:00Z",
+    "stardustVersion": "0.38.2",
+    "readArtifacts": [
+      "stardust/current/_computed-styles.json",
+      "stardust/current/pages/*.json"
+    ],
+    "synthesizedInputs": []
+  },
+  "name": "Bank of America Promotions (current state)",
+  "colors": {
+    "background": "#ffffff",
+    "surface": "#ededed",
+    "text": "#000000",
+    "primary": "#e31837",
+    "primary-hover": "#c41230",
+    "primary-deep": "#ae132a",
+    "secondary": "#012169",
+    "accent-link": "#0053c2",
+    "border": "#d5d5d5",
+    "muted": "#919191"
+  },
+  "typography": {
+    "family": "Connections, Arial, sans-serif",
+    "h1": {
+      "fontSize": "48px",
+      "fontWeight": 100
+    },
+    "h2": {
+      "fontSize": "48px",
+      "fontWeight": 100
+    },
+    "h3": {
+      "fontSize": "22px",
+      "fontWeight": 700
+    },
+    "display": {
+      "fontSize": "56px"
+    },
+    "body": {
+      "fontSize": "16px"
+    },
+    "cta": {
+      "fontSize": "24px"
+    }
+  },
+  "rounded": {
+    "card": "35px",
+    "card-alt": "32px",
+    "pill": "50%"
+  },
+  "shadows": [
+    "rgba(0, 0, 0, 0.25) 0px 2px 4px 0px",
+    "rgb(210, 202, 202) 0px 0px 16px 0px"
+  ],
+  "components": {
+    "cta-primary": {
+      "background": "#e31837",
+      "color": "#ffffff"
+    },
+    "link": {
+      "color": "#0053c2"
+    }
+  },
+  "extensions": {
+    "source": "computed-style census, 6 live pages x 1440/360 (stardust/current/_computed-styles.json aggregate)",
+    "fontLicensing": "Connections is Bank of America's proprietary licensed typeface, served from the source origin under /etc.clientlibs; not rehosted",
+    "consent": {
+      "vendor": "OneTrust (cdn.cookielaw.org)",
+      "dismiss": ".onetrust-close-btn-handler"
+    },
+    "modules": [
+      {
+        "name": "masthead",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--masthead",
+        "instances": 6,
+        "pages": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals(masthead-v3)",
+          "deposits-balanceconnect",
+          "deposits-growyoursavings",
+          "deposits-debitcard-overview",
+          "deposits-growyoursavings-cd-ira"
+        ]
+      },
+      {
+        "name": "content-tile",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--content-tile",
+        "instances": 3,
+        "pages": [
+          "deposits-balanceconnect",
+          "deposits-growyoursavings",
+          "deposits-growyoursavings-cd-ira"
+        ]
+      },
+      {
+        "name": "features",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--features",
+        "instances": 4,
+        "pages": [
+          "en-deals",
+          "deposits-balanceconnect",
+          "deposits-debitcard-overview",
+          "deposits-growyoursavings-cd-ira"
+        ]
+      },
+      {
+        "name": "multi-step-content",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--multi-step-content",
+        "instances": 2,
+        "pages": [
+          "en-offers-chooseyourchecking500tiered",
+          "deposits-growyoursavings"
+        ]
+      },
+      {
+        "name": "product-details",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--product-details",
+        "instances": 2,
+        "pages": [
+          "en-offers-chooseyourchecking500tiered",
+          "deposits-growyoursavings-cd-ira"
+        ]
+      },
+      {
+        "name": "tiles",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--tiles",
+        "instances": 3,
+        "pages": [
+          "en-deals",
+          "deposits-debitcard-overview",
+          "deposits-growyoursavings-cd-ira"
+        ]
+      },
+      {
+        "name": "content-banner",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--content-banner",
+        "instances": 2,
+        "pages": [
+          "en-deals",
+          "deposits-debitcard-overview"
+        ]
+      },
+      {
+        "name": "preferred-cards",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--preferred-cards",
+        "instances": 2,
+        "pages": [
+          "en-deals",
+          "deposits-debitcard-overview"
+        ]
+      },
+      {
+        "name": "cta-banner",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--cta-banner",
+        "instances": 2,
+        "pages": [
+          "deposits-balanceconnect",
+          "deposits-growyoursavings-cd-ira"
+        ]
+      },
+      {
+        "name": "long-form-text",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--long-form-text",
+        "instances": 3,
+        "pages": [
+          "en-deals",
+          "deposits-growyoursavings",
+          "deposits-debitcard-overview"
+        ]
+      },
+      {
+        "name": "simple-image",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--simple-image",
+        "instances": 2,
+        "pages": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals"
+        ]
+      },
+      {
+        "name": "content-card",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--content-card",
+        "instances": 1,
+        "pages": [
+          "en-offers-chooseyourchecking500tiered"
+        ]
+      },
+      {
+        "name": "content-carousel",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--content-carousel",
+        "instances": 1,
+        "pages": [
+          "en-deals"
+        ]
+      },
+      {
+        "name": "accordion",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--accordion",
+        "instances": 1,
+        "pages": [
+          "en-deals"
+        ]
+      },
+      {
+        "name": "image-with-text-offset",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--image-with-text-offset",
+        "instances": 1,
+        "pages": [
+          "deposits-growyoursavings"
+        ]
+      },
+      {
+        "name": "mobile-app",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--mobile-app",
+        "instances": 1,
+        "pages": [
+          "deposits-debitcard-overview"
+        ]
+      },
+      {
+        "name": "generic-modal",
+        "status": "candidate",
+        "signal": "AEM component wrapper class aem-wrap--generic-modal",
+        "instances": 1,
+        "pages": [
+          "en-offers-chooseyourchecking500tiered (6 experience-fragment modals)"
+        ]
+      }
+    ],
+    "breakpoints": {
+      "containerMaxWidth": "1440px",
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1440,
+          "via": "max-width",
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1300,
+          "via": "max-width",
+          "selector": "#products > div.product-details__sticky.not-modal > div.product-details__stickyWrapper",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1200,
+          "via": "fixed",
+          "selector": "div.aem-wrap--content-banner.aem-GridColumn > uc-content-banner.uc-component.uc-content-banner > div.uc-grid.uc-grid--cols-6--medium > div.uc-grid.uc-grid--col-span-6--medium",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/deals.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1068,
+          "via": "max-width",
+          "selector": "#offer > div.section__wrapper.multi-step-content__wrapper",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1047,
+          "via": "fixed",
+          "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 980,
+          "via": "max-width",
+          "selector": "#offer > div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__subcopy.text",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 936,
+          "via": "fixed",
+          "selector": "uc-heading-group.uc.uc-component > div.uc-heading__subheadline > p > span.uc-headline--sm",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/deals.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 900,
+          "via": "fixed",
+          "selector": "div.section__wrapper.long-form-text__wrapper > div.text.js-initialized > p > span.color-reverse",
+          "pages": [
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 835,
+          "via": "fixed",
+          "selector": "#image-with-text-offset > div.image-with-text-offset__wrapper",
+          "pages": [
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 713,
+          "via": "fixed",
+          "selector": "#masthead > div.container.section__wrapper > div.masthead__section",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 685,
+          "via": "fixed",
+          "selector": "#bofa-rewards > div.uc-card__container > div.uc-card__container-text",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 647,
+          "via": "fixed",
+          "selector": "#preferred-cards > div.container.section__wrapper > div.preferred-cards__cardWrapper.card-outline > div.preferred-cards__cardContent.content-center",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/deals.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 606,
+          "via": "fixed",
+          "selector": "div.container.section__wrapper > div.masthead__section > div.masthead__section-upper > div.masthead__copy.text",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 557,
+          "via": "fixed",
+          "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+          "pages": [
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 522,
+          "via": "fixed",
+          "selector": "uc-heading-group.uc.uc-component > div.uc-heading__subheadline > p > span.uc-headline--sm",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 489,
+          "via": "fixed",
+          "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+          "pages": [
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 437,
+          "via": "fixed",
+          "selector": "#product-details__productItem--1",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 415,
+          "via": "fixed",
+          "selector": "div.masthead__section-upper > div.masthead__heading > h1.masthead__heading--copy.text-black > b",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 387,
+          "via": "fixed",
+          "selector": "div.masthead__section-upper > div.masthead__heading > p.masthead__heading--lead > span",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 350,
+          "via": "max-width",
+          "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon",
+          "pages": [
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 325,
+          "via": "fixed",
+          "selector": "div.bg-white.outline > div.product-details__productDesc.text > p > a.t-track-body-copy-link",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 300,
+          "via": "max-width",
+          "selector": "div.bg-white.outline > div.bg-gray > div.product-details__productCTA > a.cta.cta__desktop",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 260,
+          "via": "fixed",
+          "selector": "div.container.section__wrapper > div.masthead__section > div.masthead__section-lower > a.cta.cta__desktop",
+          "pages": [
+            "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "https://promotions.bankofamerica.com/en/deals.html",
+            "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+          "section": 0,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+          "section": 1,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--product-details.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+          "section": 2,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--multi-step-content.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+          "section": 3,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-GridColumn.aem-GridColumn--default--12",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 0,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 1,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--long-form-text.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 2,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 3,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--features.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 4,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--background.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 5,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 6,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 7,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 8,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--storyblock.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 9,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 10,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-carousel.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 11,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--tiles.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 12,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/en/deals.html",
+          "section": 13,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--accordion.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+          "section": 0,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+          "section": 1,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+          "section": 2,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+          "section": 3,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+          "section": 4,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        },
+        {
+          "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+          "section": 5,
+          "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+          "px": 1440
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-13T15:34:57.903Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+          "https://promotions.bankofamerica.com/en/deals.html",
+          "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+        ]
+      }
+    }
+  }
+}

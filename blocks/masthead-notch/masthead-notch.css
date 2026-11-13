@@ -1,0 +1,116 @@
+/* masthead-notch — hero image + notch card (source .masthead with card, uc-* sizes) */
+.masthead-notch .masthead-notch-media {
+  position: relative;
+  height: 600px;
+  background-color: var(--color-white);
+}
+
+.masthead-notch .masthead-notch-img,
+.masthead-notch .masthead-notch-img picture {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+.masthead-notch .masthead-notch-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: 50% 0;
+}
+
+.masthead-notch .masthead-notch-desktop {
+  display: none;
+}
+
+.masthead-notch .masthead-notch-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: 0;
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.masthead-notch .masthead-notch-card {
+  position: relative;
+  z-index: 10;
+  grid-column: 1 / -1;
+  margin-top: -5rem;
+  padding: 3rem;
+  border-radius: 12px;
+  background: var(--color-white);
+  box-shadow:
+    0 68px 19px 0 rgb(0 0 0 / 0%),
+    0 43px 17px 0 rgb(0 0 0 / 1%),
+    0 24px 15px 0 rgb(0 0 0 / 5%),
+    0 11px 11px 0 rgb(0 0 0 / 9%),
+    0 3px 6px 0 rgb(0 0 0 / 10%);
+  text-align: center;
+}
+
+.masthead-notch .masthead-notch-heading :is(h1, h2, h3) {
+  margin: 0;
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: 3rem;
+  font-weight: 100;
+  line-height: 1.25;
+}
+
+.masthead-notch .masthead-notch-sub {
+  margin: 1rem 0;
+}
+
+/* source: a 20px light span inside a 16px/1.5 paragraph = 26px line pitch below 1088px */
+.masthead-notch .masthead-notch-sub p {
+  margin: 0;
+  line-height: 1.3;
+}
+
+.masthead-notch .masthead-notch-cta {
+  padding-left: 10px;
+  text-align: center;
+}
+
+@media (width >= 640px) {
+  .masthead-notch .masthead-notch-grid {
+    column-gap: 2rem;
+    padding: 0 4rem;
+  }
+
+  .masthead-notch .masthead-notch-desktop {
+    display: block;
+  }
+
+  .masthead-notch .masthead-notch-mobile {
+    display: none;
+  }
+
+  .masthead-notch .masthead-notch-img img {
+    object-fit: cover;
+    object-position: 50% 50%;
+  }
+}
+
+@media (width >= 1024px) {
+  .masthead-notch .masthead-notch-card {
+    grid-column: 2 / 12;
+  }
+}
+
+@media (width >= 1088px) {
+  .masthead-notch .masthead-notch-heading :is(h1, h2, h3) {
+    font-size: 3.5rem;
+    line-height: 1.125;
+  }
+
+  .masthead-notch .masthead-notch-sub {
+    margin: 18px 0;
+  }
+
+  .masthead-notch .masthead-notch-sub p {
+    line-height: 1.25;
+  }
+}

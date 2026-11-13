@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:29:34.725Z",
+    "waitMode": "modal-click",
+    "waitMs": 1431,
+    "httpStatus": 200,
+    "note": "experience fragment: direct navigation 302s to an error page on the source; captured as rendered in its host page modal (click on the offer page link), content from the modal service endpoint"
+  },
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+  "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:29:34.725Z",
+  "finalUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+  "kind": "modal-fragment",
+  "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "serviceUrl": "https://promotions.bankofamerica.com/services/consumer-marketing/modalitem.xf_path./content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master",
+  "serviceJson": {
+    "modalType": "additional-info",
+    "rteMarkup": "<h2>Qualifying Direct Deposit</h2>\n<p><span class=\"horizontal-line\">&nbsp;</span></p>\n<p>A “<b>Qualifying Direct Deposit</b>” is a direct deposit of regular monthly income — such as your salary, pension or Social Security benefits, which are made by your employer or other payer — using account and routing numbers that you provide to them. Examples of <b>non-qualifying</b> transfers and deposits include the following: teller deposits, wire transfers, debit card transfers, ATM transfers or deposits, Online and Mobile Banking transfers or deposits, or transfers from a bank or brokerage account or Merrill investment account.</p>",
+    "modalId": 1482701408,
+    "modalSize": " ",
+    "alignment": " ",
+    "ariaLabel": "Qualifying Direct Deposit"
+  },
+  "title": "Qualifying Direct Deposit",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Qualifying Direct Deposit"
+    }
+  ],
+  "body": [
+    "A “Qualifying Direct Deposit” is a direct deposit of regular monthly income — such as your salary, pension or Social Security benefits, which are made by your employer or other payer — using account and routing numbers that you provide to them. Examples of non-qualifying transfers and deposits include the following: teller deposits, wire transfers, debit card transfers, ATM transfers or deposits, Online and Mobile Banking transfers or deposits, or transfers from a bank or brokerage account or Merrill investment account."
+  ],
+  "ctas": [],
+  "text": "Qualifying Direct Deposit\n \nA “Qualifying Direct Deposit” is a direct deposit of regular monthly income — such as your salary, pension or Social Security benefits, which are made by your employer or other payer — using account and routing numbers that you provide to them. Examples of non-qualifying transfers and deposits include the following: teller deposits, wire transfers, debit card transfers, ATM transfers or deposits, Online and Mobile Banking transfers or deposits, or transfers from a bank or brokerage account or Merrill investment account.",
+  "screenshot": "assets/screenshots/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master.png",
+  "renderedHtml": "pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master.html",
+  "crawlSlug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master-html"
+}

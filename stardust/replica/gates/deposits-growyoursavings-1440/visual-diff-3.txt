@@ -1,0 +1,416 @@
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/deposits-growyoursavings-1440/vdiff-3/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 3568,
+  "textLen": 2253,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "245x44",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_desktop-tablet-790x540.jpg",
+    "natural": "790x540",
+    "rendered": "720x492",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_compass.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_spending.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_time.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_desktop-tablet-790x540.png",
+    "natural": "790x540",
+    "rendered": "720x492",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_insurance.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BOA.PNG",
+    "natural": "849x84",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "What are you saving for? We can ",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to waive the monthly mainte",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Here’s how you can start saving ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 1 — Create a Life Plan",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 2 — Track your spending",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 3 — Set a timetable",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to Save",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Keep the Change®6",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Automatic Transfers",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Split Direct Deposits",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Help stay on track with Better M",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "container",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "row",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "multi-step-content__subcopy",
+    "width": 980,
+    "left": 230
+   },
+   {
+    "sel": "row",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "image-with-text-offset",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "text",
+    "width": 1068,
+    "left": 186
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 3568,
+  "textLen": 2253,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "245x44",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_desktop-tablet-790x540.jpg",
+    "natural": "790x540",
+    "rendered": "720x492",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_compass.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_spending.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_time.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_desktop-tablet-790x540.png",
+    "natural": "790x540",
+    "rendered": "720x492",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_insurance.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "What are you saving for? We can ",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to waive the monthly mainte",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Here’s how you can start saving ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 1 — Create a Life Plan",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 2 — Track your spending",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 3 — Set a timetable",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to Save",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Keep the Change®6",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Automatic Transfers",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Split Direct Deposits",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Help stay on track with Better M",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "masthead__wrapper",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "content-tile__row",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "multi-step-content__list",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "content-tile__row",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "image-with-text-offset",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "long-form-text__wrapper",
+    "width": 1068,
+    "left": 186
+   }
+  ]
+ }
+}

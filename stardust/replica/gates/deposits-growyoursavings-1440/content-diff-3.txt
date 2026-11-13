@@ -1,0 +1,22 @@
+[live-session] waiting to pace live navigations to promotions.bankofamerica.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 923 ms
+
+Content diff @ 1440px (profile "generic", roots: #main-content, header, footer)
+root "#main-content"
+  source: 43 text nodes — 5 headings, 0 eyebrows, 15 CTAs, 23 body; 6 img
+  build: 43 text nodes — 11 headings, 0 eyebrows, 15 CTAs, 17 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 20 / build 20
+  attributes (placeholder/aria-label/title): source 9 / build 9; icons: source 8 / build 8
+  accepted (invisible, nothing lost): 6 ROLE UPGRADE body → heading — "Ways to waive the monthly maintenance fe", "Step 1 — Create a Life Plan", "Step 2 — Track your spending", "Step 3 — Set a timetable" …
+root "header"
+  source: 34 text nodes — 2 headings, 0 eyebrows, 21 CTAs, 11 body; 1 img
+  build: 34 text nodes — 2 headings, 0 eyebrows, 21 CTAs, 11 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 11 / build 11
+  attributes (placeholder/aria-label/title): source 12 / build 12; icons: source 7 / build 7
+root "footer"
+  source: 39 text nodes — 0 headings, 0 eyebrows, 22 CTAs, 17 body; 1 img
+  build: 39 text nodes — 0 headings, 0 eyebrows, 22 CTAs, 17 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 10 / build 10
+  attributes (placeholder/aria-label/title): source 20 / build 20; icons: source 1 / build 1
+
+Findings: none — content + roles match
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 6 (owner 0, auto 6) · advisory 0

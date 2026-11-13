@@ -1,0 +1,626 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:25:47.146Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "deposits-growyoursavings-cd-ira",
+  "url": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:25:47.146Z",
+  "finalUrl": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira",
+  "title": "CDs/IRAs | Bank of America",
+  "description": "CDs/IRAs",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "We’re here to help you find the best savings option!"
+    },
+    {
+      "tag": "h2",
+      "text": "CDs and IRAs offer guaranteed rates, low opening minimums and a variety of terms."
+    },
+    {
+      "tag": "h2",
+      "text": "Certificate of Deposit (CD)"
+    },
+    {
+      "tag": "h2",
+      "text": "Compare our CD Options:"
+    },
+    {
+      "tag": "h3",
+      "text": "Featured1 CD Account"
+    },
+    {
+      "tag": "h3",
+      "text": "Fixed Term2 CD Account"
+    },
+    {
+      "tag": "h3",
+      "text": "Flexible3 CD Account"
+    },
+    {
+      "tag": "h2",
+      "text": "Bank of America Individual Retirement Accounts (IRA)"
+    },
+    {
+      "tag": "h2",
+      "text": "Alternatively, you can open an investment IRA with Merrill for your future needs:"
+    },
+    {
+      "tag": "h3",
+      "text": "Investment IRAs"
+    },
+    {
+      "tag": "h2",
+      "text": "Speak to an associate for the most current CD and IRA Options:"
+    }
+  ],
+  "body": [
+    "Wherever you are in life, Bank of America's CD and IRA accounts are available to help you reach your financial goals. Now that's peace of mind.",
+    "FDIC insured: All Bank of America savings accounts, CDs and IRAs are FDIC insured up to applicable limits.",
+    "CDs have guaranteed rates until maturity.",
+    "Array of options: Explore a variety of rates and terms based on your goals.",
+    "A CD typically earns higher interest than a traditional savings account.",
+    "Enjoy the flexibility to choose terms that best match your savings objective (terms from 7 days to 10 years)",
+    "Enjoy the flexibility to choose terms that best match your savings objective (terms from 7 days to 10 years)",
+    "Guaranteed rate of return until maturity",
+    "Guaranteed rate of return until maturity",
+    "Options to choose from such as Featured,1 Fixed Term2 or Flexible3 CDs",
+    "Options to choose from such as Featured,1 Fixed Term2 or Flexible3 CDs",
+    "No annual fee",
+    "No annual fee",
+    "Lock in a promotional rate",
+    "Multiple term options available",
+    "Rates vary based on balance/term",
+    "Early withdrawal penalty applies",
+    "$1,000 minimum opening deposit",
+    "Set your preferred term",
+    "28-day to 10-year terms available",
+    "Rates vary based on balance/term",
+    "Early withdrawal penalty applies.",
+    "$1,000 minimum opening deposit",
+    "Easier access to your money",
+    "12-month term available",
+    "Early withdrawal penalty waived (except within the first 6 days of account opening or after partial withdrawal).",
+    "$1,000 minimum opening deposit",
+    "An IRA offers tax advantages. The sooner you start, the longer your money has to grow.",
+    "Enjoy the certainty of fixed rates for a term and compound interest over time with a IRA CD",
+    "Enjoy the certainty of fixed rates for a term and compound interest over time with a IRA CD",
+    "Open a Money Market IRA with a low minimum balance and the option of building your nest egg with automatic transfers",
+    "Open a Money Market IRA with a low minimum balance and the option of building your nest egg with automatic transfers",
+    "Options include Traditional, Roth,4 and SEP plans that offer tax advantages, and may be tax deductible or tax-free, based on plan5",
+    "Options include Traditional, Roth,4 and SEP plans that offer tax advantages, and may be tax deductible or tax-free, based on plan5",
+    "No annual fee or custodial fees for Bank of America IRAs* *Fees may apply for other transactions, including account closure",
+    "No annual fee or custodial fees for Bank of America IRAs*",
+    "*Fees may apply for other transactions, including account closure",
+    "Looking for a full range of investment choices? Open an IRA from Merrill and choose from a wide variety of stocks, bonds, ETFs, and well-known mutual funds."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "En español",
+      "href": "https://promotions.bankofamerica.com/es/deposits/growyoursavings/cd-ira.html"
+    },
+    {
+      "label": "Checking",
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html"
+    },
+    {
+      "label": "Savings",
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+    },
+    {
+      "label": "CDs/IRAs",
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html"
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-1235392857"
+    },
+    {
+      "label": "2",
+      "href": "#disclosure-928987784"
+    },
+    {
+      "label": "3",
+      "href": "#disclosure-1675861292"
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-1235392857"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.bankofamerica.com/deposits/bank-cds/featured-cd/?"
+    },
+    {
+      "label": "2",
+      "href": "#disclosure-928987784"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.bankofamerica.com/deposits/bank-cds/standard-term-cd/?"
+    },
+    {
+      "label": "3",
+      "href": "#disclosure-1675861292"
+    },
+    {
+      "label": "Learn More",
+      "href": "https://www.bankofamerica.com/deposits/bank-cds/flexible-cd/"
+    },
+    {
+      "label": "4",
+      "href": "#disclosure-551276878"
+    },
+    {
+      "label": "5",
+      "href": "#disclosure-1857325746"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.bankofamerica.com/deposits/iras/retirement-accounts/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.merrilledge.com/investing"
+    },
+    {
+      "label": "Schedule an appointment",
+      "href": "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=SAVELPBBA2022_ECDPLK"
+    },
+    {
+      "label": "Find a location",
+      "href": "https://locators.bankofamerica.com/"
+    },
+    {
+      "label": "bankofamerica.com",
+      "href": "https://www.bankofamerica.com/"
+    },
+    {
+      "label": "1",
+      "href": "#footnote-1235392857-0"
+    },
+    {
+      "label": "bankofamerica.com",
+      "href": "https://www.bankofamerica.com/"
+    },
+    {
+      "label": "2",
+      "href": "#footnote-928987784-0"
+    },
+    {
+      "label": "bankofamerica.com",
+      "href": "https://www.bankofamerica.com/"
+    },
+    {
+      "label": "3",
+      "href": "#footnote-1675861292-0"
+    },
+    {
+      "label": "4",
+      "href": "#footnote-551276878-0"
+    },
+    {
+      "label": "5",
+      "href": "#footnote-1857325746-0"
+    },
+    {
+      "label": "Member SIPC",
+      "href": "https://www.sipc.org/"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Security",
+      "href": "https://web.bankofamerica.com/en/security"
+    },
+    {
+      "label": "Advertising Practices",
+      "href": "#"
+    },
+    {
+      "label": "Children's Privacy",
+      "href": "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "#lot"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "#lot"
+    },
+    {
+      "label": "Equal Housing Lender",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup"
+    }
+  ],
+  "links": [
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#",
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices",
+    "https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#main-content",
+    "https://www.bankofamerica.com/",
+    "https://promotions.bankofamerica.com/es/deposits/growyoursavings/cd-ira.html",
+    "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+    "https://info.bankofamerica.com/en/rewards/bofa-rewards.html",
+    "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#disclosure-1235392857",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#disclosure-928987784",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#disclosure-1675861292",
+    "https://www.bankofamerica.com/deposits/bank-cds/featured-cd/?",
+    "https://www.bankofamerica.com/deposits/bank-cds/standard-term-cd/?",
+    "https://www.bankofamerica.com/deposits/bank-cds/flexible-cd/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#disclosure-551276878",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#disclosure-1857325746",
+    "https://www.bankofamerica.com/deposits/iras/retirement-accounts/",
+    "https://www.merrilledge.com/investing",
+    "https://secure.bankofamerica.com/mycommunications/public/appointments/getTopics.go?marketingCode=SAVELPBBA2022_ECDPLK",
+    "https://locators.bankofamerica.com/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#footnote-1235392857-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#footnote-928987784-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#footnote-1675861292-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#footnote-551276878-0",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#footnote-1857325746-0",
+    "https://www.sipc.org/",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira#lot",
+    "https://www.bankofamerica.com/help/equalhousing-popup"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_insurance_red.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_investing.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/icons/icon_interest.svg",
+        "alt": "",
+        "w": 150,
+        "h": 150
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/cd-ira-savings/content-tile/Desktop_790x540_01_C-08.jpg",
+        "alt": "",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/cd-ira-savings/content-tile/Desktop_790x540_03_C-08.jpg",
+        "alt": "",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/cd-ira-savings/content-tile/merrill_lo3_rgb_symbol.png",
+        "alt": "",
+        "w": 790,
+        "h": 240
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      }
+    ],
+    "allImgCount": 8,
+    "cssBackgrounds": [
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/grow-your-savings/cd-ira-savings/masthead/_Desktop_1440x490_MH.jpg",
+      "https://promotions.bankofamerica.com/etc.clientlibs/consumer-marketing/clientlibs/main/resources/images/flagscape-red-simp-1.0.0.svg"
+    ],
+    "modals": [
+      "× Important notice: You are now leaving a Bank of America website. By clicking Continue you will be taken to a website that is not affiliated with Bank of America and may offer a different privacy policy and level of security. Bank of America is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use. You can click the Continue button to proceed or the Cancel button to return to the previous page. Continue Cancel Advertising Practices We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that. Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the Digital Advertising Alliance or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs. content additional copy"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--type-display-inline--alt-glyphs": "styleset(raised-baseline)",
+    "--connections-inline": "\"connections inline alts\",\"connections inline\",\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--connections": "\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--background-color": "#fff",
+    "--highlight-color": "#000",
+    "--secondary-color": "#000",
+    "--main-text-color": "#000",
+    "--interaction-color": "#2f42ff",
+    "--focus-outline-color": "#2f42ff",
+    "--divider-color": "rgba(0,0,0,.24)",
+    "--border-color": "rgba(0,0,0,.24)",
+    "--accordion-subtext-color": "#000",
+    "--unity-grid--col-gap": "2rem",
+    "--unity-grid--row-gap": "1.5rem",
+    "--unity-screen-padding-x": "4rem",
+    "--uc-nav-height": "0",
+    "--red-120": "#4f011d",
+    "--red-110": "#780032",
+    "--red-100": "#94002b",
+    "--red-90": "#c41230",
+    "--red-80": "#e31837",
+    "--red-20": "#ffe6e3",
+    "--blue-120": "#001543",
+    "--blue-110": "#012169",
+    "--blue-100": "#0d1ba7",
+    "--blue-90": "#1d2ecf",
+    "--blue-30": "#cedfff",
+    "--blue-20": "#dfeaff",
+    "--blue-10": "#f3f6ff",
+    "--neutral-10": "#f7f4f4",
+    "--neutral-20": "#f3f0f0",
+    "--neutral-30": "#edeaea",
+    "--white": "#fff",
+    "--frost-light-48": "hsla(0,0%,100%,.48)",
+    "--frost-light-64": "hsla(0,0%,100%,.64)",
+    "--frost-light-72": "hsla(0,0%,100%,.72)",
+    "--frost-dark-48": "rgba(0,0,0,.48)",
+    "--frost-dark-64": "rgba(0,0,0,.64)",
+    "--frost-dark-72": "rgba(0,0,0,.72)",
+    "--uc-zalc-zones": "3",
+    "--backdrop-filter": "none",
+    "--dynamic-color": "#919191",
+    "--features-hex-color": "transparent",
+    "--nav-height": "0",
+    "--win-height": "0",
+    "--fdic-height": "0"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 2482,
+    "realImageCount": 8,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a053.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/sri-hashes.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 680,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458f0/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 3142,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 14190,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/js/events/v10/session.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1701,
+        "hits": 1,
+        "example": "https://tilt.bankofamerica.com/7216/js/events/v10/session.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 47,
+        "hits": 2,
+        "example": "https://tilt.bankofamerica.com/7216/3233584533156522494/js/events/v10/jsEvent.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "smetrics.bankofamerica.com",
+        "path": "/ee/or2/v1/interact",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 9,
+        "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 15
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "storage.glancecdn.net",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 1,
+    "triggers": [
+      {
+        "marker": "modal-exit--continue",
+        "href": "#"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://youradchoices.com/control"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.networkadvertising.org/choices"
+      },
+      {
+        "marker": "not-modal",
+        "href": null
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.sipc.org/"
+      },
+      {
+        "marker": "show__modal",
+        "href": "#"
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 3,
+      "thirdPartyEndpoints": 8,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/deposits-growyoursavings-cd-ira.png",
+  "renderedHtml": "pages/deposits-growyoursavings-cd-ira.html",
+  "crawlSlug": "deposits-growyoursavings-cd-ira-html"
+}

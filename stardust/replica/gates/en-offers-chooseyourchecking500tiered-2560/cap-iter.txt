@@ -1,0 +1,14 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered
+  modules  4 sections: capped 1440 ×4 · full-bleed ×0
+  contentMaxWidth 1440px (module) · shellMaxWidth fluid · root #main-content
+build  http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html
+  modules  4 sections: capped 1440 ×4 · full-bleed ×0
+  contentMaxWidth 1440px (module) · shellMaxWidth fluid · root #main-content
+rows
+  ✓ content cap: live 1440px = build 1440px (±20, shared module cap)
+  ✓ module 1/4: 1440px = 1440px
+  ✓ module 2/4: 1440px = 1440px
+  ✓ module 3/4: 1440px = 1440px
+  ✓ module 4/4: 1440px = 1440px
+cap-probe: PASS at 2560 — 0 of 5 rows failed (evidence stardust/replica/gates/en-offers-chooseyourchecking500tiered-2560/cap-iter.json)

@@ -1,0 +1,26 @@
+{
+  "units": {
+    "program": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "program"
+      ],
+      "pages": 3,
+      "startedAt": "2026-11-13T18:05:08.050Z",
+      "endedAt": "2026-11-13T20:13:52.501Z",
+      "verdict": "rendered 3, unchanged 0, refused 0, passthrough 0"
+    },
+    "static": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "static"
+      ],
+      "pages": 5,
+      "startedAt": "2026-11-13T18:18:18.876Z",
+      "endedAt": "2026-11-13T18:42:37.091Z",
+      "verdict": "rendered 5, unchanged 0, refused 0, passthrough 0"
+    }
+  }
+}

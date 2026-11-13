@@ -1,0 +1,78 @@
+/* brands — Top Brands intro + brand-logo strip (source .long-form-text, brand tiles) */
+.brands {
+  margin-bottom: 61px;
+  background: var(--color-white);
+}
+
+.brands .brands-text {
+  max-width: calc(1068px + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 48px var(--gutter);
+  text-align: center;
+}
+
+.brands .brands-text h2 {
+  margin: 0 0 1rem;
+  font-size: 2.5rem;
+  font-weight: 100;
+  line-height: 1.25;
+}
+
+.brands .brands-text h3 {
+  margin: 0 0 1rem;
+  font-family: var(--font-sans);
+  font-size: 1.875rem;
+  font-weight: 100;
+  line-height: 1.25;
+}
+
+.brands .brands-text p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.brands .brands-strip {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: 24px;
+}
+
+.brands .brands-item {
+  padding-bottom: 20px;
+}
+
+.brands .brands-item picture {
+  display: block;
+}
+
+.brands .brands-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (width >= 640px) {
+  .brands .brands-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 32px;
+  }
+}
+
+@media (width >= 1024px) {
+  .brands {
+    margin-bottom: 51px;
+  }
+}
+
+@media (width >= 1068px) {
+  .brands .brands-text h2 {
+    font-size: 3.5rem;
+    line-height: 1.125;
+  }
+}
+
+/* footnote references: the pipeline serves <a><sup>n</sup></a> — no underline (source) */
+.brands a:any-link:has(> sup) {
+  text-decoration: none;
+}

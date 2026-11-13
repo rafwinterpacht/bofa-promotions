@@ -1,0 +1,65 @@
+{
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+  "type": "static",
+  "renderBranch": "A'",
+  "template": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "modules": [
+    "modal-dialog"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "modal-dialog"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Bank of America Advantage SafeBalance Banking® | Bank of America",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Bank of America Advantage SafeBalance Banking® | Bank of America",
+    "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html"
+  },
+  "migratedAt": "2026-11-13T18:19:50Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "60e04ed2cef8",
+  "sourceProposedSha": "dc683d099300",
+  "fidelityTier": "sibling",
+  "archetypeSource": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "archetypeSha": "4b07541fd915",
+  "variants": [
+    "wide center blank-lines-1"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff.mjs capture fragment (stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal.html + serviceJson.additionalCopy, canon.css) vs stardust/migrated render: Tiers looks-same 🔴 0 · nothing-lost 🟡 0 (run-bg static-cdiff2); verbatim rteMarkup",
+    "media-reconcile": "n/a: no delivered content file yet (content/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html) — media-reconcile runs in the delivery chain (row C)",
+    "delivery-lint": "FAIL: 2 P0 · 2 P1 · 1 P2 (delivery-lint --path /content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal)",
+    "variance-probe": "OPEN: no verdict (exit 1) (static-var.log)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 2,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+  "outputPathDefault": null,
+  "sidecar": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal._meta.json",
+  "driverVersion": "1"
+}

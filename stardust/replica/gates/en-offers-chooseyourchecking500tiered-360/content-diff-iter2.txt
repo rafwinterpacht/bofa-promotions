@@ -1,0 +1,29 @@
+
+Content diff @ 360px (profile "generic", roots: #main-content, header, footer)
+root "#main-content"
+  source: 145 text nodes — 18 headings, 0 eyebrows, 48 CTAs, 79 body; 4 img
+  build: 141 text nodes — 18 headings, 0 eyebrows, 48 CTAs, 75 body; 4 img
+  editable texts (outermost h*/p/ul/ol): source 92 / build 80
+  attributes (placeholder/aria-label/title): source 53 / build 53; icons: source 4 / build 4
+root "header"
+  source: 32 text nodes — 2 headings, 0 eyebrows, 19 CTAs, 11 body; 1 img
+  build: 32 text nodes — 2 headings, 0 eyebrows, 19 CTAs, 11 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 11 / build 11
+  attributes (placeholder/aria-label/title): source 12 / build 12; icons: source 7 / build 7
+root "footer"
+  source: 94 text nodes — 0 headings, 0 eyebrows, 31 CTAs, 63 body; 1 img
+  build: 94 text nodes — 0 headings, 0 eyebrows, 31 CTAs, 63 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 33 / build 33
+  attributes (placeholder/aria-label/title): source 24 / build 24; icons: source 1 / build 1
+
+Findings: 9 (4 structural 🔴)
+Tiers: looks-same 🔴 4 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 5
+  🔴 ICON DIFF [#main-content]: source inline svg icon_right (9×15) vs build inline svg 0 0 9 15 / 1 shape(s) (9×15) at "next". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🔴 ICON DIFF [#main-content]: source inline svg icon_left (9×15) vs build inline svg 0 0 9 15 / 1 shape(s) (9×15) at "previous". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🔴 ICON DIFF [#main-content]: source inline svg icon_right (9×15) vs build inline svg 0 0 9 15 / 1 shape(s) (9×15) at "next". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🔴 ICON DIFF [#main-content]: source inline svg icon_left (9×15) vs build inline svg 0 0 9 15 / 1 shape(s) (9×15) at "previous". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 MISSING BODY [#main-content]: source body "icon_right"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [#main-content]: source body "icon_left"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [#main-content]: source body "icon_right"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [#main-content]: source body "icon_left"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 EDITABLE COUNT [#main-content]: build has 80 outermost editable element(s) vs 92 in the source — fewer outermost editable elements after decoration usually means authored elements were rebuilt/merged — see deploy SKILL.md § Experience Workspace editability contract (run ew-editability-probe.mjs on the build URL for the per-block verdict).

@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://main--78f2fb76--aemcoder.aem.page/deposits/debitcard/overview",
+  "width": 360,
+  "vh": 900,
+  "height": 11096,
+  "chunks": 13,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 0,
+    "late": 0
+  },
+  "at": "2026-11-13T20:12:19.918Z"
+}

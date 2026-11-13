@@ -1,0 +1,418 @@
+[live-session] waiting to pace live navigations to promotions.bankofamerica.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 821 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/en-offers-chooseyourchecking500tiered-1440/vdiff-iter1/
+
+build red flags (advisory): 
+  • HEADING FACE: <h3> "Advantage Plus Banking" is 20px Connections in build vs 24px Connections in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "Advantage SafeBalance Banking" is 20px Connections in build vs 24px Connections in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "Advantage Relationship Banking" is 20px Connections in build vs 24px Connections in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2858,
+  "textLen": 2354,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "245x44",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Red_circle_ko_1_sm.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Red_circle_ko_2_sm.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_checkmark2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa-rewards-200-red.png",
+    "natural": "200x29",
+    "rendered": "250x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BOA.PNG",
+    "natural": "849x84",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=175016615&Ver=2&mid=64256cba-a1f8-4bd4-b611-05d5c18867c8&bo=1&sid=5c30a7d0df7611f19ed5b3a20b9c2dd2&vid=5c30e9f0df7611f18f5ac1db8e674a57&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1440&sh=1000&sc=24&tl=Up%20to%20%24500%20Tiered%20Checking%20offer%20%7C%20Bank%20of%20America&kw=Special%20Checking%20Offer&p=https%3A%2F%2Fpromotions.bankofamerica.com%2Fen%2Foffers%2Fchooseyourchecking500tiered&r=&lt=1168&evt=pageLoad&sv=2&cdb=AQER&rn=273891",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "0?ti=175016615&Ver=2&mid=64256cba-a1f8-4bd4-b611-05d5c18867c8&bo=2&sid=5c30a7d0df7611f19ed5b3a20b9c2dd2&vid=5c30e9f0df7611f18f5ac1db8e674a57&vids=0&msclkid=N&ec=CHEQ&el=Invalid_Users&ev=0&ea=Invalid_Users&en=Y&p=https%3A%2F%2Fpromotions.bankofamerica.com%2Fen%2Foffers%2Fchooseyourchecking500tiered&sw=1440&sh=1000&sc=24&evt=custom&cdb=AQER&rn=546024",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "New checking customers earn up t",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Bank of America Advantage Bankin",
+    "color": "rgb(1, 33, 105)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Plus Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage SafeBalance Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Relationship Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Plus Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage SafeBalance Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Relationship Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "24px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Here's how to qualify1:",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Opening a personal checking acco",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "container",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "product-details--P3",
+    "width": 1312,
+    "left": 64
+   },
+   {
+    "sel": "product-details--P3",
+    "width": 1328,
+    "left": 56
+   },
+   {
+    "sel": "multi-step-content-item__content",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "multi-step-content__subcopy",
+    "width": 980,
+    "left": 230
+   },
+   {
+    "sel": "uc-card__container",
+    "width": 1296,
+    "left": 72
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2858,
+  "textLen": 2270,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "245x44",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Red_circle_ko_1_sm.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Red_circle_ko_2_sm.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa_icon_checkmark2_186rgb.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bofa-rewards-200-red.png",
+    "natural": "200x29",
+    "rendered": "250x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "New checking customers earn up t",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Bank of America Advantage Bankin",
+    "color": "rgb(1, 33, 105)",
+    "fontSize": "56px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Plus Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage SafeBalance Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Relationship Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Plus Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage SafeBalance Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Advantage Relationship Banking",
+    "color": "rgb(196, 18, 48)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Here's how to qualify1:",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "48px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Opening a personal checking acco",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "32px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "masthead__inner",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "product-details__list",
+    "width": 1312,
+    "left": 64
+   },
+   {
+    "sel": "product-sticky__inner",
+    "width": 1296,
+    "left": 72
+   },
+   {
+    "sel": "step__content",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "step__note",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "step__content",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "step__content",
+    "width": 867,
+    "left": 377
+   },
+   {
+    "sel": "steps__subcopy",
+    "width": 980,
+    "left": 230
+   },
+   {
+    "sel": "promo-card",
+    "width": 1296,
+    "left": 72
+   }
+  ]
+ }
+}

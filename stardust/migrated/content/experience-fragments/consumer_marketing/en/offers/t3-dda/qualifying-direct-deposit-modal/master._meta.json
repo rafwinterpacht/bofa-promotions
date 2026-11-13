@@ -1,0 +1,60 @@
+{
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+  "type": "static",
+  "renderBranch": "A'",
+  "template": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "modules": [
+    "modal-dialog"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "modal-dialog"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Qualifying Direct Deposit | Bank of America",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Qualifying Direct Deposit | Bank of America",
+    "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html"
+  },
+  "migratedAt": "2026-11-13T18:19:50Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "e4fc463cf2f5",
+  "sourceProposedSha": "94076a110621",
+  "fidelityTier": "sibling",
+  "archetypeSource": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "archetypeSha": "4b07541fd915",
+  "variants": [
+    "rule"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff.mjs capture fragment (stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master.html + serviceJson.additionalCopy, canon.css) vs stardust/migrated render: Tiers looks-same 🔴 0 · nothing-lost 🟡 0 (run-bg static-cdiff2); verbatim rteMarkup",
+    "media-reconcile": "n/a: no delivered content file yet (content/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html) — media-reconcile runs in the delivery chain (row C)",
+    "delivery-lint": "FAIL: 2 P0 · 2 P1 · 1 P2 (delivery-lint --path /content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master)",
+    "variance-probe": "OPEN: no verdict (exit 1) (static-var.log)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 2,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+  "outputPathDefault": null,
+  "sidecar": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master._meta.json",
+  "driverVersion": "1"
+}

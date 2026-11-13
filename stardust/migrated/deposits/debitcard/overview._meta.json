@@ -1,0 +1,97 @@
+{
+  "slug": "deposits-debitcard-overview",
+  "type": "program",
+  "renderBranch": "A'",
+  "template": "deposits-growyoursavings",
+  "modules": [
+    "masthead",
+    "multi-step-content",
+    "long-form-text",
+    "tiles",
+    "banner",
+    "pcard",
+    "content-tile",
+    "disclosures"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "root"
+  ],
+  "canonShas": {
+    "header": "3d118d2b9188",
+    "footer": "f81870c7c7d8",
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Debit card overview | Bank of America",
+    "description": "Debit card overview",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Debit card overview | Bank of America",
+    "description": "Debit card overview",
+    "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html"
+  },
+  "migratedAt": "2026-11-13T18:19:18Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "050bf1e11ad0",
+  "sourceProposedSha": "a222fc2cd5fc",
+  "fidelityTier": "sibling",
+  "archetypeSource": "deposits-growyoursavings",
+  "archetypeSha": "7448ec4a9b6c",
+  "variants": [
+    "masthead.center multi-step-content.features multi-step-content.red long-form-text.red banner.dark"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff.mjs capture vs rendered clone (--profile generic --main main, 1440, accepted stardust/.work/rollout/program/accepted.json): Tiers looks-same 🔴 0 · nothing-lost 🟡 0 (job program-rt4)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "dropped-widget",
+      "source": "getapp2 mobile-app widget form (device select, Get the app, phone fields, send/confirmation states)",
+      "target": "content-tile right: heading, Download the app CTA, disclaimer + Terms link, QR image",
+      "reason": "send-a-link SMS widget is a dynamic feature with no EDS widget yet; static content kept, request filed"
+    }
+  ],
+  "assetsBundled": 2,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/es/debitcard/overview.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/es/debitcard/overview.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-debit-card-video/master",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-wallet-setup/master.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/ecs/deposits/debit-card-digital-wallet-video/master",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/card/paze",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "deposits/debitcard/overview.html",
+  "outputPathDefault": null,
+  "sidecar": "deposits/debitcard/overview._meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,7 @@
+motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)
+motion hover .cta: extra on build — advisory (no hover diff on live; build changes self.color — live mechanics may be invisible to the hover probe (pseudo-element underlines, text-decoration, border-color) — confirm on the element before treating it as invented)
+motion hover .mainMenuItem.hasSubMenu → .site-nav--desktop .site-nav__item--has-sub: parity (a.color, button.transform; 500ms; paired by order)
+motion hover main a:not(.cta): parity (self.color; n/a)
+motion transition transform: parity (2 event(s) on live, 2 on build, 500ms)
+motion transition color: extra on build — advisory (2 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)
+motion summary: 3 parity, 0 missing, 0 extra, 2 advisory (0 out of tolerance, 1 dead or unobserved on live — not required; tolerance 150ms / 8px)

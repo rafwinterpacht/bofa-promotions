@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal",
+  "width": 1440,
+  "vh": 900,
+  "height": 900,
+  "chunks": 1,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 1,
+    "late": 0
+  },
+  "at": "2026-11-13T18:38:18.402Z"
+}

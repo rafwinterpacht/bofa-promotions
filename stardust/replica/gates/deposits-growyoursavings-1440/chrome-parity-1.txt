@@ -1,0 +1,11 @@
+[live-session] waiting to pace live navigations to promotions.bankofamerica.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 970 ms
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://promotions.bankofamerica.com/deposits/growyoursavings.html
+  build: http://localhost:8791/deposits-growyoursavings-proposed.html
+
+■ header: 1 delta(s) — 5 paired of 5/5 texts, 1/1 icons
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+
+■ footer: ✓ parity — 39 paired of 39/39 texts, 1/1 icons
+
+✗ 1 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

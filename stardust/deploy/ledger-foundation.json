@@ -1,0 +1,74 @@
+{
+  "/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:06:25.725Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/modals/advertising-practices": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:06:25.726Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/modals/exit-notice": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:06:31.588Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav-balanceconnect": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:06:31.611Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav-deals": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:06:36.320Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav-debitcard": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:06:36.348Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav-deposits": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:51:15.700Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:51:15.701Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

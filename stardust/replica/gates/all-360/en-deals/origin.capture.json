@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://promotions.bankofamerica.com/en/deals.html",
+  "width": 360,
+  "vh": 900,
+  "height": 9958,
+  "chunks": 12,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 3,
+    "late": 0
+  },
+  "at": "2026-11-13T20:43:25.196Z"
+}

@@ -1,0 +1,4043 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T20:33:47.002Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+  "at": "2026-11-13T20:33:25.354Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5662,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperLogo > a#nav-_-logo",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__wrapperLogo > a#nav-_-logo > img.expanded-nav__logo",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperMenu > a#expanded-nav__menuLink",
+    "x": 310,
+    "y": 16,
+    "w": 32,
+    "h": 38,
+    "text": "open the main menu",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__heading > h1.masthead__heading--copy.text-black",
+    "x": 18,
+    "y": 101,
+    "w": 324,
+    "h": 324,
+    "level": 1,
+    "text": "help avoid overdraft item fees with balance connect® 1"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h1.masthead__heading--copy.text-black > sup > a#footnote-1756304222-0",
+    "x": 270,
+    "y": 382,
+    "w": 7,
+    "h": 17,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__copy.text > p",
+    "x": 18,
+    "y": 445,
+    "w": 324,
+    "h": 156,
+    "text": "Balance Connect® for overdraft protection can help you cover your payments and p"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1756304222-1",
+    "x": 119,
+    "y": 471,
+    "w": 7,
+    "h": 14,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__copy.text > p",
+    "x": 18,
+    "y": 621,
+    "w": 324,
+    "h": 78,
+    "text": "Plus, there are no transfer fees. Linked credit accounts are subject to interest"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-2047050121-0",
+    "x": 248,
+    "y": 673,
+    "w": 7,
+    "h": 14,
+    "text": "2",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section > div.masthead__section-lower > a#masthead1940816387-_-enroll-now",
+    "x": 61,
+    "y": 731,
+    "w": 230,
+    "h": 54,
+    "text": "enroll now",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__img.col-xs-12 > picture > img",
+    "x": 0,
+    "y": 1043,
+    "w": 360,
+    "h": 258,
+    "text": "",
+    "file": "bc_odp_tile_640x458"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.row.content-tile__row > div.content-tile__column > h2.content-tile__title",
+    "x": 18,
+    "y": 1340,
+    "w": 324,
+    "h": 93,
+    "level": 2,
+    "text": "how does balance connect® 1 work?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > h2.content-tile__title > span.content-tile__title--copy.text-black",
+    "x": 18,
+    "y": 1340,
+    "w": 324,
+    "h": 93,
+    "text": "How does Balance Connect® work?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "span.content-tile__title--copy.text-black > sup > a#footnote-1756304222-2",
+    "x": 175,
+    "y": 1385,
+    "w": 7,
+    "h": 17,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__copy.col-xs-12 > p",
+    "x": 18,
+    "y": 1452,
+    "w": 313,
+    "h": 187,
+    "text": "With Balance Connect® for overdraft protection, if you’re about to overdraw your"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1955420531-0",
+    "x": 133,
+    "y": 1613,
+    "w": 7,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__copy.col-xs-12 > p",
+    "x": 18,
+    "y": 1657,
+    "w": 313,
+    "h": 164,
+    "text": "If you’ve linked multiple backup accounts, we’ll automatically transfer availabl"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-2075150155-0",
+    "x": 47,
+    "y": 1794,
+    "w": 7,
+    "h": 14,
+    "text": "4",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__copy.col-xs-12 > p",
+    "x": 18,
+    "y": 1839,
+    "w": 313,
+    "h": 140,
+    "text": "Note: Balance Connect® for overdraft protection is with Bank of America Advantag"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.row.content-tile__row > div.content-tile__column > h2.content-tile__title",
+    "x": 18,
+    "y": 2337,
+    "w": 324,
+    "h": 112,
+    "level": 2,
+    "text": "it's easy to enroll and manage your preferences"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > h2.content-tile__title > span.content-tile__title--copy.text-black",
+    "x": 18,
+    "y": 2337,
+    "w": 324,
+    "h": 112,
+    "text": "It's easy to enroll and manage your preferences"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item__content > h3.overview-item__heading",
+    "x": 92,
+    "y": 2469,
+    "w": 235,
+    "h": 26,
+    "level": 3,
+    "text": "manage"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 92,
+    "y": 2497,
+    "w": 235,
+    "h": 70,
+    "text": "your preferences quickly and easily in the Mobile Banking app or Online Banking."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-2075150155-1",
+    "x": 121,
+    "y": 2541,
+    "w": 7,
+    "h": 14,
+    "text": "4",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item__content > h3.overview-item__heading",
+    "x": 92,
+    "y": 2594,
+    "w": 235,
+    "h": 26,
+    "level": 3,
+    "text": "link"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 92,
+    "y": 2622,
+    "w": 235,
+    "h": 140,
+    "text": "up to five eligible Bank of America® backup accounts, such as another eligible c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item__content > h3.overview-item__heading",
+    "x": 92,
+    "y": 2790,
+    "w": 235,
+    "h": 26,
+    "level": 3,
+    "text": "choose"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item__content > div.overview-item__copy > p",
+    "x": 92,
+    "y": 2818,
+    "w": 235,
+    "h": 70,
+    "text": "the order of the accounts you use to help cover your transactions."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__column > div.content-tile__cta > a#content-tile2057929725-_-try-our-guided-demo",
+    "x": 18,
+    "y": 2927,
+    "w": 230,
+    "h": 54,
+    "text": "try our guided demo",
+    "href": "/en/digital-banking/how-to/mobile-banking-balance-connect-demo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile__img.col-xs-12 > picture > img",
+    "x": 0,
+    "y": 2057,
+    "w": 360,
+    "h": 240,
+    "text": "",
+    "file": "C08_Image_042023"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#secondary-cta > div.container.section__wrapper > h2.secondary-cta__heading.text-white",
+    "x": 18,
+    "y": 3121,
+    "w": 324,
+    "h": 192,
+    "level": 2,
+    "text": "don't wait — enroll in balance connect® for overdraft protection"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container.section__wrapper > div.secondary-cta__cta-container > a#cta-banner1940816387-_-enroll-now",
+    "x": 18,
+    "y": 3341,
+    "w": 324,
+    "h": 54,
+    "text": "enroll now",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#features-1774118896 > div.container.section__wrapper > h2.features__heading.text-black",
+    "x": 18,
+    "y": 3515,
+    "w": 324,
+    "h": 96,
+    "level": 2,
+    "text": "don't have a backup account?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container.section__wrapper > div.features__subHeading.text > p",
+    "x": 18,
+    "y": 3619,
+    "w": 324,
+    "h": 52,
+    "text": "We have a range of different eligible account options to choose from."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 138,
+    "y": 3719,
+    "w": 184,
+    "h": 70,
+    "text": "that help keep up with your life."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > p > a#features_checking-accounts",
+    "x": 138,
+    "y": 3719,
+    "w": 141,
+    "h": 22,
+    "text": "checking accounts",
+    "href": "/deposits/checking/advantage-banking/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 138,
+    "y": 3819,
+    "w": 184,
+    "h": 70,
+    "text": "A that can help you reach your goals."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > p > a#features_savings-account",
+    "x": 153,
+    "y": 3819,
+    "w": 121,
+    "h": 22,
+    "text": "savings account",
+    "href": "/deposits/savings/savings-accounts/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 138,
+    "y": 3919,
+    "w": 184,
+    "h": 70,
+    "text": "Find the right that suits your needs."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > p > a#features_credit-card",
+    "x": 138,
+    "y": 3919,
+    "w": 152,
+    "h": 45,
+    "text": "credit card",
+    "href": "/credit-cards/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#secondary-cta > div.container.section__wrapper > h2.secondary-cta__heading.text-black",
+    "x": 18,
+    "y": 4086,
+    "w": 324,
+    "h": 96,
+    "level": 2,
+    "text": "looking for more information?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container.section__wrapper > div.secondary-cta__cta-container > a#cta-banner946460393-_-explore-our-faqs",
+    "x": 18,
+    "y": 4210,
+    "w": 324,
+    "h": 54,
+    "text": "explore our faqs",
+    "href": "/deposits/overdrafts-and-overdraft-protection/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1756304222 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 4355,
+    "w": 305,
+    "h": 428,
+    "text": "Balance Connect® for overdraft protection allows you to link your eligible check"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1756304222 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 4355,
+    "w": 12,
+    "h": 14,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-2047050121 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 4806,
+    "w": 301,
+    "h": 115,
+    "text": "Transfers from a linked (1) brokerage account with Merrill Lynch that is enrolle"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-2047050121 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 4806,
+    "w": 12,
+    "h": 14,
+    "text": "2",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1955420531 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 4943,
+    "w": 305,
+    "h": 252,
+    "text": "An overdraft can occur when you do not have enough available funds in your accou"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_personal-schedule-of-fees",
+    "x": 20,
+    "y": 5159,
+    "w": 295,
+    "h": 37,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1955420531 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 4943,
+    "w": 12,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-2075150155 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 5218,
+    "w": 303,
+    "h": 76,
+    "text": "Mobile Banking requires that you download the Mobile Banking app and may not be "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-2075150155 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 5218,
+    "w": 12,
+    "h": 14,
+    "text": "4",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__boalogo > a#footer-_-logo",
+    "x": 80,
+    "y": 5365,
+    "w": 200,
+    "h": 26,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__boalogo > a#footer-_-logo > img",
+    "x": 80,
+    "y": 5365,
+    "w": 200,
+    "h": 20,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__copy.text > div.footer__bottom",
+    "x": 18,
+    "y": 5407,
+    "w": 324,
+    "h": 120,
+    "text": "| | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_PrivacySecurity",
+    "x": 69,
+    "y": 5410,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_Security",
+    "x": 122,
+    "y": 5410,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_AdPractices",
+    "x": 182,
+    "y": 5410,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#footer_children_s-privacy",
+    "x": 44,
+    "y": 5434,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#launchOtPc",
+    "x": 158,
+    "y": 5434,
+    "w": 126,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#cobrowse",
+    "x": 113,
+    "y": 5455,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_EHL",
+    "x": 150,
+    "y": 5482,
+    "w": 182,
+    "h": 41,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-content.aem-GridColumn > div.footer_wrapper.not-modal > div.footer__copyright",
+    "x": 68,
+    "y": 5527,
+    "w": 225,
+    "h": 48,
+    "text": "© Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.not-modal > div.container.section__wrapper > p.footer__ar",
+    "x": 18,
+    "y": 5602,
+    "w": 324,
+    "h": 20,
+    "text": "MAP9036372-01292028 | LP-06-26-0023.A2"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 1,
+    "textNodes": 73,
+    "controls": 30,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--78f2fb76--aemcoder.aem.page/deposits/balanceconnect",
+  "at": "2026-11-13T20:33:46.868Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5614,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-brand > p > a",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p > a > img.header-logo",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-inner > div.header-bar > button.header-toggle",
+    "x": 310,
+    "y": 16,
+    "w": 32,
+    "h": 38,
+    "text": "open the main menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-inner > div.header-bar > button.header-toggle",
+    "x": 310,
+    "y": 16,
+    "w": 32,
+    "h": 38,
+    "label": "open the main menu",
+    "value": "open the main menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-media-mobile > picture > img",
+    "x": 0,
+    "y": 70,
+    "w": 360,
+    "h": 913,
+    "text": "",
+    "file": "media_1beb610e96d8d2b23b2c0074e41a8a03a7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-heading > h1#help-avoid-overdraft-item-fees-with-balance-connect1",
+    "x": 18,
+    "y": 101,
+    "w": 324,
+    "h": 324,
+    "level": 1,
+    "text": "help avoid overdraft item fees with balance connect® 1"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-heading > h1#help-avoid-overdraft-item-fees-with-balance-connect1 > a#footnote-1756304222-0",
+    "x": 270,
+    "y": 363,
+    "w": 6,
+    "h": 57,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-copy > p",
+    "x": 18,
+    "y": 445,
+    "w": 324,
+    "h": 156,
+    "text": "Balance Connect® for overdraft protection can help you cover your payments and p"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-copy > p > a#footnote-1756304222-1",
+    "x": 119,
+    "y": 472,
+    "w": 7,
+    "h": 24,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-copy > p",
+    "x": 18,
+    "y": 621,
+    "w": 324,
+    "h": 78,
+    "text": "Plus, there are no transfer fees. Linked credit accounts are subject to interest"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-copy > p > a#footnote-2047050121-0",
+    "x": 247,
+    "y": 674,
+    "w": 7,
+    "h": 24,
+    "text": "2",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-lower > p.button-wrapper > a.button.secondary",
+    "x": 61,
+    "y": 731,
+    "w": 230,
+    "h": 54,
+    "text": "enroll now",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-media-all > picture > img",
+    "x": 0,
+    "y": 1043,
+    "w": 360,
+    "h": 258,
+    "text": "",
+    "file": "media_1d157b88ad2f182f79f77c8ac56c0c8b66"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-title > h2#how-does-balance-connect1-work",
+    "x": 18,
+    "y": 1340,
+    "w": 324,
+    "h": 93,
+    "level": 2,
+    "text": "how does balance connect® 1 work?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-title > h2#how-does-balance-connect1-work > a#footnote-1756304222-2",
+    "x": 174,
+    "y": 1386,
+    "w": 6,
+    "h": 47,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-copy > p",
+    "x": 18,
+    "y": 1452,
+    "w": 313,
+    "h": 187,
+    "text": "With Balance Connect® for overdraft protection, if you’re about to overdraw your"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-copy > p > a#footnote-1955420531-0",
+    "x": 132,
+    "y": 1616,
+    "w": 7,
+    "h": 22,
+    "text": "3",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-copy > p",
+    "x": 18,
+    "y": 1657,
+    "w": 313,
+    "h": 164,
+    "text": "If you’ve linked multiple backup accounts, we’ll automatically transfer availabl"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-copy > p > a#footnote-2075150155-0",
+    "x": 46,
+    "y": 1797,
+    "w": 7,
+    "h": 22,
+    "text": "4",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-copy > p",
+    "x": 18,
+    "y": 1839,
+    "w": 313,
+    "h": 140,
+    "text": "Note: Balance Connect® for overdraft protection is with Bank of America Advantag"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-title > h2#its-easy-to-enroll-and-manage-your-preferences",
+    "x": 18,
+    "y": 2097,
+    "w": 324,
+    "h": 112,
+    "level": 2,
+    "text": "it's easy to enroll and manage your preferences"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > h3#manage",
+    "x": 92,
+    "y": 2229,
+    "w": 235,
+    "h": 26,
+    "level": 3,
+    "text": "manage"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 92,
+    "y": 2257,
+    "w": 235,
+    "h": 70,
+    "text": "your preferences quickly and easily in the Mobile Banking app or Online Banking."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.overview-item-content > p > a#footnote-2075150155-1",
+    "x": 120,
+    "y": 2304,
+    "w": 7,
+    "h": 22,
+    "text": "4",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > h3#link",
+    "x": 92,
+    "y": 2354,
+    "w": 235,
+    "h": 26,
+    "level": 3,
+    "text": "link"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 92,
+    "y": 2382,
+    "w": 235,
+    "h": 140,
+    "text": "up to five eligible Bank of America® backup accounts, such as another eligible c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > h3#choose",
+    "x": 92,
+    "y": 2550,
+    "w": 235,
+    "h": 26,
+    "level": 3,
+    "text": "choose"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.overview-item > div.overview-item-content > p",
+    "x": 92,
+    "y": 2578,
+    "w": 235,
+    "h": 70,
+    "text": "the order of the accounts you use to help cover your transactions."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-cta > p.button-wrapper > a.button.secondary",
+    "x": 18,
+    "y": 2687,
+    "w": 230,
+    "h": 54,
+    "text": "try our guided demo",
+    "href": "/en/digital-banking/how-to/mobile-banking-balance-connect-demo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-media-all > picture > img",
+    "x": 0,
+    "y": 2773,
+    "w": 360,
+    "h": 240,
+    "text": "",
+    "file": "media_1700af7782ccc317fd7ac7047ca33e3508"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text.flagscape > div.long-form-text-wrapper > h2#dont-wait--enroll-in-balance-connect-for-overdraft-protection",
+    "x": 18,
+    "y": 3121,
+    "w": 324,
+    "h": 192,
+    "level": 2,
+    "text": "don't wait — enroll in balance connect® for overdraft protection"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text-wrapper > p.button-wrapper > a.button.secondary",
+    "x": 18,
+    "y": 3341,
+    "w": 324,
+    "h": 54,
+    "text": "enroll now",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-wrapper > div.multi-step-content-heading > h2#dont-have-a-backup-account",
+    "x": 18,
+    "y": 3499,
+    "w": 324,
+    "h": 96,
+    "level": 2,
+    "text": "don't have a backup account?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-wrapper > div.multi-step-content-intro > p",
+    "x": 18,
+    "y": 3603,
+    "w": 324,
+    "h": 52,
+    "text": "We have a range of different eligible account options to choose from."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 118,
+    "y": 3703,
+    "w": 204,
+    "h": 70,
+    "text": "that help keep up with your life."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item-copy > p > a",
+    "x": 118,
+    "y": 3703,
+    "w": 141,
+    "h": 22,
+    "text": "checking accounts",
+    "href": "/deposits/checking/advantage-banking/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 118,
+    "y": 3803,
+    "w": 204,
+    "h": 47,
+    "text": "A that can help you reach your goals."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item-copy > p > a",
+    "x": 133,
+    "y": 3803,
+    "w": 121,
+    "h": 22,
+    "text": "savings account",
+    "href": "/deposits/savings/savings-accounts/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 118,
+    "y": 3895,
+    "w": 204,
+    "h": 47,
+    "text": "Find the right that suits your needs."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item-copy > p > a",
+    "x": 226,
+    "y": 3895,
+    "w": 81,
+    "h": 22,
+    "text": "credit card",
+    "href": "/credit-cards/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text.cta-band > div.long-form-text-wrapper > h2#looking-for-more-information",
+    "x": 18,
+    "y": 4054,
+    "w": 324,
+    "h": 96,
+    "level": 2,
+    "text": "looking for more information?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text-wrapper > p.button-wrapper > a.button.secondary",
+    "x": 18,
+    "y": 4178,
+    "w": 324,
+    "h": 54,
+    "text": "explore our faqs",
+    "href": "/deposits/overdrafts-and-overdraft-protection/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 4307,
+    "w": 305,
+    "h": 428,
+    "text": "Balance Connect® for overdraft protection allows you to link your eligible check"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 4307,
+    "w": 5,
+    "h": 12,
+    "text": "1",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 4758,
+    "w": 301,
+    "h": 115,
+    "text": "Transfers from a linked (1) brokerage account with Merrill Lynch that is enrolle"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 4758,
+    "w": 5,
+    "h": 12,
+    "text": "2",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 4895,
+    "w": 305,
+    "h": 252,
+    "text": "An overdraft can occur when you do not have enough available funds in your accou"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 20,
+    "y": 5111,
+    "w": 295,
+    "h": 37,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 4896,
+    "w": 5,
+    "h": 12,
+    "text": "3",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 5170,
+    "w": 303,
+    "h": 76,
+    "text": "Mobile Banking requires that you download the Mobile Banking app and may not be "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 5170,
+    "w": 5,
+    "h": 12,
+    "text": "4",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-logo > a",
+    "x": 18,
+    "y": 5318,
+    "w": 324,
+    "h": 20,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-logo > a > img",
+    "x": 80,
+    "y": 5318,
+    "w": 200,
+    "h": 20,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copy",
+    "x": 18,
+    "y": 5359,
+    "w": 324,
+    "h": 120,
+    "text": "| | | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 69,
+    "y": 5362,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 122,
+    "y": 5362,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 182,
+    "y": 5362,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/modals/advertising-practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 44,
+    "y": 5385,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 158,
+    "y": 5385,
+    "w": 122,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-copy > span.icon.icon-optout > img",
+    "x": 289,
+    "y": 5385,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "optout"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 113,
+    "y": 5406,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/deposits/balanceconnect"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a.footer-ehl",
+    "x": 150,
+    "y": 5433,
+    "w": 182,
+    "h": 41,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copyright",
+    "x": 68,
+    "y": 5478,
+    "w": 225,
+    "h": 48,
+    "text": "© 2026 Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-code",
+    "x": 18,
+    "y": 5554,
+    "w": 324,
+    "h": 20,
+    "text": "MAP9036372-01292028 | LP-06-26-0023.A2"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 1,
+    "textNodes": 70,
+    "controls": 30,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "help avoid overdraft item fees with balance connect® 1",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "how does balance connect® 1 work?",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "it's easy to enroll and manage your preferences",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "manage",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "link",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "choose",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "don't wait — enroll in balance connect® for overdraft protection",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "don't have a backup account?",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "looking for more information?",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"personal schedule of fees\" served in band \"looking for more information?\", no origin link or button",
+   "band": 9,
+   "n": 1,
+   "text": "personal schedule of fees"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"looking for more information?\": 0 origin → 4 served visible",
+   "band": 9,
+   "origin": 0,
+   "eds": 4,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 1,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 80,
+    "y": 104,
+    "w": 201,
+    "h": 57
+   },
+   {
+    "x": 37,
+    "y": 169,
+    "w": 285,
+    "h": 57
+   },
+   {
+    "x": 87,
+    "y": 234,
+    "w": 185,
+    "h": 57
+   },
+   {
+    "x": 105,
+    "y": 298,
+    "w": 151,
+    "h": 57
+   },
+   {
+    "x": 82,
+    "y": 363,
+    "w": 187,
+    "h": 57
+   },
+   {
+    "x": 270,
+    "y": 382,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 47,
+    "y": 446,
+    "w": 265,
+    "h": 24
+   },
+   {
+    "x": 31,
+    "y": 472,
+    "w": 87,
+    "h": 24
+   },
+   {
+    "x": 119,
+    "y": 471,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 126,
+    "y": 472,
+    "w": 203,
+    "h": 24
+   },
+   {
+    "x": 64,
+    "y": 498,
+    "w": 233,
+    "h": 24
+   },
+   {
+    "x": 32,
+    "y": 524,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 47,
+    "y": 550,
+    "w": 265,
+    "h": 24
+   },
+   {
+    "x": 103,
+    "y": 576,
+    "w": 155,
+    "h": 24
+   },
+   {
+    "x": 47,
+    "y": 622,
+    "w": 265,
+    "h": 24
+   },
+   {
+    "x": 24,
+    "y": 648,
+    "w": 312,
+    "h": 24
+   },
+   {
+    "x": 106,
+    "y": 674,
+    "w": 141,
+    "h": 24
+   },
+   {
+    "x": 248,
+    "y": 673,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 123,
+    "y": 744,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 18,
+    "y": 1339,
+    "w": 296,
+    "h": 47
+   },
+   {
+    "x": 18,
+    "y": 1386,
+    "w": 156,
+    "h": 47
+   },
+   {
+    "x": 175,
+    "y": 1385,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1386,
+    "w": 104,
+    "h": 47
+   },
+   {
+    "x": 18,
+    "y": 1452,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1475,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1499,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1522,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1545,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1569,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1592,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1616,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 1613,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 18,
+    "y": 1657,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1680,
+    "w": 281,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1704,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1727,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1750,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1774,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1797,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 47,
+    "y": 1794,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 53,
+    "y": 1797,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1839,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1862,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 119,
+    "y": 1862,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 227,
+    "y": 1862,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1885,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1909,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1932,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1956,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 2336,
+    "w": 273,
+    "h": 38
+   },
+   {
+    "x": 18,
+    "y": 2374,
+    "w": 167,
+    "h": 38
+   },
+   {
+    "x": 18,
+    "y": 2411,
+    "w": 152,
+    "h": 38
+   },
+   {
+    "x": 92,
+    "y": 2470,
+    "w": 70,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 2497,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2521,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2544,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 2541,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 127,
+    "y": 2544,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2595,
+    "w": 37,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 2622,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2646,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2669,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2693,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2716,
+    "w": 204,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2739,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2791,
+    "w": 65,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 2818,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2841,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2865,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 28,
+    "y": 2940,
+    "w": 209,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3121,
+    "w": 313,
+    "h": 47
+   },
+   {
+    "x": 98,
+    "y": 3169,
+    "w": 165,
+    "h": 47
+   },
+   {
+    "x": 74,
+    "y": 3217,
+    "w": 212,
+    "h": 47
+   },
+   {
+    "x": 19,
+    "y": 3265,
+    "w": 322,
+    "h": 47
+   },
+   {
+    "x": 127,
+    "y": 3354,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 19,
+    "y": 3515,
+    "w": 322,
+    "h": 47
+   },
+   {
+    "x": 108,
+    "y": 3563,
+    "w": 144,
+    "h": 47
+   },
+   {
+    "x": 26,
+    "y": 3620,
+    "w": 308,
+    "h": 24
+   },
+   {
+    "x": 43,
+    "y": 3646,
+    "w": 273,
+    "h": 24
+   },
+   {
+    "x": 138,
+    "y": 3719,
+    "w": 141,
+    "h": 22
+   },
+   {
+    "x": 279,
+    "y": 3719,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3742,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3766,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3819,
+    "w": 15,
+    "h": 22
+   },
+   {
+    "x": 153,
+    "y": 3819,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3843,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3866,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3919,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 246,
+    "y": 3919,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3943,
+    "w": 33,
+    "h": 22
+   },
+   {
+    "x": 171,
+    "y": 3943,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 138,
+    "y": 3966,
+    "w": 49,
+    "h": 22
+   },
+   {
+    "x": 41,
+    "y": 4086,
+    "w": 279,
+    "h": 47
+   },
+   {
+    "x": 78,
+    "y": 4134,
+    "w": 204,
+    "h": 47
+   },
+   {
+    "x": 93,
+    "y": 4223,
+    "w": 174,
+    "h": 28
+   },
+   {
+    "x": 20,
+    "y": 4355,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4374,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4394,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4413,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4433,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4452,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4472,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4492,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4511,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4531,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4550,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4570,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4590,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4609,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4629,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4648,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4668,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4688,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4707,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4727,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4746,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4766,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4355,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 4806,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4825,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4845,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4864,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4884,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4904,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4806,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 4943,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4963,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4982,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5002,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5022,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5041,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5061,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5080,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5100,
+    "w": 24,
+    "h": 17
+   },
+   {
+    "x": 44,
+    "y": 5100,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5119,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5139,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5159,
+    "w": 171,
+    "h": 17
+   },
+   {
+    "x": 191,
+    "y": 5159,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5178,
+    "w": 27,
+    "h": 17
+   },
+   {
+    "x": 47,
+    "y": 5178,
+    "w": 159,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4943,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 5218,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5237,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5257,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5277,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 5218,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 62,
+    "y": 5410,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 5410,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 5410,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 122,
+    "y": 5410,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 171,
+    "y": 5410,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 5410,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 306,
+    "y": 5410,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 44,
+    "y": 5434,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 5434,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 5434,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 309,
+    "y": 5434,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 113,
+    "y": 5458,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 28,
+    "y": 5482,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 247,
+    "y": 5482,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 150,
+    "y": 5506,
+    "w": 41,
+    "h": 17
+   },
+   {
+    "x": 68,
+    "y": 5530,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 5530,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 114,
+    "y": 5530,
+    "w": 177,
+    "h": 17
+   },
+   {
+    "x": 125,
+    "y": 5553,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 5603,
+    "w": 270,
+    "h": 17
+   }
+  ],
+  "eds": [
+   {
+    "x": 80,
+    "y": 104,
+    "w": 201,
+    "h": 57
+   },
+   {
+    "x": 37,
+    "y": 169,
+    "w": 285,
+    "h": 57
+   },
+   {
+    "x": 87,
+    "y": 234,
+    "w": 185,
+    "h": 57
+   },
+   {
+    "x": 105,
+    "y": 298,
+    "w": 151,
+    "h": 57
+   },
+   {
+    "x": 83,
+    "y": 363,
+    "w": 187,
+    "h": 57
+   },
+   {
+    "x": 271,
+    "y": 391,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 47,
+    "y": 446,
+    "w": 265,
+    "h": 24
+   },
+   {
+    "x": 32,
+    "y": 472,
+    "w": 87,
+    "h": 24
+   },
+   {
+    "x": 120,
+    "y": 475,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 125,
+    "y": 472,
+    "w": 203,
+    "h": 24
+   },
+   {
+    "x": 64,
+    "y": 498,
+    "w": 233,
+    "h": 24
+   },
+   {
+    "x": 32,
+    "y": 524,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 47,
+    "y": 550,
+    "w": 265,
+    "h": 24
+   },
+   {
+    "x": 103,
+    "y": 576,
+    "w": 155,
+    "h": 24
+   },
+   {
+    "x": 47,
+    "y": 622,
+    "w": 265,
+    "h": 24
+   },
+   {
+    "x": 24,
+    "y": 648,
+    "w": 312,
+    "h": 24
+   },
+   {
+    "x": 106,
+    "y": 674,
+    "w": 141,
+    "h": 24
+   },
+   {
+    "x": 248,
+    "y": 677,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 123,
+    "y": 744,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 18,
+    "y": 1339,
+    "w": 296,
+    "h": 47
+   },
+   {
+    "x": 18,
+    "y": 1386,
+    "w": 156,
+    "h": 47
+   },
+   {
+    "x": 175,
+    "y": 1406,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 180,
+    "y": 1386,
+    "w": 104,
+    "h": 47
+   },
+   {
+    "x": 18,
+    "y": 1452,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1475,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1499,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1522,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1545,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1569,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1592,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1616,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 1617,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 18,
+    "y": 1657,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1680,
+    "w": 281,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1704,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1727,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1750,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1774,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1797,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 47,
+    "y": 1798,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 52,
+    "y": 1797,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1839,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1862,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 119,
+    "y": 1862,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 227,
+    "y": 1862,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1885,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1909,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1932,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 1956,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 18,
+    "y": 2096,
+    "w": 273,
+    "h": 38
+   },
+   {
+    "x": 18,
+    "y": 2134,
+    "w": 167,
+    "h": 38
+   },
+   {
+    "x": 18,
+    "y": 2171,
+    "w": 152,
+    "h": 38
+   },
+   {
+    "x": 92,
+    "y": 2230,
+    "w": 70,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 2257,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2281,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2304,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 121,
+    "y": 2305,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 126,
+    "y": 2304,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2355,
+    "w": 37,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 2382,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2406,
+    "w": 193,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2429,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2453,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2476,
+    "w": 204,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2499,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2551,
+    "w": 65,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 2578,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2601,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 92,
+    "y": 2624,
+    "w": 97,
+    "h": 22
+   },
+   {
+    "x": 28,
+    "y": 2700,
+    "w": 209,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3121,
+    "w": 313,
+    "h": 47
+   },
+   {
+    "x": 98,
+    "y": 3169,
+    "w": 165,
+    "h": 47
+   },
+   {
+    "x": 74,
+    "y": 3217,
+    "w": 212,
+    "h": 47
+   },
+   {
+    "x": 19,
+    "y": 3265,
+    "w": 322,
+    "h": 47
+   },
+   {
+    "x": 127,
+    "y": 3354,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 19,
+    "y": 3499,
+    "w": 322,
+    "h": 47
+   },
+   {
+    "x": 108,
+    "y": 3547,
+    "w": 144,
+    "h": 47
+   },
+   {
+    "x": 26,
+    "y": 3604,
+    "w": 308,
+    "h": 24
+   },
+   {
+    "x": 43,
+    "y": 3630,
+    "w": 273,
+    "h": 24
+   },
+   {
+    "x": 118,
+    "y": 3703,
+    "w": 141,
+    "h": 22
+   },
+   {
+    "x": 259,
+    "y": 3703,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 118,
+    "y": 3726,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 118,
+    "y": 3750,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 118,
+    "y": 3803,
+    "w": 15,
+    "h": 22
+   },
+   {
+    "x": 133,
+    "y": 3803,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 254,
+    "y": 3803,
+    "w": 67,
+    "h": 22
+   },
+   {
+    "x": 118,
+    "y": 3826,
+    "w": 196,
+    "h": 22
+   },
+   {
+    "x": 118,
+    "y": 3895,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 226,
+    "y": 3895,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 118,
+    "y": 3919,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 41,
+    "y": 4054,
+    "w": 279,
+    "h": 47
+   },
+   {
+    "x": 78,
+    "y": 4102,
+    "w": 204,
+    "h": 47
+   },
+   {
+    "x": 93,
+    "y": 4191,
+    "w": 174,
+    "h": 28
+   },
+   {
+    "x": 20,
+    "y": 4307,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4326,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4346,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4366,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4385,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4405,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4424,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4444,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4464,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4483,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4503,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4522,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4542,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4562,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4581,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4601,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4620,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4640,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4660,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4679,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4699,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4718,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4307,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 4758,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4777,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4797,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4817,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4836,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4856,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4758,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 4895,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4915,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4935,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4954,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4974,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4993,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5013,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5033,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5052,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5072,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5091,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5111,
+    "w": 171,
+    "h": 17
+   },
+   {
+    "x": 191,
+    "y": 5111,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5131,
+    "w": 27,
+    "h": 17
+   },
+   {
+    "x": 47,
+    "y": 5131,
+    "w": 159,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4896,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 5170,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5190,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5209,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5229,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 5170,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 62,
+    "y": 5362,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 5362,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 5362,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 122,
+    "y": 5362,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 171,
+    "y": 5362,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 5362,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 306,
+    "y": 5362,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 44,
+    "y": 5385,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 5385,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 5385,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 5385,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 113,
+    "y": 5409,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 28,
+    "y": 5433,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 247,
+    "y": 5433,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 150,
+    "y": 5457,
+    "w": 41,
+    "h": 17
+   },
+   {
+    "x": 68,
+    "y": 5481,
+    "w": 224,
+    "h": 17
+   },
+   {
+    "x": 125,
+    "y": 5505,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 5555,
+    "w": 270,
+    "h": 17
+   }
+  ]
+ }
+}

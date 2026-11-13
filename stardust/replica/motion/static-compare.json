@@ -1,0 +1,75 @@
+{
+  "live": "stardust/replica/motion/static-live.json",
+  "build": "stardust/replica/motion/static-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 4,
+  "counts": {
+    "behaviors": 8,
+    "parity": 0,
+    "missing": 4,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 2,
+    "advisory": 2
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "widget",
+      "name": "a[href*=\"plus-2026-modal\"]",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget a[href*=\"plus-2026-modal\"]: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "class",
+      "name": "ap-no-overflow",
+      "state": "missing",
+      "note": "trigger class added 1× on live, never on build",
+      "line": "motion class ap-no-overflow: MISSING on build (trigger class added 1× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "modal__1466013868",
+      "state": "missing",
+      "note": "trigger class added 1× on live, never on build",
+      "line": "motion class modal__1466013868: MISSING on build (trigger class added 1× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "modal__wide",
+      "state": "missing",
+      "note": "trigger class added 1× on live, never on build",
+      "line": "motion class modal__wide: MISSING on build (trigger class added 1× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "t-track-body-copy-link",
+      "state": "missing",
+      "note": "trigger class added 1× on live, never on build",
+      "line": "motion class t-track-body-copy-link: MISSING on build (trigger class added 1× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "modal-dialog--center",
+      "state": "advisory",
+      "note": "added 2× on build, never on live — check it drives no invented behavior",
+      "line": "motion class modal-dialog--center: extra on build — advisory (added 2× on build, never on live — check it drives no invented behavior)"
+    },
+    {
+      "cls": "class",
+      "name": "modal-dialog--wide",
+      "state": "advisory",
+      "note": "added 1× on build, never on live — check it drives no invented behavior",
+      "line": "motion class modal-dialog--wide: extra on build — advisory (added 1× on build, never on live — check it drives no invented behavior)"
+    }
+  ]
+}

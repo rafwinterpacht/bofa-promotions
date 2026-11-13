@@ -1,0 +1,28 @@
+{
+  "type": "landing",
+  "archetype": "en-offers-chooseyourchecking500tiered",
+  "liveUrl": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "prototype": "stardust/prototypes/en-offers-chooseyourchecking500tiered-proposed.html",
+  "canon": "stardust/prototypes/canon.css",
+  "iterations": { "1440": 3, "360": 3 },
+  "gates": {
+    "1440": { "pixel": 0.89, "heightDelta": -1, "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome)", "clipped": 0, "overflow": "ok", "chromeParity": "1 delta (header region backgroundColor)", "pass": true, "note": "post-cap confirmation round 'confirm' (no fixes) reproduced 0.89% / -1px after the cap-probe container change" },
+    "360": { "pixel": 7.12, "heightDelta": -3, "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome)", "clipped": 0, "overflow": "ok", "chromeParity": "3 deltas (header/footer region backgroundColor, 'non-qualifying' inline x)", "pass": true }
+  },
+  "capProbe": "PASS",
+  "residuals": [
+    "chrome-parity: header region reports backgroundColor transparent (live) vs white (build) at both widths; cosmetic, no pixel effect",
+    "360: hot bands at disclosures/card text are sub-pixel text offsets (page 3px shorter); visual identical in crop",
+    "masthead footnote sup '1' sits 2px lower than live",
+    "visual-diff advisory at 360: hidden sticky-bar h3 is 24px (source sticky title size lifted from desktop measure)",
+    "motion: live carousel class names (uc-carousel-current/active/center) differ from build (is-active); behaviour (track translate 500ms) matches",
+    "instrument fix: live capture failed under the site's CSP (page.addStyleTag refused); all live instruments run with NODE_OPTIONS=--require stardust/replica/gates/bypass-csp.cjs (bypassCSP:true on every Playwright context, symmetric). Flag for upstream into live-session.mjs"
+  ],
+  "motion": {
+    "observed": ["nav Checking submenu on hover (500ms caret rotate + link color)", "CTA hover background", "CTA opacity 0s (instant, no visible motion)", "mobile product carousel: arrows/tabs translate track (transform 500ms)"],
+    "implemented": ["nav submenu hover + caret rotate", "CTA hover background", "mobile carousel (tabs, Previous/Next arrows, 2 clones each side, 500ms transform)", "fragment modals (<template> + <dialog>) and Advertising Practices chrome modal"],
+    "dead": ["header scroll-morph (static on both)", "product sticky bar reveal (never appeared on live during scroll; markup kept parked off-screen)"]
+  },
+  "backportRequests": [],
+  "files": ["stardust/prototypes/canon.css", "stardust/prototypes/en-offers-chooseyourchecking500tiered.css", "stardust/prototypes/en-offers-chooseyourchecking500tiered-proposed.html", "stardust/prototypes/assets/canon/", "stardust/prototypes/assets/en-offers-chooseyourchecking500tiered/", "stardust/prototypes/fonts/ (+icomoon, icomoon-interactive, connections_text, connections_text-vf-italic)"]
+}

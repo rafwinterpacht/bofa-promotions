@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+  "width": 1440,
+  "vh": 900,
+  "height": 4598,
+  "chunks": 6,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 3,
+    "late": 0
+  },
+  "at": "2026-11-13T17:45:14.836Z"
+}

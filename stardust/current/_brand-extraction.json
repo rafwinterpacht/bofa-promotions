@@ -1,0 +1,356 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-13T15:36:41.972Z",
+    "readArtifacts": [
+      "_computed-styles.json"
+    ]
+  },
+  "origins": [
+    {
+      "origin": "https://promotions.bankofamerica.com",
+      "role": "primary"
+    }
+  ],
+  "palette": [
+    {
+      "hex": "#000000",
+      "roles": [
+        "text",
+        "border",
+        "heading"
+      ],
+      "weight": 901
+    },
+    {
+      "hex": "#0053c2",
+      "roles": [
+        "accent"
+      ],
+      "weight": 377
+    },
+    {
+      "hex": "#ffffff",
+      "roles": [
+        "background"
+      ],
+      "weight": 306
+    },
+    {
+      "hex": "#e31837",
+      "roles": [
+        "primary"
+      ],
+      "weight": 123
+    },
+    {
+      "hex": "#012169",
+      "roles": [
+        "secondary"
+      ],
+      "weight": 68
+    },
+    {
+      "hex": "#ededed",
+      "roles": [
+        "surface"
+      ],
+      "weight": 50
+    },
+    {
+      "hex": "#d5d5d5",
+      "roles": [],
+      "weight": 22
+    },
+    {
+      "hex": "#c41230",
+      "roles": [],
+      "weight": 18
+    },
+    {
+      "hex": "#919191",
+      "roles": [],
+      "weight": 6
+    },
+    {
+      "hex": "#ae132a",
+      "roles": [],
+      "weight": 4
+    },
+    {
+      "hex": "#ffffff7a",
+      "roles": [],
+      "weight": 2
+    }
+  ],
+  "type": {
+    "families": [
+      {
+        "family": "Connections",
+        "count": 356,
+        "headings": 158,
+        "text": 144,
+        "buttons": 54
+      }
+    ],
+    "levels": {
+      "h1": {
+        "fontSize": 48,
+        "fontWeight": "100",
+        "count": 6,
+        "score": 29.39
+      },
+      "h2": {
+        "fontSize": 48,
+        "fontWeight": "100",
+        "count": 24,
+        "score": 58.79
+      },
+      "h3": {
+        "fontSize": 22,
+        "fontWeight": "700",
+        "count": 6,
+        "score": 94.31
+      }
+    },
+    "files": [],
+    "licensing": "Connections — proprietary BofA face, not rehosted"
+  },
+  "motifs": {
+    "radius": {
+      "mode": "35px",
+      "areaMode": "32px",
+      "pill": "50%",
+      "values": [
+        {
+          "value": "35px",
+          "count": 31,
+          "area": 460232,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+              "selector": "#masthead > div > div > div:nth-of-type(2) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+              "selector": "#content-tile > div > div > div:nth-of-type(1) > div:nth-of-type(3) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+              "selector": "#secondary-cta > div > div:nth-of-type(1) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#expanded-navigation > div > div > div:nth-of-type(3) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#enhanced > div > div > div:nth-of-type(2) > div > a"
+            }
+          ]
+        },
+        {
+          "value": "25px",
+          "count": 22,
+          "area": 262191,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+              "selector": "#masthead > div > div > div:nth-of-type(2) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+              "selector": "#content-tile > div > div > div:nth-of-type(1) > div:nth-of-type(3) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+              "selector": "#secondary-cta > div > div:nth-of-type(1) > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#enhanced > div > div > div:nth-of-type(2) > div > a"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#digitalcard > div > div > div:nth-of-type(2) > div > a"
+            }
+          ]
+        },
+        {
+          "value": "32px",
+          "count": 14,
+          "area": 7578337,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#enhanced > div > div"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#digitalcard > div > div"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+              "selector": "#preferred-cards > div > div"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "#preferred-cards > div > div"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+              "selector": "#bofa-rewards"
+            }
+          ]
+        },
+        {
+          "value": "50%",
+          "count": 6,
+          "area": 3456,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+              "selector": "#product-details > div > div > consumer-flag-carousel:nth-of-type(2) > button:nth-of-type(1)"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+              "selector": "#product-details > div > div > consumer-flag-carousel:nth-of-type(2) > button:nth-of-type(2)"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+              "selector": "#products > div:nth-of-type(1) > div > consumer-flag-carousel:nth-of-type(2) > button:nth-of-type(1)"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+              "selector": "#products > div:nth-of-type(1) > div > consumer-flag-carousel:nth-of-type(2) > button:nth-of-type(2)"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+              "selector": "#products > div:nth-of-type(2) > div > consumer-flag-carousel > button:nth-of-type(1)"
+            }
+          ]
+        },
+        {
+          "value": "44px",
+          "count": 4,
+          "area": 39610,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "#standalone-button_view-your-deals"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "#standalone-button_view-your-deals1"
+            }
+          ]
+        },
+        {
+          "value": "8px 8px 0px 0px",
+          "count": 3,
+          "area": 111203,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "uc-storyblock-v3 > div > uc-background-v2 > div > div > div:nth-of-type(1) > picture > img"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "uc-heading-group > div:nth-of-type(1) > div > div > uc-image > div > picture > img"
+            }
+          ]
+        },
+        {
+          "value": "12px",
+          "count": 2,
+          "area": 502368,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "div > div > div > uc-masthead-v2 > div > div > uc-notch > div"
+            }
+          ]
+        },
+        {
+          "value": "172px",
+          "count": 2,
+          "area": 10766,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "#standalone-button_learn-more"
+            }
+          ]
+        },
+        {
+          "value": "8px",
+          "count": 2,
+          "area": 547514,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "#main-content > div > div > div:nth-of-type(11) > uc-storyblock-v3 > div > uc-background-v2 > div"
+            },
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "uc-storyblock-v3 > div > uc-background-v2 > div > div > div:nth-of-type(2) > div > div"
+            }
+          ]
+        },
+        {
+          "value": "0px 0px 8px 8px",
+          "count": 1,
+          "area": 171894,
+          "sources": [
+            {
+              "url": "https://promotions.bankofamerica.com/en/deals.html",
+              "selector": "uc-storyblock-v3 > div > uc-background-v2 > div > div > div:nth-of-type(2) > div > div"
+            }
+          ]
+        }
+      ]
+    },
+    "shadows": [
+      {
+        "value": "rgb(210, 202, 202) 0px 0px 16px 0px",
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "selector": "#bofa-rewards"
+          }
+        ]
+      },
+      {
+        "value": "rgba(0, 0, 0, 0) 0px 68px 19px 0px, rgba(0, 0, 0, 0.01) 0px 43px 17px 0px, rgba(0, 0, 0, 0.05) 0px 24px 15px 0px, rgba(0, 0, 0, 0.09) 0px 11px 11px 0px, rgba(0, 0, 0, 0.1) 0px 3px 6px 0px",
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://promotions.bankofamerica.com/en/deals.html",
+            "selector": "div > div > div > uc-masthead-v2 > div > div > uc-notch > div"
+          }
+        ]
+      },
+      {
+        "value": "rgba(0, 0, 0, 0.25) 0px 2px 4px 0px",
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+            "selector": "#products > div:nth-of-type(2)"
+          }
+        ]
+      }
+    ],
+    "gradients": []
+  },
+  "logo": {
+    "note": "inline header logo, captured at recreation from the source"
+  },
+  "systemComponents": [
+    "header (logo, En español, tabbed nav)",
+    "footer (legal links, EHL, copyright)",
+    "exit-notice modal",
+    "advertising-practices modal"
+  ]
+}

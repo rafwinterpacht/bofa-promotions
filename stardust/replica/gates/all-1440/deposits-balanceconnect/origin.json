@@ -1,0 +1,9 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+  "log": [
+    "stitched stardust/replica/gates/all-1440/deposits-balanceconnect/origin.png: 1440x3524 from 4 chunks"
+  ],
+  "fontsFailed": [],
+  "at": "2026-11-13T20:03:26.216Z"
+}

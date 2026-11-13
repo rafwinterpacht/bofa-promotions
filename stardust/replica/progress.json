@@ -1,0 +1,371 @@
+{
+  "types": {
+    "en-offers-chooseyourchecking500tiered": {
+      "pageType": "landing",
+      "type": "landing",
+      "archetype": "en-offers-chooseyourchecking500tiered",
+      "liveUrl": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "prototype": "stardust/prototypes/en-offers-chooseyourchecking500tiered-proposed.html",
+      "canon": "stardust/prototypes/canon.css",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "pixel": 7.12,
+          "heightDelta": -3,
+          "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome)",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "3 deltas (header/footer region backgroundColor, 'non-qualifying' inline x)",
+          "pass": true
+        },
+        "1440": {
+          "pixel": 0.89,
+          "heightDelta": -1,
+          "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome)",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "1 delta (header region backgroundColor)",
+          "pass": true,
+          "note": "post-cap confirmation round 'confirm' (no fixes) reproduced 0.89% / -1px after the cap-probe container change"
+        }
+      },
+      "capProbe": "PASS",
+      "residuals": [
+        "chrome-parity: header region reports backgroundColor transparent (live) vs white (build) at both widths; cosmetic, no pixel effect",
+        "360: hot bands at disclosures/card text are sub-pixel text offsets (page 3px shorter); visual identical in crop",
+        "masthead footnote sup '1' sits 2px lower than live",
+        "visual-diff advisory at 360: hidden sticky-bar h3 is 24px (source sticky title size lifted from desktop measure)",
+        "motion: live carousel class names (uc-carousel-current/active/center) differ from build (is-active); behaviour (track translate 500ms) matches",
+        "instrument fix: live capture failed under the site's CSP (page.addStyleTag refused); all live instruments run with NODE_OPTIONS=--require stardust/replica/gates/bypass-csp.cjs (bypassCSP:true on every Playwright context, symmetric). Flag for upstream into live-session.mjs"
+      ],
+      "motion": {
+        "observed": [
+          "nav Checking submenu on hover (500ms caret rotate + link color)",
+          "CTA hover background",
+          "CTA opacity 0s (instant, no visible motion)",
+          "mobile product carousel: arrows/tabs translate track (transform 500ms)"
+        ],
+        "implemented": [
+          "nav submenu hover + caret rotate",
+          "CTA hover background",
+          "mobile carousel (tabs, Previous/Next arrows, 2 clones each side, 500ms transform)",
+          "fragment modals (<template> + <dialog>) and Advertising Practices chrome modal"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)",
+          "product sticky bar reveal (never appeared on live during scroll; markup kept parked off-screen)"
+        ]
+      },
+      "backportRequests": [],
+      "files": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/en-offers-chooseyourchecking500tiered.css",
+        "stardust/prototypes/en-offers-chooseyourchecking500tiered-proposed.html",
+        "stardust/prototypes/assets/canon/",
+        "stardust/prototypes/assets/en-offers-chooseyourchecking500tiered/",
+        "stardust/prototypes/fonts/ (+icomoon, icomoon-interactive, connections_text, connections_text-vf-italic)"
+      ]
+    },
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal": {
+      "pageType": "static",
+      "type": "static",
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "liveUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+      "liveRenderedAt": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered (modal opened by clicking a[href=<fragment>]; direct URL 302s to an error page)",
+      "prototype": "stardust/prototypes/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal-proposed.html",
+      "iterations": {
+        "360": 2,
+        "1440": 2
+      },
+      "gates": {
+        "360": {
+          "pixel": 0.13,
+          "pixelVsCapturedCrop": 3.11,
+          "heightDelta": 0,
+          "contentDiff": "0 red / 0 yellow (same check as 1440)",
+          "clipped": 0,
+          "overflow": "ok",
+          "pass": true
+        },
+        "1440": {
+          "pixel": 0.27,
+          "pixelVsCapturedCrop": 0.27,
+          "heightDelta": 0,
+          "contentDiff": "0 red / 0 yellow: body markup byte-identical to serviceJson.rteMarkup; 11/11 rendered blocks text-equal to the live modal; heading, 6 body lines, 1 CTA (href+text) present",
+          "clipped": 0,
+          "overflow": "ok",
+          "pass": true
+        }
+      },
+      "capProbe": "N/A — fragment URL not navigable on the source (302); cap-probe needs a live page",
+      "landingDialogCheck": {
+        "url": "http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html",
+        "asIs": "all 6 fragments open at 1440 and 360: clipped 0, whole box reachable (dialog overflow auto), doc width = viewport; but box geometry off vs live (y 72 vs 88 at 1440, 360px wide vs 328 at 360, heights -142..+21px) — pixel vs live 4.5-12.0%",
+        "withBackports": "all 6 x 2 widths: height delta 0, rects identical to live, pixel 0.00-0.65% vs fresh live modal crops"
+      },
+      "residuals": [
+        "Method: gate.sh/measure.mjs cannot open a modal (measure.mjs has no click flag) and the fragment URL is not browsable, so the gate is a custom click probe (stardust/replica/gates/static/probes/probe.mjs, six.mjs) run through run-bg --slots 1 with the CSP bypass: live offer page -> consent closed -> click link -> element screenshot of .modal__content + computed-style/rect dump; same on the prototype (.modal-dialog__content); compared with pixel-compare.mjs (band 100) against the fresh live crop and against the captured crop png.",
+        "360 captured crop (stardust/current/assets/screenshots/<slug>-360.png) has the OneTrust banner over its lower 200px (bands 700-850 at 10-15%); the fresh consent-closed live crop is the reference (0.13%).",
+        "1440: 0.27% = one text line (y 300-400 band, 1.4%) anti-aliasing offset by a sub-pixel; rects identical at integer px.",
+        "Live adds analytics class t-track-body-copy-link to modal links (martech, not visual) — not reproduced.",
+        "Live modal content has transition-duration .4s ease-in but motion-observe sampled no animated change on open (widget dead on live)."
+      ],
+      "motion": {
+        "observed": [
+          "modal open on link click (classes modal__<id>, modal__wide)",
+          "body.ap-no-overflow scroll lock while open"
+        ],
+        "implemented": [
+          "dialog showModal on load + close button (standalone)",
+          "scroll lock body:has(dialog.modal-dialog[open]) { overflow: hidden }"
+        ],
+        "dead": [
+          "modal open animation (no sampled change on live)",
+          "header scroll-morph"
+        ]
+      },
+      "backportRequests": [
+        "canon.css .modal-dialog: padding 1rem (source keeps the <dialog> UA padding: box 328px at 360, x 345 / y 88 at 1440)",
+        "canon.css .modal-dialog__body p: margin 1rem 0 0; p:first-child margin-top 0 (source .modal .modal__body p)",
+        "canon.css: drop inline-block/margin on .modal-dialog__body .text-center b and .text-center + p (live: inline, no margin)",
+        "canon.css fragment h2: font Connections larger/700/mb .25rem; wide 2rem/400; line-height 1.25, >=640px 1.125 (replace .modal-dialog__body h2 and .modal-dialog--center h2 rules; exclude --exit)",
+        "landing/canon: .modal-dialog__additional > p:first-child margin-top 1rem (or unwrap additionalCopy into the body as the source does)",
+        "canon.css: body:has(dialog.modal-dialog[open]) { overflow: hidden }",
+        "All rules are in stardust/prototypes/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal.css, scoped to .modal-dialog — paste into canon.css verbatim"
+      ],
+      "evidence": "stardust/replica/gates/static/ (live-<w>.png|json, proto-<w>-i<n>.png|json, diff-*.png, six-live/, six-landing/, six-landing-fix/), stardust/replica/motion/static-{live,build,compare}.json"
+    },
+    "deposits-growyoursavings": {
+      "pageType": "program",
+      "type": "program",
+      "archetype": "deposits-growyoursavings",
+      "liveUrl": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+      "prototype": "stardust/prototypes/deposits-growyoursavings-proposed.html",
+      "css": "stardust/prototypes/deposits-growyoursavings.css",
+      "components": [
+        "masthead (--left, deep)",
+        "content-tile (--right/--left) + overview-item list",
+        "multi-step-content (--vertical)",
+        "image-with-text-offset (--left, --red)",
+        "long-form-text (--blue)"
+      ],
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "pixel": 0.17,
+          "heightDelta": -1,
+          "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome), 0 advisory",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "within tolerance",
+          "pass": true
+        },
+        "1440": {
+          "pixel": 0.15,
+          "heightDelta": -1,
+          "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome), 0 advisory",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "within tolerance",
+          "pass": true,
+          "note": "post-cap confirmation round 'confirm' (after 360 fixes: heading span model, footer bg) reproduced 0.15% / -1px"
+        }
+      },
+      "capProbe": "PASS",
+      "residuals": [
+        "1440 band 3500-4000 (0.9%) / 360 band 7000-7489 (1.0%): disclosure + legal-bar text anti-aliasing; measure.mjs shows disclosure ol/li boxes identical (Δ0)",
+        "page 1px shorter than live at both widths (sub-pixel footer height 926.67 vs 927.27)",
+        "motion advisory: build's first .cta (En español, cta--standard) colour-shifts on hover while live's first .cta probe showed none; source rule .cta--standard:hover (color #012169, underline) lifted verbatim",
+        "pixel-compare tolerance hides #ededed vs white: legal-bar gray found by pixel sampling, not by the verdict"
+      ],
+      "motion": {
+        "observed": [
+          "nav Checking submenu hover (500ms caret rotate + link colour)",
+          "body-copy link hover colour -> #012169"
+        ],
+        "implemented": [
+          "nav submenu hover + caret rotate (canon)",
+          "body-copy link hover colour",
+          "exit-notice / Advertising Practices chrome modal (canon script)",
+          "mobile menu toggle with En español CTA inside"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)"
+        ]
+      },
+      "backportRequests": [
+        ".site-header__inner background transparent (+ .site-header__bar transparent < 1024px): chrome-parity REGION backgroundColor delta at 1440 and 360",
+        ".site-footer background #ededed (source legal bar is gray; canon renders white)",
+        "header CTA slot (.site-header__cta--desktop/--mobile, expanded-nav__cta--wrapper 'En español') + .cta--standard variant",
+        "module caps: source sections are each max-width 1440 centred (no content-root cap) — cap-probe at 2560"
+      ],
+      "files": [
+        "stardust/prototypes/deposits-growyoursavings.css",
+        "stardust/prototypes/deposits-growyoursavings-proposed.html",
+        "stardust/prototypes/assets/deposits-growyoursavings/",
+        "stardust/replica/motion/program-live.json",
+        "stardust/replica/motion/program-build.json",
+        "stardust/replica/motion/program-compare.txt",
+        "stardust/replica/gates/deposits-growyoursavings-{1440,360,2560,probe}/"
+      ]
+    },
+    "en-deals": {
+      "pageType": "unique",
+      "type": "unique",
+      "archetype": "en-deals",
+      "liveUrl": "https://promotions.bankofamerica.com/en/deals.html",
+      "prototype": "stardust/prototypes/en-deals-proposed.html",
+      "css": "stardust/prototypes/en-deals.css",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "pixel": 2.74,
+          "heightDelta": -2,
+          "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome), 1 advisory",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "header region backgroundColor + footer block offset dy -2px (page 2px shorter)",
+          "pass": true
+        },
+        "1440": {
+          "pixel": 0.35,
+          "heightDelta": -1,
+          "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome), 1 advisory",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "within tolerance",
+          "pass": true,
+          "note": "post-cap confirmation round 'confirm' (--full, no fixes) after the cap-probe module-cap change reproduced 0.35% / -1px"
+        }
+      },
+      "capProbe": "PASS",
+      "counts": "reconciled against capture: masthead 1, long-form-text 1, brand tiles 2, separator 2, features 1 (3 items), background CTA 1, preferred-cards 3, storyblock 1 (simple-image inside), content-banner 2, content-carousel 1 (4 slides + 2 clones), tiles 1 (2 items), accordion 1 (5 items), disclosures 4 + 2 generic (one empty)",
+      "residuals": [
+        "chrome-parity 360: header region backgroundColor transparent (live) vs white (build bar from canon); footer block sits dy -2px (sub-pixel accumulation in preferred-card heights, 1px per card)",
+        "uc-btn pills render 10px wider than their lifted .625em/1em padding on live and sit +5px right of centre; reproduced as padding 18+5px and pill-row padding-left 10px (lifted from measured geometry, cause not found in the CSS)",
+        "carousel/tiles renditions at 360: live <img> srcset+sizes (\"(min-width: 19.5vw) 33.3vw, 55.62vw\") select the mobile files in the stitched capture (measure.mjs once read the dt file); build mirrors the live srcset/sizes verbatim",
+        "content-carousel full-bleed slide image is stretched 1440x692 -> 1440x696 on live (object-fit fill); reproduced",
+        "accordion answer open animation not observed on live (class is-active only); build toggles display",
+        "motion: live carousel class names (uc-carousel-current/active) differ from build (is-active); behaviour (track transform 500ms, dot background 200ms) matches",
+        "visual-diff advisory 'IMAGE DID NOT LOAD' (slides 2/3) cleared by removing loading=lazy",
+        "instrument: every live instrument run with NODE_OPTIONS=--require stardust/replica/gates/bypass-csp.cjs"
+      ],
+      "motion": {
+        "observed": [
+          "carousel next/dot: track transform 500ms + dot background-color 200ms",
+          "accordion handle is-active (icon rotate)",
+          "header CTA hover color #0053c2 -> #012169 (no transition)"
+        ],
+        "implemented": [
+          "carousel arrows + dots (one clone each side, aria-hidden, 500ms transform, 200ms dot)",
+          "accordion handles + Expand all/Collapse all (icon rotate 180deg .5s)",
+          "header CTA hover color/underline",
+          "mobile menu toggle (utility link + CTAs panel)",
+          "footer Advertising Practices chrome modal"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)",
+          "masthead pill hover (no measured diff on live)"
+        ]
+      },
+      "backportRequests": [
+        "header variant 'expanded-nav simpleNavigation': utility bar (En español, #f5f5f5 40px, 1024+) + CTA links (cta--standard, 44px, padding 20px, min-width 175px) + mobile menu panel; .site-header__inner transparent (currently in en-deals.css .site-header--expanded / .site-header__ctas / .site-header__menu)",
+        "footer gray legal bar variant (disclosures--gray page): .page-footer--gray .site-footer { background: #ededed }",
+        "module cap: :where(#main-content > *) { max-width: 1440px; margin-inline: auto } (live aem-Grid column caps every module at 1440)",
+        "uc-btn pill (.pill-btn / --large / --round) + .headline-sm (uc-headline--sm 20/1.25 light, 24px at 68rem) — 68rem (1088px) breakpoint for uc-* components",
+        "FAQ accordion (section-left, bright-red control, dropdown_brightRed.png) as a shared component"
+      ],
+      "files": [
+        "stardust/prototypes/en-deals-proposed.html",
+        "stardust/prototypes/en-deals.css",
+        "stardust/prototypes/assets/en-deals/",
+        "stardust/replica/gates/en-deals-1440/",
+        "stardust/replica/gates/en-deals-360/",
+        "stardust/replica/gates/en-deals-2560/cap-iter.json",
+        "stardust/replica/gates/en-deals/ (live/proto measure json)",
+        "stardust/replica/motion/unique-live.json, unique-build.json, unique-compare.txt"
+      ]
+    }
+  },
+  "siblings": {
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master": {
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "variants": [
+        "rule"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "2 P0 · 2 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity"
+      ],
+      "migrated": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html"
+    },
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal": {
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "variants": [
+        "wide rule"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "2 P0 · 2 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity"
+      ],
+      "migrated": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html"
+    },
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master": {
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "variants": [
+        "rule"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "2 P0 · 2 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity"
+      ],
+      "migrated": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html"
+    },
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal": {
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "variants": [
+        "wide center blank-lines-1"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "2 P0 · 2 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity"
+      ],
+      "migrated": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html"
+    },
+    "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal": {
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "variants": [
+        "wide center blank-lines-1"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "2 P0 · 2 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity"
+      ],
+      "migrated": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html"
+    }
+  }
+}

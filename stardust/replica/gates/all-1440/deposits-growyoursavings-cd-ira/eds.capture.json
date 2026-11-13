@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://main--78f2fb76--aemcoder.aem.page/deposits/growyoursavings/cd-ira",
+  "width": 1440,
+  "vh": 900,
+  "height": 4976,
+  "chunks": 6,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 1,
+    "late": 0
+  },
+  "at": "2026-11-13T20:04:25.862Z"
+}

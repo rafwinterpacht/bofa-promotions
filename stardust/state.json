@@ -1,0 +1,636 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-11-13T20:53:45Z",
+    "stardustVersion": "0.38.2"
+  },
+  "site": {
+    "originUrl": "https://promotions.bankofamerica.com",
+    "deployUrl": null,
+    "extractedAt": "2026-11-13T15:34:39.738Z",
+    "pageCap": null,
+    "totalDiscovered": 14,
+    "crawled": 12,
+    "aliases": [
+      {
+        "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered.html",
+        "of": "en-offers-chooseyourchecking500tiered",
+        "note": "same page served with .html; crawler flagged duplicate"
+      }
+    ],
+    "sourceNotFound": [
+      {
+        "url": "https://promotions.bankofamerica.com/",
+        "note": "/ 302 -> /index.html 302 -> https://www.bankofamerica.com/banking-information/error-page-en.html (404); no source page exists"
+      }
+    ],
+    "captureGaps": []
+  },
+  "direction": {
+    "resolvedAt": "2026-11-13T15:37:15.085Z",
+    "phrase": "replica (same-design migration)",
+    "directionFile": "stardust/direction.md",
+    "iaFidelity": "verbatim"
+  },
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-13T15:34:39.738Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "en-offers-chooseyourchecking500tiered",
+      "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "title": "Up to $500 Tiered Checking offer | Bank of America",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T16:14:23Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T16:14:23Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-offers-chooseyourchecking500tiered.json",
+      "prototypePath": "stardust/prototypes/en-offers-chooseyourchecking500tiered-proposed.html",
+      "migratedPath": "stardust/migrated/en/offers/chooseyourchecking500tiered.html"
+    },
+    {
+      "slug": "en-deals",
+      "url": "https://promotions.bankofamerica.com/en/deals.html",
+      "title": "Cash Back Deals Every Day with Bank of America",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T16:42:44Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T16:42:44Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-deals.json",
+      "prototypePath": "stardust/prototypes/en-deals-proposed.html",
+      "migratedPath": "stardust/migrated/en/deals.html"
+    },
+    {
+      "slug": "deposits-balanceconnect",
+      "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+      "title": "What Is Balance Connect® for Overdraft Protection? | Bank of America",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/deposits-balanceconnect.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "representative": "deposits-growyoursavings"
+    },
+    {
+      "slug": "deposits-growyoursavings",
+      "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+      "title": "Grow Your Savings | Bank of America",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T16:39:22Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T16:39:22Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/deposits-growyoursavings.json",
+      "prototypePath": "stardust/prototypes/deposits-growyoursavings-proposed.html",
+      "migratedPath": "stardust/migrated/deposits/growyoursavings.html"
+    },
+    {
+      "slug": "deposits-debitcard-overview",
+      "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+      "title": "Debit card overview | Bank of America",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/deposits-debitcard-overview.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "representative": "deposits-growyoursavings"
+    },
+    {
+      "slug": "deposits-growyoursavings-cd-ira",
+      "url": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+      "title": "CDs/IRAs | Bank of America",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/deposits-growyoursavings-cd-ira.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "representative": "deposits-growyoursavings"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+      "title": "Bank of America Advantage Plus Banking®",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T16:28:31Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T16:28:31Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal.json",
+      "prototypePath": "stardust/prototypes/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal-proposed.html",
+      "migratedPath": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+      "fragment": true,
+      "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+      "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+      "title": "Balance Connect® for overdraft protection",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "fragment": true,
+      "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+      "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+      "title": "Bank of America Advantage SafeBalance Banking®",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "fragment": true,
+      "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+      "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+      "title": "Bank of America Advantage Relationship Banking®",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "fragment": true,
+      "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+      "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+      "title": "New Eligible Accounts",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "fragment": true,
+      "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+      "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+      "title": "Qualifying Direct Deposit",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T15:34:39.738Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-13T15:37:15Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T20:53:45Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "fragment": true,
+      "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-13T18:19:50Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/en/offers/chooseyourchecking500tiered",
+        "outputPath": "en/offers/chooseyourchecking500tiered.html",
+        "slug": "en-offers-chooseyourchecking500tiered",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/en/deals.html",
+        "outputPath": "en/deals.html",
+        "slug": "en-deals",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/deposits/balanceconnect.html",
+        "outputPath": "deposits/balanceconnect.html",
+        "slug": "deposits-balanceconnect",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/deposits/growyoursavings.html",
+        "outputPath": "deposits/growyoursavings.html",
+        "slug": "deposits-growyoursavings",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/deposits/debitcard/overview.html",
+        "outputPath": "deposits/debitcard/overview.html",
+        "slug": "deposits-debitcard-overview",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/deposits/growyoursavings/cd-ira.html",
+        "outputPath": "deposits/growyoursavings/cd-ira.html",
+        "slug": "deposits-growyoursavings-cd-ira",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+        "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+        "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+        "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+        "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+        "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+        "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 68,
+    "bundledAssets": [
+      "canon.css",
+      "canon/BofA-logo.svg",
+      "canon/house.svg",
+      "canon/lock.svg",
+      "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal.css",
+      "deposits-growyoursavings.css",
+      "deposits-growyoursavings/C02_desktop-mobile_1440x490.jpg",
+      "deposits-growyoursavings/C02_mobile_750x1280_V4.jpg",
+      "deposits-growyoursavings/C08_desktop-tablet-790x540.jpg",
+      "deposits-growyoursavings/C08_desktop-tablet-790x540.png",
+      "deposits-growyoursavings/C08_mobile-375x290.jpg",
+      "deposits-growyoursavings/C08_mobile-375x290.png",
+      "deposits-growyoursavings/_desktop-tablet_1382x700.jpg",
+      "deposits-growyoursavings/_mobile_383x326.jpg",
+      "deposits-growyoursavings/icon_compass.svg",
+      "deposits-growyoursavings/icon_insurance.svg",
+      "deposits-growyoursavings/icon_spending.svg",
+      "deposits-growyoursavings/icon_time.svg",
+      "en-deals.css",
+      "en-deals/GettyImages-1440137255-mh-dt-1028X500.jpg",
+      "en-deals/GettyImages-1440137255-mh-m-460x600.jpg",
+      "en-deals/GettyImages-1965118672-509x339.jpg",
+      "en-deals/GettyImages-2166886876-509x339.jpg",
+      "en-deals/GettyImages-2183115577-509x339.jpg",
+      "en-deals/app_carousel-1-dt-1440x692-april-2026.jpg",
+      "en-deals/app_carousel-1-m-475X450-april-2026.jpg",
+      "en-deals/app_carousel-2-sept-25.jpg",
+      "en-deals/app_carousel-3-dt-1440x692-april-2026.jpg",
+      "en-deals/app_carousel-3-m-475X450-april-2026.jpg",
+      "en-deals/app_carousel-4-dt-1440x692-april-2026.jpg",
+      "en-deals/app_carousel-4-m-475X450-april-2026.jpg",
+      "en-deals/app_carousel_m_475X375_deals-sept-25.jpg",
+      "en-deals/bofa_icon_accounts2_186rgb.svg",
+      "en-deals/bofa_icon_card2_186rgb.svg",
+      "en-deals/bofa_icon_scroll2_186rgb.svg",
+      "en-deals/bofa_rewards_rgb_center.png",
+      "en-deals/brandsCount_Left_1440x500.gif",
+      "en-deals/brandsCount_Right_1440x500.gif",
+      "en-deals/card-375x290-m.jpg",
+      "en-deals/card-768x290-t.jpg",
+      "en-deals/card-790x540-dt.jpg",
+      "en-deals/dropdown_brightRed.png",
+      "en-deals/gettyimages-2217760282-1440x490.jpg",
+      "en-deals/gettyimages-2217760282509x339.jpg",
+      "en-deals/mobile-bank-phone-375x290-m.jpg",
+      "en-deals/mobile-bank-phone-768x290-t.jpg",
+      "en-deals/mobile-bank-phone-790x540-dt.jpg",
+      "en-offers-chooseyourchecking500tiered.css",
+      "en-offers-chooseyourchecking500tiered/500-mh1023_opt1.gif",
+      "en-offers-chooseyourchecking500tiered/500-mh1440_opt1.gif",
+      "en-offers-chooseyourchecking500tiered/500-mh750_opt1.gif",
+      "en-offers-chooseyourchecking500tiered/Red_circle_ko_1_sm.svg",
+      "en-offers-chooseyourchecking500tiered/Red_circle_ko_2_sm.svg",
+      "en-offers-chooseyourchecking500tiered/bofa-rewards-200-red.png",
+      "en-offers-chooseyourchecking500tiered/bofa_icon_checkmark2_186rgb.svg",
+      "en-offers-chooseyourchecking500tiered/g2235810887_1000x1000.jpg",
+      "fonts/connections_bold-web.woff2",
+      "fonts/connections_bolditalic-web.woff2",
+      "fonts/connections_italic-web.woff2",
+      "fonts/connections_light-web.woff2",
+      "fonts/connections_lightitalic-web.woff2",
+      "fonts/connections_medium-web.woff2",
+      "fonts/connections_mediumitalic-web.woff2",
+      "fonts/connections_regular-web.woff2",
+      "fonts/connections_text-vf-italic.woff2",
+      "fonts/connections_text.woff2",
+      "fonts/icomoon-interactive.woff2",
+      "fonts/icomoon.woff2"
+    ],
+    "pages": [
+      {
+        "slug": "en-offers-chooseyourchecking500tiered",
+        "file": "stardust/migrated/en/offers/chooseyourchecking500tiered.html",
+        "assetsBundled": 25
+      },
+      {
+        "slug": "en-deals",
+        "file": "stardust/migrated/en/deals.html",
+        "assetsBundled": 31
+      },
+      {
+        "slug": "deposits-growyoursavings",
+        "file": "stardust/migrated/deposits/growyoursavings.html",
+        "assetsBundled": 15
+      },
+      {
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+        "file": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+        "assetsBundled": 2
+      },
+      {
+        "slug": "deposits-balanceconnect",
+        "file": "stardust/migrated/deposits/balanceconnect.html",
+        "assetsBundled": 20
+      },
+      {
+        "slug": "deposits-debitcard-overview",
+        "file": "stardust/migrated/deposits/debitcard/overview.html",
+        "assetsBundled": 2
+      },
+      {
+        "slug": "deposits-growyoursavings-cd-ira",
+        "file": "stardust/migrated/deposits/growyoursavings/cd-ira.html",
+        "assetsBundled": 2
+      },
+      {
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+        "file": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+        "assetsBundled": 16
+      },
+      {
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+        "file": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+        "assetsBundled": 2
+      },
+      {
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+        "file": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+        "assetsBundled": 2
+      },
+      {
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+        "file": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+        "assetsBundled": 2
+      },
+      {
+        "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+        "file": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+        "assetsBundled": 2
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-13T18:19:50Z",
+      "rendered": [
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

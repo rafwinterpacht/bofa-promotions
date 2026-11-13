@@ -1,0 +1,179 @@
+/* modal-dialog — offer-term pop-up panel (source .helix-modal .modal / .modal__body).
+   Copy rules apply in both contexts (inside dialog.site-modal and standalone);
+   the .modal-dialog-dialog rules are the standalone dialog shell (same values as
+   the foundation's .site-modal: source dialog UA padding 1em, box 530/750px). */
+
+.modal-dialog.block .modal-dialog-body {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.modal-dialog.center .modal-dialog-body {
+  text-align: center;
+}
+
+/* .modal h2 (larger / 700 / mb .25rem), .text h2 line-height 1.25 (>=640px 1.125) */
+.modal-dialog.block .modal-dialog-body h2 {
+  margin: 0 0 0.25rem;
+  font-family: var(--font-sans);
+  font-size: larger;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+/* .modal .modal__wide h2 */
+.modal-dialog.wide.block .modal-dialog-body h2 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+/* .modal .modal__body p { margin: 1rem 0 0 } */
+.modal-dialog.block .modal-dialog-body p {
+  margin: 1rem 0 0;
+}
+
+/* bold regal-red line (source b > span.text-regalRed) */
+.modal-dialog .modal-dialog-emphasis strong,
+.modal-dialog .modal-dialog-emphasis b {
+  color: var(--color-regal-red);
+}
+
+/* "or" divider (source span.ornament) */
+.modal-dialog.block .modal-dialog-ornament p {
+  text-transform: uppercase;
+}
+
+.modal-dialog.block .modal-dialog-ornament p::before,
+.modal-dialog.block .modal-dialog-ornament p::after {
+  content: "";
+  display: inline-block;
+  width: 4em;
+  margin: 0 0.75em 0.25em;
+  border-bottom: 1px solid;
+}
+
+/* grey rule under the heading (source p > span.horizontal-line: p margin-top 1rem,
+   1px line, .5rem below — collapsed into the next paragraph's 1rem) */
+.modal-dialog.rule .modal-dialog-rule {
+  height: 1px;
+  margin: 1rem 0 0;
+  background-color: var(--color-gray-line);
+}
+
+/* footnote rows: left-aligned even in a centred dialog (source p.text-left) */
+.modal-dialog .modal-dialog-notes {
+  text-align: left;
+}
+
+/* blank lines above the emphasis line (source div.text-center holding &nbsp;, 1.4em
+   each, which keep the heading margin from collapsing): plus keeps the emphasis in a
+   div (no margin), the others in a p (1rem) */
+.modal-dialog.blank-lines-1 .modal-dialog-emphasis {
+  padding-top: 1.4em;
+}
+
+.modal-dialog.blank-lines-2 .modal-dialog-emphasis {
+  padding-top: 2.8em;
+}
+
+.modal-dialog.blank-lines-2.block .modal-dialog-emphasis p {
+  margin-top: 0;
+}
+
+/* ---------- standalone dialog shell ---------- */
+.modal-dialog .modal-dialog-dialog {
+  position: fixed;
+  inset: 0;
+  z-index: 10010;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 1rem;
+  overflow: auto;
+  border: 0;
+  background: transparent;
+  color: var(--color-black);
+}
+
+.modal-dialog .modal-dialog-dialog::backdrop {
+  background: rgb(255 255 255 / 20%);
+  backdrop-filter: blur(75px);
+}
+
+body:has(.modal-dialog .modal-dialog-dialog[open]) {
+  overflow: hidden;
+}
+
+.modal-dialog .modal-dialog-content {
+  position: relative;
+  max-width: 530px;
+  height: auto;
+  margin: 36px auto;
+  border: 0;
+  border-radius: 2rem;
+  background-color: var(--color-white);
+  box-shadow: 0 0 48px 0 rgb(0 0 0 / 40%);
+}
+
+.modal-dialog.wide .modal-dialog-content {
+  max-width: 750px;
+}
+
+.modal-dialog .modal-dialog-nav {
+  position: sticky;
+  top: 0;
+  z-index: 9990;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.modal-dialog .modal-dialog-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  width: 31px;
+  height: 31px;
+  margin: 24px 24px 0 0;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  box-shadow: 0 0 1rem 0 rgb(0 0 0 / 15%);
+  color: var(--color-white);
+  font-family: var(--font-sans);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.modal-dialog .modal-dialog-close:focus {
+  outline: 0.0625rem dotted var(--color-black);
+}
+
+.modal-dialog .modal-dialog-frame {
+  padding: 3.75rem 0.25rem 0.5rem;
+}
+
+.modal-dialog .modal-dialog-frame .modal-dialog-body {
+  padding: 0 1.5rem 1.5rem;
+}
+
+@media (width >= 640px) {
+  .modal-dialog.block .modal-dialog-body h2 {
+    line-height: 1.125;
+  }
+}
+
+@media (width >= 768px) {
+  .modal-dialog .modal-dialog-content {
+    margin: 72px auto;
+  }
+
+  .modal-dialog .modal-dialog-frame {
+    padding: 4rem 0.625rem 0.75rem;
+  }
+}

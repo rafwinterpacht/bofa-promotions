@@ -1,0 +1,4 @@
+clip-probe http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html @ 360px — docH 9538, 259 text nodes, 76 controls (HTTP 200, chrome)
+  (none)
+Clipped: 0 (text clipped 0, text hidden 0, controls hidden 0, controls clipped 0; advisory: clamped 0, collapsed 0, scroll-hidden 2, horizontal 1)
+json → stardust/replica/gates/en-offers-chooseyourchecking500tiered-360/clip-iter2.json

@@ -1,0 +1,67 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout C0 foundation (replica)",
+    "writtenAt": "2026-11-13",
+    "readFrom": ["scripts/scripts.js", "scripts/aem.js", "head.html"]
+  },
+  "runtime": "vanilla-eds",
+  "blockWrapperClass": "block",
+  "blockDom": "div.<name>.block[data-block-name] inside div.<name>-wrapper; section gains .<name>-container",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "sectionMetadata": "server-rendered (section classes); aem.js decorateSections does not read section-metadata",
+  "trustedTypes": "CSP require-trusted-types-for 'script'; scripts.js installs a 'default' policy, so innerHTML works",
+  "breakpoints": {
+    "headerDesktop": 1024,
+    "typeSteps": [640, 1068],
+    "pillButton": 1088,
+    "note": "DESIGN.json extensions.breakpoints.target is unset, so lint:breakpoints is not wired"
+  },
+  "foundation": {
+    "tokens": "styles/styles.css :root (canon colors, --font-sans/--font-text/--font-icon, --page-max 1440, --gutter 5%, --cta-*, --nav-height)",
+    "sectionCap": "main > .section { max-width: 1440px; margin: 0 auto } — per section, centred; blocks own their inner gutters (default content gets padding 0 5%)",
+    "sectionStyles": ["spacer-ultra-thin (10px band)", "spacer-thin (25px band)", "gray (#ededed ground)"],
+    "buttons": {
+      "primary (<strong><a>)": "canon .cta — bright-red pill, 2.25em/2.667em high, min-width 230/260",
+      "secondary (<em><a>)": "canon .cta--blue — dark-blue",
+      "accent (<strong><em><a>)": "red pill (uc-btn), text width; 16px/10px 21px, 18px/11.25px 23px from 1088px; modifiers .large, .round",
+      "chromeOnly": ".cta--standard (header CTA links) and .cta--grey (modal Cancel) live in the header block / lazy-styles"
+    },
+    "typeUtilities": [".headline-sm / .headline-sm-wrap (20px light, 24px from 1088px)", ".small-caps", ".ornament", ".horizontal-line", ".visually-hidden"]
+  },
+  "chrome": {
+    "header": {
+      "documents": {
+        "/nav": "default — offer/landing pages (Checking -> chooseyourchecking500tiered, Savings, CDs/IRAs)",
+        "/nav-deposits": "deposit pages (growyoursavings, cd-ira): Checking -> 2026t3unauth + 'En español' CTA",
+        "/nav-debitcard": "deposits/debitcard/overview: 'Manage your card' menu + Explore FAQs + 'En español' CTA",
+        "/nav-balanceconnect": "deposits/balanceconnect: grey utility bar + tabbed menu",
+        "/nav-deals": "en/deals: grey utility bar + two header CTA links, no menu"
+      },
+      "selection": "page metadata `nav` (e.g. /nav-deposits); `spanish-url` re-targets the 'En español' link",
+      "model": "sections classified by content: style `utility` = utility bar; section with <ul> = menu (style `tabs` = tabbed); first other = brand (logo link, logo image injected from /icons/bofa-logo.svg); rest = CTA links (author as plain links, not buttons)",
+      "navHeight": "70px mobile; 103px desktop; 106px /nav-deals; 143px /nav-balanceconnect (styles.css :root:has(meta[name=nav]))"
+    },
+    "footer": {
+      "documents": { "/footer": "grey #ededed legal bar (logo, legal links, copyright, legal code)" },
+      "selection": "page metadata `footer`; `legal-code` replaces the per-page code line (e.g. 'MAP8880996-11062027 | LP-08-26-0253.A')",
+      "disclosures": "page content (the per-page footnotes), NOT the footer document — authored as the page's last section/block"
+    },
+    "modals": {
+      "script": "scripts/modals.js (loaded in loadLazy)",
+      "fragmentModal": "any link whose path starts with /content/experience-fragments/ or /modals/ (same origin or promotions.bankofamerica.com) opens <path>.plain.html in dialog.site-modal",
+      "fragmentContext": "the fragment is decorated inside main.modal-fragment: a block can test block.closest('.modal-fragment') and render body content only (the dialog shell and close button come from the foundation)",
+      "variants": "a section or block class containing `wide` (750px), `center` (centred text) or `notice` (exit-notice heading) styles the dialog",
+      "exitNotice": "links to hosts outside bankofamerica.com / bofa.com / ml.com / merrill(edge).com / aem.page|live open /modals/exit-notice; '#continue' proceeds (new tab), '#cancel' closes",
+      "documents": ["/modals/exit-notice", "/modals/advertising-practices"]
+    }
+  },
+  "fonts": {
+    "faces": "styles/fonts.css (Connections 100-700 + italics, 'connections text' variable, icomoon, icomoon-interactive)",
+    "fallback": "connections-fallback (Arial/Liberation Sans, width-probed: 94.88% regular, 90.55% light) in styles.css",
+    "licensing": "proprietary Bank of America faces — fonts/LICENSING.md + banner in styles/styles.css"
+  },
+  "favicon": "favicon.ico (repo root) fetched from the source's link[rel=icon] (/etc.clientlibs/.../favicon.ico); head.html unchanged"
+}

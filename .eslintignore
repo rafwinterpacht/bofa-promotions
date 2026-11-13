@@ -1,2 +1,4 @@
 helix-importer-ui
 *.min.js
+# captured third-party tag snapshots (evidence, not served: stardust/ is in .hlxignore)
+stardust/martech/tags/

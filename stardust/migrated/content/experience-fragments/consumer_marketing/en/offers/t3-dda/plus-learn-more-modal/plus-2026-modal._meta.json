@@ -1,0 +1,56 @@
+{
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "modal-dialog"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "modal-dialog"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Bank of America Advantage Plus Banking® | Bank of America",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Bank of America Advantage Plus Banking® | Bank of America",
+    "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html"
+  },
+  "migratedAt": "2026-11-13T16:43:44Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "f8ee2dbd958d",
+  "sourceProposedSha": "4b07541fd915",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 2,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+  "outputPathDefault": null,
+  "sidecar": "content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal._meta.json",
+  "driverVersion": "1"
+}

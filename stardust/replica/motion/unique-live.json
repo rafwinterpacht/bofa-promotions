@@ -1,0 +1,654 @@
+{
+  "url": "https://promotions.bankofamerica.com/en/deals.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 4800,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 6000,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 5206,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3706,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "helix-cta",
+      "position": "static",
+      "height": "106px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".uc-carousel-next",
+      "frames": [
+        {
+          "t": 28359,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        },
+        {
+          "t": 28564.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        },
+        {
+          "t": 28768.39999999944,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        },
+        {
+          "t": 28972.200000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "matrix(1, 0, 0, 1, 0, -27.5)",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": "#uc-carousel-slide-control12",
+      "frames": [
+        {
+          "t": 29990.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 30193.799999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 30398.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 30613.299999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".accordion-item__handle",
+      "frames": [
+        {
+          "t": 31647,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 31853.700000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 32059.700000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 32264.599999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".accordion-items-option .expand",
+      "frames": [
+        {
+          "t": 33293.799999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 33499,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 33704.59999999963,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 33909.39999999944,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": "#standalone-button_view-your-deals",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(227, 24, 55)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.25s ease-out 0.05s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(227, 24, 55)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.25s ease-out 0.05s"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".expanded-nav__cta--wrapper.only-desktop .cta",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 83, 194)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "none"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(1, 33, 105)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "none"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "background-color",
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > ul.uc-carousel-dots > li > button.t-track-custom-click",
+        "y": 4311,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "background-color",
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > ul.uc-carousel-dots > li.uc-carousel-active > button.t-track-custom-click",
+        "y": 4311,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.aem-wrap--content-carousel.aem-GridColumn.aem-GridColumn--default--12 > section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides",
+        "y": 4311,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "background-color",
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > ul.uc-carousel-dots > li > button.t-track-custom-click",
+        "y": 4747,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "background-color",
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > ul.uc-carousel-dots > li.uc-carousel-active > button.t-track-custom-click",
+        "y": 4747,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.aem-wrap--content-carousel.aem-GridColumn.aem-GridColumn--default--12 > section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides",
+        "y": 4747,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5808,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "uc-expanded-nav.expanded-nav.header.not-modal > div.container.section__wrapper.expanded-nav__wrapper > div.expanded-nav__logoWrapper > div.expanded-nav__cta--wrapper.only-desktop > a.cta.cta__desktop.t-track-cta__link",
+        "y": 1,
+        "dur": "0s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4294
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4294
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4294
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4294
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4294
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.aem-wrap--content-carousel.aem-GridColumn.aem-GridColumn--default--12 > section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > ul.uc-carousel-dots > li.uc-carousel-active",
+        "y": 4294
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4747
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4747
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4747
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4747
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide.uc-carousel-current",
+        "y": 4747
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.aem-wrap--content-carousel.aem-GridColumn.aem-GridColumn--default--12 > section.content-carousel.not-modal.content-carousel--full-bleed > consumer-flag-carousel.content-carousel__slider.container.section__wrapper > ul.uc-carousel-dots > li.uc-carousel-active",
+        "y": 4747
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5808
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.accordion.container.section__wrapper > div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray.t-track-custom-click",
+        "y": 5759
+      }
+    ]
+  }
+}

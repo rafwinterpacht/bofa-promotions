@@ -1,0 +1,8445 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T20:44:19.995Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "at": "2026-11-13T20:43:53.404Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 9530,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a",
+    "x": 0,
+    "y": 0,
+    "w": 54,
+    "h": 22,
+    "text": "___",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperLogo > a#nav-_-logo",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__wrapperLogo > a#nav-_-logo > img.expanded-nav__logo",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperMenu > a#expanded-nav__menuLink",
+    "x": 310,
+    "y": 16,
+    "w": 32,
+    "h": 38,
+    "text": "open the main menu",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.masthead__heading--lead > span#csp-id-322fef2f-abec-4ff6-bd6b-26216f4dfae3 > b",
+    "x": 21,
+    "y": 111,
+    "w": 319,
+    "h": 25,
+    "text": "BANK OF AMERICA ADVANTAGE BANKING"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__heading > h1.masthead__heading--copy.text-black",
+    "x": 18,
+    "y": 137,
+    "w": 324,
+    "h": 261,
+    "level": 1,
+    "text": "new checking customers earn up to $500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__heading > h1.masthead__heading--copy.text-black > b",
+    "x": 66,
+    "y": 269,
+    "w": 228,
+    "h": 126,
+    "text": "earn up to $500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section-upper > div.masthead__copy.text > p",
+    "x": 18,
+    "y": 418,
+    "w": 324,
+    "h": 78,
+    "text": "Open a new eligible checking account and make Qualifying Direct Deposits to earn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-669453827-0",
+    "x": 331,
+    "y": 444,
+    "w": 7,
+    "h": 14,
+    "text": "1",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead__section > div.masthead__section-lower > a#masthead646804393-_-see-offer-details",
+    "x": 61,
+    "y": 528,
+    "w": 230,
+    "h": 54,
+    "text": "see offer details",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#products > div.container.section__wrapper > h2.product-details__heading.text-darkBlue",
+    "x": 18,
+    "y": 805,
+    "w": 324,
+    "h": 173,
+    "level": 2,
+    "text": "bank of america advantage banking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-carousel-list > div.uc-carousel-track.slides > div#product-details__productTabItem--1",
+    "x": 25,
+    "y": 1003,
+    "w": 104,
+    "h": 92,
+    "text": "Advantage Plus Banking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-carousel-list > div.uc-carousel-track.slides > div#product-details__productTabItem--2",
+    "x": 129,
+    "y": 1003,
+    "w": 104,
+    "h": 92,
+    "text": "Advantage SafeBalance Banking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-carousel-list > div.uc-carousel-track.slides > div#product-details__productTabItem--3",
+    "x": 233,
+    "y": 1003,
+    "w": 104,
+    "h": 92,
+    "text": "Advantage Relationship Banking"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList > button.mobile__arrows.mobile__next",
+    "x": 320,
+    "y": 1170,
+    "w": 24,
+    "h": 24,
+    "text": "next"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList > button.mobile__arrows.mobile__prev",
+    "x": 16,
+    "y": 1170,
+    "w": 24,
+    "h": 24,
+    "text": "previous"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-white > div.product-details__productItemHeader.bg-gray > h3.product-details__productTitle.text-regalRed",
+    "x": 42,
+    "y": 1126,
+    "w": 276,
+    "h": 25,
+    "level": 3,
+    "text": "advantage plus banking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "b > span.small-caps > span.text-darkBlue",
+    "x": 42,
+    "y": 1178,
+    "w": 149,
+    "h": 20,
+    "text": "FLEXIBLE BANKING"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productIntro.text > p",
+    "x": 42,
+    "y": 1216,
+    "w": 276,
+    "h": 49,
+    "text": "Flexible banking to meet your needs."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemHeader.bg-gray > div.product-details__productCTA > a#product-details1219344193-_-open-account",
+    "x": 62,
+    "y": 1321,
+    "w": 236,
+    "h": 47,
+    "text": "open account",
+    "href": "/upac/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-white > div.product-details__productKeyDesc.text > p",
+    "x": 42,
+    "y": 1385,
+    "w": 276,
+    "h": 24,
+    "text": "$12 or $0 monthly maintenance fee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productKeyDesc.text > p#csp-id-d1a6d5a9-0846-46d4-a833-ee9e908a3ffc > a#product-details_learn-more",
+    "x": 42,
+    "y": 1426,
+    "w": 87,
+    "h": 22,
+    "text": "learn more",
+    "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-white > div.product-details__productKeyDesc.text > p",
+    "x": 42,
+    "y": 1482,
+    "w": 276,
+    "h": 73,
+    "text": "Multiple ways to waive your monthly maintenance fee, including direct deposit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-white > div.product-details__productDesc.text > p",
+    "x": 42,
+    "y": 1588,
+    "w": 276,
+    "h": 49,
+    "text": "Offers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productDesc.text > p > a#product-details_balance-connect_-for-overdraft-protection",
+    "x": 42,
+    "y": 1589,
+    "w": 217,
+    "h": 46,
+    "text": "balance connect® for overdraft protection",
+    "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1041593338-0",
+    "x": 197,
+    "y": 1610,
+    "w": 7,
+    "h": 14,
+    "text": "5",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-white > div.product-details__productDesc.text > p",
+    "x": 42,
+    "y": 1670,
+    "w": 276,
+    "h": 24,
+    "text": "Paper checks available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details__productItemWrapper.bg-white > div.product-details__productDesc.text > p",
+    "x": 42,
+    "y": 1727,
+    "w": 276,
+    "h": 24,
+    "text": "No interest earned"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList > button.mobile__arrows.mobile__next",
+    "x": 320,
+    "y": -878,
+    "w": 24,
+    "h": 24,
+    "text": "next"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList > button.mobile__arrows.mobile__prev",
+    "x": 16,
+    "y": -878,
+    "w": 24,
+    "h": 24,
+    "text": "previous"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-details__stickyItem.uc-carousel-slide > div.product-details__stickyItemWrapper > h3.product-details__stickyTitle.text-regalRed",
+    "x": 41,
+    "y": -884,
+    "w": 278,
+    "h": 24,
+    "level": 3,
+    "text": "advantage plus banking"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#offer > div.section__wrapper.multi-step-content__wrapper > h2.multi-step-content__heading.text-black",
+    "x": 18,
+    "y": 1889,
+    "w": 324,
+    "h": 96,
+    "level": 2,
+    "text": "here's how to qualify 1 :"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h2.multi-step-content__heading.text-black > sup > a#footnote-669453827-1",
+    "x": 226,
+    "y": 1942,
+    "w": 7,
+    "h": 17,
+    "text": "1",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item.multi-step-content-item--icon > div.multi-step-content-item__icon.icon__bright-red > img",
+    "x": 130,
+    "y": 2037,
+    "w": 100,
+    "h": 70,
+    "text": "1",
+    "file": "Red_circle_ko_1_sm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item__content > div.multi-step-content-item__copy.text > p",
+    "x": 21,
+    "y": 2123,
+    "w": 318,
+    "h": 86,
+    "text": "Open a checking account through this offer page by ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > b > a#multi-step-content_new-eligible",
+    "x": 117,
+    "y": 2125,
+    "w": 112,
+    "h": 25,
+    "text": "new eligible",
+    "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item__copy.text > p#csp-id-1decc07f-9e7a-419f-b201-eba7a82a61ae > i",
+    "x": 54,
+    "y": 2230,
+    "w": 252,
+    "h": 41,
+    "text": "Only new checking customers can take advantage of this offer."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item.multi-step-content-item--icon > div.multi-step-content-item__icon.icon__bright-red > img",
+    "x": 130,
+    "y": 2325,
+    "w": 100,
+    "h": 70,
+    "text": "2",
+    "file": "Red_circle_ko_2_sm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item__content > div.multi-step-content-item__copy.text > p",
+    "x": 21,
+    "y": 2411,
+    "w": 318,
+    "h": 114,
+    "text": "Set up and receive into your new account within 90 days of account opening (\"Dep"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > b > a#multi-step-content_qualifying-direct-deposits",
+    "x": 48,
+    "y": 2413,
+    "w": 261,
+    "h": 54,
+    "text": "qualifying direct deposits",
+    "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item__content > div.multi-step-content-item__copy.text > p",
+    "x": 21,
+    "y": 2541,
+    "w": 318,
+    "h": 112,
+    "text": "Your bonus amount will be based on the total amount of your Qualifying Direct De"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "th#csp-id-ba32006b-2dbc-4bc4-8c4a-5f5b43aab54e > p#csp-id-80f0df17-692a-4a81-905c-d1ae4cc18ac2 > span.color-reverse",
+    "x": 48,
+    "y": 2687,
+    "w": 71,
+    "h": 66,
+    "text": "Cash Bonus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-517d52bd-4688-4a25-8282-131a5d6a40a9 > span.color-reverse > b",
+    "x": 175,
+    "y": 2687,
+    "w": 137,
+    "h": 66,
+    "text": "Total Direct Deposits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-24ef83f9-6a76-488c-8925-ede06881ae9c > b > span.text-brightRed",
+    "x": 60,
+    "y": 2782,
+    "w": 47,
+    "h": 25,
+    "text": "$100"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td#csp-id-84c7c366-223c-4b76-a087-99d7593633de > p#csp-id-e25c2a35-7659-4fe4-a07f-1c3a593327a6",
+    "x": 158,
+    "y": 2781,
+    "w": 169,
+    "h": 28,
+    "text": "$2,000"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-62c772c8-8c71-4042-996b-7287255156f6 > b > span.text-brightRed",
+    "x": 60,
+    "y": 2831,
+    "w": 47,
+    "h": 25,
+    "text": "$300"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td#csp-id-89c17610-3856-402e-ace6-b4c451e4d07f > p#csp-id-ed992574-3708-4efc-bd8a-6a6138e205dc",
+    "x": 158,
+    "y": 2830,
+    "w": 169,
+    "h": 28,
+    "text": "$5,000"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-35ad5d68-f998-4db9-aa3e-a21d4a40c52a > b > span.text-brightRed",
+    "x": 60,
+    "y": 2880,
+    "w": 47,
+    "h": 25,
+    "text": "$500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td#csp-id-374da331-9269-4561-8cb4-ea266ee5bc18 > p#csp-id-b5b2d775-6dfa-459d-bc3a-67f4a4b4815c",
+    "x": 158,
+    "y": 2879,
+    "w": 169,
+    "h": 28,
+    "text": "$10,000+"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item.multi-step-content-item--icon > div.multi-step-content-item__icon.icon__black > img",
+    "x": 130,
+    "y": 2977,
+    "w": 100,
+    "h": 70,
+    "text": "checkmark",
+    "file": "bofa_icon_checkmark2_186rgb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item__content > div.multi-step-content-item__copy.text > p",
+    "x": 21,
+    "y": 3063,
+    "w": 318,
+    "h": 112,
+    "text": "After the Deposit Period ends and all requirements are met, we'll attempt to dep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.newQualiwrapper > div.multi-step-content__subcopy.text > p#csp-id-268b48a7-cea2-4811-a480-06f8cc52a738",
+    "x": 18,
+    "y": 3227,
+    "w": 324,
+    "h": 76,
+    "text": "Bank of America Advantage SafeBalance Banking® for Family Banking accounts are f"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc.uc-image__wrapper > picture > img#csp-id-439c753e-ec7b-4c9c-afeb-dca9b5f83771",
+    "x": 50,
+    "y": 3706,
+    "w": 250,
+    "h": 36,
+    "text": "bofa rewards trademark symbol",
+    "file": "bofa-rewards-200-red"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-card__heading > uc-heading-group.uc.uc-component > h2#csp-id-54e733d8-8e82-4bb4-8e59-fa35c1009fdf",
+    "x": 50,
+    "y": 3762,
+    "w": 260,
+    "h": 160,
+    "level": 2,
+    "text": "opening a personal checking account gives you access to bofa rewards™"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "uc-heading-group.uc.uc-component > div.uc-heading__subheadline > p#csp-id-8ae105d8-fb5b-46fd-be58-bfd63f3ebd9f",
+    "x": 50,
+    "y": 3942,
+    "w": 260,
+    "h": 210,
+    "text": "As a member, you can enjoy exclusive benefits like cash back deals on debit card"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-8ae105d8-fb5b-46fd-be58-bfd63f3ebd9f > sup > a#footnote-1781517269-0",
+    "x": 236,
+    "y": 4005,
+    "w": 7,
+    "h": 14,
+    "text": "6",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-8ae105d8-fb5b-46fd-be58-bfd63f3ebd9f > sup > a#footnote-1264592399-0",
+    "x": 201,
+    "y": 4125,
+    "w": 7,
+    "h": 14,
+    "text": "7",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "uc-heading-group.uc.uc-component > div.uc-heading__subheadline > p#csp-id-e42822d1-4122-4f78-8864-c69a98534d64",
+    "x": 50,
+    "y": 4172,
+    "w": 260,
+    "h": 60,
+    "text": "Plus, there’s"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-e42822d1-4122-4f78-8864-c69a98534d64 > sup > a#footnote-1188056222-0",
+    "x": 95,
+    "y": 4205,
+    "w": 7,
+    "h": 14,
+    "text": "8",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-heading__subheadline > p#csp-id-e42822d1-4122-4f78-8864-c69a98534d64 > a#headinggroup_learn-more",
+    "x": 108,
+    "y": 4204,
+    "w": 108,
+    "h": 26,
+    "text": "learn more",
+    "href": "/en/rewards/bofa-rewards.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 4325,
+    "w": 298,
+    "h": 233,
+    "text": "Offer is limited to individuals who have not owned or co-owned a Bank of America"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 4573,
+    "w": 305,
+    "h": 196,
+    "text": "Bank of America may present different promotional checking offers through variou"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > b",
+    "x": 20,
+    "y": 4789,
+    "w": 284,
+    "h": 18,
+    "text": "Requirements to Receive a Checking Bonus:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ol > li > p#csp-id-fff357c3-f956-4126-994a-85175e167afc",
+    "x": 48,
+    "y": 4832,
+    "w": 268,
+    "h": 65,
+    "text": "Enroll in this offer through a Bank of America or Merrill associate or online th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ol > li > p#csp-id-0745667a-757a-4717-b845-9ba8ba1d5fdf",
+    "x": 48,
+    "y": 4908,
+    "w": 276,
+    "h": 41,
+    "text": "Open a new eligible personal checking account by ."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ol > li > p#csp-id-a5927aa5-52e1-4aff-88ca-d2095e144a66",
+    "x": 48,
+    "y": 4967,
+    "w": 277,
+    "h": 137,
+    "text": "Bank of America Advantage SafeBalance Banking®, Bank of America Advantage Plus B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ol > li > p#csp-id-024dc85c-9f89-475d-8b5b-67d30e8759e3",
+    "x": 48,
+    "y": 5111,
+    "w": 267,
+    "h": 89,
+    "text": "Set up and receive into that eligible personal checking account within ninety (9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p#csp-id-363e2551-ee5a-42a1-aeec-de9fbad56044 > span#csp-id-c4552928-13f3-4335-884a-5ad1248e949b",
+    "x": 48,
+    "y": 5219,
+    "w": 259,
+    "h": 76,
+    "text": "At the end of the 90-day Deposit Period, all Qualifying Direct Deposits will be "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p#csp-id-b7b8587d-28f6-4e49-aede-139fe6f3119f > b",
+    "x": 141,
+    "y": 5313,
+    "w": 92,
+    "h": 18,
+    "text": "“Bonus Chart”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "th#csp-id-b7b7a0e8-5082-4af7-ae6b-ca13cbfd1277 > p#csp-id-f7a1c761-7230-478b-b954-c9729782c5d6 > b",
+    "x": 24,
+    "y": 5352,
+    "w": 147,
+    "h": 38,
+    "text": "Total Qualifying Direct Deposits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "th#csp-id-5590807a-d920-4c3d-92aa-1aff2dc1593d > p#csp-id-27f76c46-cbbe-4bba-b3df-758efa6748ae > b",
+    "x": 203,
+    "y": 5362,
+    "w": 95,
+    "h": 18,
+    "text": "Bonus Amount"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-2b5130c1-2e21-41aa-aaef-940c3755eb74 > p#csp-id-de779c80-3ceb-41d4-922b-0c43c354fc54",
+    "x": 49,
+    "y": 5393,
+    "w": 98,
+    "h": 17,
+    "text": "less than $2,000"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-4b4c6597-93cb-4352-98a8-db8bb751083d > p#csp-id-38efa7d5-7dc6-49ec-8646-3ec3cd0416d4",
+    "x": 49,
+    "y": 5414,
+    "w": 97,
+    "h": 17,
+    "text": "$2,000 – $4,999"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-9eb58846-c90c-45d4-9674-d7e73303a287 > p#csp-id-c3ee26e2-c89b-46a6-95d5-7ef7c0676e5d",
+    "x": 235,
+    "y": 5414,
+    "w": 31,
+    "h": 17,
+    "text": "$100"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-c6b4be14-d0c6-4058-9cd9-6d8b01baefd0 > p#csp-id-b8a2ba8c-3d49-412d-a9c4-3d564579cb2e",
+    "x": 49,
+    "y": 5434,
+    "w": 97,
+    "h": 17,
+    "text": "$5,000 – $9,999"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-cee648c4-bf12-410a-a419-bf69e5058475 > p#csp-id-b5e87ccc-743c-4dc5-a2d0-51d50fe3b52b",
+    "x": 235,
+    "y": 5434,
+    "w": 31,
+    "h": 17,
+    "text": "$300"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-b7fbe172-4d04-408b-b020-3e7b9da11249 > p#csp-id-53c528bb-f5ca-4b97-9630-3e1981108922",
+    "x": 48,
+    "y": 5455,
+    "w": 99,
+    "h": 17,
+    "text": "$10,000 or more"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "tr > td#csp-id-d6e4fc5a-0767-47a9-9ed5-a34453a26b75 > p#csp-id-2b5f05b5-a71c-4c2f-ae01-2d6387a5d4bd",
+    "x": 235,
+    "y": 5455,
+    "w": 31,
+    "h": 17,
+    "text": "$500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 5489,
+    "w": 305,
+    "h": 137,
+    "text": "After the Deposit Period ends, and once you satisfy all the requirements, we wil"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 5646,
+    "w": 305,
+    "h": 216,
+    "text": "A “ ” is a direct deposit of regular monthly income (such as your salary, pensio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 5881,
+    "w": 305,
+    "h": 314,
+    "text": "Your receipt of any bonus is subject to validation that you have provided all th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 6215,
+    "w": 305,
+    "h": 451,
+    "text": "All account applications are subject to approval. The minimum deposit required t"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_bankofamerica_com_depositsrates",
+    "x": 85,
+    "y": 6451,
+    "w": 200,
+    "h": 17,
+    "text": "bankofamerica.com/depositsrates",
+    "href": "/deposits/bank-account-interest-rates/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_bankofamerica_com",
+    "x": 146,
+    "y": 6588,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_bankofamerica_com_fees",
+    "x": 35,
+    "y": 6627,
+    "w": 145,
+    "h": 17,
+    "text": "bankofamerica.com/fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 6685,
+    "w": 305,
+    "h": 39,
+    "text": "Reproduction, purchase, sale, transfer or trade of this offer is prohibited."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-669453827 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 4325,
+    "w": 12,
+    "h": 14,
+    "text": "1",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1952227831 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 6746,
+    "w": 299,
+    "h": 252,
+    "text": "Fiduciary accounts, including trust and estate accounts, do not qualify for the "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_personal-schedule-of-fees",
+    "x": 20,
+    "y": 6961,
+    "w": 285,
+    "h": 37,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1952227831 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 6746,
+    "w": 12,
+    "h": 14,
+    "text": "2",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-213112427 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 7020,
+    "w": 304,
+    "h": 233,
+    "text": "SafeBalance Banking® and SafeBalance Banking® for Family Banking accounts are au"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-213112427 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 7021,
+    "w": 12,
+    "h": 14,
+    "text": "3",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-164654265 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 7276,
+    "w": 296,
+    "h": 56,
+    "text": "No fee for incoming domestic wire transfers, stop payments and other services. P"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_personal-schedule-of-fees1",
+    "x": 20,
+    "y": 7315,
+    "w": 155,
+    "h": 17,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-164654265 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 7276,
+    "w": 12,
+    "h": 14,
+    "text": "4",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1041593338 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 7354,
+    "w": 305,
+    "h": 428,
+    "text": "Balance Connect® for overdraft protection allows you to link your eligible check"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1041593338 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 7354,
+    "w": 12,
+    "h": 14,
+    "text": "5",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1781517269 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 7805,
+    "w": 295,
+    "h": 95,
+    "text": "BofA Rewards™ members will be eligible for exclusive deal offers. All such offer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_deals-homepage",
+    "x": 20,
+    "y": 7884,
+    "w": 98,
+    "h": 17,
+    "text": "deals homepage",
+    "href": "/en/deals.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1781517269 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 7806,
+    "w": 12,
+    "h": 14,
+    "text": "6",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1264592399 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 7923,
+    "w": 303,
+    "h": 252,
+    "text": "™ Customers can enroll and maintain their membership in BofA Rewards™ if they ha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > ol#csp-id-3c437aa4-647b-4b12-9b3e-812eb3fbb922 > li",
+    "x": 44,
+    "y": 8187,
+    "w": 281,
+    "h": 144,
+    "text": "for the 30 calendar days following your first enrollment, the combined end-of-da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > ol#csp-id-3c437aa4-647b-4b12-9b3e-812eb3fbb922 > li",
+    "x": 44,
+    "y": 8335,
+    "w": 281,
+    "h": 72,
+    "text": "subsequently, the combined average balance of your qualifying accounts calculate"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1264592399 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 8423,
+    "w": 305,
+    "h": 118,
+    "text": "Eligible customers will be moved to the higher tier within 3 business days. New "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_personal-schedule-of-fees1",
+    "x": 20,
+    "y": 8522,
+    "w": 155,
+    "h": 17,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1264592399 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 8561,
+    "w": 305,
+    "h": 216,
+    "text": "Employees and retirees of Bank of America may be eligible for BofA Rewards membe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_cebi-program",
+    "x": 72,
+    "y": 8758,
+    "w": 82,
+    "h": 17,
+    "text": "cebi program",
+    "href": "/cebi-disclosures/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1264592399 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 7924,
+    "w": 12,
+    "h": 14,
+    "text": "7",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1188056222 > div.disclosures__text.text > p",
+    "x": 20,
+    "y": 8797,
+    "w": 299,
+    "h": 95,
+    "text": "To join BofA Rewards™, you need an eligible personal Bank of America checking ac"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1188056222 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 2,
+    "y": 8797,
+    "w": 12,
+    "h": 14,
+    "text": "8",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 18,
+    "y": 8915,
+    "w": 313,
+    "h": 115,
+    "text": "Bank of America Advantage SafeBalance Banking, Bank of America Advantage Plus Ba"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 18,
+    "y": 9046,
+    "w": 324,
+    "h": 39,
+    "text": "BofA Rewards is a trademark of Bank of America Corporation."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 18,
+    "y": 9105,
+    "w": 324,
+    "h": 59,
+    "text": "The Contactless Symbol and Contactless Indicator are trademarks owned by and use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__boalogo > a#footer-_-logo",
+    "x": 80,
+    "y": 9234,
+    "w": 200,
+    "h": 26,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__boalogo > a#footer-_-logo > img",
+    "x": 80,
+    "y": 9234,
+    "w": 200,
+    "h": 20,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__copy.text > div.footer__bottom",
+    "x": 18,
+    "y": 9275,
+    "w": 324,
+    "h": 120,
+    "text": "| | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_PrivacySecurity",
+    "x": 69,
+    "y": 9278,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_Security",
+    "x": 122,
+    "y": 9278,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_AdPractices",
+    "x": 182,
+    "y": 9278,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#footer_children_s-privacy",
+    "x": 44,
+    "y": 9302,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#launchOtPc",
+    "x": 158,
+    "y": 9302,
+    "w": 126,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#cobrowse",
+    "x": 113,
+    "y": 9323,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_EHL",
+    "x": 150,
+    "y": 9350,
+    "w": 182,
+    "h": 41,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-content.aem-GridColumn > div.footer_wrapper.not-modal > div.footer__copyright",
+    "x": 68,
+    "y": 9395,
+    "w": 225,
+    "h": 48,
+    "text": "© Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.not-modal > div.container.section__wrapper > p.footer__ar",
+    "x": 18,
+    "y": 9471,
+    "w": 324,
+    "h": 20,
+    "text": "MAP9028092-01222028 | LP-06-26-0055.A1"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 121,
+    "textNodes": 264,
+    "controls": 74,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--78f2fb76--aemcoder.aem.page/en/offers/chooseyourchecking500tiered",
+  "at": "2026-11-13T20:44:19.844Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 9513,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-brand > p > a",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p > a > img.header-logo",
+    "x": 18,
+    "y": 17,
+    "w": 176,
+    "h": 36,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-inner > div.header-bar > button.header-toggle",
+    "x": 310,
+    "y": 16,
+    "w": 32,
+    "h": 38,
+    "text": "open the main menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-inner > div.header-bar > button.header-toggle",
+    "x": 310,
+    "y": 16,
+    "w": 32,
+    "h": 38,
+    "label": "open the main menu",
+    "value": "open the main menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-media-mobile > picture > img",
+    "x": 0,
+    "y": 80,
+    "w": 360,
+    "h": 700,
+    "text": "",
+    "file": "media_124e132ef9e52205ee38a277f9f60e5024"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-heading > h1#new-checking-customersearn-up-to-500",
+    "x": 18,
+    "y": 137,
+    "w": 324,
+    "h": 261,
+    "level": 1,
+    "text": "new checking customers earn up to $500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-heading > h1#new-checking-customersearn-up-to-500 > strong",
+    "x": 66,
+    "y": 269,
+    "w": 228,
+    "h": 126,
+    "text": "earn up to $500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-copy > p > strong",
+    "x": 21,
+    "y": 111,
+    "w": 319,
+    "h": 25,
+    "text": "BANK OF AMERICA ADVANTAGE BANKING"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-upper > div.masthead-copy > p",
+    "x": 18,
+    "y": 418,
+    "w": 324,
+    "h": 78,
+    "text": "Open a new eligible checking account and make Qualifying Direct Deposits to earn"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-copy > p > a#footnote-669453827-0",
+    "x": 330,
+    "y": 445,
+    "w": 8,
+    "h": 24,
+    "text": "1",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-lower > p.button-wrapper > a.button.primary",
+    "x": 61,
+    "y": 528,
+    "w": 230,
+    "h": 54,
+    "text": "see offer details",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-inner > div.product-details-heading > h2#bank-of-america-advantage-banking",
+    "x": 18,
+    "y": 805,
+    "w": 324,
+    "h": 173,
+    "level": 2,
+    "text": "bank of america advantage banking"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-content > div.product-details-tabs > button.product-details-tab.is-active",
+    "x": 25,
+    "y": 1003,
+    "w": 104,
+    "h": 92,
+    "text": "advantage plus banking"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-content > div.product-details-tabs > button.product-details-tab",
+    "x": 129,
+    "y": 1003,
+    "w": 104,
+    "h": 92,
+    "text": "advantage safebalance banking"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-content > div.product-details-tabs > button.product-details-tab",
+    "x": 233,
+    "y": 1003,
+    "w": 104,
+    "h": 92,
+    "text": "advantage relationship banking"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-title > h3#advantage-plus-banking",
+    "x": 42,
+    "y": 1127,
+    "w": 276,
+    "h": 25,
+    "level": 3,
+    "text": "advantage plus banking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-eyebrow > p > strong",
+    "x": 42,
+    "y": 1179,
+    "w": 149,
+    "h": 20,
+    "text": "FLEXIBLE BANKING"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-header > div.product-card-intro > p",
+    "x": 42,
+    "y": 1217,
+    "w": 276,
+    "h": 49,
+    "text": "Flexible banking to meet your needs."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-cta > p.button-wrapper > a.button.primary",
+    "x": 62,
+    "y": 1322,
+    "w": 236,
+    "h": 47,
+    "text": "open account",
+    "href": "/upac/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-body > div.product-card-key > p",
+    "x": 42,
+    "y": 1386,
+    "w": 276,
+    "h": 24,
+    "text": "$12 or $0 monthly maintenance fee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-key > p > a",
+    "x": 42,
+    "y": 1427,
+    "w": 87,
+    "h": 22,
+    "text": "learn more",
+    "href": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-body > div.product-card-key > p",
+    "x": 42,
+    "y": 1483,
+    "w": 276,
+    "h": 73,
+    "text": "Multiple ways to waive your monthly maintenance fee, including direct deposit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-body > div.product-card-desc > p",
+    "x": 42,
+    "y": 1589,
+    "w": 276,
+    "h": 49,
+    "text": "Offers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-desc > p > a",
+    "x": 42,
+    "y": 1590,
+    "w": 217,
+    "h": 46,
+    "text": "balance connect® for overdraft protection",
+    "href": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-desc > p > a#footnote-1041593338-1",
+    "x": 195,
+    "y": 1614,
+    "w": 8,
+    "h": 22,
+    "text": "5",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-body > div.product-card-desc > p",
+    "x": 42,
+    "y": 1671,
+    "w": 276,
+    "h": 24,
+    "text": "Paper checks available"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-card-body > div.product-card-desc > p",
+    "x": 42,
+    "y": 1728,
+    "w": 276,
+    "h": 24,
+    "text": "No interest earned"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-inner > div.product-details-content > button.product-details-arrow.product-details-arrow-prev",
+    "x": 18,
+    "y": 1171,
+    "w": 22,
+    "h": 24,
+    "text": "previous"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-details-inner > div.product-details-content > button.product-details-arrow.product-details-arrow-next",
+    "x": 320,
+    "y": 1171,
+    "w": 22,
+    "h": 24,
+    "text": "next"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-box > div.product-sticky-title > h3#advantage-plus-banking",
+    "x": 41,
+    "y": -884,
+    "w": 278,
+    "h": 24,
+    "level": 3,
+    "text": "advantage plus banking"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky-cta > p.button-wrapper.is-clone > a.button.primary",
+    "x": 62,
+    "y": -840,
+    "w": 236,
+    "h": 41,
+    "text": "open account",
+    "href": "/upac/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky > div.product-sticky-inner > button.product-details-arrow.product-details-arrow-prev",
+    "x": 16,
+    "y": -862,
+    "w": 24,
+    "h": 24,
+    "text": "previous"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": true,
+    "path": "div.product-sticky > div.product-sticky-inner > button.product-details-arrow.product-details-arrow-next",
+    "x": 320,
+    "y": -862,
+    "w": 24,
+    "h": 24,
+    "text": "next"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.steps-inner > div.steps-heading > h2#heres-how-to-qualify1",
+    "x": 18,
+    "y": 1890,
+    "w": 324,
+    "h": 96,
+    "level": 2,
+    "text": "here's how to qualify 1 :"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.steps-heading > h2#heres-how-to-qualify1 > a#footnote-669453827-1",
+    "x": 225,
+    "y": 1938,
+    "w": 8,
+    "h": 47,
+    "text": "1",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-icon > picture > img",
+    "x": 130,
+    "y": 2038,
+    "w": 100,
+    "h": 70,
+    "text": "1",
+    "file": "media_1f1b0970ba44f62192d1925ccc6f5ff367"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-content > div.step-copy > p",
+    "x": 21,
+    "y": 2124,
+    "w": 318,
+    "h": 86,
+    "text": "Open a checking account through this offer page by ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 117,
+    "y": 2126,
+    "w": 112,
+    "h": 25,
+    "text": "new eligible",
+    "href": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/eligible-accounts-modal/master"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-note > p > em",
+    "x": 54,
+    "y": 2231,
+    "w": 252,
+    "h": 41,
+    "text": "Only new checking customers can take advantage of this offer."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-icon > picture > img",
+    "x": 130,
+    "y": 2326,
+    "w": 100,
+    "h": 70,
+    "text": "2",
+    "file": "media_17f4dcdf5ecc1eed88a227623c2f9c529f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-content > div.step-copy > p",
+    "x": 21,
+    "y": 2412,
+    "w": 318,
+    "h": 114,
+    "text": "Set up and receive into your new account within 90 days of account opening (\"Dep"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 48,
+    "y": 2414,
+    "w": 261,
+    "h": 54,
+    "text": "qualifying direct deposits",
+    "href": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-content > div.step-copy > p",
+    "x": 21,
+    "y": 2542,
+    "w": 318,
+    "h": 112,
+    "text": "Your bonus amount will be based on the total amount of your Qualifying Direct De"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr.bonus-head > td",
+    "x": 20,
+    "y": 2671,
+    "w": 128,
+    "h": 101,
+    "text": "Cash Bonus"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr.bonus-head > td > strong",
+    "x": 175,
+    "y": 2688,
+    "w": 137,
+    "h": 66,
+    "text": "Total Direct Deposits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.bonus-label > strong",
+    "x": 60,
+    "y": 2783,
+    "w": 47,
+    "h": 25,
+    "text": "$100"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 148,
+    "y": 2772,
+    "w": 190,
+    "h": 49,
+    "text": "$2,000"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.bonus-label > strong",
+    "x": 60,
+    "y": 2832,
+    "w": 47,
+    "h": 25,
+    "text": "$300"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 148,
+    "y": 2821,
+    "w": 190,
+    "h": 49,
+    "text": "$5,000"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.bonus-label > strong",
+    "x": 60,
+    "y": 2881,
+    "w": 47,
+    "h": 25,
+    "text": "$500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 148,
+    "y": 2870,
+    "w": 190,
+    "h": 49,
+    "text": "$10,000+"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-icon > picture > img",
+    "x": 130,
+    "y": 2978,
+    "w": 100,
+    "h": 70,
+    "text": "checkmark",
+    "file": "media_1512a250b674a6358e0a2ae72fe8c59840"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-content > div.step-copy > p",
+    "x": 21,
+    "y": 3064,
+    "w": 318,
+    "h": 112,
+    "text": "After the Deposit Period ends and all requirements are met, we'll attempt to dep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.steps-inner > div.steps-subcopy > p",
+    "x": 18,
+    "y": 3224,
+    "w": 324,
+    "h": 76,
+    "text": "Bank of America Advantage SafeBalance Banking® for Family Banking accounts are f"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-media > picture > img",
+    "x": 18,
+    "y": 3347,
+    "w": 324,
+    "h": 324,
+    "text": "",
+    "file": "media_1b6766b21e0342b721b7dccf0b079641b4"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 50,
+    "y": 3703,
+    "w": 250,
+    "h": 36,
+    "text": "bofa rewards trademark symbol",
+    "file": "media_1de032b5d598b04abeebb4a1809d6b6cb4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-text > div.promo-card-title > h2#opening-a-personal-checking-account-gives-you-access-to-bofa-rewards",
+    "x": 50,
+    "y": 3759,
+    "w": 260,
+    "h": 160,
+    "level": 2,
+    "text": "opening a personal checking account gives you access to bofa rewards™"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-text > div.promo-card-body > p",
+    "x": 50,
+    "y": 3939,
+    "w": 260,
+    "h": 210,
+    "text": "As a member, you can enjoy exclusive benefits like cash back deals on debit card"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-body > p > a#footnote-1781517269-0",
+    "x": 235,
+    "y": 4001,
+    "w": 8,
+    "h": 26,
+    "text": "6",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-body > p > a#footnote-1264592399-0",
+    "x": 200,
+    "y": 4121,
+    "w": 8,
+    "h": 26,
+    "text": "7",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-text > div.promo-card-body > p",
+    "x": 50,
+    "y": 4169,
+    "w": 260,
+    "h": 60,
+    "text": "Plus, there’s"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-body > p > a#footnote-1188056222-0",
+    "x": 94,
+    "y": 4201,
+    "w": 8,
+    "h": 26,
+    "text": "8",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-card-body > p > a",
+    "x": 108,
+    "y": 4201,
+    "w": 108,
+    "h": 26,
+    "text": "learn more",
+    "href": "/en/rewards/bofa-rewards.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 4322,
+    "w": 298,
+    "h": 233,
+    "text": "Offer is limited to individuals who have not owned or co-owned a Bank of America"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 4570,
+    "w": 305,
+    "h": 196,
+    "text": "Bank of America may present different promotional checking offers through variou"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > p > strong",
+    "x": 20,
+    "y": 4786,
+    "w": 284,
+    "h": 18,
+    "text": "Requirements to Receive a Checking Bonus:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 48,
+    "y": 4828,
+    "w": 277,
+    "h": 59,
+    "text": "Enroll in this offer through a Bank of America or Merrill associate or online th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 48,
+    "y": 4902,
+    "w": 277,
+    "h": 39,
+    "text": "Open a new eligible personal checking account by ."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 48,
+    "y": 4956,
+    "w": 277,
+    "h": 137,
+    "text": "Bank of America Advantage SafeBalance Banking®, Bank of America Advantage Plus B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 48,
+    "y": 5109,
+    "w": 277,
+    "h": 78,
+    "text": "Set up and receive into that eligible personal checking account within ninety (9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 48,
+    "y": 5201,
+    "w": 277,
+    "h": 78,
+    "text": "At the end of the 90-day Deposit Period, all Qualifying Direct Deposits will be "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > strong",
+    "x": 141,
+    "y": 5296,
+    "w": 92,
+    "h": 18,
+    "text": "“Bonus Chart”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 24,
+    "y": 5335,
+    "w": 147,
+    "h": 38,
+    "text": "Total Qualifying Direct Deposits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 202,
+    "y": 5345,
+    "w": 95,
+    "h": 18,
+    "text": "Bonus Amount"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 20,
+    "y": 5375,
+    "w": 155,
+    "h": 21,
+    "text": "less than $2,000"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 20,
+    "y": 5396,
+    "w": 155,
+    "h": 21,
+    "text": "$2,000 – $4,999"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 175,
+    "y": 5396,
+    "w": 149,
+    "h": 21,
+    "text": "$100"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 20,
+    "y": 5416,
+    "w": 155,
+    "h": 21,
+    "text": "$5,000 – $9,999"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 175,
+    "y": 5416,
+    "w": 149,
+    "h": 21,
+    "text": "$300"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 20,
+    "y": 5437,
+    "w": 155,
+    "h": 21,
+    "text": "$10,000 or more"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 175,
+    "y": 5437,
+    "w": 149,
+    "h": 21,
+    "text": "$500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 5472,
+    "w": 305,
+    "h": 137,
+    "text": "After the Deposit Period ends, and once you satisfy all the requirements, we wil"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 5629,
+    "w": 305,
+    "h": 216,
+    "text": "A “ ” is a direct deposit of regular monthly income (such as your salary, pensio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 5865,
+    "w": 305,
+    "h": 314,
+    "text": "Your receipt of any bonus is subject to validation that you have provided all th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 6198,
+    "w": 305,
+    "h": 451,
+    "text": "All account applications are subject to approval. The minimum deposit required t"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > p > a",
+    "x": 85,
+    "y": 6434,
+    "w": 200,
+    "h": 17,
+    "text": "bankofamerica.com/depositsrates",
+    "href": "/deposits/bank-account-interest-rates/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > p > a",
+    "x": 145,
+    "y": 6571,
+    "w": 115,
+    "h": 17,
+    "text": "bankofamerica.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > p > a",
+    "x": 35,
+    "y": 6611,
+    "w": 145,
+    "h": 17,
+    "text": "bankofamerica.com/fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-last > p",
+    "x": 20,
+    "y": 6669,
+    "w": 305,
+    "h": 39,
+    "text": "Reproduction, purchase, sale, transfer or trade of this offer is prohibited."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 4322,
+    "w": 5,
+    "h": 12,
+    "text": "1",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 6729,
+    "w": 299,
+    "h": 252,
+    "text": "Fiduciary accounts, including trust and estate accounts, do not qualify for the "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 20,
+    "y": 6945,
+    "w": 285,
+    "h": 37,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 6729,
+    "w": 5,
+    "h": 12,
+    "text": "2",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 7004,
+    "w": 304,
+    "h": 233,
+    "text": "SafeBalance Banking® and SafeBalance Banking® for Family Banking accounts are au"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 7004,
+    "w": 5,
+    "h": 12,
+    "text": "3",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 7259,
+    "w": 296,
+    "h": 56,
+    "text": "No fee for incoming domestic wire transfers, stop payments and other services. P"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 20,
+    "y": 7298,
+    "w": 155,
+    "h": 17,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 7259,
+    "w": 5,
+    "h": 12,
+    "text": "4",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 7338,
+    "w": 305,
+    "h": 428,
+    "text": "Balance Connect® for overdraft protection allows you to link your eligible check"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 7338,
+    "w": 5,
+    "h": 12,
+    "text": "5",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 7789,
+    "w": 295,
+    "h": 95,
+    "text": "BofA Rewards™ members will be eligible for exclusive deal offers. All such offer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 20,
+    "y": 7867,
+    "w": 98,
+    "h": 17,
+    "text": "deals homepage",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 7789,
+    "w": 5,
+    "h": 12,
+    "text": "6",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 7907,
+    "w": 303,
+    "h": 252,
+    "text": "™ Customers can enroll and maintain their membership in BofA Rewards™ if they ha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > ol > li",
+    "x": 44,
+    "y": 8170,
+    "w": 281,
+    "h": 144,
+    "text": "for the 30 calendar days following your first enrollment, the combined end-of-da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > ol > li",
+    "x": 44,
+    "y": 8318,
+    "w": 281,
+    "h": 72,
+    "text": "subsequently, the combined average balance of your qualifying accounts calculate"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 8406,
+    "w": 305,
+    "h": 118,
+    "text": "Eligible customers will be moved to the higher tier within 3 business days. New "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > p > a",
+    "x": 20,
+    "y": 8505,
+    "w": 155,
+    "h": 17,
+    "text": "personal schedule of fees",
+    "href": "/salesservices/deposits/resources/personal-schedule-fees/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-last > p",
+    "x": 20,
+    "y": 8544,
+    "w": 305,
+    "h": 216,
+    "text": "Employees and retirees of Bank of America may be eligible for BofA Rewards membe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-last > p > a",
+    "x": 72,
+    "y": 8741,
+    "w": 82,
+    "h": 17,
+    "text": "cebi program",
+    "href": "/cebi-disclosures/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 7907,
+    "w": 5,
+    "h": 12,
+    "text": "7",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 8780,
+    "w": 299,
+    "h": 95,
+    "text": "To join BofA Rewards™, you need an eligible personal Bank of America checking ac"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 9,
+    "y": 8781,
+    "w": 5,
+    "h": 12,
+    "text": "8",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 20,
+    "y": 8898,
+    "w": 298,
+    "h": 115,
+    "text": "Bank of America Advantage SafeBalance Banking, Bank of America Advantage Plus Ba"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 20,
+    "y": 9029,
+    "w": 305,
+    "h": 39,
+    "text": "BofA Rewards is a trademark of Bank of America Corporation."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-last > p",
+    "x": 20,
+    "y": 9088,
+    "w": 305,
+    "h": 59,
+    "text": "The Contactless Symbol and Contactless Indicator are trademarks owned by and use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-logo > a",
+    "x": 18,
+    "y": 9217,
+    "w": 324,
+    "h": 20,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-logo > a > img",
+    "x": 80,
+    "y": 9217,
+    "w": 200,
+    "h": 20,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copy",
+    "x": 18,
+    "y": 9258,
+    "w": 324,
+    "h": 120,
+    "text": "| | | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 69,
+    "y": 9261,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 122,
+    "y": 9261,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 182,
+    "y": 9261,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/modals/advertising-practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 44,
+    "y": 9285,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 158,
+    "y": 9285,
+    "w": 122,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-copy > span.icon.icon-optout > img",
+    "x": 289,
+    "y": 9284,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "optout"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 113,
+    "y": 9306,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/en/offers/chooseyourchecking500tiered"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a.footer-ehl",
+    "x": 150,
+    "y": 9333,
+    "w": 182,
+    "h": 41,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copyright",
+    "x": 68,
+    "y": 9378,
+    "w": 225,
+    "h": 48,
+    "text": "© 2026 Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-code",
+    "x": 18,
+    "y": 9454,
+    "w": 324,
+    "h": 20,
+    "text": "MAP9028092-01222028 | LP-06-26-0055.A1"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 131,
+    "textNodes": 264,
+    "controls": 82,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "new checking customers earn up to $500",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "bank of america advantage banking",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 3,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 3,
+   "heading": "advantage plus banking",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 2,
+    "text": 7,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 2,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "here's how to qualify 1 :",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 14,
+    "image": 4
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 14,
+    "textHidden": 0,
+    "image": 5,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "opening a personal checking account gives you access to bofa rewards™",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 20,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 39,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"advantage plus banking\" served in band \"bank of america advantage banking\", no origin link or button",
+   "band": 2,
+   "n": 1,
+   "text": "advantage plus banking"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"advantage safebalance banking\" served in band \"bank of america advantage banking\", no origin link or button",
+   "band": 2,
+   "n": 1,
+   "text": "advantage safebalance banking"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"advantage relationship banking\" served in band \"bank of america advantage banking\", no origin link or button",
+   "band": 2,
+   "n": 1,
+   "text": "advantage relationship banking"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bankofamerica.com/depositsrates\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "bankofamerica.com/depositsrates"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bankofamerica.com\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "bankofamerica.com"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"bankofamerica.com/fees\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "bankofamerica.com/fees"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"personal schedule of fees\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 3,
+   "text": "personal schedule of fees"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"2\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "2"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"3\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "3"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"4\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "4"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"deals homepage\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "deals homepage"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"cebi program\" served in band \"opening a personal checking account gives you access to bofa rewards™\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "cebi program"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"opening a personal checking account gives you access to bofa rewards™\": 2 origin → 39 served visible",
+   "band": 5,
+   "origin": 2,
+   "eds": 39,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 14,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 13,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 0,
+    "y": 1,
+    "w": 24,
+    "h": 19
+   },
+   {
+    "x": 21,
+    "y": 111,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 140,
+    "w": 270,
+    "h": 57
+   },
+   {
+    "x": 79,
+    "y": 205,
+    "w": 202,
+    "h": 57
+   },
+   {
+    "x": 66,
+    "y": 269,
+    "w": 228,
+    "h": 60
+   },
+   {
+    "x": 123,
+    "y": 334,
+    "w": 113,
+    "h": 60
+   },
+   {
+    "x": 22,
+    "y": 419,
+    "w": 317,
+    "h": 24
+   },
+   {
+    "x": 22,
+    "y": 445,
+    "w": 308,
+    "h": 24
+   },
+   {
+    "x": 331,
+    "y": 444,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 77,
+    "y": 471,
+    "w": 205,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 541,
+    "w": 168,
+    "h": 28
+   },
+   {
+    "x": 21,
+    "y": 805,
+    "w": 317,
+    "h": 57
+   },
+   {
+    "x": 78,
+    "y": 862,
+    "w": 203,
+    "h": 57
+   },
+   {
+    "x": 103,
+    "y": 920,
+    "w": 154,
+    "h": 57
+   },
+   {
+    "x": 26,
+    "y": 1016,
+    "w": 103,
+    "h": 19
+   },
+   {
+    "x": 50,
+    "y": 1037,
+    "w": 54,
+    "h": 19
+   },
+   {
+    "x": 146,
+    "y": 1016,
+    "w": 71,
+    "h": 19
+   },
+   {
+    "x": 139,
+    "y": 1037,
+    "w": 83,
+    "h": 19
+   },
+   {
+    "x": 154,
+    "y": 1058,
+    "w": 54,
+    "h": 19
+   },
+   {
+    "x": 250,
+    "y": 1016,
+    "w": 71,
+    "h": 19
+   },
+   {
+    "x": 244,
+    "y": 1037,
+    "w": 83,
+    "h": 19
+   },
+   {
+    "x": 258,
+    "y": 1058,
+    "w": 54,
+    "h": 19
+   },
+   {
+    "x": 79,
+    "y": 1126,
+    "w": 202,
+    "h": 24
+   },
+   {
+    "x": 42,
+    "y": 1178,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 42,
+    "y": 1217,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1242,
+    "w": 49,
+    "h": 22
+   },
+   {
+    "x": 119,
+    "y": 1331,
+    "w": 122,
+    "h": 26
+   },
+   {
+    "x": 42,
+    "y": 1386,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1426,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1483,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1507,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1532,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1589,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1589,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1613,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 197,
+    "y": 1610,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 42,
+    "y": 1671,
+    "w": 170,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1728,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 89,
+    "y": -884,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 69,
+    "y": 1889,
+    "w": 222,
+    "h": 47
+   },
+   {
+    "x": 119,
+    "y": 1937,
+    "w": 106,
+    "h": 47
+   },
+   {
+    "x": 226,
+    "y": 1942,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 1937,
+    "w": 7,
+    "h": 47
+   },
+   {
+    "x": 52,
+    "y": 2125,
+    "w": 65,
+    "h": 24
+   },
+   {
+    "x": 117,
+    "y": 2125,
+    "w": 112,
+    "h": 25
+   },
+   {
+    "x": 229,
+    "y": 2125,
+    "w": 79,
+    "h": 24
+   },
+   {
+    "x": 34,
+    "y": 2154,
+    "w": 293,
+    "h": 24
+   },
+   {
+    "x": 99,
+    "y": 2182,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 257,
+    "y": 2182,
+    "w": 4,
+    "h": 24
+   },
+   {
+    "x": 54,
+    "y": 2230,
+    "w": 252,
+    "h": 19
+   },
+   {
+    "x": 104,
+    "y": 2252,
+    "w": 153,
+    "h": 19
+   },
+   {
+    "x": 51,
+    "y": 2413,
+    "w": 162,
+    "h": 24
+   },
+   {
+    "x": 213,
+    "y": 2413,
+    "w": 95,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 2442,
+    "w": 144,
+    "h": 25
+   },
+   {
+    "x": 192,
+    "y": 2442,
+    "w": 121,
+    "h": 24
+   },
+   {
+    "x": 35,
+    "y": 2471,
+    "w": 290,
+    "h": 24
+   },
+   {
+    "x": 68,
+    "y": 2499,
+    "w": 224,
+    "h": 24
+   },
+   {
+    "x": 28,
+    "y": 2543,
+    "w": 304,
+    "h": 24
+   },
+   {
+    "x": 31,
+    "y": 2571,
+    "w": 298,
+    "h": 24
+   },
+   {
+    "x": 29,
+    "y": 2599,
+    "w": 301,
+    "h": 24
+   },
+   {
+    "x": 145,
+    "y": 2627,
+    "w": 70,
+    "h": 24
+   },
+   {
+    "x": 56,
+    "y": 2687,
+    "w": 56,
+    "h": 31
+   },
+   {
+    "x": 48,
+    "y": 2722,
+    "w": 71,
+    "h": 31
+   },
+   {
+    "x": 175,
+    "y": 2687,
+    "w": 137,
+    "h": 31
+   },
+   {
+    "x": 192,
+    "y": 2722,
+    "w": 102,
+    "h": 31
+   },
+   {
+    "x": 60,
+    "y": 2782,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 214,
+    "y": 2783,
+    "w": 59,
+    "h": 24
+   },
+   {
+    "x": 60,
+    "y": 2831,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 214,
+    "y": 2832,
+    "w": 59,
+    "h": 24
+   },
+   {
+    "x": 60,
+    "y": 2880,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 202,
+    "y": 2881,
+    "w": 81,
+    "h": 24
+   },
+   {
+    "x": 24,
+    "y": 3065,
+    "w": 311,
+    "h": 24
+   },
+   {
+    "x": 28,
+    "y": 3093,
+    "w": 303,
+    "h": 24
+   },
+   {
+    "x": 53,
+    "y": 3121,
+    "w": 255,
+    "h": 24
+   },
+   {
+    "x": 80,
+    "y": 3149,
+    "w": 199,
+    "h": 24
+   },
+   {
+    "x": 26,
+    "y": 3228,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 35,
+    "y": 3253,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 65,
+    "y": 3278,
+    "w": 29,
+    "h": 22
+   },
+   {
+    "x": 94,
+    "y": 3278,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 188,
+    "y": 3278,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 50,
+    "y": 3763,
+    "w": 249,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3803,
+    "w": 223,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3843,
+    "w": 250,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3883,
+    "w": 204,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3944,
+    "w": 206,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 3974,
+    "w": 222,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4004,
+    "w": 185,
+    "h": 26
+   },
+   {
+    "x": 236,
+    "y": 4005,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 243,
+    "y": 4004,
+    "w": 30,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4034,
+    "w": 217,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4064,
+    "w": 241,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4094,
+    "w": 228,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4124,
+    "w": 150,
+    "h": 26
+   },
+   {
+    "x": 201,
+    "y": 4125,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 50,
+    "y": 4174,
+    "w": 117,
+    "h": 26
+   },
+   {
+    "x": 167,
+    "y": 4174,
+    "w": 90,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4204,
+    "w": 44,
+    "h": 26
+   },
+   {
+    "x": 95,
+    "y": 4205,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 108,
+    "y": 4204,
+    "w": 108,
+    "h": 26
+   },
+   {
+    "x": 20,
+    "y": 4325,
+    "w": 45,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 4325,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4344,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4364,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4384,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4403,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4423,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 288,
+    "y": 4422,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 4441,
+    "w": 47,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 4442,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4462,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4482,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4501,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 4500,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 194,
+    "y": 4501,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4521,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4540,
+    "w": 187,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4574,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4594,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4613,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4633,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4652,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4672,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4692,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4711,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4731,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4750,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4789,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 4832,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4856,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4880,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 142,
+    "y": 4879,
+    "w": 4,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 4908,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4932,
+    "w": 17,
+    "h": 17
+   },
+   {
+    "x": 65,
+    "y": 4931,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4932,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4968,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4987,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5007,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5026,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 262,
+    "y": 5025,
+    "w": 47,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5046,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5066,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5085,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 126,
+    "y": 5084,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 199,
+    "y": 5085,
+    "w": 83,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5111,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 161,
+    "y": 5110,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5134,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 105,
+    "y": 5135,
+    "w": 210,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5159,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5183,
+    "w": 159,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5219,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5238,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5258,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5276,
+    "w": 115,
+    "h": 18
+   },
+   {
+    "x": 163,
+    "y": 5277,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 141,
+    "y": 5313,
+    "w": 92,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5352,
+    "w": 147,
+    "h": 18
+   },
+   {
+    "x": 69,
+    "y": 5372,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 203,
+    "y": 5362,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 49,
+    "y": 5393,
+    "w": 98,
+    "h": 17
+   },
+   {
+    "x": 242,
+    "y": 5393,
+    "w": 15,
+    "h": 17
+   },
+   {
+    "x": 49,
+    "y": 5414,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 5414,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 49,
+    "y": 5434,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 5434,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5455,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 5455,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5490,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5509,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5529,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5548,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 304,
+    "y": 5547,
+    "w": 4,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 5568,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5588,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5607,
+    "w": 202,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5647,
+    "w": 17,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 5646,
+    "w": 165,
+    "h": 18
+   },
+   {
+    "x": 201,
+    "y": 5647,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5666,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5686,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5706,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5725,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5745,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 133,
+    "y": 5744,
+    "w": 94,
+    "h": 18
+   },
+   {
+    "x": 227,
+    "y": 5745,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5764,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5784,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5804,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5823,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5843,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5882,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5902,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5922,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5941,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5961,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5980,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6000,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6019,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 89,
+    "y": 6018,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6038,
+    "w": 217,
+    "h": 18
+   },
+   {
+    "x": 241,
+    "y": 6038,
+    "w": 41,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6058,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6077,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6097,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 79,
+    "y": 6098,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6117,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6137,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6157,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6176,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6215,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 6216,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6235,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6255,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6275,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6294,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6314,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6333,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6353,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6373,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6392,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6412,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6431,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6451,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 85,
+    "y": 6451,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 6451,
+    "w": 40,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6471,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6490,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6510,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6529,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6549,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6569,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6588,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 146,
+    "y": 6588,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 261,
+    "y": 6588,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6608,
+    "w": 197,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6627,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 35,
+    "y": 6627,
+    "w": 145,
+    "h": 17
+   },
+   {
+    "x": 180,
+    "y": 6627,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6647,
+    "w": 228,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6686,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6706,
+    "w": 136,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4325,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 6746,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6765,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6785,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6804,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6824,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6844,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6863,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6883,
+    "w": 230,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6902,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6922,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6942,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6961,
+    "w": 162,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 6961,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6981,
+    "w": 27,
+    "h": 17
+   },
+   {
+    "x": 47,
+    "y": 6981,
+    "w": 131,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 6746,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7020,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7040,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7060,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7079,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7099,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7118,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7138,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7158,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7177,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7197,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7216,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7236,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7021,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7276,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7295,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7315,
+    "w": 155,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 7315,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7276,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7354,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7374,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7393,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7413,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7433,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7452,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7472,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7491,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7511,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7531,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7550,
+    "w": 202,
+    "h": 17
+   },
+   {
+    "x": 222,
+    "y": 7550,
+    "w": 98,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7570,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7589,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7609,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7629,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7648,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7668,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7687,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7707,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7727,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7746,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7766,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7354,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7804,
+    "w": 202,
+    "h": 18
+   },
+   {
+    "x": 222,
+    "y": 7805,
+    "w": 93,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7825,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7845,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7864,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7884,
+    "w": 98,
+    "h": 17
+   },
+   {
+    "x": 117,
+    "y": 7884,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7806,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7922,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 112,
+    "y": 7923,
+    "w": 14,
+    "h": 17
+   },
+   {
+    "x": 126,
+    "y": 7922,
+    "w": 64,
+    "h": 18
+   },
+   {
+    "x": 190,
+    "y": 7923,
+    "w": 128,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7943,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7963,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7982,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8002,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8021,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8041,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8060,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8080,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8100,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8119,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8139,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8158,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8190,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8214,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8238,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8262,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8286,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8310,
+    "w": 211,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8338,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8362,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8386,
+    "w": 199,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8424,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8444,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8463,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8483,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8502,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8522,
+    "w": 155,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 8522,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8561,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 159,
+    "y": 8562,
+    "w": 154,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8581,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8601,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8620,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8640,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8660,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8679,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8699,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8718,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8738,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8758,
+    "w": 52,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 8758,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 154,
+    "y": 8758,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7924,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 8796,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 118,
+    "y": 8797,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8817,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8836,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8856,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8876,
+    "w": 26,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 8797,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 18,
+    "y": 8915,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 8935,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 8954,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 8974,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 8993,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 9013,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 9047,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 9066,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 9106,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 9125,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 9145,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 62,
+    "y": 9278,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 9278,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 9278,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 122,
+    "y": 9278,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 171,
+    "y": 9278,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 9278,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 306,
+    "y": 9278,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 44,
+    "y": 9302,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 9302,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 9302,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 309,
+    "y": 9302,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 113,
+    "y": 9326,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 28,
+    "y": 9350,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 247,
+    "y": 9350,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 150,
+    "y": 9374,
+    "w": 41,
+    "h": 17
+   },
+   {
+    "x": 68,
+    "y": 9398,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 9398,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 114,
+    "y": 9398,
+    "w": 177,
+    "h": 17
+   },
+   {
+    "x": 125,
+    "y": 9422,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 9472,
+    "w": 270,
+    "h": 17
+   }
+  ],
+  "eds": [
+   {
+    "x": 45,
+    "y": 140,
+    "w": 270,
+    "h": 57
+   },
+   {
+    "x": 79,
+    "y": 205,
+    "w": 202,
+    "h": 57
+   },
+   {
+    "x": 66,
+    "y": 269,
+    "w": 228,
+    "h": 60
+   },
+   {
+    "x": 123,
+    "y": 334,
+    "w": 113,
+    "h": 60
+   },
+   {
+    "x": 21,
+    "y": 111,
+    "w": 319,
+    "h": 25
+   },
+   {
+    "x": 22,
+    "y": 419,
+    "w": 317,
+    "h": 24
+   },
+   {
+    "x": 22,
+    "y": 445,
+    "w": 308,
+    "h": 24
+   },
+   {
+    "x": 331,
+    "y": 445,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 77,
+    "y": 471,
+    "w": 205,
+    "h": 24
+   },
+   {
+    "x": 92,
+    "y": 541,
+    "w": 168,
+    "h": 28
+   },
+   {
+    "x": 21,
+    "y": 805,
+    "w": 317,
+    "h": 57
+   },
+   {
+    "x": 78,
+    "y": 862,
+    "w": 203,
+    "h": 57
+   },
+   {
+    "x": 103,
+    "y": 920,
+    "w": 154,
+    "h": 57
+   },
+   {
+    "x": 26,
+    "y": 1016,
+    "w": 103,
+    "h": 19
+   },
+   {
+    "x": 50,
+    "y": 1037,
+    "w": 54,
+    "h": 19
+   },
+   {
+    "x": 146,
+    "y": 1016,
+    "w": 71,
+    "h": 19
+   },
+   {
+    "x": 139,
+    "y": 1037,
+    "w": 83,
+    "h": 19
+   },
+   {
+    "x": 154,
+    "y": 1058,
+    "w": 54,
+    "h": 19
+   },
+   {
+    "x": 250,
+    "y": 1016,
+    "w": 71,
+    "h": 19
+   },
+   {
+    "x": 244,
+    "y": 1037,
+    "w": 83,
+    "h": 19
+   },
+   {
+    "x": 258,
+    "y": 1058,
+    "w": 54,
+    "h": 19
+   },
+   {
+    "x": 79,
+    "y": 1127,
+    "w": 202,
+    "h": 24
+   },
+   {
+    "x": 42,
+    "y": 1179,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 42,
+    "y": 1218,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1243,
+    "w": 49,
+    "h": 22
+   },
+   {
+    "x": 119,
+    "y": 1332,
+    "w": 122,
+    "h": 26
+   },
+   {
+    "x": 42,
+    "y": 1387,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1427,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1484,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1508,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1533,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1590,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 1590,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1614,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 196,
+    "y": 1612,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 42,
+    "y": 1672,
+    "w": 170,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1729,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 89,
+    "y": -884,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": -831,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 69,
+    "y": 1890,
+    "w": 222,
+    "h": 47
+   },
+   {
+    "x": 119,
+    "y": 1938,
+    "w": 106,
+    "h": 47
+   },
+   {
+    "x": 226,
+    "y": 1943,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 1938,
+    "w": 7,
+    "h": 47
+   },
+   {
+    "x": 52,
+    "y": 2126,
+    "w": 65,
+    "h": 24
+   },
+   {
+    "x": 117,
+    "y": 2126,
+    "w": 112,
+    "h": 25
+   },
+   {
+    "x": 229,
+    "y": 2126,
+    "w": 79,
+    "h": 24
+   },
+   {
+    "x": 34,
+    "y": 2155,
+    "w": 293,
+    "h": 24
+   },
+   {
+    "x": 99,
+    "y": 2183,
+    "w": 158,
+    "h": 25
+   },
+   {
+    "x": 257,
+    "y": 2183,
+    "w": 4,
+    "h": 24
+   },
+   {
+    "x": 54,
+    "y": 2231,
+    "w": 252,
+    "h": 19
+   },
+   {
+    "x": 104,
+    "y": 2253,
+    "w": 153,
+    "h": 19
+   },
+   {
+    "x": 51,
+    "y": 2414,
+    "w": 162,
+    "h": 24
+   },
+   {
+    "x": 213,
+    "y": 2414,
+    "w": 95,
+    "h": 25
+   },
+   {
+    "x": 48,
+    "y": 2443,
+    "w": 144,
+    "h": 25
+   },
+   {
+    "x": 192,
+    "y": 2443,
+    "w": 121,
+    "h": 24
+   },
+   {
+    "x": 35,
+    "y": 2472,
+    "w": 290,
+    "h": 24
+   },
+   {
+    "x": 68,
+    "y": 2500,
+    "w": 224,
+    "h": 24
+   },
+   {
+    "x": 28,
+    "y": 2544,
+    "w": 304,
+    "h": 24
+   },
+   {
+    "x": 31,
+    "y": 2572,
+    "w": 298,
+    "h": 24
+   },
+   {
+    "x": 30,
+    "y": 2600,
+    "w": 300,
+    "h": 24
+   },
+   {
+    "x": 145,
+    "y": 2628,
+    "w": 70,
+    "h": 24
+   },
+   {
+    "x": 56,
+    "y": 2688,
+    "w": 56,
+    "h": 31
+   },
+   {
+    "x": 48,
+    "y": 2723,
+    "w": 71,
+    "h": 31
+   },
+   {
+    "x": 175,
+    "y": 2688,
+    "w": 137,
+    "h": 31
+   },
+   {
+    "x": 192,
+    "y": 2723,
+    "w": 102,
+    "h": 31
+   },
+   {
+    "x": 60,
+    "y": 2783,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 214,
+    "y": 2784,
+    "w": 59,
+    "h": 24
+   },
+   {
+    "x": 60,
+    "y": 2832,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 214,
+    "y": 2833,
+    "w": 59,
+    "h": 24
+   },
+   {
+    "x": 60,
+    "y": 2881,
+    "w": 47,
+    "h": 25
+   },
+   {
+    "x": 202,
+    "y": 2882,
+    "w": 81,
+    "h": 24
+   },
+   {
+    "x": 24,
+    "y": 3066,
+    "w": 311,
+    "h": 24
+   },
+   {
+    "x": 28,
+    "y": 3094,
+    "w": 303,
+    "h": 24
+   },
+   {
+    "x": 53,
+    "y": 3122,
+    "w": 255,
+    "h": 24
+   },
+   {
+    "x": 80,
+    "y": 3150,
+    "w": 199,
+    "h": 24
+   },
+   {
+    "x": 26,
+    "y": 3225,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 21,
+    "y": 3250,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 80,
+    "y": 3275,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 174,
+    "y": 3275,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 50,
+    "y": 3760,
+    "w": 249,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3800,
+    "w": 223,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3840,
+    "w": 250,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3880,
+    "w": 204,
+    "h": 38
+   },
+   {
+    "x": 50,
+    "y": 3941,
+    "w": 206,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 3971,
+    "w": 222,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4001,
+    "w": 185,
+    "h": 26
+   },
+   {
+    "x": 236,
+    "y": 3997,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 243,
+    "y": 4001,
+    "w": 30,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4031,
+    "w": 217,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4061,
+    "w": 241,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4091,
+    "w": 228,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4121,
+    "w": 150,
+    "h": 26
+   },
+   {
+    "x": 201,
+    "y": 4117,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 50,
+    "y": 4171,
+    "w": 117,
+    "h": 26
+   },
+   {
+    "x": 167,
+    "y": 4171,
+    "w": 90,
+    "h": 26
+   },
+   {
+    "x": 50,
+    "y": 4201,
+    "w": 44,
+    "h": 26
+   },
+   {
+    "x": 95,
+    "y": 4197,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 108,
+    "y": 4201,
+    "w": 108,
+    "h": 26
+   },
+   {
+    "x": 20,
+    "y": 4322,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4341,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4361,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4381,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4400,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4420,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 288,
+    "y": 4419,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 4438,
+    "w": 47,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 4439,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4459,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4479,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4498,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 4497,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 194,
+    "y": 4498,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4518,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4537,
+    "w": 187,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4571,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4591,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4610,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4630,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4649,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4669,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4689,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4708,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4728,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4747,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4786,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 4829,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4848,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4868,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 142,
+    "y": 4867,
+    "w": 4,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 4903,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4923,
+    "w": 17,
+    "h": 17
+   },
+   {
+    "x": 65,
+    "y": 4922,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4923,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4957,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4976,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4996,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5015,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 262,
+    "y": 5014,
+    "w": 47,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5035,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5054,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5074,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 126,
+    "y": 5073,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 199,
+    "y": 5074,
+    "w": 83,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5110,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 161,
+    "y": 5109,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5128,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 105,
+    "y": 5129,
+    "w": 210,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5149,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5168,
+    "w": 159,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5202,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5222,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5241,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5260,
+    "w": 115,
+    "h": 18
+   },
+   {
+    "x": 163,
+    "y": 5261,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 141,
+    "y": 5296,
+    "w": 92,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5335,
+    "w": 147,
+    "h": 18
+   },
+   {
+    "x": 69,
+    "y": 5355,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 202,
+    "y": 5345,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 49,
+    "y": 5377,
+    "w": 98,
+    "h": 17
+   },
+   {
+    "x": 242,
+    "y": 5377,
+    "w": 15,
+    "h": 17
+   },
+   {
+    "x": 49,
+    "y": 5397,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 5397,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 49,
+    "y": 5418,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 5418,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 5438,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 5438,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5473,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5493,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5512,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5532,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 304,
+    "y": 5531,
+    "w": 4,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 5551,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5571,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5591,
+    "w": 202,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5630,
+    "w": 17,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 5629,
+    "w": 165,
+    "h": 18
+   },
+   {
+    "x": 201,
+    "y": 5630,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5650,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5669,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5689,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5709,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5728,
+    "w": 76,
+    "h": 17
+   },
+   {
+    "x": 96,
+    "y": 5727,
+    "w": 94,
+    "h": 18
+   },
+   {
+    "x": 190,
+    "y": 5728,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5748,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5767,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5787,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5806,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5826,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5866,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5885,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5905,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5924,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5944,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5964,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 5983,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6003,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 89,
+    "y": 6002,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6021,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6041,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6061,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 6080,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 79,
+    "y": 6081,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6101,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6120,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6140,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6160,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6198,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 6199,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6219,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6238,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6258,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6278,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6297,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6317,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6336,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6356,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6376,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6395,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6415,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6434,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 85,
+    "y": 6434,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 6434,
+    "w": 40,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6454,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6473,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6493,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6513,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6532,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6552,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6571,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 145,
+    "y": 6571,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 260,
+    "y": 6571,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6591,
+    "w": 197,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6611,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 35,
+    "y": 6611,
+    "w": 145,
+    "h": 17
+   },
+   {
+    "x": 180,
+    "y": 6611,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6630,
+    "w": 228,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6670,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6689,
+    "w": 136,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 4322,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 6729,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6749,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6768,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6788,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6807,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6827,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6847,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6866,
+    "w": 230,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6886,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6905,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6925,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6945,
+    "w": 162,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 6945,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 6964,
+    "w": 27,
+    "h": 17
+   },
+   {
+    "x": 47,
+    "y": 6964,
+    "w": 131,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 6729,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7004,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7023,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7043,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7063,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7082,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7102,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7121,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7141,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7160,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7180,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7200,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7219,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7004,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7259,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7278,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7298,
+    "w": 155,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 7298,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7259,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7338,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7357,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7377,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7396,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7416,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7436,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7455,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7475,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7494,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7514,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7534,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7553,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7573,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7592,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7612,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7632,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7651,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7671,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7690,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7710,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7730,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7749,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7338,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7788,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 217,
+    "y": 7789,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7808,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7828,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7847,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7867,
+    "w": 98,
+    "h": 17
+   },
+   {
+    "x": 117,
+    "y": 7867,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7789,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 7906,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 112,
+    "y": 7907,
+    "w": 14,
+    "h": 17
+   },
+   {
+    "x": 126,
+    "y": 7906,
+    "w": 64,
+    "h": 18
+   },
+   {
+    "x": 190,
+    "y": 7907,
+    "w": 128,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7926,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7946,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7965,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 7985,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8005,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8024,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8044,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8063,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8083,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8103,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8122,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8142,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8173,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8197,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8221,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8245,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8269,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8293,
+    "w": 211,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8321,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8345,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 8369,
+    "w": 199,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8407,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8427,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8447,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8466,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8486,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8505,
+    "w": 155,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 8505,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8544,
+    "w": 135,
+    "h": 18
+   },
+   {
+    "x": 155,
+    "y": 8545,
+    "w": 158,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8565,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8584,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8604,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8623,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8643,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8663,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8682,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8702,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8721,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8741,
+    "w": 52,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 8741,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 154,
+    "y": 8741,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 7907,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 8779,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 118,
+    "y": 8780,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8800,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8820,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8839,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8859,
+    "w": 26,
+    "h": 17
+   },
+   {
+    "x": 9,
+    "y": 8781,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 8898,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8918,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8938,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8957,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8977,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 8996,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 9030,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 9050,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 9089,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 9109,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 9128,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 62,
+    "y": 9261,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 9261,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 9261,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 122,
+    "y": 9261,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 171,
+    "y": 9261,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 9261,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 306,
+    "y": 9261,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 44,
+    "y": 9285,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 9285,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 9285,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 9285,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 113,
+    "y": 9309,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 28,
+    "y": 9333,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 247,
+    "y": 9333,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 150,
+    "y": 9357,
+    "w": 41,
+    "h": 17
+   },
+   {
+    "x": 68,
+    "y": 9381,
+    "w": 224,
+    "h": 17
+   },
+   {
+    "x": 125,
+    "y": 9405,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 9455,
+    "w": 270,
+    "h": 17
+   }
+  ]
+ }
+}

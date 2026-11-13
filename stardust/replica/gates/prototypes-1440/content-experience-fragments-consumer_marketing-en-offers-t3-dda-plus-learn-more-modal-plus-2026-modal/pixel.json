@@ -1,0 +1,32 @@
+{
+  "a": "stardust/replica/gates/prototypes-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal/origin.png",
+  "b": "stardust/replica/gates/prototypes-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal/eds.png",
+  "compared": {
+    "width": 750,
+    "height": 528,
+    "mode": "overlap"
+  },
+  "heightDelta": -372,
+  "differingPixels": 28781,
+  "pct": 7.27,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 7.2
+    },
+    {
+      "y0": 500,
+      "y1": 528,
+      "pct": 9.1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+ "source": "http://localhost:8796/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "×"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Bank of America Advantage Plus Banking®"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "We'll waive the $12 monthly maintenance fee each statement cycle when you meet one of the following:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Have at least one qualifying direct deposit of $250 or more"
+    },
+    {
+     "role": "eyebrow",
+     "order": 4,
+     "text": "or"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Maintain a minimum daily balance of $1,500 in your account"
+    },
+    {
+     "role": "eyebrow",
+     "order": 6,
+     "text": "or"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "BofA Rewards",
+     "href": "../../../../../../../content/consumer-info/en/rewards/bofa-rewards.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.text-center",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "P.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "P.text-center",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

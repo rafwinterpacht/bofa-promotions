@@ -1,0 +1,538 @@
+{
+ "source": "http://localhost:8731/en-offers-chooseyourchecking500tiered-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "masthead",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "BANK OF AMERICA ADVANTAGE BANKING"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "New checking customers"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "earn up to $500"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Open a new eligible checking account and make Qualifying Direct Deposits to earn your cash bonus."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "1",
+     "href": "#disclosure-669453827"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "See offer details",
+     "href": "#offer"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "product-details",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Bank of America Advantage Banking"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Change to accessible version"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Advantage Plus Banking"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Advantage SafeBalance Banking"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Advantage Relationship Banking"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Advantage Plus Banking"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "FLEXIBLE BANKING"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Flexible banking to meet your needs."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Open account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00PC07DJGB3H1&offerCode=CHUDEPCIS"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "$12 or $0 monthly maintenance fee"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Learn more",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Multiple ways to waive your monthly maintenance fee, including direct deposit"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Offers"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Balance Connect® for overdraft protection",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "5",
+     "href": "#disclosure-1041593338"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Paper checks available"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "No interest earned"
+    },
+    {
+     "role": "heading",
+     "order": 17,
+     "text": "Advantage SafeBalance Banking"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "SIMPLE BANKING"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Simple banking with an easy-to-use experience."
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Open account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0W3HNUFL1&offerCode=CHUDEPCIS"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "$4.95 or $0 monthly maintenance fee"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Learn more",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "A great start for students and young adults — no monthly fee if under age 25"
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "2",
+     "href": "#disclosure-1952227831"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Helps prevent overspending — no Overdraft Item Fees"
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "3",
+     "href": "#disclosure-213112427"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "No paper check writing"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "No interest earned"
+    },
+    {
+     "role": "heading",
+     "order": 29,
+     "text": "Advantage Relationship Banking"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "COMPREHENSIVE BANKING"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "Comprehensive banking to make the most of your banking relationship."
+    },
+    {
+     "role": "cta",
+     "order": 32,
+     "text": "Open account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0HDKJ0N41&offerCode=CHUDEPCIS"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "$25 or $0 monthly maintenance fee"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Learn more",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "No fees on select banking services"
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "4",
+     "href": "#disclosure-164654265"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "Offers"
+    },
+    {
+     "role": "cta",
+     "order": 38,
+     "text": "Balance Connect® for overdraft protection",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html"
+    },
+    {
+     "role": "cta",
+     "order": 39,
+     "text": "5",
+     "href": "#disclosure-1041593338"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "Paper checks available"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "Earns interest ( )"
+    },
+    {
+     "role": "cta",
+     "order": 42,
+     "text": "See rates",
+     "href": "https://www.bankofamerica.com/deposits/bank-account-interest-rates/"
+    },
+    {
+     "role": "heading",
+     "order": 43,
+     "text": "Advantage Plus Banking"
+    },
+    {
+     "role": "cta",
+     "order": 44,
+     "text": "Open account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00PC07DJGB3H1&offerCode=CHUDEPCIS"
+    },
+    {
+     "role": "heading",
+     "order": 45,
+     "text": "Advantage SafeBalance Banking"
+    },
+    {
+     "role": "cta",
+     "order": 46,
+     "text": "Open account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0W3HNUFL1&offerCode=CHUDEPCIS"
+    },
+    {
+     "role": "heading",
+     "order": 47,
+     "text": "Advantage Relationship Banking"
+    },
+    {
+     "role": "cta",
+     "order": 48,
+     "text": "Open account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0HDKJ0N41&offerCode=CHUDEPCIS"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 31,
+   "repeats": [
+    {
+     "unitSelector": "ARTICLE.product-card",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 4,
+      "imgs": 0,
+      "textRuns": 12
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.product-sticky__item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "steps",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Here's how to qualify :"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "1",
+     "href": "#disclosure-669453827"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Open a checking account through this offer page by ."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "new eligible",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "January 31, 2027"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Only new checking customers can take advantage of this offer."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Set up and receive into your new account within 90 days of account opening (\"Deposit Period\")."
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Qualifying Direct Deposits",
+     "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Your bonus amount will be based on the total amount of your Qualifying Direct Deposits received in the first 90 days."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Cash Bonus"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Total Direct Deposits"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "$100"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "$2,000"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "$300"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "$5,000"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "$500"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "$10,000+"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "After the Deposit Period ends and all requirements are met, we'll attempt to deposit the bonus into your account within 60 days."
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Bank of America Advantage SafeBalance Banking® for Family Banking accounts are for this offer."
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "not eligible"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.step",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "promo-card-row",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Opening a personal checking account gives you access to BofA Rewards™"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "As a member, you can enjoy exclusive benefits like cash back deals on debit card purchases, a rewards bonus on eligible Bank of America® credit cards and more."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "6",
+     "href": "#disclosure-1781517269"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "7",
+     "href": "#disclosure-1264592399"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Plus, there’s"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "no fee to join!"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "8",
+     "href": "#disclosure-1188056222"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Learn more",
+     "href": "https://info.bankofamerica.com/en/rewards/bofa-rewards.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "SUP.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

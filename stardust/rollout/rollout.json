@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T16:44:53.618Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://promotions.bankofamerica.com",
+    "da": {
+      "org": "aemcoder",
+      "site": "78f2fb76",
+      "ref": "main"
+    },
+    "liveHost": "main--78f2fb76--aemcoder.aem.live"
+  },
+  "scope": {
+    "pages": 12,
+    "discovered": 14,
+    "capped": true,
+    "pageCap": null
+  },
+  "lastRun": {
+    "at": "2026-11-13T20:48:35.217Z",
+    "pages": {
+      "total": 12,
+      "verified": 12,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 18,
+      "converted": 18,
+      "pending": 0
+    },
+    "verifyFailures": 0
+  }
+}

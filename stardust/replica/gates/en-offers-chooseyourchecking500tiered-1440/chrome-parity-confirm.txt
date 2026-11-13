@@ -1,0 +1,10 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered (live side from cache stardust/replica/gates/en-offers-chooseyourchecking500tiered-1440/chrome-live.json, probed 2026-11-13T15:55:12.614Z — delete the file to re-probe)
+  build: http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html
+
+■ header: 1 delta(s) — 4 paired of 4/4 texts, 1/1 icons
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+
+■ footer: ✓ parity — 94 paired of 94/94 texts, 1/1 icons
+
+✗ 1 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

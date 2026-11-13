@@ -1,0 +1,29 @@
+{
+  "round": "1",
+  "width": 360,
+  "pixel": {
+    "rc": 0,
+    "diff": "stardust/replica/gates/deposits-growyoursavings-360/diff-1.png"
+  },
+  "probes": {
+    "content-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/deposits-growyoursavings-360/content-diff-1.txt"
+    },
+    "visual-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/deposits-growyoursavings-360/visual-diff-1.txt"
+    },
+    "chrome-parity": {
+      "rc": 2,
+      "evidence": "stardust/replica/gates/deposits-growyoursavings-360/chrome-parity-1.txt"
+    },
+    "clip-probe": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/deposits-growyoursavings-360/clip-1.txt"
+    }
+  },
+  "structural": 0,
+  "nothingLost": 0,
+  "at": "2026-11-13T16:31:20.549Z"
+}

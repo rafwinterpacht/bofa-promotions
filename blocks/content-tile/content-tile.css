@@ -1,0 +1,384 @@
+/* content-tile — half image / half copy tile (source .content-tile--right / --left) */
+.content-tile {
+  --display-md: 40px;
+  --overview-icon: 40px;
+
+  background: var(--color-white);
+}
+
+.content-tile .content-tile-row {
+  display: flex;
+  flex-direction: column;
+  max-width: var(--page-max);
+  margin: 0 auto;
+}
+
+.content-tile .content-tile-column {
+  max-width: 100%;
+  padding: 2% var(--gutter) 0;
+}
+
+.content-tile .content-tile-column::before {
+  content: "";
+  display: block;
+  height: 1.5625rem;
+}
+
+.content-tile .content-tile-title :is(h2, h3) {
+  margin: 0.5rem 0;
+  color: var(--color-black);
+  font-family: Connections, connections-fallback, arial, sans-serif;
+  font-size: var(--display-md);
+  font-style: normal;
+  font-weight: 100;
+  line-height: 1.167;
+}
+
+.content-tile .content-tile-copy {
+  margin-bottom: 1rem;
+  padding-right: 11px;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.content-tile .content-tile-copy p {
+  margin: 1em 0;
+}
+
+.content-tile .content-tile-copy :is(b, strong) {
+  font-weight: 700;
+}
+
+.content-tile .content-tile-cta {
+  margin-bottom: 2rem;
+}
+
+.content-tile .content-tile-cta p {
+  margin: 0;
+}
+
+.content-tile .content-tile-cta a.button:any-link {
+  margin: 0;
+}
+
+/* plain-link CTA = source .cta.cta--standard */
+.content-tile .content-tile-cta a:any-link:not(.button) {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: var(--cta-min);
+  height: var(--cta-height);
+  margin: 0;
+  padding: 0 1rem;
+  border: 2px solid transparent;
+  border-radius: var(--cta-radius);
+  background-color: transparent;
+  color: var(--color-royal-blue);
+  font-family: var(--font-sans);
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.25s ease-out 0.05s;
+}
+
+.content-tile .content-tile-cta a:not(.button):hover,
+.content-tile .content-tile-cta a:not(.button):focus {
+  background-color: transparent;
+  color: var(--color-dark-blue);
+  text-decoration: underline;
+}
+
+.content-tile .content-tile-legal {
+  margin-bottom: 1.875rem;
+}
+
+.content-tile .content-tile-legal p {
+  margin: 1rem 0;
+}
+
+.content-tile .content-tile-img img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.content-tile .content-tile-img p {
+  margin: 0;
+}
+
+.content-tile .content-tile-media-desktop {
+  display: none;
+}
+
+.content-tile .overview-items {
+  margin: 1.25rem 0 0;
+  padding: 0;
+  text-align: left;
+  list-style: none;
+}
+
+.content-tile .overview-item {
+  display: flex;
+  margin: 0 0.25rem 0.25rem;
+  padding-left: 8px;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.content-tile .overview-item:last-child {
+  margin-bottom: 0;
+}
+
+.content-tile .overview-item-icon {
+  flex: none;
+  width: var(--overview-icon);
+  max-width: 4.375rem;
+  margin-right: 1.375rem;
+  color: var(--color-bright-red);
+}
+
+.content-tile .overview-item-icon p {
+  margin: 0;
+}
+
+.content-tile .overview-item-icon .icon {
+  display: inline;
+  width: auto;
+  height: auto;
+  font-family: var(--font-icon);
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.content-tile .overview-item-icon .icon img {
+  display: none;
+}
+
+.content-tile .overview-item-content {
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.content-tile .overview-item-content :is(h3, h4) {
+  margin: 0 0 0.125rem;
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.content-tile .overview-item-content :is(h3, h4) sup {
+  top: -1rem;
+}
+
+.content-tile .overview-item-content p {
+  margin: 0 0 1.438rem;
+}
+
+/* icon font glyphs (icomoon) for the authored :icon-name: tokens */
+.content-tile .icon-finance-accounts::before {
+  content: "\e98c";
+}
+
+.content-tile .icon-finance-savings::before {
+  content: "\e9b0";
+}
+
+.content-tile .icon-people-group::before {
+  content: "\e9ed";
+}
+
+.content-tile .icon-preferred-rewards::before {
+  content: "\e9f5";
+}
+
+.content-tile .icon-finance-keep-the-change::before {
+  content: "\e9a6";
+}
+
+.content-tile .icon-arrow-transfer::before {
+  content: "\e93f";
+}
+
+.content-tile .icon-finance-deposit::before {
+  content: "\e99c";
+}
+
+.content-tile .icon-action-settings::before {
+  content: "\e928";
+}
+
+.content-tile .icon-action-logout::before {
+  content: "\e91f";
+}
+
+.content-tile .icon-finance-payment::before {
+  content: "\e9ab";
+}
+
+.content-tile .icon-calendar::before {
+  content: "\e94e";
+}
+
+.content-tile .icon-finance-interest::before {
+  content: "\e9a4";
+}
+
+.content-tile .icon-finance-certificate-of-deposit::before {
+  content: "\ea09";
+}
+
+.content-tile .icon-action-stop::before {
+  content: "\e92a";
+}
+
+.content-tile .icon-plan-tools::before {
+  content: "\e9f4";
+}
+
+/* navy: dark-blue item icons (source icon__navy-blue) */
+.content-tile.navy .overview-item-icon {
+  color: var(--color-dark-blue);
+}
+
+/* spaced: the source module margin below the tile (no `no-margin`) */
+.content-tile.spaced {
+  margin-bottom: 60px;
+}
+
+/* app: the mobile-app band — red rule on top, centred copy column (source .getapp2) */
+.content-tile.app {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 25px solid var(--color-bright-red);
+}
+
+.content-tile.app .content-tile-column {
+  text-align: center;
+}
+
+.content-tile.app .content-tile-copy em {
+  font-size: 1.125rem;
+  line-height: 1.4;
+}
+
+/* below 640px: no phone image, 48px heading lines, the CTA where the source's two-row
+   device form sits (148px) */
+@media (width < 640px) {
+  .content-tile.app {
+    padding-top: 92px;
+    padding-bottom: 76px;
+  }
+
+  .content-tile.app .content-tile-img {
+    display: none;
+  }
+
+  .content-tile.app .content-tile-title :is(h2, h3) {
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+
+  .content-tile.app .content-tile-cta {
+    margin-bottom: 94px;
+  }
+}
+
+/* a list item's trailing <sub> note sits right under its copy on one 23.4px line pitch
+   (source: no paragraph gap, sub without line-height growth) */
+/* stylelint-disable-next-line no-descending-specificity -- list copy, not the tile copy rule */
+.content-tile li > p:has(+ p > sub) {
+  margin-bottom: 0;
+}
+
+.content-tile li sub {
+  line-height: 0;
+}
+
+/* small-title: source title text-small */
+.content-tile.small-title {
+  --display-md: 2rem;
+}
+
+@media (width >= 640px) {
+  .content-tile .content-tile-row {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .content-tile .content-tile-column,
+  .content-tile .content-tile-img {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .content-tile .content-tile-copy {
+    font-size: 1.25rem;
+  }
+
+  .content-tile .content-tile-media-desktop {
+    display: block;
+  }
+
+  .content-tile .content-tile-media-mobile {
+    display: none;
+  }
+
+  .content-tile .overview-item-content {
+    font-size: 1.25rem;
+  }
+
+  .content-tile .overview-item-content :is(h3, h4) {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+}
+
+@media (width >= 1068px) {
+  .content-tile {
+    --display-md: 48px;
+  }
+
+  .content-tile .content-tile-column::before {
+    display: none;
+  }
+
+  .content-tile .content-tile-title :is(h2, h3) {
+    line-height: 1.125;
+  }
+
+  .content-tile .overview-item-icon {
+    margin: 0 1.25rem 0 0;
+  }
+}
+
+@media (width >= 1068px) {
+  .content-tile.small-title {
+    --display-md: 2.5rem;
+  }
+}
+
+@media (width >= 640px) {
+  .content-tile.spaced {
+    margin-bottom: 50px;
+  }
+
+  .content-tile.app {
+    padding-top: 98px;
+    padding-bottom: 48px;
+  }
+
+}
+
+/* footnote references: the pipeline serves <a><sup>n</sup></a> — no underline (source) */
+/* stylelint-disable-next-line no-descending-specificity -- a footnote link, not a CTA */
+.content-tile a:any-link:has(> sup) {
+  text-decoration: none;
+}

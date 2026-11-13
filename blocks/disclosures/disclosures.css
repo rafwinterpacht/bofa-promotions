@@ -1,0 +1,150 @@
+/* disclosures — page footnotes on the grey ground (canon .disclosures; not in the
+   frozen foundation — see stardust/rollout/foundation-requests.md) */
+.disclosures {
+  display: block;
+  padding: 5% 5% 0;
+  background-color: var(--color-gray);
+  font-size: 0.875em;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.disclosures .disclosures-inner {
+  width: 100%;
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding-bottom: 0.625rem;
+}
+
+.disclosures .disclosure {
+  position: relative;
+  margin-bottom: 1.25rem;
+}
+
+.disclosures .disclosure a:any-link {
+  text-decoration: underline 1px solid;
+}
+
+.disclosures .disclosure-text {
+  position: relative;
+  display: inline-block;
+  width: calc(100% - 1.0625rem);
+  padding-left: 0.1rem;
+}
+
+.disclosures .disclosure-label {
+  position: absolute;
+  top: 0.075rem;
+  left: -1rem;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  color: currentcolor;
+  font-size: 70%;
+  line-height: 1.4;
+  text-align: right;
+  text-decoration: none;
+}
+
+
+.disclosures .disclosure-note p {
+  margin: 0;
+}
+
+.disclosures .disclosure-body p {
+  margin: 14px 0 20px;
+}
+
+.disclosures .disclosure-lead,
+.disclosures .disclosure-lead p {
+  display: inline;
+}
+
+.disclosures .disclosure-last p {
+  margin-bottom: 0;
+}
+
+.disclosures .disclosure-body ol {
+  margin: 0 0 16px;
+  padding: 0 0 0 4px;
+}
+
+.disclosures .disclosure-body li {
+  margin: 0 0 0.25rem 1.25rem;
+  padding-left: 0.25rem;
+  font-size: 0.875rem;
+  line-height: 24px;
+}
+
+.disclosures .disclosure-body li p {
+  margin: 14px 0 0;
+  line-height: 1.4;
+}
+
+.disclosures .disclosure-note {
+  position: absolute;
+  top: 0.075rem;
+  left: -1rem;
+  width: 0.75rem;
+  font-size: 70%;
+  line-height: 1.4;
+  text-align: right;
+  vertical-align: top;
+}
+
+.disclosures .disclosure-note a:any-link {
+  color: currentcolor;
+  text-decoration: none;
+}
+
+@media (width >= 1068px) {
+  .disclosures {
+    padding-top: 2%;
+  }
+}
+
+/* generic disclosure closing list = the boxed investment-products table (source ul.table) */
+.disclosures .disclosure:not([id]) .disclosure-body > ul:last-child {
+  display: flex;
+  flex-direction: column;
+  margin: 0.625rem 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.disclosures .disclosure:not([id]) .disclosure-body > ul:last-child li {
+  width: 100%;
+  margin: 0;
+  padding: 0.313rem 1.25rem;
+  border: 0.0625rem solid #000;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.disclosures .disclosure:not([id]) .disclosure-body > ul:last-child li:first-child {
+  border-bottom: none;
+}
+
+.disclosures .disclosure:not([id]) .disclosure-body > ul:last-child li:last-child {
+  border-top: none;
+}
+
+@media (width >= 850px) {
+  .disclosures .disclosure:not([id]) .disclosure-body > ul:last-child {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .disclosures .disclosure:not([id]) .disclosure-body > ul:last-child li:first-child {
+    border-right: none;
+    border-bottom: 0.0625rem solid #000;
+  }
+
+  .disclosures .disclosure:not([id]) .disclosure-body > ul:last-child li:last-child {
+    border-top: 0.0625rem solid #000;
+    border-left: none;
+  }
+}

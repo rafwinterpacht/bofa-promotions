@@ -1,0 +1,109 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T16:44:53.618Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T20:48:35.217Z",
+  "templates": [
+    {
+      "id": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "representativeSlug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "pages": [
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal"
+      ],
+      "pageCount": 6,
+      "blocks": [
+        "modal-dialog"
+      ],
+      "delivery": {
+        "verified": 6,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "deposits-growyoursavings",
+      "representativeSlug": "deposits-growyoursavings",
+      "pages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira"
+      ],
+      "pageCount": 4,
+      "blocks": [
+        "content-tile",
+        "footer",
+        "header",
+        "image-with-text-offset",
+        "masthead",
+        "multi-step-content"
+      ],
+      "delivery": {
+        "verified": 4,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-deals",
+      "representativeSlug": "en-deals",
+      "pages": [
+        "en-deals"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "banner",
+        "carousel",
+        "faq",
+        "features",
+        "footer",
+        "header",
+        "masthead-notch",
+        "pcard",
+        "story",
+        "tiles"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-offers-chooseyourchecking500tiered",
+      "representativeSlug": "en-offers-chooseyourchecking500tiered",
+      "pages": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "footer",
+        "header",
+        "masthead",
+        "product-details",
+        "promo-card-row",
+        "steps"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

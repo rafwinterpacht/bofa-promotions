@@ -1,0 +1,24 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://promotions.bankofamerica.com/en/deals.html
+  modules  14 sections: capped 1440 ×14 · full-bleed ×0
+  contentMaxWidth 1440px (module) · shellMaxWidth fluid · root #main-content
+build  http://localhost:8791/en-deals-proposed.html
+  modules  14 sections: capped 1440 ×14 · full-bleed ×0
+  contentMaxWidth 1440px (module) · shellMaxWidth fluid · root #main-content
+rows
+  ✓ content cap: live 1440px = build 1440px (±20, shared module cap)
+  ✓ module 1/14: 1440px = 1440px
+  ✓ module 2/14: 1440px = 1440px
+  ✓ module 3/14: 1440px = 1440px
+  ✓ module 4/14: 1440px = 1440px
+  ✓ module 5/14: 1440px = 1440px
+  ✓ module 6/14: 1440px = 1440px
+  ✓ module 7/14: 1440px = 1440px
+  ✓ module 8/14: 1440px = 1440px
+  ✓ module 9/14: 1440px = 1440px
+  ✓ module 10/14: 1440px = 1440px
+  ✓ module 11/14: 1440px = 1440px
+  ✓ module 12/14: 1440px = 1440px
+  ✓ module 13/14: 1440px = 1440px
+  ✓ module 14/14: 1440px = 1440px
+cap-probe: PASS at 2560 — 0 of 15 rows failed (evidence stardust/replica/gates/en-deals-2560/cap-iter.json)

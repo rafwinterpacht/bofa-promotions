@@ -1,0 +1,544 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T16:44:53.618Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T20:48:35.217Z",
+  "pages": [
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/eligible-accounts-modal/master",
+      "title": "New Eligible Accounts",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d66ff9766ccc164df407aa171b884dc349a9e03e4ee9efe71d1c8b0a470ae3aa",
+        "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html"
+      },
+      "blocks": [
+        "modal-dialog"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/eligible-accounts-modal/master",
+        "deployedAt": "2026-11-13T18:41:41.193Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 21.85,
+          "heightDelta": -655,
+          "clipped": 0,
+          "content": null,
+          "reasons": [
+            "pixel 21.85% > 10%",
+            "Δh -655px > 5% of 245"
+          ],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        },
+        "type": "fragment"
+      },
+      "sourcePath": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal",
+      "title": "Balance Connect® for overdraft protection",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:746a4819b5eea4b448b894609a3d100d818e882e9e74dc2453d2552ad5921855",
+        "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html"
+      },
+      "blocks": [
+        "modal-dialog"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal",
+        "deployedAt": "2026-11-13T18:41:41.005Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 20.36,
+          "heightDelta": -446,
+          "clipped": 0,
+          "content": null,
+          "reasons": [
+            "pixel 20.36% > 10%",
+            "Δh -446px > 5% of 454"
+          ],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        },
+        "type": "fragment"
+      },
+      "sourcePath": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal",
+      "title": "Bank of America Advantage Plus Banking® | Bank of America",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "source": {
+        "migratedHtml": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+        "metaJson": "stardust/migrated/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal._meta.json",
+        "sourceHash": "sha256:9ab2743850c876d786f3091a498094d65d73cc25e0040f4757b7af016ccae078",
+        "sourceUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html"
+      },
+      "blocks": [
+        "modal-dialog"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal",
+        "deployedAt": "2026-11-13T18:03:39.443Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.12,
+          "heightDelta": -372,
+          "clipped": 0,
+          "content": null,
+          "reasons": [
+            "pixel 17.12% > 10%",
+            "Δh -372px > 5% of 528"
+          ],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        },
+        "type": "fragment"
+      },
+      "sourcePath": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master",
+      "title": "Qualifying Direct Deposit",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:3794df23aeb2aca85ae7f9e8885117b43e0182bf362e1c568aed93f201f8779a",
+        "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html"
+      },
+      "blocks": [
+        "modal-dialog"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master",
+        "deployedAt": "2026-11-13T18:41:41.258Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 21.83,
+          "heightDelta": -543,
+          "clipped": 0,
+          "content": null,
+          "reasons": [
+            "pixel 21.83% > 10%",
+            "Δh -543px > 5% of 357"
+          ],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        },
+        "type": "fragment"
+      },
+      "sourcePath": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal",
+      "title": "Bank of America Advantage Relationship Banking®",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1d3e67e9d40ede9c0b9c1fa9bb46fbc72f77c44dcd8c446f249191474a078b4f",
+        "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html"
+      },
+      "blocks": [
+        "modal-dialog"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal",
+        "deployedAt": "2026-11-13T18:41:41.126Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.68,
+          "heightDelta": -420,
+          "clipped": 0,
+          "content": null,
+          "reasons": [
+            "pixel 17.68% > 10%",
+            "Δh -420px > 5% of 480"
+          ],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        },
+        "type": "fragment"
+      },
+      "sourcePath": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal"
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal",
+      "title": "Bank of America Advantage SafeBalance Banking®",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "representative": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2bfcc25f52c4163361729c4aeddfe72ef382d0a67eb92beed4fce859e6151a53",
+        "currentStatePath": "stardust/current/pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html"
+      },
+      "blocks": [
+        "modal-dialog"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/content/experience-fragments/consumer-marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal",
+        "deployedAt": "2026-11-13T18:41:41.067Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.21,
+          "heightDelta": -192,
+          "clipped": 0,
+          "content": null,
+          "reasons": [
+            "pixel 17.21% > 10%",
+            "Δh -192px > 5% of 708"
+          ],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        },
+        "type": "fragment"
+      },
+      "sourcePath": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal"
+    },
+    {
+      "slug": "deposits-balanceconnect",
+      "path": "/deposits/balanceconnect",
+      "title": "What Is Balance Connect® for Overdraft Protection? | Bank of America",
+      "templateId": "deposits-growyoursavings",
+      "representative": "deposits-growyoursavings",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c3b6cf0cbea8b59636f3c89c6341f29e5972cdeec61bd72eb3ff0f911a89d130",
+        "currentStatePath": "stardust/current/pages/deposits-balanceconnect.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/deposits/balanceconnect.html"
+      },
+      "blocks": [
+        "masthead",
+        "content-tile",
+        "multi-step-content",
+        "image-with-text-offset",
+        "header",
+        "footer"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/deposits/balanceconnect",
+        "deployedAt": "2026-11-13T20:13:52.293Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.24,
+          "heightDelta": 48,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        }
+      }
+    },
+    {
+      "slug": "deposits-debitcard-overview",
+      "path": "/deposits/debitcard/overview",
+      "title": "Debit card overview | Bank of America",
+      "templateId": "deposits-growyoursavings",
+      "representative": "deposits-growyoursavings",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c602cb23a497dd14a7aec93c5b5966578cd9f50fae192d7c7e23cfa04d894db9",
+        "currentStatePath": "stardust/current/pages/deposits-debitcard-overview.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html"
+      },
+      "blocks": [
+        "masthead",
+        "content-tile",
+        "multi-step-content",
+        "image-with-text-offset",
+        "header",
+        "footer"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/deposits/debitcard/overview",
+        "deployedAt": "2026-11-13T20:13:52.356Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.47,
+          "heightDelta": 29,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 3,
+            "hiddenButtons": 0,
+            "findings": 12,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        }
+      }
+    },
+    {
+      "slug": "deposits-growyoursavings",
+      "path": "/deposits/growyoursavings",
+      "title": "Grow Your Savings | Bank of America",
+      "templateId": "deposits-growyoursavings",
+      "source": {
+        "migratedHtml": "stardust/migrated/deposits/growyoursavings.html",
+        "metaJson": "stardust/migrated/deposits/growyoursavings._meta.json",
+        "sourceHash": "sha256:00c452867e1a16c7c9f8332846e38fd4df104b802f01ca674ab82ec6162a5917",
+        "sourceUrl": "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+      },
+      "blocks": [
+        "masthead",
+        "content-tile",
+        "multi-step-content",
+        "image-with-text-offset",
+        "header",
+        "footer"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/deposits/growyoursavings",
+        "deployedAt": "2026-11-13T17:50:51.372Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.23,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        }
+      }
+    },
+    {
+      "slug": "deposits-growyoursavings-cd-ira",
+      "path": "/deposits/growyoursavings/cd-ira",
+      "title": "CDs/IRAs | Bank of America",
+      "templateId": "deposits-growyoursavings",
+      "representative": "deposits-growyoursavings",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:98464573401e6d75feaf89228c5224269ed86b0a17cf9dcdbb8af2aa7ae4ed4e",
+        "currentStatePath": "stardust/current/pages/deposits-growyoursavings-cd-ira.json",
+        "sourceUrl": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html"
+      },
+      "blocks": [
+        "masthead",
+        "content-tile",
+        "multi-step-content",
+        "image-with-text-offset",
+        "header",
+        "footer"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/deposits/growyoursavings/cd-ira",
+        "deployedAt": "2026-11-13T20:13:52.444Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.87,
+          "heightDelta": -60,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 7,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        }
+      }
+    },
+    {
+      "slug": "en-deals",
+      "path": "/en/deals",
+      "title": "Cash Back Deals Every Day with Bank of America",
+      "templateId": "en-deals",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/deals.html",
+        "metaJson": "stardust/migrated/en/deals._meta.json",
+        "sourceHash": "sha256:d71e792bb5e182ffdad0cd7516842c7b336b932e2f655ebaa50cceda2f874dbb",
+        "sourceUrl": "https://promotions.bankofamerica.com/en/deals.html"
+      },
+      "blocks": [
+        "masthead-notch",
+        "features",
+        "pcard",
+        "story",
+        "banner",
+        "carousel",
+        "tiles",
+        "faq",
+        "header",
+        "footer"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/en/deals",
+        "deployedAt": "2026-11-13T18:17:27.834Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.11,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 5,
+            "missingButtons": 5,
+            "hiddenButtons": 0,
+            "findings": 12,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        }
+      }
+    },
+    {
+      "slug": "en-offers-chooseyourchecking500tiered",
+      "path": "/en/offers/chooseyourchecking500tiered",
+      "title": "Up to $500 Tiered Checking offer | Bank of America",
+      "templateId": "en-offers-chooseyourchecking500tiered",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/offers/chooseyourchecking500tiered.html",
+        "metaJson": "stardust/migrated/en/offers/chooseyourchecking500tiered._meta.json",
+        "sourceHash": "sha256:007e78cd193a1bb6b2a9273f581d040a80d637ae0a298a1808d4ad51954dd46e",
+        "sourceUrl": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+      },
+      "blocks": [
+        "masthead",
+        "product-details",
+        "steps",
+        "promo-card-row",
+        "header",
+        "footer"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--78f2fb76--aemcoder.aem.page/en/offers/chooseyourchecking500tiered",
+        "deployedAt": "2026-11-13T18:34:17.702Z",
+        "verifiedAt": "2026-11-13T20:48:35.217Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.63,
+          "heightDelta": 17,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 13,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T20:45:24.402Z"
+        }
+      }
+    }
+  ]
+}

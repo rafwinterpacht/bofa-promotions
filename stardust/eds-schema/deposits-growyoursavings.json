@@ -1,0 +1,333 @@
+{
+ "source": "http://127.0.0.1:8811/deposits-growyoursavings-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "masthead",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What are you saving for? We can help."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "A Bank of America Advantage Savings account, with access to simple, easy-to-use features, is designed to help you save toward your goals."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Open a savings account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0L7XT02O1"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "content-tile",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Ways to waive the monthly maintenance fee"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Open a Bank of America Advantage Savings account with us, and we’ll waive the $8 monthly maintenance fee for the first 6 months from account opening. After that, we'll continue to waive the monthly maintenance fee each statement cycle when you meet of the following:"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "1",
+     "href": "#disclosure-1877364746"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "one"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Maintain a $500 minimum daily balance or more in your account"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Own a Bank of America Advantage Relationship Banking® account"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "2",
+     "href": "#disclosure-1478299230"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "An owner of this account is under the age of 25"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "2",
+     "href": "#disclosure-1478299230"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors or Premier tier"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "3",
+     "href": "#disclosure-1551565431"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Open a savings account",
+     "href": "https://www.bankofamerica.com/upac/#/get-started/?productCode=FSDPDD00P0L7XT02O1"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "See the for details."
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Personal Schedule of Fees",
+     "href": "https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "LI.overview-item",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "multi-step-content",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Here’s how you can start saving toward your goals:"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Step 1 — Create a Life Plan"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Set short- and long-term financial goals and get personalized guidance when you need it with a ."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Bank of America Life Plan®",
+     "href": "https://promo.bankofamerica.com/life-plan/"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "4",
+     "href": "#disclosure-1872958078"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Step 2 — Track your spending"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Try out the to help you manage your money with interactive category-specific charts."
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Spending & Budgeting Tool",
+     "href": "https://www.bankofamerica.com/online-banking/mobile-and-online-banking-features/spending-budgeting/"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "5",
+     "href": "#disclosure-16956903"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Step 3 — Set a timetable"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Use the to see how long it takes to save for the things you need or want."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Short-Term Savings Calculator",
+     "href": "https://www.bankofamerica.com/deposits/savings/savings-goal-calculator/"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.multi-step-content__items",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "content-tile",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Ways to Save"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Start saving today with these simple tools:"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Keep the Change®"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "6",
+     "href": "#disclosure-2027415311"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "We'll round up your debit card purchases to the nearest dollar amount, then transfer the difference from your eligible checking to the enrolled savings account."
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Automatic Transfers"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Schedule recurring transfers from your checking to your savings account at the amount and frequency you choose."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Split Direct Deposits"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Automatically deposit a portion of your paycheck into savings."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "See an example of how you can add money to your savings when you use these features, check it out",
+     "href": "/content/dam/consumer-marketing/deposits/grow-your-savings/ways-to-save-2026.pdf"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.overview-item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "image-with-text-offset",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Help stay on track with Better Money Habits®"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether you're just starting out, saving to buy a home or preparing for retirement, Better Money Habits has a wide range of tips and tools you can use — at no cost to you."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://bettermoneyhabits.bankofamerica.com/en"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "long-form-text",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "All Bank of America savings accounts, CDs and IRAs are FDIC insured up to applicable limits."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "a": "stardust/replica/gates/all-360/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master/origin.png",
+  "b": "stardust/replica/gates/all-360/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 245,
+    "mode": "overlap"
+  },
+  "heightDelta": -655,
+  "differingPixels": 19273,
+  "pct": 21.85,
+  "threshold": 10,
+  "pass": false,
+  "diff": "stardust/replica/gates/all-360/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 245,
+      "pct": 21.9
+    }
+  ]
+}

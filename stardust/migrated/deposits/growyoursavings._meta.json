@@ -1,0 +1,109 @@
+{
+  "slug": "deposits-growyoursavings",
+  "type": "program",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "masthead",
+    "content-tile",
+    "multi-step-content",
+    "image-with-text-offset",
+    "header",
+    "footer"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "spacer",
+    "spacer",
+    "masthead",
+    "content-tile",
+    "multi-step-content",
+    "content-tile",
+    "image-with-text-offset",
+    "long-form-text"
+  ],
+  "canonShas": {
+    "header": "03bc35660f78",
+    "footer": "862fd4084294",
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Grow Your Savings | Bank of America",
+    "description": "Grow Your Savings",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Grow Your Savings | Bank of America",
+    "description": "Grow Your Savings",
+    "url": "https://promotions.bankofamerica.com/deposits/growyoursavings.html"
+  },
+  "migratedAt": "2026-11-13T16:43:44Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "0e2839188d78",
+  "sourceProposedSha": "7448ec4a9b6c",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 15,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/en/offers/2026t3unauth.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/es/deposits/growyoursavings.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/dam/consumer-marketing/deposits/grow-your-savings/ways-to-save-2026.pdf",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "deposits/growyoursavings.html",
+  "outputPathDefault": null,
+  "sidecar": "deposits/growyoursavings._meta.json",
+  "driverVersion": "1"
+}

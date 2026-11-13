@@ -1,0 +1,683 @@
+{
+  "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "width": 360,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 4800,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 6000,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 7200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 8400,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 7530,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 6030,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "helix-cta helix-modal",
+      "position": "static",
+      "height": "70px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".product-details__productList .uc-carousel-next",
+      "error": "not found"
+    },
+    {
+      "sel": ".product-details__productTabItem:nth-child(3)",
+      "frames": [
+        {
+          "t": 31753.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 31957.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 32161.100000000093,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 32364.799999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "div.container.section__wrapper.product-details__wrapper > div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides",
+        "y": 598,
+        "dur": "0.5s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__stickyItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productTab.uc-carousel-flag > div.uc-carousel-list > div.uc-carousel-track.slides > div.product-details__productTabItem.text-center.uc-carousel-slide",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-current",
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-active",
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-cloned",
+        "y": 598
+      },
+      {
+        "added": [
+          "uc-carousel-center"
+        ],
+        "el": "div.product-details__content > consumer-flag-carousel.product-details--P3.product-details__productList.slick-arrow-red > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.product-details__productItem.uc-carousel-slide.uc-carousel-current",
+        "y": 598
+      }
+    ]
+  }
+}

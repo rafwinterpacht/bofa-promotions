@@ -1,0 +1,1383 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T16:33:58.352Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://promotions.bankofamerica.com/en/deals.html",
+      "http://localhost:8791/en-deals-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://promotions.bankofamerica.com/en/deals.html",
+    "http://localhost:8791/en-deals-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 68,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn",
+        "tier": 3,
+        "share": 0.04,
+        "section": 0,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1088,
+        "via": "fixed",
+        "selector": "div.uc-masthead.uc-masthead--with-notch > div > uc-notch.uc.uc-notch > div.uc-notch__container",
+        "tier": 13,
+        "share": 0.04,
+        "section": 0,
+        "w1": 1088,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 936,
+        "via": "fixed",
+        "selector": "uc-heading-group.uc.uc-component > div.uc-heading__subheadline > p > span.uc-headline--sm",
+        "tier": 18,
+        "share": 0.01,
+        "section": 0,
+        "w1": 936,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--long-form-text.aem-GridColumn",
+        "tier": 3,
+        "share": 0.06,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1068,
+        "via": "max-width",
+        "selector": "#long-form-text > div.section__wrapper.long-form-text__wrapper",
+        "tier": 6,
+        "share": 0.06,
+        "section": 1,
+        "w1": 1068,
+        "maxWidth": "1068px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn",
+        "tier": 3,
+        "share": 0,
+        "section": 2,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 704,
+        "via": "fixed",
+        "selector": "uc-layout > div.uc.uc-layout > div.uc-grid.uc-grid--cols-2--medium > div.uc-layout__grid-cell",
+        "tier": 7,
+        "share": 0,
+        "section": 2,
+        "w1": 704,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 704,
+        "via": "fixed",
+        "selector": "uc-layout > div.uc.uc-layout > div.uc-grid.uc-grid--cols-2--medium > div.uc-layout__grid-cell",
+        "tier": 7,
+        "share": 0,
+        "section": 2,
+        "w1": 704,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--features.aem-GridColumn",
+        "tier": 3,
+        "share": 0.15,
+        "section": 3,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "section.features.not-modal > div.container.section__wrapper > consumer-flag-carousel.features__items.features__items--3 > div.features__item",
+        "tier": 8,
+        "share": 0.04,
+        "section": 3,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "section.features.not-modal > div.container.section__wrapper > consumer-flag-carousel.features__items.features__items--3 > div.features__item",
+        "tier": 8,
+        "share": 0.04,
+        "section": 3,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "section.features.not-modal > div.container.section__wrapper > consumer-flag-carousel.features__items.features__items--3 > div.features__item",
+        "tier": 8,
+        "share": 0.04,
+        "section": 3,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--background.aem-GridColumn",
+        "tier": 3,
+        "share": 0.01,
+        "section": 4,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+        "tier": 3,
+        "share": 0.04,
+        "section": 5,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 647,
+        "via": "fixed",
+        "selector": "#preferred-cards > div.container.section__wrapper > div.preferred-cards__cardWrapper.card-outline > div.preferred-cards__cardContent.content-center",
+        "tier": 8,
+        "share": 0.04,
+        "section": 5,
+        "w1": 647,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+        "tier": 3,
+        "share": 0.04,
+        "section": 6,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 647,
+        "via": "fixed",
+        "selector": "#preferred-cards > div.container.section__wrapper > div.preferred-cards__cardWrapper.card-outline > div.preferred-cards__cardContent.content-center",
+        "tier": 8,
+        "share": 0.04,
+        "section": 6,
+        "w1": 647,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+        "tier": 3,
+        "share": 0.26,
+        "section": 7,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 647,
+        "via": "fixed",
+        "selector": "#preferred-cards > div.container.section__wrapper > div.preferred-cards__cardWrapper.card-outline > div.preferred-cards__cardContent.content-center",
+        "tier": 8,
+        "share": 0.26,
+        "section": 7,
+        "w1": 647,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div.preferred-cards__contentWrapper.none > div.preferred-cards__subHeading.text > div.row > div.column",
+        "tier": 12,
+        "share": 0.13,
+        "section": 7,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div.preferred-cards__contentWrapper.none > div.preferred-cards__subHeading.text > div.row > div.column",
+        "tier": 12,
+        "share": 0.12,
+        "section": 7,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--storyblock.aem-GridColumn",
+        "tier": 3,
+        "share": 0.1,
+        "section": 8,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 640,
+        "via": "fixed",
+        "selector": "div.uc-background__content > div.storyblock-content > div.storyblock-content__wrapper > div.storyblock-content__container",
+        "tier": 11,
+        "share": 0.1,
+        "section": 8,
+        "w1": 640,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 522,
+        "via": "fixed",
+        "selector": "uc-heading-group.uc.uc-component > div.uc-heading__subheadline > p > span.uc-headline--sm",
+        "tier": 16,
+        "share": 0.06,
+        "section": 8,
+        "w1": 522,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 443,
+        "via": "fixed",
+        "selector": "p > span.uc-headline--sm > span.uc-text--black > span.font-connections-bold",
+        "tier": 18,
+        "share": 0.03,
+        "section": 8,
+        "w1": 443,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn",
+        "tier": 3,
+        "share": 0.01,
+        "section": 9,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1200,
+        "via": "fixed",
+        "selector": "div.aem-wrap--content-banner.aem-GridColumn > uc-content-banner.uc-component.uc-content-banner > div.uc-grid.uc-grid--cols-6--medium > div.uc-grid.uc-grid--col-span-6--medium",
+        "tier": 6,
+        "share": 0.01,
+        "section": 9,
+        "w1": 1200,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-carousel.aem-GridColumn",
+        "tier": 3,
+        "share": 0.07,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "consumer-flag-carousel.content-carousel__slider.container > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide",
+        "tier": 8,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide > div.content-carousel__row > div.content-carousel__fullImg",
+        "tier": 10,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide10",
+        "tier": 8,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide10 > div.content-carousel__row > div.content-carousel__fullImg",
+        "tier": 10,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide11",
+        "tier": 8,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide11 > div.content-carousel__row > div.content-carousel__fullImg",
+        "tier": 10,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide12",
+        "tier": 8,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide12 > div.content-carousel__row > div.content-carousel__fullImg",
+        "tier": 10,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide13",
+        "tier": 8,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "#uc-carousel-slide13 > div.content-carousel__row > div.content-carousel__fullImg",
+        "tier": 10,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "consumer-flag-carousel.content-carousel__slider.container > div.uc-carousel-list.uc-carousel-list--arrow-spacing > div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide",
+        "tier": 8,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "fixed",
+        "selector": "div.uc-carousel-track.slides > div.content-carousel__wrapper.uc-carousel-slide > div.content-carousel__row > div.content-carousel__fullImg",
+        "tier": 10,
+        "share": 0,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--tiles.aem-GridColumn",
+        "tier": 3,
+        "share": 0.09,
+        "section": 11,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 439,
+        "via": "fixed",
+        "selector": "#tiles > div.container.section__wrapper > div.row.tiles__row > div.tiles__item.tiles__item--two",
+        "tier": 8,
+        "share": 0.03,
+        "section": 11,
+        "w1": 439,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 367,
+        "via": "fixed",
+        "selector": "div.row.tiles__row > div.tiles__item.tiles__item--two > div.tiles__content > h3.tiles__subHeading.text-black",
+        "tier": 10,
+        "share": 0.01,
+        "section": 11,
+        "w1": 367,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 367,
+        "via": "fixed",
+        "selector": "div.row.tiles__row > div.tiles__item.tiles__item--two > div.tiles__content > div.tiles__cta",
+        "tier": 10,
+        "share": 0.01,
+        "section": 11,
+        "w1": 367,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 439,
+        "via": "fixed",
+        "selector": "#tiles > div.container.section__wrapper > div.row.tiles__row > div.tiles__item.tiles__item--two",
+        "tier": 8,
+        "share": 0.03,
+        "section": 11,
+        "w1": 439,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 367,
+        "via": "fixed",
+        "selector": "div.row.tiles__row > div.tiles__item.tiles__item--two > div.tiles__content > h3.tiles__subHeading.text-black",
+        "tier": 10,
+        "share": 0.01,
+        "section": 11,
+        "w1": 367,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 367,
+        "via": "fixed",
+        "selector": "div.row.tiles__row > div.tiles__item.tiles__item--two > div.tiles__content > div.tiles__cta",
+        "tier": 10,
+        "share": 0.01,
+        "section": 11,
+        "w1": 367,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn",
+        "tier": 3,
+        "share": 0.01,
+        "section": 12,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1200,
+        "via": "fixed",
+        "selector": "div.aem-wrap--content-banner.aem-GridColumn > uc-content-banner.uc-component.uc-content-banner > div.uc-grid.uc-grid--cols-6--medium > div.uc-grid.uc-grid--col-span-6--medium",
+        "tier": 6,
+        "share": 0.01,
+        "section": 12,
+        "w1": 1200,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--accordion.aem-GridColumn",
+        "tier": 3,
+        "share": 0.09,
+        "section": 13,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1088,
+        "via": "max-width",
+        "selector": "#accordion > div.accordion.container > div.accordion-items",
+        "tier": 6,
+        "share": 0.09,
+        "section": 13,
+        "w1": 1088,
+        "maxWidth": "1088px"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray",
+        "tier": 9,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray > span.accordion-item__text.accordionHead",
+        "tier": 10,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray",
+        "tier": 9,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray > span.accordion-item__text.accordionHead",
+        "tier": 10,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray",
+        "tier": 9,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray > span.accordion-item__text.accordionHead",
+        "tier": 10,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray",
+        "tier": 9,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray > span.accordion-item__text.accordionHead",
+        "tier": 10,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.accordion-items > div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray",
+        "tier": 9,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.accordion-item.accordion > h3.accordion-item__question.section-gray > button.accordion-item__handle.section-gray > span.accordion-item__text.accordionHead",
+        "tier": 10,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn"
+      },
+      {
+        "index": 1,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--long-form-text.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--long-form-text.aem-GridColumn"
+      },
+      {
+        "index": 2,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.layout.aem-GridColumn"
+      },
+      {
+        "index": 3,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--features.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--features.aem-GridColumn"
+      },
+      {
+        "index": 4,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--background.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--background.aem-GridColumn"
+      },
+      {
+        "index": 5,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn"
+      },
+      {
+        "index": 6,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn"
+      },
+      {
+        "index": 7,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--preferred-cards.aem-GridColumn"
+      },
+      {
+        "index": 8,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--storyblock.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--storyblock.aem-GridColumn"
+      },
+      {
+        "index": 9,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn"
+      },
+      {
+        "index": 10,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-carousel.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-carousel.aem-GridColumn"
+      },
+      {
+        "index": 11,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--tiles.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--tiles.aem-GridColumn"
+      },
+      {
+        "index": 12,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--content-banner.aem-GridColumn"
+      },
+      {
+        "index": 13,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--accordion.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--accordion.aem-GridColumn"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1440,
+    "contentFrom": "module",
+    "maxCap": 1440,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 279
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 68,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#masthead",
+        "tier": 1,
+        "share": 0.04,
+        "section": 0,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1088,
+        "via": "fixed",
+        "selector": "#masthead > div.masthead-notch__grid > div.masthead-notch__card",
+        "tier": 3,
+        "share": 0.04,
+        "section": 0,
+        "w1": 1088,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 936,
+        "via": "fixed",
+        "selector": "div.masthead-notch__card > div.masthead-notch__sub > p > span.headline-sm",
+        "tier": 6,
+        "share": 0.01,
+        "section": 0,
+        "w1": 936,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#long-form-text",
+        "tier": 1,
+        "share": 0.06,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1068,
+        "via": "max-width",
+        "selector": "#long-form-text > div.long-form__wrapper",
+        "tier": 2,
+        "share": 0.06,
+        "section": 1,
+        "w1": 1068,
+        "maxWidth": "1068px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.brand-strip",
+        "tier": 1,
+        "share": 0,
+        "section": 2,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 704,
+        "via": "fixed",
+        "selector": "#main-content > div.brand-strip > div.brand-strip__cell",
+        "tier": 2,
+        "share": 0,
+        "section": 2,
+        "w1": 704,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 704,
+        "via": "fixed",
+        "selector": "#main-content > div.brand-strip > div.brand-strip__cell",
+        "tier": 2,
+        "share": 0,
+        "section": 2,
+        "w1": 704,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#features",
+        "tier": 1,
+        "share": 0.15,
+        "section": 3,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "fixed",
+        "selector": "#features > div.features__items > div.features__item",
+        "tier": 3,
+        "share": 0.04,
+        "section": 3,
+        "w1": 300,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "fixed",
+        "selector": "#features > div.features__items > div.features__item",
+        "tier": 3,
+        "share": 0.04,
+        "section": 3,
+        "w1": 300,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "fixed",
+        "selector": "#features > div.features__items > div.features__item",
+        "tier": 3,
+        "share": 0.04,
+        "section": 3,
+        "w1": 300,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.features-cta",
+        "tier": 1,
+        "share": 0.01,
+        "section": 4,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > section.pcard.pcard--image-right",
+        "tier": 1,
+        "share": 0.04,
+        "section": 5,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > section.pcard.pcard--image-left",
+        "tier": 1,
+        "share": 0.04,
+        "section": 6,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > section.pcard.pcard--image-right",
+        "tier": 1,
+        "share": 0.26,
+        "section": 7,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#storyblock",
+        "tier": 1,
+        "share": 0.1,
+        "section": 8,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 640,
+        "via": "fixed",
+        "selector": "#storyblock > div.story__panel",
+        "tier": 2,
+        "share": 0.1,
+        "section": 8,
+        "w1": 640,
+        "maxWidth": "calc(100% - 128px)"
+      },
+      {
+        "kind": "module",
+        "px": 497,
+        "via": "fixed",
+        "selector": "div.story__sub > p > span.headline-sm > span.story__medium",
+        "tier": 6,
+        "share": 0.03,
+        "section": 8,
+        "w1": 497,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > section.banner",
+        "tier": 1,
+        "share": 0.01,
+        "section": 9,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#content-carousel",
+        "tier": 1,
+        "share": 0.07,
+        "section": 10,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#tiles",
+        "tier": 1,
+        "share": 0.09,
+        "section": 11,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > section.banner.banner--dark",
+        "tier": 1,
+        "share": 0.01,
+        "section": 12,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#accordion",
+        "tier": 1,
+        "share": 0.09,
+        "section": 13,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1088,
+        "via": "max-width",
+        "selector": "#accordion > div.faq__items",
+        "tier": 2,
+        "share": 0.09,
+        "section": 13,
+        "w1": 1088,
+        "maxWidth": "1088px"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.faq__items > div.faq__item > h3.faq__question > button.faq__handle",
+        "tier": 5,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.faq__item > h3.faq__question > button.faq__handle > span.faq__text",
+        "tier": 6,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.faq__items > div.faq__item > h3.faq__question > button.faq__handle",
+        "tier": 5,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.faq__item > h3.faq__question > button.faq__handle > span.faq__text",
+        "tier": 6,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.faq__items > div.faq__item > h3.faq__question > button.faq__handle",
+        "tier": 5,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.faq__item > h3.faq__question > button.faq__handle > span.faq__text",
+        "tier": 6,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.faq__items > div.faq__item > h3.faq__question > button.faq__handle",
+        "tier": 5,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.faq__item > h3.faq__question > button.faq__handle > span.faq__text",
+        "tier": 6,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1084,
+        "via": "fixed",
+        "selector": "div.faq__items > div.faq__item > h3.faq__question > button.faq__handle",
+        "tier": 5,
+        "share": 0.01,
+        "section": 13,
+        "w1": 1084,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 973,
+        "via": "fixed",
+        "selector": "div.faq__item > h3.faq__question > button.faq__handle > span.faq__text",
+        "tier": 6,
+        "share": 0.01,
+        "section": 13,
+        "w1": 973,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#masthead",
+        "px": 1440,
+        "capSelector": "#masthead"
+      },
+      {
+        "index": 1,
+        "selector": "#long-form-text",
+        "px": 1440,
+        "capSelector": "#long-form-text"
+      },
+      {
+        "index": 2,
+        "selector": "#main-content > div.brand-strip",
+        "px": 1440,
+        "capSelector": "#main-content > div.brand-strip"
+      },
+      {
+        "index": 3,
+        "selector": "#features",
+        "px": 1440,
+        "capSelector": "#features"
+      },
+      {
+        "index": 4,
+        "selector": "#main-content > div.features-cta",
+        "px": 1440,
+        "capSelector": "#main-content > div.features-cta"
+      },
+      {
+        "index": 5,
+        "selector": "#main-content > section.pcard.pcard--image-right",
+        "px": 1440,
+        "capSelector": "#main-content > section.pcard.pcard--image-right"
+      },
+      {
+        "index": 6,
+        "selector": "#main-content > section.pcard.pcard--image-left",
+        "px": 1440,
+        "capSelector": "#main-content > section.pcard.pcard--image-left"
+      },
+      {
+        "index": 7,
+        "selector": "#main-content > section.pcard.pcard--image-right",
+        "px": 1440,
+        "capSelector": "#main-content > section.pcard.pcard--image-right"
+      },
+      {
+        "index": 8,
+        "selector": "#storyblock",
+        "px": 1440,
+        "capSelector": "#storyblock"
+      },
+      {
+        "index": 9,
+        "selector": "#main-content > section.banner",
+        "px": 1440,
+        "capSelector": "#main-content > section.banner"
+      },
+      {
+        "index": 10,
+        "selector": "#content-carousel",
+        "px": 1440,
+        "capSelector": "#content-carousel"
+      },
+      {
+        "index": 11,
+        "selector": "#tiles",
+        "px": 1440,
+        "capSelector": "#tiles"
+      },
+      {
+        "index": 12,
+        "selector": "#main-content > section.banner.banner--dark",
+        "px": 1440,
+        "capSelector": "#main-content > section.banner.banner--dark"
+      },
+      {
+        "index": 13,
+        "selector": "#accordion",
+        "px": 1440,
+        "capSelector": "#accordion"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1440,
+    "contentFrom": "module",
+    "maxCap": 1440,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 173
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1440px = build 1440px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 8/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 9/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 10/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 11/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 12/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 13/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 14/14",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-deals-2560/cap-iter.json"
+}

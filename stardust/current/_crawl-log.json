@@ -1,0 +1,409 @@
+{
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 14,
+    "concurrency": 3
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": null,
+  "crawl": {
+    "failures": [
+      {
+        "url": "https://promotions.bankofamerica.com/",
+        "slug": "index",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-13T15:24:49.850Z",
+        "note": "source / redirects to /index.html then to www.bankofamerica.com error page (404): no source home page"
+      },
+      {
+        "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+        "slug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal-html",
+        "errorClass": "Error",
+        "message": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html\nCall log:\n  - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html\", waiting until \"domcontentloaded\"\n",
+        "at": "2026-11-13T15:25:18.355Z",
+        "recapturedBy": "modal-click capture on the host offer page (direct navigation 302s to the BofA error page; the fragment is served by /services/consumer-marketing/modalitem.xf_path.<path>)"
+      },
+      {
+        "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+        "slug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal-html",
+        "errorClass": "Error",
+        "message": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html\nCall log:\n  - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html\", waiting until \"domcontentloaded\"\n",
+        "at": "2026-11-13T15:25:18.563Z",
+        "recapturedBy": "modal-click capture on the host offer page (direct navigation 302s to the BofA error page; the fragment is served by /services/consumer-marketing/modalitem.xf_path.<path>)"
+      },
+      {
+        "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+        "slug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal-html",
+        "errorClass": "Error",
+        "message": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html\nCall log:\n  - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html\", waiting until \"domcontentloaded\"\n",
+        "at": "2026-11-13T15:25:21.744Z",
+        "recapturedBy": "modal-click capture on the host offer page (direct navigation 302s to the BofA error page; the fragment is served by /services/consumer-marketing/modalitem.xf_path.<path>)"
+      },
+      {
+        "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+        "slug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal-html",
+        "errorClass": "Error",
+        "message": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html\nCall log:\n  - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html\", waiting until \"domcontentloaded\"\n",
+        "at": "2026-11-13T15:25:22.700Z",
+        "recapturedBy": "modal-click capture on the host offer page (direct navigation 302s to the BofA error page; the fragment is served by /services/consumer-marketing/modalitem.xf_path.<path>)"
+      },
+      {
+        "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+        "slug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-eligible-accounts-modal-master-html",
+        "errorClass": "Error",
+        "message": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html\nCall log:\n  - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html\", waiting until \"domcontentloaded\"\n",
+        "at": "2026-11-13T15:25:25.122Z",
+        "recapturedBy": "modal-click capture on the host offer page (direct navigation 302s to the BofA error page; the fragment is served by /services/consumer-marketing/modalitem.xf_path.<path>)"
+      },
+      {
+        "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+        "slug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master-html",
+        "errorClass": "Error",
+        "message": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html\nCall log:\n  - navigating to \"https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html\", waiting until \"domcontentloaded\"\n",
+        "at": "2026-11-13T15:25:25.713Z",
+        "recapturedBy": "modal-click capture on the host offer page (direct navigation 302s to the BofA error page; the fragment is served by /services/consumer-marketing/modalitem.xf_path.<path>)"
+      }
+    ],
+    "pageTimeoutMs": 60000
+  },
+  "captureGaps": {
+    "roots": [],
+    "detail": "uncaptured first-level targets: none (no locale root captured)"
+  },
+  "dynamicSurface": {
+    "pages": 7,
+    "pagesWithSameSiteData": 7,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 7,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/js/events/v10/session.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://tilt.bankofamerica.com/7216/js/events/v10/session.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a053.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://tilt.bankofamerica.com/7216/3233584533156520778/js/events/v10/jsEvent.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/sri-hashes.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "smetrics.bankofamerica.com",
+        "path": "/ee/or2/v1/interact",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458f0/en.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "privacyportal-bofa.my.onetrust.com",
+        "path": "/request/v1/consentreceipts",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://privacyportal-bofa.my.onetrust.com/request/v1/consentreceipts",
+        "pages": 3,
+        "examples": [
+          "en-deals-html",
+          "deposits-balanceconnect-html",
+          "deposits-debitcard-overview-html"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "host": "storage.glancecdn.net",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "host": "bat.bing.com",
+        "pages": 2,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      },
+      {
+        "host": "core.thepointyspritesclub.com",
+        "pages": 2,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      }
+    ],
+    "frameworkHints": [
+      {
+        "hint": "aem-sites",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      }
+    ],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 7,
+        "examples": [
+          "en-offers-chooseyourchecking500tiered",
+          "en-deals-html",
+          "en-offers-chooseyourchecking500tiered-html"
+        ]
+      }
+    ],
+    "formTargets": []
+  },
+  "visionCheck": [
+    {
+      "slug": "en-offers-chooseyourchecking500tiered",
+      "verdict": "ok",
+      "notes": "(OneTrust banner overlays first table in screenshot; content filtered)"
+    },
+    {
+      "slug": "en-deals",
+      "verdict": "ok",
+      "notes": ""
+    },
+    {
+      "slug": "deposits-balanceconnect",
+      "verdict": "ok",
+      "notes": ""
+    },
+    {
+      "slug": "deposits-growyoursavings",
+      "verdict": "ok",
+      "notes": ""
+    },
+    {
+      "slug": "deposits-debitcard-overview",
+      "verdict": "ok",
+      "notes": ""
+    },
+    {
+      "slug": "deposits-growyoursavings-cd-ira",
+      "verdict": "ok",
+      "notes": ""
+    },
+    {
+      "slug": "modal fragments x6",
+      "verdict": "ok",
+      "notes": " ok (modal crops)"
+    }
+  ],
+  "aliases": [
+    {
+      "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered.html",
+      "duplicateOf": "en-offers-chooseyourchecking500tiered",
+      "evidence": "stardust/current/aliases/"
+    }
+  ],
+  "siblingCandidates": [
+    {
+      "origin": "https://www.bankofamerica.com",
+      "confidence": "high",
+      "evidence": "header/footer links",
+      "decision": "not included (out of plan scope)"
+    }
+  ]
+}

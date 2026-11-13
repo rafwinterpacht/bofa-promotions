@@ -1,0 +1,4 @@
+clip-probe http://localhost:8791/deposits-growyoursavings-proposed.html @ 360px — docH 7489, 94 text nodes, 35 controls (HTTP 200, chrome)
+  (none)
+Clipped: 0 (text clipped 0, text hidden 0, controls hidden 0, controls clipped 0; advisory: clamped 0, collapsed 0, scroll-hidden 0, horizontal 0)
+json → stardust/replica/gates/deposits-growyoursavings-360/clip-1.json

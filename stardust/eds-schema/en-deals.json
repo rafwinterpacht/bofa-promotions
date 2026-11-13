@@ -1,0 +1,806 @@
+{
+ "source": "http://localhost:8821/en-deals-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "masthead-notch",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Cash back deals — tailored to you"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "As a Bank of America customer, get cash back, discounts and more with deals from thousands of top brands, personalized to you."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "View your deals",
+     "href": "https://www.bankofamerica.com/deeplink/redirect.go?target=deals_newest&screen=Deals:Entry&SortedBy=Newest&version=7.1.0"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "long-form",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Top Brands"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Explore deals tailored to you from easy-to search categories like Travel, Retail, Health & Beauty, Entertainment and more."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "1",
+     "href": "#disclosure-1279581369"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Here are some brands that have been featured:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "features",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Cash back made simple"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "CLICK"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Pick deals from your list of offers in Mobile or Online Banking."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "2",
+     "href": "#disclosure-1372637601"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "SHOP"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Pay with your eligible Bank of America credit or debit card."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "1",
+     "href": "#disclosure-1279581369"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "EARN"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Your account will be credited with the cash back you've earned."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "3",
+     "href": "#disclosure-73991137"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.features__item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "pcard",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Stack your rewards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Your cash back is any other cash back, discounts or rewards your eligible Bank of America credit card may offer."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "on top of"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "pcard",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Daily Essentials"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Discover limited-time deals on everyday essentials like gas, lunch or coffee."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "These deals are only available for a few hours — check back often so you don't miss out!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "pcard",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Special event deals"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "June"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "FIFA World Cup 2026"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "TM"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "July"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Sizzling Summer"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Road Trip"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "August"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Back to School"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Cool Tech, Hot Savings"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "October"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Double Days"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Spooky Deals"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "November"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Black Friday"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "National Cash Back Day"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "December"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "HoliDeals"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 17,
+   "repeats": [
+    {
+     "unitSelector": "DIV.pcard__col",
+     "count": 2,
+     "unit": {
+      "headings": 3,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 9
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "H3.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "P.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "H3.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "P.",
+     "count": 7,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "story",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Exclusive deals for BofA Rewards members"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "TM"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "BofA Rewards members get access to premium deals."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "TM"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Not a member? It's free to join, you just need a BofA personal checking account."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "4",
+     "href": "#disclosure-1553673808"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "https://info.bankofamerica.com/en/rewards/bofa-rewards"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "banner",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Check your deals — here's how:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "carousel",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Change to accessible version"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "icon_right"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "icon_left"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "4"
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "BUTTON.carousel__arrow",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.carousel__slide",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 2,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "tiles",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Cash back deals are an exclusive benefit for Bank of America credit and debit card holders."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "1",
+     "href": "#disclosure-1279581369"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Don't have a Bank of America credit or debit card?"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Open an account",
+     "href": "https://promo.bankofamerica.com/hp-oaa2/"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Not enrolled in Mobile or Online Banking?"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Enroll now",
+     "href": "https://www.bankofamerica.com"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.tiles__item",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 2,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "banner",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Frequently asked questions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "faq",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Expand all",
+     "href": "#"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "|"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Collapse all",
+     "href": "#"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "What is the cash back deals program?"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The program gives you access to benefits such as cash back, coupons, promo codes, discounts, upgrades, and reward experiences. Simply follow the terms and conditions within each deal. You can earn more with features such as auto activation, direct cash back, deals curated for you and deals presented based on your spending."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "In most cash back deals, earned rewards will be credited into an eligible consumer deposit or credit account within 60 days of redemption, or the transaction posting date."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": ": Affiliate offers may take up to 75 days once the transaction posts. If you return or cancel a qualifying purchase, you are not eligible for the reward. Other deal types may provide different types of rewards as described within the deal terms and conditions and have different benefit posting timeframes."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Notes"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "How do I earn rewards with cash back deals?"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The Deals program provides rewards based on specific card purchases for merchants identified on the All Deals page. Review deal terms to see instructions provided to qualify. Restrictions may include requirements such as a minimum or maximum expenditure, or limits that apply only to in store or online purchases. Shop and pay with an eligible Bank of America credit or debit card before the deal expires."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "These are some of the types of deals you may see. You must access the deals and review the offer’s Terms and Conditions."
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "— These are deals that do not require activation to take advantage of the reward as they are automatically loaded to your applicable debit or credit card. The pending reward appears in your Earned History once an eligible purchase is made."
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Auto Activated"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "— These are deals that require shopping through a site sponsored by a merchant. The deal typically displays Must Use Link in the offer details and a button to access the merchant site. These incentives are awarded by the merchant and award earnings do not display on your Earning History."
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Merchant Fulfilled Deal"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "— This is a cash back deal. Most of these deals require activation prior to spending to earn the cash back. One type of Card Linked Deals are “Daily Essentials.”"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Card Linked Deal"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "These deals are provided based on location (geolocation or ZIP code, based on your preference) and once activated, they must be used within 4 hours."
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Because these deals rely on live or preferred ZIP code location, they:"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Do not appear in Search"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Do not appear in My Activated Deals"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "May change daily"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Users may only activate five (5) deals at one time. You may also deactivate by clicking the deal."
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "— These are deals that require shopping directly through the link provided within the Offer Terms. This is a cash back deal and awards will be shown in your Earning history, found on the Deals platform. : If you have an ad blocker on your browser, it may result in the reward not being issued."
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Shop Now Deal"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Note"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Important: Some offers do not have an Expiration Date — These deals are available for an undetermined amount of time and do not have an expiration date displayed. Please review the terms and conditions for details regarding the timeframe of these deals."
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "How do cash back deals differ from my credit card rewards?"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Deals are only valid at specific merchants and can be used in conjunction with your existing credit card reward program. This way, you can earn rewards on top of any rewards you may already earn with your Bank of America credit card. To view your credit card rewards information, select then and Credit Card in Online Banking."
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Rewards & Deals"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "My Rewards"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "What Bank of America cards are considered not eligible to earn rewards from cash back deals?"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The following cards are eligible:"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "not"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "ATM-only cards"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Credit Purchasing Card (P-Card)"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "Travel/Corporate Card"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "Fleet Card"
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "All healthcare account products — HSA/FSA Health Reimbursement/Flexible Spending"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "HELOC Visa access card"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "Merrill branded CMA deferred debit cards"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "Family Banking"
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": ": Not all clients enrolled in Deals will be eligible for all offers. Client eligibility for deals may be impacted by certain exclusions and targeting logic (for example, previous spending activity, merchant exclusions) or card type, such as affinity credit cards. This list is subject to change at any time."
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "Note"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "Travel-related Bank of America co-branded credit cards (including, but not limited to: Air France KLM, Atmos™ Rewards, Allegiant® Air, Celebrity Cruises®, Norwegian Cruise Line, Royal Caribbean® and Spirit Airlines) may not earn rewards from travel-related merchants. The Bank of America National Education Association (NEA®) credit card may not earn rewards from some merchants."
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "If I have a joint account, what happens with my deals?"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "Every account owner and co-owner will view cash back deals based on their Online Banking ID."
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": ": Authorized users of a credit card or business checking account (who are not also joint account holders) will not be able to view deals with an Online Banking ID."
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "Note"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "Deal activations are shared across joint accounts. If one owner activates a deal, the other owner will see it activated and may redeem it. The reward is issued to the card used for the transaction first."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 19,
+   "repeats": [
+    {
+     "unitSelector": "DIV.faq__item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 5
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+[
+ {
+  "width": 1440,
+  "name": "eligible-accounts-modal-master",
+  "rect": [
+   455,
+   88,
+   530,
+   244
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 1440,
+  "text": "× New Eligible Accounts Only new SafeBalance Banking®, Advantage Plus Banking and Advantage Relationship Banking accounts are eligible for this offer. SafeBalance Banking® for Family Banking accounts are not eligible for this offer."
+ },
+ {
+  "width": 1440,
+  "name": "odp-balance-connect-modal-odp-bal-conn-modal",
+  "rect": [
+   345,
+   88,
+   750,
+   454
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 1440,
+  "text": "× Balance Connect® for overdraft protection Balance Connect® for overdraft protection allows you to link your eligible checking account with up to 5 eligible Bank of America accounts for overdraft protection. This optional service can help you cover your payments and purchases and help avoid overdrafts and Overdraft Item Fees by automatically transferring available funds from your linked backup account(s) when needed. If your linked backup account does not have enough available funds to cover the necessary amount, we may decline to make the transfer. Transfers from a linked (1) brokerage account with Merrill Lynch that is enrolled in margin lending, (2) Loan Management Account (LMA®), (3) credit card, or (4) HELOC are subject to interest charges. Please see your account agreement(s) for additional details. Balance Connect® is not available with SafeBalance Banking® or SafeBalance Banking® for Family Banking as a covered or linked backup account. Balance Connect® is available on Advantage Savings as a linked backup account, but not eligible to be enrolled as a covered account."
+ },
+ {
+  "width": 1440,
+  "name": "plus-learn-more-modal-plus-2026-modal",
+  "rect": [
+   345,
+   88,
+   750,
+   527
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 1440,
+  "text": "× Bank of America Advantage Plus Banking® We'll waive the $12 monthly maintenance fee each statement cycle when you meet one of the following: Have at least one qualifying direct deposit of $250 or more OR Maintain a minimum daily balance of $1,500 in your account OR An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier* *The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards."
+ },
+ {
+  "width": 1440,
+  "name": "qualifying-direct-deposit-modal-master",
+  "rect": [
+   455,
+   88,
+   530,
+   356
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 1440,
+  "text": "× Qualifying Direct Deposit A “Qualifying Direct Deposit” is a direct deposit of regular monthly income — such as your salary, pension or Social Security benefits, which are made by your employer or other payer — using account and routing numbers that you provide to them. Examples of non-qualifying transfers and deposits include the following: teller deposits, wire transfers, debit card transfers, ATM transfers or deposits, Online and Mobile Banking transfers or deposits, or transfers from a bank or brokerage account or Merrill investment account."
+ },
+ {
+  "width": 1440,
+  "name": "relationship-learn-more-modal-relationship-2026-modal",
+  "rect": [
+   345,
+   88,
+   750,
+   480
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 1440,
+  "text": "× Bank of America Advantage Relationship Banking® We'll waive the $25 monthly maintenance fee each statement cycle when you meet one of the following: Maintain a minimum daily balance of $20,000 in your account OR An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier* *The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards."
+ },
+ {
+  "width": 1440,
+  "name": "safebalance-learn-more-modal-safebalance-2026-modal",
+  "rect": [
+   345,
+   88,
+   750,
+   707
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 1440,
+  "text": "× Bank of America Advantage SafeBalance Banking® We'll waive the $4.95 monthly maintenance fee for each statement cycle when you meet one of the following: An owner of this account is under the age of 25* OR Maintain a minimum daily balance of $500 in your account OR An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier† †The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards. *When you add an owner under the age of 25 to an existing account, it may take 3 business days before your account meets the requirement to have the monthly maintenance fee waived. Fiduciary accounts, including trust and estate accounts, do not qualify for the under the age of 25 requirement to waive the monthly maintenance fee. Additionally, accounts do not qualify for the under the age of 25 requirement to waive the monthly fee based on the age of the Payable on Death beneficiary. Please refer to the Personal Schedule of Fees for more information."
+ },
+ {
+  "width": 360,
+  "name": "eligible-accounts-modal-master",
+  "rect": [
+   16,
+   52,
+   328,
+   283
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 360,
+  "text": "× New Eligible Accounts Only new SafeBalance Banking®, Advantage Plus Banking and Advantage Relationship Banking accounts are eligible for this offer. SafeBalance Banking® for Family Banking accounts are not eligible for this offer."
+ },
+ {
+  "width": 360,
+  "name": "odp-balance-connect-modal-odp-bal-conn-modal",
+  "rect": [
+   16,
+   0,
+   328,
+   933
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 360,
+  "text": "× Balance Connect® for overdraft protection Balance Connect® for overdraft protection allows you to link your eligible checking account with up to 5 eligible Bank of America accounts for overdraft protection. This optional service can help you cover your payments and purchases and help avoid overdrafts and Overdraft Item Fees by automatically transferring available funds from your linked backup account(s) when needed. If your linked backup account does not have enough available funds to cover the necessary amount, we may decline to make the transfer. Transfers from a linked (1) brokerage account with Merrill Lynch that is enrolled in margin lending, (2) Loan Management Account (LMA®), (3) credit card, or (4) HELOC are subject to interest charges. Please see your account agreement(s) for additional details. Balance Connect® is not available with SafeBalance Banking® or SafeBalance Banking® for Family Banking as a covered or linked backup account. Balance Connect® is available on Advantage Savings as a linked backup account, but not eligible to be enrolled as a covered account."
+ },
+ {
+  "width": 360,
+  "name": "plus-learn-more-modal-plus-2026-modal",
+  "rect": [
+   16,
+   0,
+   328,
+   849
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 360,
+  "text": "× Bank of America Advantage Plus Banking® We'll waive the $12 monthly maintenance fee each statement cycle when you meet one of the following: Have at least one qualifying direct deposit of $250 or more OR Maintain a minimum daily balance of $1,500 in your account OR An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier* *The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards."
+ },
+ {
+  "width": 360,
+  "name": "qualifying-direct-deposit-modal-master",
+  "rect": [
+   16,
+   52,
+   328,
+   462
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 360,
+  "text": "× Qualifying Direct Deposit A “Qualifying Direct Deposit” is a direct deposit of regular monthly income — such as your salary, pension or Social Security benefits, which are made by your employer or other payer — using account and routing numbers that you provide to them. Examples of non-qualifying transfers and deposits include the following: teller deposits, wire transfers, debit card transfers, ATM transfers or deposits, Online and Mobile Banking transfers or deposits, or transfers from a bank or brokerage account or Merrill investment account."
+ },
+ {
+  "width": 360,
+  "name": "relationship-learn-more-modal-relationship-2026-modal",
+  "rect": [
+   16,
+   52,
+   328,
+   784
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 360,
+  "text": "× Bank of America Advantage Relationship Banking® We'll waive the $25 monthly maintenance fee each statement cycle when you meet one of the following: Maintain a minimum daily balance of $20,000 in your account OR An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier* *The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards."
+ },
+ {
+  "width": 360,
+  "name": "safebalance-learn-more-modal-safebalance-2026-modal",
+  "rect": [
+   16,
+   0,
+   328,
+   1235
+  ],
+  "clipped": [],
+  "reachable": true,
+  "dlgOverflowY": "auto",
+  "docW": 360,
+  "text": "× Bank of America Advantage SafeBalance Banking® We'll waive the $4.95 monthly maintenance fee for each statement cycle when you meet one of the following: An owner of this account is under the age of 25* OR Maintain a minimum daily balance of $500 in your account OR An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier† †The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards. *When you add an owner under the age of 25 to an existing account, it may take 3 business days before your account meets the requirement to have the monthly maintenance fee waived. Fiduciary accounts, including trust and estate accounts, do not qualify for the under the age of 25 requirement to waive the monthly maintenance fee. Additionally, accounts do not qualify for the under the age of 25 requirement to waive the monthly fee based on the age of the Payable on Death beneficiary. Please refer to the Personal Schedule of Fees for more information."
+ }
+]

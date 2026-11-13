@@ -1,0 +1,11 @@
+{
+  "/en/deals": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T18:10:47.029Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

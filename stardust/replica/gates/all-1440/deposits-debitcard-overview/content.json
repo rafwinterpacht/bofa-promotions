@@ -1,0 +1,5683 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T20:30:57.644Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+  "at": "2026-11-13T20:30:34.088Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6938,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperLogo > a#nav-_-logo",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__wrapperLogo > a#nav-_-logo > img.expanded-nav__logo",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__cta--wrapper.only-desktop > a#expanded-navigation666315155-_-en-espanol",
+    "x": 1193,
+    "y": 11,
+    "w": 175,
+    "h": 44,
+    "text": "en español",
+    "href": "/deposits/es/debitcard/overview.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem.hasSubMenu > a#expanded-navigation1837061981_manage-your-card",
+    "x": 70,
+    "y": 66,
+    "w": 150,
+    "h": 37,
+    "text": "manage your card",
+    "href": "/deposits/checking/debit-card/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem.hasSubMenu > button.uc-icon.uc-icon-action-dropdown",
+    "x": 227,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "text": "open manage your card menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem.hasSubMenu > button.uc-icon.uc-icon-action-dropdown",
+    "x": 227,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "label": "open manage your card menu",
+    "value": "open manage your card menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.mainMenu > li.mainMenuItem > a#expanded-navigation501748974_explore-faqs",
+    "x": 270,
+    "y": 66,
+    "w": 112,
+    "h": 37,
+    "text": "explore faqs",
+    "href": "/deposits/debit-card-faqs/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#features-828720302 > div.container.section__wrapper > h1.features__heading.text-brightRed",
+    "x": 72,
+    "y": 776,
+    "w": 1296,
+    "h": 54,
+    "level": 1,
+    "text": "debit is a fast, easy and secure way to pay in‑store and online"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item > div.features__items-wrapper > h2.features__item--title",
+    "x": 238,
+    "y": 970,
+    "w": 260,
+    "h": 60,
+    "level": 2,
+    "text": "lock or unlock 1 your debit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > h2.features__item--title > b",
+    "x": 255,
+    "y": 970,
+    "w": 227,
+    "h": 60,
+    "text": "Lock or unlock your debit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "b > sup > a#footnote-2048132104-0",
+    "x": 417,
+    "y": 969,
+    "w": 8,
+    "h": 18,
+    "text": "1",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > p > span.text-black",
+    "x": 238,
+    "y": 1039,
+    "w": 260,
+    "h": 180,
+    "text": "Misplaced your debit card? You can temporarily lock your debit card, right from "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item > div.features__items-wrapper > h2.features__item--title",
+    "x": 590,
+    "y": 970,
+    "w": 260,
+    "h": 30,
+    "level": 2,
+    "text": "$0 liability guarantee 2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > h2.features__item--title > b",
+    "x": 592,
+    "y": 970,
+    "w": 257,
+    "h": 30,
+    "text": "$0 Liability Guarantee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "b > sup > a#footnote-1801811738-0",
+    "x": 840,
+    "y": 969,
+    "w": 8,
+    "h": 18,
+    "text": "2",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 590,
+    "y": 1008,
+    "w": 260,
+    "h": 182,
+    "text": "Shop with confidence. Our $0 Liability Guarantee means that you’re not liable fo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item > div.features__items-wrapper > h2.features__item--title",
+    "x": 942,
+    "y": 970,
+    "w": 260,
+    "h": 30,
+    "level": 2,
+    "text": "24/7 monitoring"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > h2.features__item--title > b",
+    "x": 981,
+    "y": 970,
+    "w": 181,
+    "h": 30,
+    "text": "24/7 monitoring"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > p > span.text-black",
+    "x": 944,
+    "y": 1009,
+    "w": 256,
+    "h": 154,
+    "text": "Fraud monitoring reviews how and where your card is being used and is designed t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section__wrapper.long-form-text__wrapper > div.text.js-initialized > h2",
+    "x": 186,
+    "y": 1382,
+    "w": 1068,
+    "h": 63,
+    "level": 2,
+    "text": "activate, set up and spend with your debit card"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.js-initialized > h2 > span.color-reverse",
+    "x": 192,
+    "y": 1380,
+    "w": 1055,
+    "h": 66,
+    "text": "Activate, set up and spend with your debit card"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 81,
+    "y": 1557,
+    "w": 399,
+    "h": 200,
+    "text": "groceries in a bag",
+    "file": "core_illus_groceriespov1-m_rgb-200x400"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > h3#csp-id-3e83e052-ea0a-4ca4-879f-374ec92b9865",
+    "x": 81,
+    "y": 1777,
+    "w": 383,
+    "h": 32,
+    "level": 3,
+    "text": "activate and use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#csp-id-3e83e052-ea0a-4ca4-879f-374ec92b9865 > span.text-black > b",
+    "x": 174,
+    "y": 1777,
+    "w": 198,
+    "h": 31,
+    "text": "Activate and Use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > p#csp-id-a2e5ce82-c878-42f4-9abb-72c12a3c1318",
+    "x": 81,
+    "y": 1825,
+    "w": 383,
+    "h": 78,
+    "text": "Activate your card using the Mobile Banking app or call 888-624-2323 and start u"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p#csp-id-a2e5ce82-c878-42f4-9abb-72c12a3c1318 > sup > a#footnote-1238785478-0",
+    "x": 126,
+    "y": 1851,
+    "w": 7,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 520,
+    "y": 1557,
+    "w": 399,
+    "h": 200,
+    "text": "mobile phone with alert",
+    "file": "monitor-phone-m-200x400"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > h3#csp-id-14c2520c-32e1-4b05-ba22-1ec590b767eb",
+    "x": 520,
+    "y": 1777,
+    "w": 383,
+    "h": 32,
+    "level": 3,
+    "text": "monitor 4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__copy.text > h3#csp-id-14c2520c-32e1-4b05-ba22-1ec590b767eb > b",
+    "x": 661,
+    "y": 1777,
+    "w": 102,
+    "h": 31,
+    "text": "Monitor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "b > sup > a#footnote-370329342-0",
+    "x": 755,
+    "y": 1763,
+    "w": 8,
+    "h": 18,
+    "text": "4",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > p#csp-id-d8cd8608-e8e0-4678-9626-de7cbf07401d",
+    "x": 520,
+    "y": 1825,
+    "w": 383,
+    "h": 52,
+    "text": "to monitor card activity, balances and payment due dates."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__copy.text > p#csp-id-d8cd8608-e8e0-4678-9626-de7cbf07401d > a#tiles_set-up-and-customize-alerts",
+    "x": 527,
+    "y": 1826,
+    "w": 234,
+    "h": 24,
+    "text": "set up and customize alerts",
+    "href": "/en/digital-banking"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 960,
+    "y": 1557,
+    "w": 399,
+    "h": 200,
+    "text": "debit card",
+    "file": "core_illus_cardspov-debit-card-m_rgb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > h3#csp-id-99e9ffeb-20e5-4e9c-9e85-69c9021fcf02",
+    "x": 960,
+    "y": 1777,
+    "w": 383,
+    "h": 32,
+    "level": 3,
+    "text": "pay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#csp-id-99e9ffeb-20e5-4e9c-9e85-69c9021fcf02 > span.text-black > b",
+    "x": 1131,
+    "y": 1777,
+    "w": 41,
+    "h": 31,
+    "text": "Pay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__copy.text > p#csp-id-f30608dd-9023-4d5e-8108-a6c769140507",
+    "x": 960,
+    "y": 1825,
+    "w": 383,
+    "h": 104,
+    "text": "Need to pay utility, subscription and other bills on a schedule? Add your debit "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-grid.uc-grid--col-span-6--medium > uc-heading-group.uc.uc-component > h2#csp-id-12372420-8c7d-4588-ae6a-abdf964cf5f4",
+    "x": 48,
+    "y": 2084,
+    "w": 1344,
+    "h": 63,
+    "level": 2,
+    "text": "ways to pay with your debit card"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.ctaNoModal > h3.preferred-cards__heading.text-brightRed",
+    "x": 816,
+    "y": 2254,
+    "w": 479,
+    "h": 96,
+    "level": 3,
+    "text": "enhanced digital card for debit 5"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3.preferred-cards__heading.text-brightRed > sup > a#footnote-727251327-0",
+    "x": 904,
+    "y": 2301,
+    "w": 7,
+    "h": 17,
+    "text": "5",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 2378,
+    "w": 479,
+    "h": 176,
+    "text": "Digital card for debit is a digital version of your physical debit card in our M"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > p > b",
+    "x": 816,
+    "y": 2577,
+    "w": 187,
+    "h": 30,
+    "text": "Benefits include:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > ul > li",
+    "x": 840,
+    "y": 2631,
+    "w": 455,
+    "h": 48,
+    "text": "— Creates a dynamic security code that changes every time it’s viewed."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > ul > li",
+    "x": 840,
+    "y": 2695,
+    "w": 455,
+    "h": 48,
+    "text": "— Continue to use your digital card for debit even if you lock your physical deb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > ul > li",
+    "x": 840,
+    "y": 2759,
+    "w": 455,
+    "h": 48,
+    "text": "— Access your digital card right from our Mobile Banking app when shopping onlin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > p > a#preferred-cards_get-now-in-the-app",
+    "x": 816,
+    "y": 2875,
+    "w": 183,
+    "h": 29,
+    "text": "get now in the app",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.ctaNoModal > a#preferred-cards246326179-_-watch-video",
+    "x": 816,
+    "y": 2937,
+    "w": 152,
+    "h": 52,
+    "text": "watch video",
+    "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-debit-card-video/master"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.ctaNoModal > h3.preferred-cards__heading.text-brightRed",
+    "x": 169,
+    "y": 3119,
+    "w": 479,
+    "h": 48,
+    "level": 3,
+    "text": "digital wallet"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 169,
+    "y": 3195,
+    "w": 479,
+    "h": 58,
+    "text": "Pay with your debit card by adding it to a digital wallet."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 169,
+    "y": 3277,
+    "w": 479,
+    "h": 144,
+    "text": "Simply load your eligible debit card in the digital wallet that works best for y"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > p > a#preferred-cards_learn-more",
+    "x": 169,
+    "y": 3472,
+    "w": 111,
+    "h": 29,
+    "text": "learn more",
+    "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-wallet-setup/master.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.ctaNoModal > a#preferred-cards1520177288-_-watch-video",
+    "x": 169,
+    "y": 3534,
+    "w": 152,
+    "h": 52,
+    "text": "watch video",
+    "href": "/content/experience-fragments/consumer_marketing/ecs/deposits/debit-card-digital-wallet-video/master"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.ctaNoModal > h3.preferred-cards__heading.text-brightRed",
+    "x": 816,
+    "y": 3716,
+    "w": 479,
+    "h": 48,
+    "level": 3,
+    "text": "paze sm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 3792,
+    "w": 479,
+    "h": 58,
+    "text": "Paze℠ is a fast and easy way to check out online."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 3874,
+    "w": 479,
+    "h": 65,
+    "text": "Add your eligible debit or credit card in Mobile or Online Banking."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1238785478-1",
+    "x": 1064,
+    "y": 3911,
+    "w": 6,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 3963,
+    "w": 479,
+    "h": 65,
+    "text": "Activate and use Paze to check out online at ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__subHeading.text > p > a#preferred-cards_participating-merchants",
+    "x": 816,
+    "y": 3998,
+    "w": 229,
+    "h": 29,
+    "text": "participating merchants",
+    "href": "/merchant-directory"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 4051,
+    "w": 479,
+    "h": 65,
+    "text": "It’s simple to use: No new apps to download or usernames and passwords to memori"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1695254006-0",
+    "x": 1230,
+    "y": 4088,
+    "w": 6,
+    "h": 14,
+    "text": "6",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.ctaNoModal > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 4140,
+    "w": 479,
+    "h": 94,
+    "text": "Paze has added security at checkout because your actual card numbers are not sha"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.ctaNoModal > a#preferred-cards1262039237-_-learn-more",
+    "x": 816,
+    "y": 4266,
+    "w": 145,
+    "h": 52,
+    "text": "learn more",
+    "href": "/card/paze"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-grid.uc-grid--col-span-6--medium > uc-heading-group.uc.uc-component > h2#csp-id-eb8d6452-f3ae-4cb8-8995-d5ebf3cb6c04",
+    "x": 48,
+    "y": 4439,
+    "w": 1344,
+    "h": 63,
+    "level": 2,
+    "text": "ways to save and get rewarded"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 301,
+    "y": 4624,
+    "w": 399,
+    "h": 200,
+    "text": "two girls shopping and taking selfies",
+    "file": "gettyimages-2189035771-200x400"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content.theme-gray > div.tiles__copy.text > h3#csp-id-5919cd37-42b7-439c-b517-fe5fb5623a01",
+    "x": 341,
+    "y": 4847,
+    "w": 319,
+    "h": 65,
+    "level": 3,
+    "text": "keep the change® savings program 7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#csp-id-5919cd37-42b7-439c-b517-fe5fb5623a01 > span.text-black > b",
+    "x": 346,
+    "y": 4847,
+    "w": 309,
+    "h": 75,
+    "text": "Keep the Change® Savings Program"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "span#csp-id-2898a30f-617d-476d-90a7-34792da5d26a > sup > a#footnote-1290758616-0",
+    "x": 546,
+    "y": 4878,
+    "w": 8,
+    "h": 18,
+    "text": "7",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__copy.text > p#csp-id-434dc905-7388-4a36-b6db-89e3566cae7a > span.text-black",
+    "x": 345,
+    "y": 4929,
+    "w": 310,
+    "h": 102,
+    "text": "We'll round up your purchases to the nearest dollar amount, then transfer the di"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content.theme-gray > div.tiles__cta > a#tile2101719618-_-learn-more",
+    "x": 426,
+    "y": 5064,
+    "w": 148,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/keep-the-change/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 740,
+    "y": 4624,
+    "w": 399,
+    "h": 200,
+    "text": "child and father at a museum",
+    "file": "gettyimages-1498695348-200x400"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content.theme-gray > div.tiles__copy.text > h3#csp-id-28dedb22-0db4-4e30-b035-8ca42452b4b7",
+    "x": 780,
+    "y": 4847,
+    "w": 319,
+    "h": 32,
+    "level": 3,
+    "text": "museums on us®"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#csp-id-28dedb22-0db4-4e30-b035-8ca42452b4b7 > span.text-black > b",
+    "x": 841,
+    "y": 4847,
+    "w": 198,
+    "h": 31,
+    "text": "Museums on Us®"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content.theme-gray > div.tiles__copy.text > p#csp-id-8c7d2b7d-e082-4c25-bcdc-57e620dc199d",
+    "x": 780,
+    "y": 4896,
+    "w": 319,
+    "h": 130,
+    "text": "Debit and credit card holders get free general admission during the first full w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content.theme-gray > div.tiles__cta > a#tile1299382017-_-learn-more",
+    "x": 866,
+    "y": 5064,
+    "w": 148,
+    "h": 64,
+    "text": "learn more",
+    "href": "/en/making-an-impact/arts-and-culture"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.getapp2__media.sm-noImage > picture > img",
+    "x": 720,
+    "y": 5331,
+    "w": 720,
+    "h": 492,
+    "text": "scan the qr code to download our app",
+    "file": "mobile-app-widget-debit-card-qrc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.row > div.getapp2__widget.width-text-medium > h2.getapp2__heading.text-black",
+    "x": 72,
+    "y": 5371,
+    "w": 576,
+    "h": 112,
+    "level": 2,
+    "text": "bank simply and conveniently on your own schedule"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.getapp2__group.js-group-one > div.getapp2__custom.control-blue > select#get-app-device1887868454_select-your-device",
+    "x": 153,
+    "y": 5516,
+    "w": 414,
+    "h": 48,
+    "label": "list of device options",
+    "value": "select your device",
+    "via": "select"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.getapp2__controls > div.getapp2__group.js-group-one > button#mobile-app-widget1887868454-_-get-the-app",
+    "x": 152,
+    "y": 5591,
+    "w": 416,
+    "h": 48,
+    "text": "get the app"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.getapp2__disclaimer.text > p > i",
+    "x": 85,
+    "y": 5673,
+    "w": 550,
+    "h": 71,
+    "text": "By providing your mobile number you are consenting to receive a text message. Te"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.getapp2__disclaimer.text > p > a#mobile-app-widget_terms-and-conditions",
+    "x": 281,
+    "y": 5749,
+    "w": 157,
+    "h": 21,
+    "text": "terms and conditions",
+    "href": "/messaging-terms-and-conditions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 5921,
+    "w": 655,
+    "h": 17,
+    "text": "When you use the QRC feature, certain information is collected from your mobile "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-2048132104 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 5961,
+    "w": 1273,
+    "h": 95,
+    "text": "We may allow you to lock your physical debit card or virtual card(s). You must l"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-2048132104 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 5961,
+    "w": 12,
+    "h": 14,
+    "text": "1",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1801811738 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6078,
+    "w": 1081,
+    "h": 17,
+    "text": "Notify us within a reasonable time of the unauthorized use or the loss or theft "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1801811738 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6079,
+    "w": 12,
+    "h": 14,
+    "text": "2",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1238785478 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6118,
+    "w": 942,
+    "h": 17,
+    "text": "Mobile Banking requires that you download the Mobile Banking app and . Message a"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1238785478 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6118,
+    "w": 12,
+    "h": 14,
+    "text": "3",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-370329342 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6158,
+    "w": 1270,
+    "h": 56,
+    "text": "You may elect to receive alerts via Mobile app push notification, text or email."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-370329342 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6158,
+    "w": 12,
+    "h": 14,
+    "text": "4",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-727251327 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6236,
+    "w": 1269,
+    "h": 76,
+    "text": "Customers enrolled in Mobile Banking may opt to receive the digital card for deb"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-727251327 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6237,
+    "w": 12,
+    "h": 14,
+    "text": "5",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1695254006 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6335,
+    "w": 377,
+    "h": 17,
+    "text": "Some merchants may require account setup to make purchases."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1695254006 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6335,
+    "w": 12,
+    "h": 14,
+    "text": "6",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1290758616 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6374,
+    "w": 1271,
+    "h": 56,
+    "text": "Upon enrollment, we will round up your Mastercard® or Visa® debit card purchases"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1290758616 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6375,
+    "w": 12,
+    "h": 14,
+    "text": "7",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 6453,
+    "w": 1296,
+    "h": 76,
+    "text": "Apple, Apple Pay, Apple Watch, the Apple logo, Face ID, iPad, iPhone, Mac and To"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 6545,
+    "w": 1296,
+    "h": 39,
+    "text": "The Contactless Symbol and Contactless Indicator are trademarks owned by and use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 6604,
+    "w": 1296,
+    "h": 20,
+    "text": "Paze and the Paze related marks are wholly owned by Early Warning Services, LLC "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 6643,
+    "w": 1296,
+    "h": 20,
+    "text": "Deposit products and services are provided by Bank of America, N.A. and affiliat"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__boalogo > a#footer-_-logo",
+    "x": 72,
+    "y": 6733,
+    "w": 200,
+    "h": 26,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__boalogo > a#footer-_-logo > img",
+    "x": 72,
+    "y": 6733,
+    "w": 200,
+    "h": 20,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__copy.text > div.footer__bottom",
+    "x": 72,
+    "y": 6779,
+    "w": 1296,
+    "h": 48,
+    "text": "| | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_PrivacySecurity",
+    "x": 94,
+    "y": 6782,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_Security",
+    "x": 147,
+    "y": 6782,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_AdPractices",
+    "x": 207,
+    "y": 6782,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#footer_children_s-privacy",
+    "x": 342,
+    "y": 6782,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#launchOtPc",
+    "x": 457,
+    "y": 6782,
+    "w": 126,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#cobrowse",
+    "x": 619,
+    "y": 6779,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_EHL",
+    "x": 291,
+    "y": 6805,
+    "w": 148,
+    "h": 17,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-content.aem-GridColumn > div.footer_wrapper.not-modal > div.footer__copyright",
+    "x": 72,
+    "y": 6826,
+    "w": 1296,
+    "h": 24,
+    "text": "© Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.not-modal > div.container.section__wrapper > p.footer__ar",
+    "x": 72,
+    "y": 6878,
+    "w": 1296,
+    "h": 20,
+    "text": "MAP8738362-08092027 | LP-01-26-2216.A"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 1,
+    "textNodes": 112,
+    "controls": 41,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--78f2fb76--aemcoder.aem.page/deposits/debitcard/overview",
+  "at": "2026-11-13T20:30:57.493Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6934,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-brand > p > a",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p > a > img.header-logo",
+    "x": 72,
+    "y": 11,
+    "w": 245,
+    "h": 44,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-ctas > p > a",
+    "x": 1193,
+    "y": 11,
+    "w": 175,
+    "h": 44,
+    "text": "en español",
+    "href": "/deposits/es/debitcard/overview.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.has-sub > p > a",
+    "x": 70,
+    "y": 66,
+    "w": 150,
+    "h": 37,
+    "text": "manage your card",
+    "href": "/deposits/checking/debit-card/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.has-sub > button.header-nav-toggle",
+    "x": 227,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "text": "open manage your card menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.has-sub > button.header-nav-toggle",
+    "x": 227,
+    "y": 77,
+    "w": 14,
+    "h": 14,
+    "label": "open manage your card menu",
+    "value": "open manage your card menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 270,
+    "y": 66,
+    "w": 112,
+    "h": 37,
+    "text": "explore faqs",
+    "href": "/deposits/debit-card-faqs/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-media-desktop > picture > img",
+    "x": 0,
+    "y": 128,
+    "w": 1440,
+    "h": 600,
+    "text": "",
+    "file": "media_1c4beb057e2f9c866a695ebeb6df6128c5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-wrapper > div.multi-step-content-heading > h1#debit-is-a-fast-easy-and-secure-way-to-pay-instoreand-online",
+    "x": 72,
+    "y": 776,
+    "w": 1296,
+    "h": 45,
+    "level": 1,
+    "text": "debit is a fast, easy and secure way to pay in‑store and online"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-items > div.multi-step-content-item > h2#lock-or-unlock1-your-debit",
+    "x": 238,
+    "y": 961,
+    "w": 260,
+    "h": 60,
+    "level": 2,
+    "text": "lock or unlock 1 your debit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > h2#lock-or-unlock1-your-debit > strong",
+    "x": 255,
+    "y": 961,
+    "w": 227,
+    "h": 60,
+    "text": "Lock or unlock your debit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h2#lock-or-unlock1-your-debit > strong > a#footnote-2048132104-0",
+    "x": 416,
+    "y": 961,
+    "w": 9,
+    "h": 30,
+    "text": "1",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 238,
+    "y": 1029,
+    "w": 260,
+    "h": 182,
+    "text": "Misplaced your debit card? You can temporarily lock your debit card, right from "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-items > div.multi-step-content-item > h2#liability-guarantee2",
+    "x": 590,
+    "y": 961,
+    "w": 260,
+    "h": 30,
+    "level": 2,
+    "text": "$0 liability guarantee 2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > h2#liability-guarantee2 > strong",
+    "x": 592,
+    "y": 961,
+    "w": 257,
+    "h": 30,
+    "text": "$0 Liability Guarantee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h2#liability-guarantee2 > strong > a#footnote-1801811738-0",
+    "x": 839,
+    "y": 961,
+    "w": 9,
+    "h": 30,
+    "text": "2",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 590,
+    "y": 999,
+    "w": 260,
+    "h": 182,
+    "text": "Shop with confidence. Our $0 Liability Guarantee means that you’re not liable fo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-items > div.multi-step-content-item > h2#monitoring",
+    "x": 942,
+    "y": 961,
+    "w": 260,
+    "h": 30,
+    "level": 2,
+    "text": "24/7 monitoring"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > h2#monitoring > strong",
+    "x": 981,
+    "y": 961,
+    "w": 181,
+    "h": 30,
+    "text": "24/7 monitoring"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.multi-step-content-item > div.multi-step-content-item-copy > p",
+    "x": 942,
+    "y": 999,
+    "w": 260,
+    "h": 156,
+    "text": "Fraud monitoring reviews how and where your card is being used and is designed t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.long-form-text.red > div.long-form-text-wrapper > h2#activate-set-up-and-spend-with-your-debitcard",
+    "x": 186,
+    "y": 1373,
+    "w": 1068,
+    "h": 78,
+    "level": 2,
+    "text": "activate, set up and spend with your debit card"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-all > picture > img",
+    "x": 81,
+    "y": 1547,
+    "w": 399,
+    "h": 200,
+    "text": "groceries in a bag",
+    "file": "media_1ea0fb766f95dbd44357f758ce21c5f6db"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item.tiles-item-first > div.tiles-subheading > h3#activate-and-use",
+    "x": 81,
+    "y": 1767,
+    "w": 383,
+    "h": 32,
+    "level": 3,
+    "text": "activate and use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-subheading > h3#activate-and-use > strong",
+    "x": 174,
+    "y": 1767,
+    "w": 198,
+    "h": 31,
+    "text": "Activate and Use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-row > div.tiles-item.tiles-item-first > p",
+    "x": 81,
+    "y": 1815,
+    "w": 399,
+    "h": 78,
+    "text": "Activate your card using the Mobile Banking app or call 888-624-2323 and start u"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item.tiles-item-first > p > a#footnote-1238785478-0",
+    "x": 126,
+    "y": 1842,
+    "w": 7,
+    "h": 24,
+    "text": "3",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-all > picture > img",
+    "x": 520,
+    "y": 1547,
+    "w": 399,
+    "h": 200,
+    "text": "mobile phone with alert",
+    "file": "media_1037547e1b5ee7b41b43b8d9a2e89920e0"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item > div.tiles-subheading > h3#monitor4",
+    "x": 520,
+    "y": 1767,
+    "w": 383,
+    "h": 32,
+    "level": 3,
+    "text": "monitor 4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-subheading > h3#monitor4 > strong",
+    "x": 662,
+    "y": 1767,
+    "w": 100,
+    "h": 31,
+    "text": "Monitor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#monitor4 > strong > a#footnote-370329342-0",
+    "x": 755,
+    "y": 1767,
+    "w": 7,
+    "h": 31,
+    "text": "4",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-row > div.tiles-item > p",
+    "x": 520,
+    "y": 1815,
+    "w": 399,
+    "h": 52,
+    "text": "to monitor card activity, balances and payment due dates."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item > p > a",
+    "x": 527,
+    "y": 1816,
+    "w": 234,
+    "h": 24,
+    "text": "set up and customize alerts",
+    "href": "/en/digital-banking"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-all > picture > img",
+    "x": 960,
+    "y": 1547,
+    "w": 399,
+    "h": 200,
+    "text": "debit card",
+    "file": "media_1075d8f2bf3c5ec5c8550b6eb95b98e1ba"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item > div.tiles-subheading > h3#pay",
+    "x": 960,
+    "y": 1767,
+    "w": 383,
+    "h": 32,
+    "level": 3,
+    "text": "pay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-subheading > h3#pay > strong",
+    "x": 1131,
+    "y": 1767,
+    "w": 41,
+    "h": 31,
+    "text": "Pay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-row > div.tiles-item > p",
+    "x": 960,
+    "y": 1815,
+    "w": 399,
+    "h": 104,
+    "text": "Need to pay utility, subscription and other bills on a schedule? Add your debit "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.banner.dark > div.banner-inner > h2#ways-to-pay-with-your-debit-card",
+    "x": 48,
+    "y": 2074,
+    "w": 1344,
+    "h": 63,
+    "level": 2,
+    "text": "ways to pay with your debit card"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-img > picture > img",
+    "x": 73,
+    "y": 2212,
+    "w": 647,
+    "h": 866,
+    "text": "",
+    "file": "media_1b32970e8615ea0c360a055ef8f397ae5b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-heading > h3#enhanced-digital-card-for-debit5",
+    "x": 816,
+    "y": 2244,
+    "w": 479,
+    "h": 96,
+    "level": 3,
+    "text": "enhanced digital card for debit 5"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-heading > h3#enhanced-digital-card-for-debit5 > a#footnote-727251327-0",
+    "x": 903,
+    "y": 2292,
+    "w": 6,
+    "h": 47,
+    "text": "5",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 2368,
+    "w": 479,
+    "h": 176,
+    "text": "Digital card for debit is a digital version of your physical debit card in our M"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p > strong",
+    "x": 816,
+    "y": 2567,
+    "w": 185,
+    "h": 30,
+    "text": "Benefits include:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > ul > li",
+    "x": 840,
+    "y": 2622,
+    "w": 455,
+    "h": 49,
+    "text": "— Creates a dynamic security code that changes every time it’s viewed."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > ul > li",
+    "x": 840,
+    "y": 2687,
+    "w": 455,
+    "h": 73,
+    "text": "— Continue to use your digital card for debit even if you lock your physical deb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > ul > li",
+    "x": 840,
+    "y": 2776,
+    "w": 455,
+    "h": 49,
+    "text": "— Access your digital card right from our Mobile Banking app when shopping onlin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p > a",
+    "x": 816,
+    "y": 2893,
+    "w": 183,
+    "h": 29,
+    "text": "get now in the app",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p.button-wrapper > a.button.primary",
+    "x": 816,
+    "y": 2955,
+    "w": 152,
+    "h": 52,
+    "text": "watch video",
+    "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-debit-card-video/master"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-img > picture > img",
+    "x": 720,
+    "y": 3105,
+    "w": 647,
+    "h": 571,
+    "text": "",
+    "file": "media_119d83417669b9ffb9326543758d5ee61d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-heading > h3#digital-wallet",
+    "x": 169,
+    "y": 3137,
+    "w": 479,
+    "h": 48,
+    "level": 3,
+    "text": "digital wallet"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 169,
+    "y": 3213,
+    "w": 479,
+    "h": 58,
+    "text": "Pay with your debit card by adding it to a digital wallet."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 169,
+    "y": 3294,
+    "w": 479,
+    "h": 144,
+    "text": "Simply load your eligible debit card in the digital wallet that works best for y"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p > a",
+    "x": 169,
+    "y": 3490,
+    "w": 111,
+    "h": 29,
+    "text": "learn more",
+    "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-wallet-setup/master"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p.button-wrapper > a.button.primary",
+    "x": 169,
+    "y": 3552,
+    "w": 152,
+    "h": 52,
+    "text": "watch video",
+    "href": "/content/experience-fragments/consumer_marketing/ecs/deposits/debit-card-digital-wallet-video/master"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-img > picture > img",
+    "x": 73,
+    "y": 3702,
+    "w": 647,
+    "h": 705,
+    "text": "",
+    "file": "media_1717663964f87782fa32114ee7688bdc80"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-heading > h3#pazesm",
+    "x": 816,
+    "y": 3734,
+    "w": 479,
+    "h": 48,
+    "level": 3,
+    "text": "paze sm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 3810,
+    "w": 479,
+    "h": 58,
+    "text": "Paze℠ is a fast and easy way to check out online."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 3892,
+    "w": 479,
+    "h": 65,
+    "text": "✓ Add your eligible debit or credit card in Mobile or Online Banking."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p > a#footnote-1238785478-1",
+    "x": 991,
+    "y": 3926,
+    "w": 6,
+    "h": 29,
+    "text": "3",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 3980,
+    "w": 479,
+    "h": 65,
+    "text": "✓ Activate and use Paze to check out online at ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p > a",
+    "x": 816,
+    "y": 4015,
+    "w": 229,
+    "h": 29,
+    "text": "participating merchants",
+    "href": "/merchant-directory"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 4069,
+    "w": 479,
+    "h": 65,
+    "text": "✓ It’s simple to use: No new apps to download or usernames and passwords to memo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p > a#footnote-1695254006-0",
+    "x": 1229,
+    "y": 4104,
+    "w": 6,
+    "h": 29,
+    "text": "6",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 4157,
+    "w": 479,
+    "h": 93,
+    "text": "✓ Paze has added security at checkout because your actual card numbers are not s"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-text > p.button-wrapper > a.button.primary",
+    "x": 816,
+    "y": 4283,
+    "w": 145,
+    "h": 52,
+    "text": "learn more",
+    "href": "/card/paze"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.banner.dark > div.banner-inner > h2#ways-to-save-and-get-rewarded",
+    "x": 48,
+    "y": 4456,
+    "w": 1344,
+    "h": 63,
+    "level": 2,
+    "text": "ways to save and get rewarded"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-all > picture > img",
+    "x": 301,
+    "y": 4641,
+    "w": 399,
+    "h": 200,
+    "text": "two girls shopping and taking selfies",
+    "file": "media_1f2e36cb0a5ca79a881bc2c7335530d601"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item.tiles-item-first > div.tiles-subheading > h3#keep-the-change-savings-program7",
+    "x": 341,
+    "y": 4864,
+    "w": 319,
+    "h": 65,
+    "level": 3,
+    "text": "keep the change® savings program 7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-subheading > h3#keep-the-change-savings-program7 > strong",
+    "x": 346,
+    "y": 4864,
+    "w": 309,
+    "h": 63,
+    "text": "Keep the Change® Savings Program"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#keep-the-change-savings-program7 > strong > a#footnote-1290758616-0",
+    "x": 546,
+    "y": 4897,
+    "w": 7,
+    "h": 31,
+    "text": "7",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-row > div.tiles-item.tiles-item-first > p",
+    "x": 301,
+    "y": 4945,
+    "w": 399,
+    "h": 104,
+    "text": "We'll round up your purchases to the nearest dollar amount, then transfer the di"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-cta > p.button-wrapper > a.button.primary",
+    "x": 426,
+    "y": 5081,
+    "w": 148,
+    "h": 64,
+    "text": "learn more",
+    "href": "/deposits/keep-the-change/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-all > picture > img",
+    "x": 740,
+    "y": 4641,
+    "w": 399,
+    "h": 200,
+    "text": "child and father at a museum",
+    "file": "media_11241a01b030464b91e82c338a624573de"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item > div.tiles-subheading > h3#museums-on-us",
+    "x": 780,
+    "y": 4864,
+    "w": 319,
+    "h": 32,
+    "level": 3,
+    "text": "museums on us®"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-subheading > h3#museums-on-us > strong",
+    "x": 840,
+    "y": 4864,
+    "w": 198,
+    "h": 31,
+    "text": "Museums on Us®"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-row > div.tiles-item > p",
+    "x": 740,
+    "y": 4913,
+    "w": 399,
+    "h": 104,
+    "text": "Debit and credit card holders get free general admission during the first full w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-cta > p.button-wrapper > a.button.primary",
+    "x": 865,
+    "y": 5049,
+    "w": 148,
+    "h": 64,
+    "text": "learn more",
+    "href": "/en/making-an-impact/arts-and-culture"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-column > div.content-tile-title > h2#bank-simply-and-conveniently-on-your-ownschedule",
+    "x": 72,
+    "y": 5447,
+    "w": 576,
+    "h": 108,
+    "level": 2,
+    "text": "bank simply and conveniently on your own schedule"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-cta > p.button-wrapper > a.button.primary",
+    "x": 230,
+    "y": 5563,
+    "w": 260,
+    "h": 64,
+    "text": "download the app",
+    "href": "/online-banking/android-banking-app/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-legal > p > em",
+    "x": 87,
+    "y": 5660,
+    "w": 546,
+    "h": 64,
+    "text": "By providing your mobile number you are consenting to receive a text message. Te"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-legal > p > a",
+    "x": 287,
+    "y": 5727,
+    "w": 147,
+    "h": 19,
+    "text": "terms and conditions",
+    "href": "/messaging-terms-and-conditions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-tile-media-all > picture > img",
+    "x": 720,
+    "y": 5348,
+    "w": 720,
+    "h": 492,
+    "text": "scan the qr code to download our app",
+    "file": "media_1741ffeb7c30835d3ae2847840816a75b4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 5918,
+    "w": 655,
+    "h": 17,
+    "text": "When you use the QRC feature, certain information is collected from your mobile "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 5957,
+    "w": 1273,
+    "h": 95,
+    "text": "We may allow you to lock your physical debit card or virtual card(s). You must l"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 5958,
+    "w": 5,
+    "h": 12,
+    "text": "1",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6075,
+    "w": 1081,
+    "h": 17,
+    "text": "Notify us within a reasonable time of the unauthorized use or the loss or theft "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6076,
+    "w": 5,
+    "h": 12,
+    "text": "2",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6115,
+    "w": 942,
+    "h": 17,
+    "text": "Mobile Banking requires that you download the Mobile Banking app and . Message a"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6115,
+    "w": 5,
+    "h": 12,
+    "text": "3",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6155,
+    "w": 1268,
+    "h": 56,
+    "text": "You may elect to receive alerts via Mobile app push notification, text or email."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6155,
+    "w": 5,
+    "h": 12,
+    "text": "4",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6233,
+    "w": 1269,
+    "h": 76,
+    "text": "Customers enrolled in Mobile Banking may opt to receive the digital card for deb"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6233,
+    "w": 5,
+    "h": 12,
+    "text": "5",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6332,
+    "w": 377,
+    "h": 17,
+    "text": "Some merchants may require account setup to make purchases."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6332,
+    "w": 5,
+    "h": 12,
+    "text": "6",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6371,
+    "w": 1271,
+    "h": 56,
+    "text": "Upon enrollment, we will round up your Mastercard® or Visa® debit card purchases"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6371,
+    "w": 5,
+    "h": 12,
+    "text": "7",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6450,
+    "w": 1261,
+    "h": 76,
+    "text": "Apple, Apple Pay, Apple Watch, the Apple logo, Face ID, iPad, iPhone, Mac and To"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 74,
+    "y": 6541,
+    "w": 1277,
+    "h": 39,
+    "text": "The Contactless Symbol and Contactless Indicator are trademarks owned by and use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-text > div.disclosure-body > p",
+    "x": 74,
+    "y": 6601,
+    "w": 1277,
+    "h": 20,
+    "text": "Paze and the Paze related marks are wholly owned by Early Warning Services, LLC "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-last > p",
+    "x": 74,
+    "y": 6640,
+    "w": 1277,
+    "h": 20,
+    "text": "Deposit products and services are provided by Bank of America, N.A. and affiliat"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-logo > a",
+    "x": 72,
+    "y": 6730,
+    "w": 1296,
+    "h": 20,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-logo > a > img",
+    "x": 72,
+    "y": 6730,
+    "w": 200,
+    "h": 20,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copy",
+    "x": 72,
+    "y": 6775,
+    "w": 1296,
+    "h": 48,
+    "text": "| | | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 94,
+    "y": 6778,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 147,
+    "y": 6778,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 207,
+    "y": 6778,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/modals/advertising-practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 342,
+    "y": 6778,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 457,
+    "y": 6778,
+    "w": 122,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-copy > span.icon.icon-optout > img",
+    "x": 587,
+    "y": 6777,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "optout"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 619,
+    "y": 6775,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/deposits/debitcard/overview"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a.footer-ehl",
+    "x": 291,
+    "y": 6802,
+    "w": 148,
+    "h": 17,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copyright",
+    "x": 72,
+    "y": 6823,
+    "w": 1296,
+    "h": 24,
+    "text": "© 2026 Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-code",
+    "x": 72,
+    "y": 6875,
+    "w": 1296,
+    "h": 20,
+    "text": "MAP8738362-08092027 | LP-01-26-2216.A"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 1,
+    "textNodes": 105,
+    "controls": 40,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "debit is a fast, easy and secure way to pay in‑store and online",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MOVED LINK",
+    "MOVED LINK"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "lock or unlock 1 your debit",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "$0 liability guarantee 2",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "24/7 monitoring",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 7,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "activate, set up and spend with your debit card",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 3
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MOVED LINK"
+   ]
+  },
+  {
+   "index": 6,
+   "heading": "activate and use",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "monitor 4",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "pay",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "ways to pay with your debit card",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "enhanced digital card for debit 5",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "digital wallet",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "paze sm",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "ways to save and get rewarded",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "keep the change® savings program 7",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 15,
+   "heading": "museums on us®",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 16,
+   "heading": "bank simply and conveniently on your own schedule",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 9,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "MISSING BUTTON",
+    "COUNT TEXT",
+    "CONTROL MISSING"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"get the app\" in band \"bank simply and conveniently on your own schedule\" (origin y 5591) not on the served page",
+   "band": 16,
+   "n": 1,
+   "text": "get the app"
+  },
+  {
+   "sev": "🟡",
+   "kind": "MOVED LINK",
+   "msg": "\"1\" short in band \"debit is a fast, easy and secure way to pay in‑store and online\" but visible elsewhere on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "1"
+  },
+  {
+   "sev": "🟡",
+   "kind": "MOVED LINK",
+   "msg": "\"2\" short in band \"debit is a fast, easy and secure way to pay in‑store and online\" but visible elsewhere on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "2"
+  },
+  {
+   "sev": "🟡",
+   "kind": "MOVED LINK",
+   "msg": "\"4\" short in band \"activate, set up and spend with your debit card\" but visible elsewhere on the served page",
+   "band": 5,
+   "n": 1,
+   "text": "4"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"download the app\" served in band \"bank simply and conveniently on your own schedule\", no origin link or button",
+   "band": 16,
+   "n": 1,
+   "text": "download the app"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"bank simply and conveniently on your own schedule\": 1 origin → 13 served visible",
+   "band": 16,
+   "origin": 1,
+   "eds": 13,
+   "hidden": 0
+  },
+  {
+   "sev": "🟡",
+   "kind": "CONTROL MISSING",
+   "msg": "list of device options = \"select your device\" (band \"bank simply and conveniently on your own schedule\") has no served counterpart",
+   "band": 16,
+   "label": "list of device options",
+   "value": "select your device"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 3,
+  "extraLinks": 1,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 7,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1244,
+    "y": 23,
+    "w": 73,
+    "h": 19
+   },
+   {
+    "x": 70,
+    "y": 71,
+    "w": 150,
+    "h": 24
+   },
+   {
+    "x": 270,
+    "y": 71,
+    "w": 112,
+    "h": 24
+   },
+   {
+    "x": 123,
+    "y": 774,
+    "w": 1195,
+    "h": 57
+   },
+   {
+    "x": 255,
+    "y": 970,
+    "w": 162,
+    "h": 30
+   },
+   {
+    "x": 417,
+    "y": 969,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 425,
+    "y": 970,
+    "w": 56,
+    "h": 30
+   },
+   {
+    "x": 339,
+    "y": 1000,
+    "w": 58,
+    "h": 30
+   },
+   {
+    "x": 255,
+    "y": 1039,
+    "w": 226,
+    "h": 24
+   },
+   {
+    "x": 244,
+    "y": 1065,
+    "w": 248,
+    "h": 24
+   },
+   {
+    "x": 261,
+    "y": 1091,
+    "w": 213,
+    "h": 24
+   },
+   {
+    "x": 238,
+    "y": 1117,
+    "w": 260,
+    "h": 24
+   },
+   {
+    "x": 251,
+    "y": 1143,
+    "w": 233,
+    "h": 24
+   },
+   {
+    "x": 239,
+    "y": 1169,
+    "w": 259,
+    "h": 24
+   },
+   {
+    "x": 307,
+    "y": 1195,
+    "w": 121,
+    "h": 24
+   },
+   {
+    "x": 592,
+    "y": 970,
+    "w": 248,
+    "h": 30
+   },
+   {
+    "x": 840,
+    "y": 969,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 608,
+    "y": 1009,
+    "w": 223,
+    "h": 24
+   },
+   {
+    "x": 596,
+    "y": 1035,
+    "w": 247,
+    "h": 24
+   },
+   {
+    "x": 618,
+    "y": 1061,
+    "w": 204,
+    "h": 24
+   },
+   {
+    "x": 611,
+    "y": 1087,
+    "w": 218,
+    "h": 24
+   },
+   {
+    "x": 607,
+    "y": 1113,
+    "w": 226,
+    "h": 24
+   },
+   {
+    "x": 613,
+    "y": 1139,
+    "w": 214,
+    "h": 24
+   },
+   {
+    "x": 628,
+    "y": 1165,
+    "w": 185,
+    "h": 24
+   },
+   {
+    "x": 981,
+    "y": 970,
+    "w": 181,
+    "h": 30
+   },
+   {
+    "x": 944,
+    "y": 1009,
+    "w": 256,
+    "h": 24
+   },
+   {
+    "x": 951,
+    "y": 1035,
+    "w": 242,
+    "h": 24
+   },
+   {
+    "x": 952,
+    "y": 1061,
+    "w": 240,
+    "h": 24
+   },
+   {
+    "x": 976,
+    "y": 1087,
+    "w": 192,
+    "h": 24
+   },
+   {
+    "x": 995,
+    "y": 1113,
+    "w": 154,
+    "h": 24
+   },
+   {
+    "x": 1017,
+    "y": 1139,
+    "w": 111,
+    "h": 24
+   },
+   {
+    "x": 192,
+    "y": 1380,
+    "w": 1055,
+    "h": 66
+   },
+   {
+    "x": 174,
+    "y": 1777,
+    "w": 198,
+    "h": 31
+   },
+   {
+    "x": 87,
+    "y": 1826,
+    "w": 371,
+    "h": 24
+   },
+   {
+    "x": 95,
+    "y": 1852,
+    "w": 31,
+    "h": 24
+   },
+   {
+    "x": 126,
+    "y": 1851,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 133,
+    "y": 1852,
+    "w": 318,
+    "h": 24
+   },
+   {
+    "x": 132,
+    "y": 1878,
+    "w": 282,
+    "h": 24
+   },
+   {
+    "x": 661,
+    "y": 1777,
+    "w": 93,
+    "h": 31
+   },
+   {
+    "x": 755,
+    "y": 1763,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 527,
+    "y": 1826,
+    "w": 234,
+    "h": 24
+   },
+   {
+    "x": 761,
+    "y": 1826,
+    "w": 137,
+    "h": 24
+   },
+   {
+    "x": 537,
+    "y": 1852,
+    "w": 349,
+    "h": 24
+   },
+   {
+    "x": 1131,
+    "y": 1777,
+    "w": 41,
+    "h": 31
+   },
+   {
+    "x": 975,
+    "y": 1826,
+    "w": 353,
+    "h": 24
+   },
+   {
+    "x": 973,
+    "y": 1852,
+    "w": 356,
+    "h": 24
+   },
+   {
+    "x": 992,
+    "y": 1878,
+    "w": 319,
+    "h": 24
+   },
+   {
+    "x": 1108,
+    "y": 1904,
+    "w": 86,
+    "h": 24
+   },
+   {
+    "x": 348,
+    "y": 2082,
+    "w": 744,
+    "h": 66
+   },
+   {
+    "x": 816,
+    "y": 2254,
+    "w": 411,
+    "h": 47
+   },
+   {
+    "x": 816,
+    "y": 2302,
+    "w": 87,
+    "h": 47
+   },
+   {
+    "x": 904,
+    "y": 2301,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 816,
+    "y": 2377,
+    "w": 454,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2406,
+    "w": 461,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2435,
+    "w": 438,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2464,
+    "w": 171,
+    "h": 29
+   },
+   {
+    "x": 987,
+    "y": 2463,
+    "w": 257,
+    "h": 30
+   },
+   {
+    "x": 816,
+    "y": 2493,
+    "w": 441,
+    "h": 30
+   },
+   {
+    "x": 816,
+    "y": 2523,
+    "w": 160,
+    "h": 30
+   },
+   {
+    "x": 816,
+    "y": 2577,
+    "w": 187,
+    "h": 30
+   },
+   {
+    "x": 848,
+    "y": 2630,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 1009,
+    "y": 2631,
+    "w": 247,
+    "h": 23
+   },
+   {
+    "x": 848,
+    "y": 2655,
+    "w": 331,
+    "h": 23
+   },
+   {
+    "x": 848,
+    "y": 2694,
+    "w": 164,
+    "h": 25
+   },
+   {
+    "x": 1012,
+    "y": 2695,
+    "w": 252,
+    "h": 23
+   },
+   {
+    "x": 848,
+    "y": 2719,
+    "w": 437,
+    "h": 23
+   },
+   {
+    "x": 848,
+    "y": 2758,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 965,
+    "y": 2759,
+    "w": 308,
+    "h": 23
+   },
+   {
+    "x": 848,
+    "y": 2783,
+    "w": 373,
+    "h": 23
+   },
+   {
+    "x": 816,
+    "y": 2875,
+    "w": 183,
+    "h": 29
+   },
+   {
+    "x": 840,
+    "y": 2951,
+    "w": 104,
+    "h": 24
+   },
+   {
+    "x": 169,
+    "y": 3119,
+    "w": 214,
+    "h": 47
+   },
+   {
+    "x": 169,
+    "y": 3194,
+    "w": 461,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3223,
+    "w": 61,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3276,
+    "w": 464,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3304,
+    "w": 475,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3333,
+    "w": 454,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3362,
+    "w": 402,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3391,
+    "w": 266,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3472,
+    "w": 111,
+    "h": 29
+   },
+   {
+    "x": 193,
+    "y": 3548,
+    "w": 104,
+    "h": 24
+   },
+   {
+    "x": 816,
+    "y": 3716,
+    "w": 74,
+    "h": 47
+   },
+   {
+    "x": 891,
+    "y": 3715,
+    "w": 19,
+    "h": 17
+   },
+   {
+    "x": 816,
+    "y": 3791,
+    "w": 414,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3820,
+    "w": 62,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3874,
+    "w": 30,
+    "h": 35
+   },
+   {
+    "x": 846,
+    "y": 3879,
+    "w": 380,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3909,
+    "w": 247,
+    "h": 29
+   },
+   {
+    "x": 1064,
+    "y": 3911,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 816,
+    "y": 3963,
+    "w": 30,
+    "h": 35
+   },
+   {
+    "x": 846,
+    "y": 3968,
+    "w": 432,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3998,
+    "w": 229,
+    "h": 29
+   },
+   {
+    "x": 1045,
+    "y": 3998,
+    "w": 4,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4051,
+    "w": 30,
+    "h": 35
+   },
+   {
+    "x": 846,
+    "y": 4056,
+    "w": 431,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4086,
+    "w": 413,
+    "h": 29
+   },
+   {
+    "x": 1230,
+    "y": 4088,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 816,
+    "y": 4140,
+    "w": 30,
+    "h": 35
+   },
+   {
+    "x": 846,
+    "y": 4145,
+    "w": 441,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4175,
+    "w": 436,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4204,
+    "w": 106,
+    "h": 29
+   },
+   {
+    "x": 840,
+    "y": 4280,
+    "w": 97,
+    "h": 24
+   },
+   {
+    "x": 328,
+    "y": 4437,
+    "w": 784,
+    "h": 66
+   },
+   {
+    "x": 346,
+    "y": 4847,
+    "w": 309,
+    "h": 31
+   },
+   {
+    "x": 446,
+    "y": 4880,
+    "w": 98,
+    "h": 31
+   },
+   {
+    "x": 546,
+    "y": 4878,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 347,
+    "y": 4929,
+    "w": 307,
+    "h": 24
+   },
+   {
+    "x": 348,
+    "y": 4955,
+    "w": 304,
+    "h": 24
+   },
+   {
+    "x": 345,
+    "y": 4981,
+    "w": 310,
+    "h": 24
+   },
+   {
+    "x": 378,
+    "y": 5007,
+    "w": 244,
+    "h": 24
+   },
+   {
+    "x": 442,
+    "y": 5082,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 841,
+    "y": 4847,
+    "w": 198,
+    "h": 31
+   },
+   {
+    "x": 781,
+    "y": 4897,
+    "w": 317,
+    "h": 24
+   },
+   {
+    "x": 781,
+    "y": 4923,
+    "w": 317,
+    "h": 24
+   },
+   {
+    "x": 800,
+    "y": 4949,
+    "w": 280,
+    "h": 24
+   },
+   {
+    "x": 788,
+    "y": 4975,
+    "w": 304,
+    "h": 24
+   },
+   {
+    "x": 907,
+    "y": 5001,
+    "w": 66,
+    "h": 24
+   },
+   {
+    "x": 882,
+    "y": 5082,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 77,
+    "y": 5370,
+    "w": 566,
+    "h": 57
+   },
+   {
+    "x": 151,
+    "y": 5426,
+    "w": 418,
+    "h": 57
+   },
+   {
+    "x": 316,
+    "y": 5604,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 85,
+    "y": 5673,
+    "w": 550,
+    "h": 21
+   },
+   {
+    "x": 115,
+    "y": 5698,
+    "w": 491,
+    "h": 21
+   },
+   {
+    "x": 269,
+    "y": 5723,
+    "w": 183,
+    "h": 21
+   },
+   {
+    "x": 281,
+    "y": 5749,
+    "w": 157,
+    "h": 21
+   },
+   {
+    "x": 72,
+    "y": 5921,
+    "w": 655,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 5961,
+    "w": 1249,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 5980,
+    "w": 1264,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6000,
+    "w": 1273,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6019,
+    "w": 1265,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6039,
+    "w": 421,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 5961,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6078,
+    "w": 1081,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6079,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6118,
+    "w": 427,
+    "h": 17
+   },
+   {
+    "x": 501,
+    "y": 6117,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 802,
+    "y": 6118,
+    "w": 213,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6118,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6158,
+    "w": 1270,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6177,
+    "w": 1260,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6197,
+    "w": 364,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6158,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6236,
+    "w": 1245,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6256,
+    "w": 1269,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6276,
+    "w": 1247,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6295,
+    "w": 550,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6237,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6335,
+    "w": 377,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6335,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6374,
+    "w": 1271,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6394,
+    "w": 1267,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6414,
+    "w": 78,
+    "h": 17
+   },
+   {
+    "x": 152,
+    "y": 6414,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6375,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 72,
+    "y": 6453,
+    "w": 1261,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6473,
+    "w": 1296,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6492,
+    "w": 1289,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6512,
+    "w": 764,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6546,
+    "w": 1252,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6565,
+    "w": 465,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6605,
+    "w": 687,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6644,
+    "w": 994,
+    "h": 17
+   },
+   {
+    "x": 87,
+    "y": 6782,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 6782,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 6782,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 6782,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 196,
+    "y": 6782,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 6782,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 331,
+    "y": 6782,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 342,
+    "y": 6782,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 446,
+    "y": 6782,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 457,
+    "y": 6782,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 6782,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 6782,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6805,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 6805,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6829,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 88,
+    "y": 6829,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 118,
+    "y": 6829,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6879,
+    "w": 262,
+    "h": 17
+   }
+  ],
+  "eds": [
+   {
+    "x": 1244,
+    "y": 23,
+    "w": 73,
+    "h": 19
+   },
+   {
+    "x": 70,
+    "y": 71,
+    "w": 150,
+    "h": 24
+   },
+   {
+    "x": 270,
+    "y": 71,
+    "w": 112,
+    "h": 24
+   },
+   {
+    "x": 222,
+    "y": 775,
+    "w": 996,
+    "h": 47
+   },
+   {
+    "x": 255,
+    "y": 961,
+    "w": 162,
+    "h": 30
+   },
+   {
+    "x": 417,
+    "y": 960,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 425,
+    "y": 961,
+    "w": 56,
+    "h": 30
+   },
+   {
+    "x": 339,
+    "y": 991,
+    "w": 58,
+    "h": 30
+   },
+   {
+    "x": 255,
+    "y": 1030,
+    "w": 226,
+    "h": 24
+   },
+   {
+    "x": 244,
+    "y": 1056,
+    "w": 248,
+    "h": 24
+   },
+   {
+    "x": 261,
+    "y": 1082,
+    "w": 213,
+    "h": 24
+   },
+   {
+    "x": 238,
+    "y": 1108,
+    "w": 260,
+    "h": 24
+   },
+   {
+    "x": 251,
+    "y": 1134,
+    "w": 233,
+    "h": 24
+   },
+   {
+    "x": 239,
+    "y": 1160,
+    "w": 257,
+    "h": 24
+   },
+   {
+    "x": 307,
+    "y": 1186,
+    "w": 121,
+    "h": 24
+   },
+   {
+    "x": 592,
+    "y": 961,
+    "w": 248,
+    "h": 30
+   },
+   {
+    "x": 840,
+    "y": 960,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 1000,
+    "w": 222,
+    "h": 24
+   },
+   {
+    "x": 596,
+    "y": 1026,
+    "w": 247,
+    "h": 24
+   },
+   {
+    "x": 618,
+    "y": 1052,
+    "w": 204,
+    "h": 24
+   },
+   {
+    "x": 611,
+    "y": 1078,
+    "w": 218,
+    "h": 24
+   },
+   {
+    "x": 607,
+    "y": 1104,
+    "w": 226,
+    "h": 24
+   },
+   {
+    "x": 613,
+    "y": 1130,
+    "w": 214,
+    "h": 24
+   },
+   {
+    "x": 628,
+    "y": 1156,
+    "w": 185,
+    "h": 24
+   },
+   {
+    "x": 981,
+    "y": 961,
+    "w": 181,
+    "h": 30
+   },
+   {
+    "x": 944,
+    "y": 1000,
+    "w": 256,
+    "h": 24
+   },
+   {
+    "x": 951,
+    "y": 1026,
+    "w": 242,
+    "h": 24
+   },
+   {
+    "x": 952,
+    "y": 1052,
+    "w": 240,
+    "h": 24
+   },
+   {
+    "x": 976,
+    "y": 1078,
+    "w": 192,
+    "h": 24
+   },
+   {
+    "x": 995,
+    "y": 1104,
+    "w": 154,
+    "h": 24
+   },
+   {
+    "x": 1017,
+    "y": 1130,
+    "w": 111,
+    "h": 24
+   },
+   {
+    "x": 192,
+    "y": 1379,
+    "w": 1055,
+    "h": 66
+   },
+   {
+    "x": 174,
+    "y": 1767,
+    "w": 198,
+    "h": 31
+   },
+   {
+    "x": 87,
+    "y": 1816,
+    "w": 371,
+    "h": 24
+   },
+   {
+    "x": 95,
+    "y": 1842,
+    "w": 31,
+    "h": 24
+   },
+   {
+    "x": 127,
+    "y": 1845,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 132,
+    "y": 1842,
+    "w": 318,
+    "h": 24
+   },
+   {
+    "x": 132,
+    "y": 1868,
+    "w": 282,
+    "h": 24
+   },
+   {
+    "x": 662,
+    "y": 1767,
+    "w": 93,
+    "h": 31
+   },
+   {
+    "x": 756,
+    "y": 1774,
+    "w": 6,
+    "h": 13
+   },
+   {
+    "x": 527,
+    "y": 1816,
+    "w": 234,
+    "h": 24
+   },
+   {
+    "x": 761,
+    "y": 1816,
+    "w": 137,
+    "h": 24
+   },
+   {
+    "x": 537,
+    "y": 1842,
+    "w": 349,
+    "h": 24
+   },
+   {
+    "x": 1131,
+    "y": 1767,
+    "w": 41,
+    "h": 31
+   },
+   {
+    "x": 975,
+    "y": 1816,
+    "w": 353,
+    "h": 24
+   },
+   {
+    "x": 973,
+    "y": 1842,
+    "w": 356,
+    "h": 24
+   },
+   {
+    "x": 992,
+    "y": 1868,
+    "w": 319,
+    "h": 24
+   },
+   {
+    "x": 1108,
+    "y": 1894,
+    "w": 86,
+    "h": 24
+   },
+   {
+    "x": 348,
+    "y": 2072,
+    "w": 744,
+    "h": 66
+   },
+   {
+    "x": 816,
+    "y": 2244,
+    "w": 411,
+    "h": 47
+   },
+   {
+    "x": 816,
+    "y": 2292,
+    "w": 87,
+    "h": 47
+   },
+   {
+    "x": 904,
+    "y": 2312,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 816,
+    "y": 2367,
+    "w": 454,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2396,
+    "w": 461,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2425,
+    "w": 438,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2455,
+    "w": 171,
+    "h": 29
+   },
+   {
+    "x": 987,
+    "y": 2454,
+    "w": 257,
+    "h": 30
+   },
+   {
+    "x": 816,
+    "y": 2483,
+    "w": 441,
+    "h": 30
+   },
+   {
+    "x": 816,
+    "y": 2513,
+    "w": 160,
+    "h": 30
+   },
+   {
+    "x": 816,
+    "y": 2567,
+    "w": 185,
+    "h": 30
+   },
+   {
+    "x": 840,
+    "y": 2622,
+    "w": 161,
+    "h": 25
+   },
+   {
+    "x": 1001,
+    "y": 2622,
+    "w": 258,
+    "h": 24
+   },
+   {
+    "x": 840,
+    "y": 2647,
+    "w": 348,
+    "h": 24
+   },
+   {
+    "x": 840,
+    "y": 2687,
+    "w": 163,
+    "h": 25
+   },
+   {
+    "x": 1003,
+    "y": 2687,
+    "w": 264,
+    "h": 24
+   },
+   {
+    "x": 840,
+    "y": 2712,
+    "w": 414,
+    "h": 24
+   },
+   {
+    "x": 840,
+    "y": 2736,
+    "w": 40,
+    "h": 24
+   },
+   {
+    "x": 840,
+    "y": 2776,
+    "w": 117,
+    "h": 25
+   },
+   {
+    "x": 957,
+    "y": 2776,
+    "w": 322,
+    "h": 24
+   },
+   {
+    "x": 840,
+    "y": 2801,
+    "w": 392,
+    "h": 24
+   },
+   {
+    "x": 816,
+    "y": 2893,
+    "w": 183,
+    "h": 29
+   },
+   {
+    "x": 840,
+    "y": 2969,
+    "w": 104,
+    "h": 24
+   },
+   {
+    "x": 169,
+    "y": 3137,
+    "w": 214,
+    "h": 47
+   },
+   {
+    "x": 169,
+    "y": 3212,
+    "w": 461,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3240,
+    "w": 61,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3293,
+    "w": 464,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3322,
+    "w": 475,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3351,
+    "w": 454,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3380,
+    "w": 401,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3408,
+    "w": 266,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3490,
+    "w": 111,
+    "h": 29
+   },
+   {
+    "x": 193,
+    "y": 3566,
+    "w": 104,
+    "h": 24
+   },
+   {
+    "x": 816,
+    "y": 3734,
+    "w": 74,
+    "h": 47
+   },
+   {
+    "x": 891,
+    "y": 3754,
+    "w": 13,
+    "h": 12
+   },
+   {
+    "x": 816,
+    "y": 3809,
+    "w": 414,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3838,
+    "w": 62,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3898,
+    "w": 475,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3926,
+    "w": 175,
+    "h": 29
+   },
+   {
+    "x": 992,
+    "y": 3932,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 816,
+    "y": 3986,
+    "w": 456,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4015,
+    "w": 229,
+    "h": 29
+   },
+   {
+    "x": 1045,
+    "y": 4015,
+    "w": 4,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4075,
+    "w": 455,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4104,
+    "w": 413,
+    "h": 29
+   },
+   {
+    "x": 1230,
+    "y": 4110,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 816,
+    "y": 4163,
+    "w": 465,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4192,
+    "w": 436,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 4221,
+    "w": 106,
+    "h": 29
+   },
+   {
+    "x": 840,
+    "y": 4297,
+    "w": 97,
+    "h": 24
+   },
+   {
+    "x": 328,
+    "y": 4454,
+    "w": 784,
+    "h": 66
+   },
+   {
+    "x": 346,
+    "y": 4864,
+    "w": 309,
+    "h": 31
+   },
+   {
+    "x": 448,
+    "y": 4897,
+    "w": 98,
+    "h": 31
+   },
+   {
+    "x": 547,
+    "y": 4904,
+    "w": 6,
+    "h": 13
+   },
+   {
+    "x": 347,
+    "y": 4946,
+    "w": 307,
+    "h": 24
+   },
+   {
+    "x": 332,
+    "y": 4972,
+    "w": 337,
+    "h": 24
+   },
+   {
+    "x": 346,
+    "y": 4998,
+    "w": 310,
+    "h": 24
+   },
+   {
+    "x": 395,
+    "y": 5024,
+    "w": 211,
+    "h": 24
+   },
+   {
+    "x": 442,
+    "y": 5099,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 840,
+    "y": 4864,
+    "w": 198,
+    "h": 31
+   },
+   {
+    "x": 781,
+    "y": 4914,
+    "w": 317,
+    "h": 24
+   },
+   {
+    "x": 782,
+    "y": 4940,
+    "w": 316,
+    "h": 24
+   },
+   {
+    "x": 778,
+    "y": 4966,
+    "w": 323,
+    "h": 24
+   },
+   {
+    "x": 773,
+    "y": 4992,
+    "w": 333,
+    "h": 24
+   },
+   {
+    "x": 881,
+    "y": 5067,
+    "w": 116,
+    "h": 28
+   },
+   {
+    "x": 77,
+    "y": 5445,
+    "w": 566,
+    "h": 57
+   },
+   {
+    "x": 151,
+    "y": 5499,
+    "w": 418,
+    "h": 57
+   },
+   {
+    "x": 269,
+    "y": 5581,
+    "w": 183,
+    "h": 28
+   },
+   {
+    "x": 87,
+    "y": 5660,
+    "w": 546,
+    "h": 19
+   },
+   {
+    "x": 107,
+    "y": 5682,
+    "w": 507,
+    "h": 19
+   },
+   {
+    "x": 315,
+    "y": 5704,
+    "w": 90,
+    "h": 19
+   },
+   {
+    "x": 287,
+    "y": 5727,
+    "w": 147,
+    "h": 19
+   },
+   {
+    "x": 74,
+    "y": 5918,
+    "w": 655,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 5957,
+    "w": 1249,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 5977,
+    "w": 1264,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 5997,
+    "w": 1273,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6016,
+    "w": 1265,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6036,
+    "w": 421,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 5958,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6075,
+    "w": 1081,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6076,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6115,
+    "w": 427,
+    "h": 17
+   },
+   {
+    "x": 501,
+    "y": 6114,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 802,
+    "y": 6115,
+    "w": 213,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6115,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6155,
+    "w": 1268,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6174,
+    "w": 1259,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6194,
+    "w": 364,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6155,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6233,
+    "w": 1245,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6253,
+    "w": 1269,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6272,
+    "w": 1247,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6292,
+    "w": 550,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6233,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6332,
+    "w": 377,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6332,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6371,
+    "w": 1271,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6391,
+    "w": 1267,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6410,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6371,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6450,
+    "w": 1261,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6470,
+    "w": 1209,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6489,
+    "w": 1258,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6509,
+    "w": 882,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6542,
+    "w": 1252,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6562,
+    "w": 465,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6602,
+    "w": 687,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6641,
+    "w": 992,
+    "h": 17
+   },
+   {
+    "x": 87,
+    "y": 6778,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 6778,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 6778,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 6778,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 196,
+    "y": 6778,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 6778,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 331,
+    "y": 6778,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 342,
+    "y": 6778,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 446,
+    "y": 6778,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 457,
+    "y": 6778,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 611,
+    "y": 6778,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 6778,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6802,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 6802,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6826,
+    "w": 337,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6876,
+    "w": 262,
+    "h": 17
+   }
+  ]
+ }
+}

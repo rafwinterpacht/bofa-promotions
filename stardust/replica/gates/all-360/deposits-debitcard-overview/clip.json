@@ -1,0 +1,57 @@
+{
+ "url": "https://main--78f2fb76--aemcoder.aem.page/deposits/debitcard/overview",
+ "at": "2026-11-13T20:34:45.706Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 2,
+  "offPage": 5,
+  "textNodes": 102,
+  "controls": 42,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.multi-step-content-viewport",
+   "path": "div.multi-step-content-items > div.multi-step-content-item > h2#liability-guarantee2 > strong",
+   "text": "$0 liability guarantee",
+   "cutMin": 193,
+   "cutMax": 193
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.multi-step-content-viewport",
+   "path": "div.multi-step-content-items > div.multi-step-content-item > div.multi-step-content-item-copy > p",
+   "text": "shop with confidence. our $0 liability guarantee means that ",
+   "cutMin": 205,
+   "cutMax": 205
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 12,
+   "textNodes": 116,
+   "controls": 45,
+   "total": 0
+  }
+ }
+}

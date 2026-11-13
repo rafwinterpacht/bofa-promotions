@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "width": 1440,
+  "vh": 900,
+  "height": 5104,
+  "chunks": 6,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 4,
+    "late": 0
+  },
+  "at": "2026-11-13T20:42:43.599Z"
+}

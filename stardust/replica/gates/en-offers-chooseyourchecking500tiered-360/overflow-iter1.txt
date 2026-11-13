@@ -1,0 +1,8 @@
+measure  http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html
+  widths 360 · 1 selector(s) · 1 props · first match
+
+@ 360px
+  root  scrollWidth   360  viewport 360  scrollHeight   9488
+  html
+       x     0  y      0  w   360  h  9488  vis  "Skip to content bank of america advanta…"
+      display: block

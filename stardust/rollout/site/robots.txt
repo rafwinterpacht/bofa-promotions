@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://main--78f2fb76--aemcoder.aem.live/sitemap.xml

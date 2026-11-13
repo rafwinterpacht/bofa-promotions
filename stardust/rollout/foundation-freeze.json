@@ -1,0 +1,41 @@
+{
+  "frozenAt": "2026-11-13T20:37:59.371Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "a8742b05a3c4e9f1880860881751ad6c174e06e50b44bc44fd5b2388adb6e265",
+    "blocks/footer/footer.js": "fec8fbb0f007d2424cb2eaabe5dfe04f044cc42c95baba3d548de1fc4419f7ad",
+    "blocks/header/header.css": "e114d7865a820739361a55dbb5aecb14700b18e61e6f7bc9ad59e7c9e1a5f59e",
+    "blocks/header/header.js": "2a03959c2f8f0a4a942d11ee110e52c7f913815cbb6291044a702f97d306ad70",
+    "fonts/LICENSING.md": "b440d85005659b4b095191a107f9f82f4687a997c444db526e4d80eacd7cb95e",
+    "fonts/connections_bold-web.woff2": "d48faa13adcd567a29299db487912dd91fd45f777cadf153520f52023b58cee7",
+    "fonts/connections_bolditalic-web.woff2": "64ffd179bb71a5c128fb23d9c9d55d98fda3fd57ae0b89c90797bd12309d0625",
+    "fonts/connections_italic-web.woff2": "9feb2a8854a5114adcece1ac5771d5bc5ca1080c5c1212000eeb85b4a998e86d",
+    "fonts/connections_light-web.woff2": "e7a245881b6946f6a5ce4bb8f6d47c7369274451a6b8cebf0d148834a1c87d5c",
+    "fonts/connections_lightitalic-web.woff2": "afbdc1cd8ceebc29b979c10343c73832ce4acacf6f9b5f3705f0a4b0a8573c16",
+    "fonts/connections_medium-web.woff2": "a431986817e5d309cdd61c623a5259d6ea5840375876ffb41f5a2cab65ddd2e3",
+    "fonts/connections_mediumitalic-web.woff2": "4c99fcbe12944ad78b0846dc6c3f85f2c910b4247bdb69e0eabe60ead11432ee",
+    "fonts/connections_regular-web.woff2": "79f02d139cfd07f2a19e0a8831553b3de4627fcab371e18eb776af035465949b",
+    "fonts/connections_text-vf-italic.woff2": "fa57d9415dd9a8a3c5c9ff185e75290356b7a5fd3e582522fa4625e2ad0c949b",
+    "fonts/connections_text.woff2": "fa7694b88ce5528ae95ad3380e93a89313831b440b116dd7da59998b46b759f3",
+    "fonts/icomoon-interactive.woff2": "5d3b0f829fb56c785bd4633d681250a45dc072c6f4d7b45809189ebf9b429222",
+    "fonts/icomoon.woff2": "657b3d688390122ac0c20624aca3d0355065bd5026291b37d53a3808401b932b",
+    "head.html": "febf320b5244a1634f688726999064ba4b95335ec71ef14628d4806501baca65",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/martech.js": "d4b2be3c7c3d689df7e609f3c852c4609a79c0efa37720ade478f0afaec8cf3f",
+    "scripts/modals.js": "f4e89d6a2d1d6f00d014e66f4f2536bad97af891acd6a2dd02b3a7cee560df10",
+    "scripts/scripts.js": "48a716b9d3244c9b49945b6ae92988e827149f7d5806cc8717f142be85f16f45",
+    "styles/fonts.css": "d57de8dad3a5aebf80927cea88d85de8a428d3708ddcf2356cb559b48fd025b1",
+    "styles/lazy-styles.css": "de09ec15bee9564e72fe86d0502b04510f6f25648e63bdc742a2741876a36ea6",
+    "styles/styles.css": "90373590928ac3bbf25e86b1695393145b9ae05b5167b3368dccfade5691d25a"
+  }
+}

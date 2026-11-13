@@ -1,0 +1,68 @@
+{
+  "live": "stardust/replica/motion/landing-live.json",
+  "build": "stardust/replica/motion/landing-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 1,
+  "counts": {
+    "behaviors": 7,
+    "parity": 3,
+    "missing": 1,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 1,
+    "advisory": 2
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "hover",
+      "name": ".expanded-nav__menu:not(.only-mobile) .mainMenuItem.hasSubMenu → .site-nav--desktop .site-nav__item--has-sub",
+      "state": "parity",
+      "note": "a.color, button.transform; 500ms; paired by order",
+      "line": "motion hover .expanded-nav__menu:not(.only-mobile) .mainMenuItem.hasSubMenu → .site-nav--desktop .site-nav__item--has-sub: parity (a.color, button.transform; 500ms; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": ".masthead .cta",
+      "state": "parity",
+      "note": "self.background; n/a",
+      "line": "motion hover .masthead .cta: parity (self.background; n/a)"
+    },
+    {
+      "cls": "transition",
+      "name": "opacity",
+      "state": "missing",
+      "note": "2 event(s) on live, 0ms",
+      "line": "motion transition opacity: MISSING on build (2 event(s) on live, 0ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "parity",
+      "note": "4 event(s) on live, 2 on build, 500ms",
+      "line": "motion transition transform: parity (4 event(s) on live, 2 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "background-color",
+      "state": "advisory",
+      "note": "1 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion",
+      "line": "motion transition background-color: extra on build — advisory (1 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)"
+    },
+    {
+      "cls": "class",
+      "name": "is-visible",
+      "state": "advisory",
+      "note": "added 2× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-visible: extra on build — advisory (added 2× on build, never on live — check it drives no invented behavior)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "static",
+  "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+  "liveUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal.html",
+  "liveRenderedAt": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered (modal opened by clicking a[href=<fragment>]; direct URL 302s to an error page)",
+  "prototype": "stardust/prototypes/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal-proposed.html",
+  "iterations": { "1440": 2, "360": 2 },
+  "gates": {
+    "1440": { "pixel": 0.27, "pixelVsCapturedCrop": 0.27, "heightDelta": 0, "contentDiff": "0 red / 0 yellow: body markup byte-identical to serviceJson.rteMarkup; 11/11 rendered blocks text-equal to the live modal; heading, 6 body lines, 1 CTA (href+text) present", "clipped": 0, "overflow": "ok", "pass": true },
+    "360": { "pixel": 0.13, "pixelVsCapturedCrop": 3.11, "heightDelta": 0, "contentDiff": "0 red / 0 yellow (same check as 1440)", "clipped": 0, "overflow": "ok", "pass": true }
+  },
+  "capProbe": "N/A — fragment URL not navigable on the source (302); cap-probe needs a live page",
+  "landingDialogCheck": {
+    "url": "http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html",
+    "asIs": "all 6 fragments open at 1440 and 360: clipped 0, whole box reachable (dialog overflow auto), doc width = viewport; but box geometry off vs live (y 72 vs 88 at 1440, 360px wide vs 328 at 360, heights -142..+21px) — pixel vs live 4.5-12.0%",
+    "withBackports": "all 6 x 2 widths: height delta 0, rects identical to live, pixel 0.00-0.65% vs fresh live modal crops"
+  },
+  "residuals": [
+    "Method: gate.sh/measure.mjs cannot open a modal (measure.mjs has no click flag) and the fragment URL is not browsable, so the gate is a custom click probe (stardust/replica/gates/static/probes/probe.mjs, six.mjs) run through run-bg --slots 1 with the CSP bypass: live offer page -> consent closed -> click link -> element screenshot of .modal__content + computed-style/rect dump; same on the prototype (.modal-dialog__content); compared with pixel-compare.mjs (band 100) against the fresh live crop and against the captured crop png.",
+    "360 captured crop (stardust/current/assets/screenshots/<slug>-360.png) has the OneTrust banner over its lower 200px (bands 700-850 at 10-15%); the fresh consent-closed live crop is the reference (0.13%).",
+    "1440: 0.27% = one text line (y 300-400 band, 1.4%) anti-aliasing offset by a sub-pixel; rects identical at integer px.",
+    "Live adds analytics class t-track-body-copy-link to modal links (martech, not visual) — not reproduced.",
+    "Live modal content has transition-duration .4s ease-in but motion-observe sampled no animated change on open (widget dead on live)."
+  ],
+  "motion": {
+    "observed": ["modal open on link click (classes modal__<id>, modal__wide)", "body.ap-no-overflow scroll lock while open"],
+    "implemented": ["dialog showModal on load + close button (standalone)", "scroll lock body:has(dialog.modal-dialog[open]) { overflow: hidden }"],
+    "dead": ["modal open animation (no sampled change on live)", "header scroll-morph"]
+  },
+  "backportRequests": [
+    "canon.css .modal-dialog: padding 1rem (source keeps the <dialog> UA padding: box 328px at 360, x 345 / y 88 at 1440)",
+    "canon.css .modal-dialog__body p: margin 1rem 0 0; p:first-child margin-top 0 (source .modal .modal__body p)",
+    "canon.css: drop inline-block/margin on .modal-dialog__body .text-center b and .text-center + p (live: inline, no margin)",
+    "canon.css fragment h2: font Connections larger/700/mb .25rem; wide 2rem/400; line-height 1.25, >=640px 1.125 (replace .modal-dialog__body h2 and .modal-dialog--center h2 rules; exclude --exit)",
+    "landing/canon: .modal-dialog__additional > p:first-child margin-top 1rem (or unwrap additionalCopy into the body as the source does)",
+    "canon.css: body:has(dialog.modal-dialog[open]) { overflow: hidden }",
+    "All rules are in stardust/prototypes/content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal.css, scoped to .modal-dialog — paste into canon.css verbatim"
+  ],
+  "evidence": "stardust/replica/gates/static/ (live-<w>.png|json, proto-<w>-i<n>.png|json, diff-*.png, six-live/, six-landing/, six-landing-fix/), stardust/replica/motion/static-{live,build,compare}.json"
+}

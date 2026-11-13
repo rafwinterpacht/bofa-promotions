@@ -1,0 +1,27 @@
+{
+  "a": "stardust/replica/gates/all-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master/origin.png",
+  "b": "stardust/replica/gates/all-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master/eds.png",
+  "compared": {
+    "width": 530,
+    "height": 357,
+    "mode": "overlap"
+  },
+  "heightDelta": -543,
+  "differingPixels": 17952,
+  "pct": 9.49,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 357,
+      "pct": 9.5
+    }
+  ]
+}

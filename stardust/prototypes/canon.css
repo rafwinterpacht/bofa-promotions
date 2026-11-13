@@ -1,0 +1,276 @@
+/* ==========================================================================
+   canon.css — shared foundation for the promotions.bankofamerica.com replica
+   Fonts, tokens, base type, buttons, header, footer + disclosures, modal.
+   Values lifted from the source CSS (main.min / clientlib-components) and the
+   live computed-style census. Per-archetype CSS imports this first.
+   ========================================================================== */
+
+/* ---------- Fonts (source faces, self-hosted) ---------- */
+@font-face { font-family: Connections; font-style: normal; font-weight: 100 300; font-display: swap; src: url("fonts/connections_light-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: italic; font-weight: 100 300; font-display: swap; src: url("fonts/connections_lightitalic-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/connections_regular-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: italic; font-weight: 400; font-display: swap; src: url("fonts/connections_italic-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: normal; font-weight: 500; font-display: swap; src: url("fonts/connections_medium-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: italic; font-weight: 500; font-display: swap; src: url("fonts/connections_mediumitalic-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/connections_bold-web.woff2") format("woff2"); }
+@font-face { font-family: Connections; font-style: italic; font-weight: 700; font-display: swap; src: url("fonts/connections_bolditalic-web.woff2") format("woff2"); }
+@font-face { font-family: "connections text"; font-style: normal; font-weight: 300 700; font-display: swap; src: url("fonts/connections_text.woff2") format("woff2"); }
+@font-face { font-family: "connections text"; font-style: italic; font-weight: 300 700; font-display: swap; src: url("fonts/connections_text-vf-italic.woff2") format("woff2"); }
+@font-face { font-family: icomoon; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/icomoon.woff2") format("woff2"); }
+@font-face { font-family: icomoon-interactive; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/icomoon-interactive.woff2") format("woff2"); }
+
+/* ---------- Tokens ---------- */
+:root {
+  --font-sans: Connections, Arial, "Liberation Sans", sans-serif;
+  --font-text: "connections text", Connections, Arial, "Liberation Sans", sans-serif;
+  --font-icon: icomoon, sans-serif;
+
+  --color-black: #000;
+  --color-white: #fff;
+  --color-bright-red: #e31837;
+  --color-regal-red: #c41230;
+  --color-dark-blue: #012169;
+  --color-dark-blue-hover: #011136;
+  --color-royal-blue: #0053c2;
+  --color-gray: #ededed;
+  --color-gray-border: #d5d5d5;
+  --color-gray-line: #bababa;
+  --color-gray-text: #646464;
+  --color-light-blue: #f3f6ff;
+
+  --page-max: 1440px;
+  --gutter: 5%;            /* .section padding 0 5% */
+
+  --cta-height: 2.25em;
+  --cta-radius: 25px;
+  --cta-min: 230px;
+}
+@media (min-width: 1068px) {
+  :root { --cta-height: 2.667em; --cta-radius: 35px; --cta-min: 260px; }
+}
+
+/* ---------- Base ---------- */
+html { box-sizing: border-box; overflow-x: hidden; scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+*, *::before, *::after { box-sizing: inherit; }
+body { margin: 0; font-family: Connections, Arial, sans-serif; font-size: 16px; line-height: 1.4; color: var(--color-black); }
+h1, h2, h3, h4, h5, h6 { font-weight: 400; margin: 0; }
+h1 { font-family: Connections; font-size: 8.69565vw; font-weight: 100; line-height: 1.167; }
+h2 { font-family: Connections; font-size: 1.875rem; font-weight: 100; line-height: 1.2; }
+h3 { font-size: 1.25rem; line-height: 1.3; }
+@media (min-width: 640px) {
+  h1 { font-size: 4.5vw; }
+  h2 { font-size: 2.25rem; line-height: 1.1675; }
+  h3 { font-size: 1.5rem; line-height: 1.25; }
+}
+@media (min-width: 1068px) { h1 { font-size: 3rem; line-height: 1.125; } }
+a { color: var(--color-royal-blue); text-decoration: underline 1px solid; }
+img { border: 0; }
+table { border-collapse: collapse; border-spacing: 0; }
+sup { font-size: .625rem; line-height: 0; position: relative; vertical-align: baseline; top: -.7em; padding-left: 1px; }
+sup a { font-size: 12px; text-decoration: none; }
+ul { list-style: none; margin: 0 auto; padding: 0; }
+.small-caps { color: var(--color-gray-text); font-size: 1rem; font-variant: small-caps; line-height: 1.5rem; }
+@media (min-width: 980px) { .small-caps { line-height: 1.25rem; } }
+.text-dark-blue { color: var(--color-dark-blue); }
+.text-bright-red { color: var(--color-bright-red); }
+.text-regal-red { color: var(--color-regal-red); }
+.horizontal-line { background-color: var(--color-gray-line); display: block; height: 1px; margin: 0 auto .5rem; }
+.ornament { text-transform: uppercase; }
+.ornament::before, .ornament::after { border-bottom: 1px solid; content: ""; display: inline-block; margin: 0 .75em .25em; width: 4em; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; margin: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.icon { font-family: var(--font-icon); font-style: normal; font-weight: 400; speak: never; line-height: 1; -webkit-font-smoothing: antialiased; }
+.icon-dropdown::before { content: "\e90f"; }
+.icon-menu::before { content: "\e920"; }
+.icon-optout::before { content: "\ea82"; }
+.icon-i { font-family: icomoon-interactive, sans-serif; font-style: normal; line-height: 1; }
+.icon-caret-left::before { content: "\e90b"; }
+.icon-caret-right::before { content: "\e90c"; }
+
+/* ---------- Sections ---------- */
+.section { padding: 0 var(--gutter); }
+.section__inner { max-width: var(--page-max); margin: 0 auto; }
+.spacer { padding: 0 var(--gutter); background: var(--color-white); }
+.spacer--ultra-thin { height: .625rem; }
+.spacer--thin { height: 1.5625rem; }
+
+/* ---------- Buttons (.cta) ---------- */
+.cta {
+  align-items: center; justify-content: center; display: inline-flex; position: relative;
+  background-color: var(--color-bright-red); color: var(--color-white);
+  font-family: Connections, Arial, sans-serif; font-size: 1.5rem; font-weight: 400; line-height: 1;
+  height: var(--cta-height); min-width: var(--cta-min); padding: 0 1rem; margin: .5rem;
+  border-radius: var(--cta-radius); text-align: center; text-decoration: none;
+  transition: all .25s ease-out .05s;
+}
+.cta:hover, .cta:focus { background-color: var(--color-regal-red); color: var(--color-white); text-decoration: none; }
+.cta--blue { background-color: var(--color-dark-blue); }
+.cta--blue:hover, .cta--blue:focus { background-color: var(--color-dark-blue-hover); }
+.cta--grey { background-color: var(--color-gray); color: var(--color-black); }
+.cta--grey:hover, .cta--grey:focus { background-color: var(--color-gray-border); color: var(--color-black); }
+@media (max-width: 375px) { .cta { padding: 0 .5rem; } }
+
+/* ---------- Header (expanded nav) ----------
+   Structure shared by every archetype; the nav items are page content. */
+.site-header { width: 100%; margin: 0 auto; }
+.site-header__inner { max-width: var(--page-max); margin: 0 auto; background: var(--color-white); position: relative; }
+.skip-link, .ada-skip { position: absolute; left: -10000px; top: 0; z-index: 10; }
+.skip-link { width: 100%; line-height: 1.4; height: 16px; overflow: hidden; }
+.skip-link:focus, .ada-skip:focus { left: 0; background: var(--color-white); }
+.site-header__bar { display: flex; align-items: center; justify-content: space-between; min-height: 4.375rem; padding: 0 var(--gutter); background: var(--color-white); }
+.site-header__brand { display: flex; color: var(--color-royal-blue); }
+.site-header__logo { display: block; width: 11rem; height: 2.25rem; }
+.site-header__menu-toggle { display: inline-flex; align-items: center; background: none; border: 0; padding: 0; cursor: pointer; color: var(--color-royal-blue); font-size: 2rem; line-height: 1.2; width: 32px; height: 38px; justify-content: center; }
+.site-header__menu-toggle[aria-expanded="true"] .icon { transform: rotate(-180deg); }
+.site-header__menu-toggle .icon { transition: all .5s ease; }
+.site-nav { display: none; font-size: 1.25rem; line-height: 1.4; position: relative; }
+.site-nav__scroll { display: none; }
+.site-nav-mobile { display: block; }
+.modal-exit__title { font-size: 1rem; color: #888b8d; margin: 0 0 .5rem; }
+.site-nav.is-open { display: block; padding: 1.5rem var(--gutter) .5rem; border-top: 1px solid var(--color-gray); }
+.site-nav__list { display: flex; flex-direction: column; margin: 0 0 0 -5px; line-height: 1; }
+.site-nav__item { margin: 0 0 1.125rem; line-height: 1.125; position: relative; }
+.site-nav__link { display: inline-block; margin-left: 5px; padding: 6px 0; border-bottom: 2px solid transparent; color: var(--color-black); text-decoration: none; font-size: 1.25rem; line-height: 1.125; }
+.site-nav__link:hover { color: var(--color-bright-red); }
+.site-nav__toggle { background: none; border: 0; padding: 0; margin-left: .375rem; font-size: .875rem; font-weight: 700; line-height: 1; vertical-align: middle; color: var(--color-black); cursor: pointer; transition: all .5s ease; }
+.site-nav__sub { display: none; flex-direction: column; list-style: none; margin: 0; padding: 1.5rem .875rem .625rem; font-size: 1rem; line-height: 1; z-index: 1000; }
+.site-nav__sub-item { margin: 0 0 1.25rem; line-height: 1.125; }
+.site-nav__sub-link { color: var(--color-royal-blue); text-decoration: none; display: inline-block; }
+.site-nav__item.is-expanded > .site-nav__sub { display: block; }
+.site-nav__item.is-expanded > .site-nav__toggle { transform: rotate(-180deg); }
+@media (min-width: 1024px) {
+  .site-header__bar { min-height: 4.125rem; }
+  .site-header__menu-toggle { display: none; }
+  .site-nav-mobile, .site-nav--mobile.is-open { display: none; }
+  .site-nav--desktop { display: flex; align-items: center; justify-content: flex-start; padding: 0 2%; border: 0; }
+  .site-nav__list { flex-direction: row; padding: 0 3%; }
+  .site-nav__item { display: inline-flex; align-items: baseline; margin: 0; }
+  .site-nav__item + .site-nav__item { margin-left: 1.5rem; }
+  .site-nav__sub { background: var(--color-white); box-shadow: 0 .125rem .25rem 0 hsla(0, 0%, 88.6%, .5); position: absolute; top: 100%; left: 0; width: 14.375rem; padding: 2rem 1.5rem; }
+  .site-nav__item:hover > .site-nav__sub { display: block; }
+  .site-nav__item:hover > .site-nav__toggle { transform: rotate(-180deg); }
+  .site-nav__sub-link:hover { color: var(--color-royal-blue); text-decoration: underline; }
+}
+@media (min-width: 1068px) { .site-header__logo { width: 15.3125rem; height: 2.75rem; } }
+
+/* ---------- Footer: disclosures ---------- */
+.disclosures { display: block; background-color: var(--color-gray); font-size: .875em; line-height: 1.4; padding: 5% 5% 0; text-align: left; }
+@media (min-width: 1068px) { .disclosures { padding-top: 2%; } }
+.disclosures__inner { margin: 0 auto; max-width: var(--page-max); padding-bottom: .625rem; width: 100%; }
+.disclosure { margin-bottom: 1.25rem; position: relative; }
+.disclosure a { text-decoration: underline 1px solid; }
+.disclosure a.disclosure__label { color: currentColor; font-size: 70%; line-height: 1.4; text-decoration: none; left: -1rem; top: .075rem; text-align: right; position: absolute; width: 1px; height: 1px; margin: 0; overflow: hidden; clip-path: inset(50%); }
+.disclosure__text { display: inline-block; position: relative; padding-left: .1rem; width: calc(100% - 1.0625rem); }
+.disclosure p { margin: 14px 0 20px; }
+.disclosure p:first-child { display: inline; }
+.disclosure p:last-of-type { margin-bottom: 0; }
+.disclosure a.disclosure__note { color: currentColor; display: inline-block; font-size: 70%; line-height: 1.4; left: -1rem; position: absolute; text-align: right; top: .075rem; vertical-align: top; width: .75rem; text-decoration: none; }
+.disclosures ol { margin: 0 0 16px; padding: 0 0 0 4px; }
+.disclosures ol li { font-size: .875rem; line-height: 24px; margin: 0 0 .25rem 1.25rem; padding-left: .25rem; }
+.disclosures ol li p { margin: 14px 0 0; line-height: 1.4; }
+.disclosures ol.disclosure__ol--spaced { margin-top: 10px; }
+.disclosures ol li p.disclosure__chart-title { line-height: inherit; text-align: center; }
+.disclosures th b { font-weight: 700; }
+.disclosures th { font-weight: 400; }
+.disclosures table { border: 1px solid var(--color-black); margin: 0 auto; }
+.disclosures table:last-child { margin-top: 1.25rem; }
+.disclosures th, .disclosures td { border: 1px solid var(--color-black); text-align: center; padding: 0; vertical-align: middle; }
+.disclosures th { width: 205px; }
+.disclosures th p, .disclosures td p { margin: 0; display: block; }
+
+/* ---------- Footer: legal bar ---------- */
+.site-footer { padding: 0 var(--gutter); text-align: center; }
+.site-footer__inner { max-width: var(--page-max); margin: 0 auto; padding: 40px 0 20px; font-size: .875rem; line-height: 1.4; }
+.site-footer__logo { display: block; margin-bottom: 21px; }
+.site-footer__logo img { width: 200px; height: 20px; vertical-align: top; }
+.site-footer__copy { line-height: 1.71; }
+.site-footer__privacy::before { background: url("assets/canon/lock.svg") no-repeat 0 0; content: ""; display: inline-block; height: 11px; width: 11px; margin: .313rem .125rem 0; }
+
+.site-footer__ehl::after { background: url("assets/canon/house.svg") no-repeat 0 .125rem; content: ""; display: inline-block; height: 14px; width: 14px; margin: 0 0 0 .313rem; }
+.site-footer .icon-optout { font-size: 20px; line-height: 1; margin-left: 5px; vertical-align: middle; color: var(--color-black); }
+.site-footer__copyright { line-height: 1.71; margin: 0 auto; width: 225px; }
+.site-footer__cobrowse { display: inline-block; }
+.site-footer__ar { margin: 28px 0 20px; }
+@media (min-width: 640px) {
+  .site-footer { text-align: left; }
+  .site-footer__logo { margin-bottom: 25px; }
+  .site-footer__copyright { width: 100%; }
+}
+
+/* ---------- Modal (helix modal: fragment modals + exit notice) ---------- */
+.modal-dialog {
+  border: 0; padding: 0; margin: 0; max-width: none; max-height: none; width: 100%; height: 100%;
+  background: transparent; overflow: auto; position: fixed; inset: 0; z-index: 10010;
+}
+.modal-dialog::backdrop { background: rgba(255, 255, 255, .2); backdrop-filter: blur(75px); -webkit-backdrop-filter: blur(75px); }
+.modal-dialog__content {
+  background-color: var(--color-white); border: 0; border-radius: 2rem; box-shadow: 0 0 48px 0 rgba(0, 0, 0, .4);
+  margin: 36px auto; max-width: 530px; position: relative; height: auto;
+}
+.modal-dialog--wide .modal-dialog__content { max-width: 750px; }
+.modal-dialog__nav { display: flex; justify-content: flex-end; position: sticky; top: 0; z-index: 9990; }
+.modal-dialog__close {
+  position: absolute; top: 0; right: 0; margin: 24px 24px 0 0; width: 31px; height: 31px; padding: 0;
+  background-color: var(--color-black); color: var(--color-white); border: 0; border-radius: 50%;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .15); font-family: Connections, Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 1; cursor: pointer; z-index: 1000;
+}
+.modal-dialog__close:focus { outline: .0625rem dotted #000; }
+.modal-dialog__wrapper { padding: 3.75rem .25rem .5rem; }
+.modal-dialog__body { padding: 0 1.5rem 1.5rem; font-size: 1rem; line-height: 1.4; }
+.modal-dialog__body h1 { font-size: 1rem; font-weight: 400; margin-bottom: .5rem; }
+.modal-dialog__body h2 { font-family: Connections; font-size: 1.25rem; font-weight: 500; line-height: 1.3; margin: 0 0 1rem; }
+.modal-dialog__body p { margin: 0 0 1rem; }
+.modal-dialog__body .horizontal-line { margin: 0 auto .5rem; }
+.modal-dialog--center .modal-dialog__body { text-align: center; }
+.modal-dialog--center .modal-dialog__body h2 { font-size: 1.875rem; font-weight: 100; line-height: 1.2; margin-bottom: .5rem; }
+.modal-dialog__body .text-center { text-align: center; }
+.modal-dialog__body .text-left { text-align: left; }
+.modal-dialog__body .text-center + p, .modal-dialog__body .text-center b { display: inline-block; margin-bottom: .75rem; }
+.modal-dialog__body .text-regalRed { color: var(--color-regal-red); }
+.modal-dialog__links { display: flex; flex-wrap: wrap; justify-content: flex-start; margin-top: 1.5rem; }
+.modal-dialog__links .cta { font-size: 1rem; height: auto; line-height: normal; margin: 0 1.5rem .75rem 0; min-width: 0; padding: .5rem 1rem; }
+.modal-dialog--exit h1 { color: #888b8d; }
+.modal-dialog--exit h2 { font-size: 1.25rem; font-weight: 400; margin-bottom: .5rem; padding-bottom: .5rem; }
+@media (min-width: 768px) {
+  .modal-dialog__content { margin: 72px auto; }
+  .modal-dialog__wrapper { padding: 4rem .625rem .75rem; }
+}
+
+/* ---- fragment modal (back-ported from the static archetype gate, 2026-11-13) ---- */
+/* ==========================================================================
+   Offer-term modal fragments (page type `static`, experience fragments).
+   Loaded after canon.css. Every rule below corrects canon's fragment-modal
+   block against the live modal (source main.min: .helix-modal .modal*,
+   .modal .modal__body, .text h2, .modal .modal__wide h2; live computed styles
+   gates/static/live-<w>.json) and is a back-port request for canon.css.
+   ========================================================================== */
+
+/* Source modal is a <dialog>: the UA padding (1em) is kept, so the box is
+   viewport − 32px wide at 360 (328px) and centred at 1440 (x 345). */
+.modal-dialog { padding: 1rem; }
+
+/* .modal .modal__body p { margin: 1rem 0 0 } + p:first-child { margin-top: 0 } */
+.modal-dialog__body p { margin: 1rem 0 0; }
+.modal-dialog__body p:first-child { margin-top: 0; }
+
+/* Bold run inside a centred div stays inline (no source rule changes it). */
+.modal-dialog__body .text-center b { display: inline; margin-bottom: 0; }
+.modal-dialog__body .text-center + p { display: block; margin-bottom: 0; }
+
+/* Headings: .modal h2 (larger / 700 / mb .25rem); .modal .modal__wide h2
+   (2rem / 400); line-height from .text h2 (1.25, ≥640px 1.125). */
+.modal-dialog:not(.modal-dialog--exit) .modal-dialog__body h2 {
+  font-family: Connections; font-size: larger; font-weight: 700; line-height: 1.25; margin: 0 0 .25rem;
+}
+.modal-dialog--wide:not(.modal-dialog--exit) .modal-dialog__body h2 { font-size: 2rem; font-weight: 400; }
+@media (min-width: 640px) {
+  .modal-dialog:not(.modal-dialog--exit) .modal-dialog__body h2 { line-height: 1.125; }
+}
+
+/* Source appends serviceJson.additionalCopy straight into .modal__body, so its
+   <p> is a regular sibling (margin-top 1rem, live odp gap 16px). The landing
+   wraps it in .modal-dialog__additional; keep the source spacing. */
+.modal-dialog__body .modal-dialog__additional > p:first-child { margin-top: 1rem; }
+
+/* Scroll lock while a modal is open (source adds body.ap-no-overflow → overflow: hidden;
+   observed by motion-observe on the live modal open). */
+body:has(dialog.modal-dialog[open]) { overflow: hidden; }

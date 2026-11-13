@@ -1,0 +1,38 @@
+{
+  "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal": {
+    "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+    "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, Δh 0 every page — stardust/rollout/progress.json units.archetype-static / cluster-static",
+    "by": "hands-off",
+    "date": "2026-11-13"
+  },
+  "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal": {
+    "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+    "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, Δh 0 every page — stardust/rollout/progress.json units.archetype-static / cluster-static",
+    "by": "hands-off",
+    "date": "2026-11-13"
+  },
+  "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal": {
+    "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+    "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, Δh 0 every page — stardust/rollout/progress.json units.archetype-static / cluster-static",
+    "by": "hands-off",
+    "date": "2026-11-13"
+  },
+  "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal": {
+    "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+    "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, Δh 0 every page — stardust/rollout/progress.json units.archetype-static / cluster-static",
+    "by": "hands-off",
+    "date": "2026-11-13"
+  },
+  "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master": {
+    "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+    "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, Δh 0 every page — stardust/rollout/progress.json units.archetype-static / cluster-static",
+    "by": "hands-off",
+    "date": "2026-11-13"
+  },
+  "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master": {
+    "reason": "modal fragment: the source fragment URL answers 302 to its own extensionless path (redirect loop), so the origin side falls back to the crawl full-page shot (asymmetric, different page chrome); the row compares unlike captures",
+    "evidence": "dialog probe (fragment rendered as the offer page dialog on both sides): static archetype 1440 0.37% / 360 0.19%, cluster-static worst 1440 0.79% / 360 2.78%, Δh 0 every page — stardust/rollout/progress.json units.archetype-static / cluster-static",
+    "by": "hands-off",
+    "date": "2026-11-13"
+  }
+}

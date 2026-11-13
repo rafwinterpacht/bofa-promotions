@@ -1,0 +1,56 @@
+{
+  "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T17:59:05.966Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/eligible-accounts-modal/master": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T18:25:48.687Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T18:25:48.688Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T18:25:54.202Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T18:25:54.203Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T18:25:59.303Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

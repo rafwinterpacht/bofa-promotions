@@ -1,0 +1,187 @@
+/* steps — multi-step offer requirements (source .multi-step-content, horizontal) */
+/* stylelint-disable no-descending-specificity -- unrelated sub-trees share the p tail */
+.steps {
+  --display-md: 40px;
+  --display-md-lh: 1.2;
+
+  padding: 0 var(--gutter);
+  text-align: center;
+}
+
+.steps .steps-container {
+  max-width: var(--page-max);
+  margin: 0 auto;
+}
+
+.steps .steps-inner {
+  max-width: 1068px;
+  margin: 0 auto;
+  padding: 48px 0;
+}
+
+.steps .steps-heading :is(h1, h2, h3) {
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: var(--display-md);
+  font-weight: 100;
+  line-height: var(--display-md-lh);
+}
+
+.steps .steps-heading sup,
+.steps .steps-heading sup a:any-link {
+  font-size: 0.875rem;
+}
+
+/* the delivery pipeline serves footnotes as <a><sup>N</sup></a>: no link underline */
+.steps a:any-link:has(> sup) {
+  text-decoration: none;
+}
+
+.steps .steps-heading sup {
+  top: -1.125rem;
+}
+
+.steps .steps-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.steps .step {
+  position: relative;
+  margin: 52px 1% 48px;
+}
+
+.steps .step-icon {
+  width: 100px;
+  margin: 0 auto 16px;
+}
+
+.steps .step-icon p {
+  margin: 0;
+}
+
+.steps .step-icon img {
+  display: block;
+  width: 100px;
+  height: 70px;
+}
+
+.steps .step-content {
+  display: flex;
+  justify-content: center;
+}
+
+.steps .step-copy p {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.steps .step-note {
+  margin: 20px 0;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.steps .step-note p {
+  margin: 0;
+}
+
+.steps .step-table-wrap {
+  display: inline-block;
+  margin-top: 1rem;
+  margin-left: calc(32 * ((100vw - 400px) / 880));
+}
+
+.steps .bonus-table {
+  margin: 0 auto;
+  border: 1px solid var(--color-black);
+}
+
+.steps .bonus-table :is(th, td) {
+  padding: 10px;
+  border: 1px solid var(--color-black);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.steps .bonus-table :is(th, td) p {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.steps .bonus-table .bonus-head :is(th, td) {
+  padding: 15px;
+  background: var(--color-dark-blue);
+  color: var(--color-white);
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.steps .bonus-table .bonus-label {
+  font-weight: 700;
+}
+
+.steps .bonus-table .bonus-label strong {
+  color: var(--color-bright-red);
+  font-weight: 700;
+}
+
+.steps .steps-subcopy {
+  max-width: 980px;
+  margin: 20px auto 0;
+  text-align: center;
+}
+
+.steps .steps-subcopy p {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.steps .step-copy p + p {
+  margin-top: 16px;
+}
+
+@media (width >= 640px) {
+  .steps {
+    text-align: left;
+  }
+
+  .steps .steps-heading sup {
+    top: -1.5rem;
+  }
+
+  .steps .step {
+    padding-left: 180px;
+  }
+
+  .steps .step.step-last {
+    margin-bottom: 2.3rem;
+  }
+
+  .steps .step-icon {
+    position: absolute;
+    top: 0;
+    left: 50px;
+    margin: 0;
+  }
+
+  .steps .step-content {
+    justify-content: flex-start;
+  }
+}
+
+@media (width >= 1068px) {
+  .steps {
+    --display-md: 48px;
+    --display-md-lh: 1.125;
+  }
+}

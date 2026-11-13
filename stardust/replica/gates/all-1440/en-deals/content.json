@@ -1,0 +1,5507 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T20:44:51.728Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://promotions.bankofamerica.com/en/deals.html",
+  "at": "2026-11-13T20:44:27.595Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7206,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a#expanded-navigation808145754_en-espanol",
+    "x": 1295,
+    "y": 10,
+    "w": 73,
+    "h": 19,
+    "text": "en español",
+    "href": "/es/deals.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__wrapperLogo > a#nav-_-logo",
+    "x": 72,
+    "y": 51,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__wrapperLogo > a#nav-_-logo > img.expanded-nav__logo",
+    "x": 72,
+    "y": 51,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__cta--wrapper.only-desktop > a#expanded-navigation99534045-_-not-a-customer_-open-an-account-today_",
+    "x": 843,
+    "y": 51,
+    "w": 318,
+    "h": 44,
+    "text": "not a customer? open an account today.",
+    "href": "/hp-oaa2/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.expanded-nav__logoWrapper > div.expanded-nav__cta--wrapper.only-desktop > a#expanded-navigation343144471-_-view-your-deals",
+    "x": 1193,
+    "y": 51,
+    "w": 175,
+    "h": 44,
+    "text": "view your deals",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > uc-heading-group.uc.uc-component > h1#csp-id-753752ce-87f6-4041-983f-ed91bee5dc2d",
+    "x": 224,
+    "y": 674,
+    "w": 992,
+    "h": 63,
+    "level": 1,
+    "text": "cash back deals — tailored to you"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-heading__subheadline > p > span.uc-headline--sm",
+    "x": 252,
+    "y": 755,
+    "w": 936,
+    "h": 59,
+    "text": "As a Bank of America customer, get cash back, discounts and more with deals from"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-btn__container.uc-btn__container--center > uc-button.uc.uc-component > a#standalone-button_view-your-deals",
+    "x": 643,
+    "y": 833,
+    "w": 164,
+    "h": 45,
+    "text": "view your deals",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section__wrapper.long-form-text__wrapper > div.text.js-initialized > h2#csp-id-45b5e821-6169-4601-b963-aeae1aec75af",
+    "x": 186,
+    "y": 974,
+    "w": 1068,
+    "h": 63,
+    "level": 2,
+    "text": "top brands"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section__wrapper.long-form-text__wrapper > div.text.js-initialized > h3#csp-id-40480956-19cc-4797-b2b1-32801920cbbf",
+    "x": 186,
+    "y": 1053,
+    "w": 1068,
+    "h": 75,
+    "level": 3,
+    "text": "explore deals tailored to you from easy-to search categories like travel, retail, health & beauty, entertainment and mor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "span#csp-id-7dcf656f-dda2-42ad-8682-b992b27a1526 > sup > a#footnote-1279581369-0",
+    "x": 914,
+    "y": 1094,
+    "w": 7,
+    "h": 17,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section__wrapper.long-form-text__wrapper > div.text.js-initialized > p",
+    "x": 186,
+    "y": 1144,
+    "w": 1068,
+    "h": 28,
+    "text": "Here are some brands that have been featured:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 0,
+    "y": 1220,
+    "w": 704,
+    "h": 244,
+    "text": "dunkin, best buy, cvs, sephora, nike, lyft, macy's, walmart",
+    "file": "brandsCount_Left_1440x500"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 736,
+    "y": 1220,
+    "w": 704,
+    "h": 244,
+    "text": "expedia, the home depot, fanatics, lyft, lululemon, mcdonald",
+    "file": "brandsCount_Right_1440x500"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#features-1831262209 > div.container.section__wrapper > h2.features__heading.text-brightRed",
+    "x": 72,
+    "y": 1583,
+    "w": 1296,
+    "h": 56,
+    "level": 2,
+    "text": "cash back made simple"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > h3",
+    "x": 238,
+    "y": 1687,
+    "w": 260,
+    "h": 60,
+    "level": 3,
+    "text": "click"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > div > img",
+    "x": 343,
+    "y": 1763,
+    "w": 50,
+    "h": 50,
+    "text": "scroll",
+    "file": "bofa_icon_scroll2_186rgb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 238,
+    "y": 1819,
+    "w": 260,
+    "h": 78,
+    "text": "Pick deals from your list of offers in Mobile or Online Banking."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1372637601-0",
+    "x": 391,
+    "y": 1845,
+    "w": 7,
+    "h": 14,
+    "text": "2",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > h3",
+    "x": 590,
+    "y": 1687,
+    "w": 260,
+    "h": 60,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > div > img",
+    "x": 695,
+    "y": 1763,
+    "w": 50,
+    "h": 50,
+    "text": "credit card",
+    "file": "bofa_icon_card2_186rgb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 590,
+    "y": 1819,
+    "w": 260,
+    "h": 78,
+    "text": "Pay with your eligible Bank of America credit or debit card."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-1279581369-1",
+    "x": 773,
+    "y": 1871,
+    "w": 7,
+    "h": 14,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > h3",
+    "x": 942,
+    "y": 1687,
+    "w": 260,
+    "h": 60,
+    "level": 3,
+    "text": "earn"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__item--copy.text > div > img",
+    "x": 1047,
+    "y": 1763,
+    "w": 50,
+    "h": 50,
+    "text": "dollar sign",
+    "file": "bofa_icon_accounts2_186rgb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features__items-wrapper > div.features__item--copy.text > p",
+    "x": 942,
+    "y": 1819,
+    "w": 260,
+    "h": 78,
+    "text": "Your account will be credited with the cash back you've earned."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > sup > a#footnote-73991137-0",
+    "x": 1100,
+    "y": 1871,
+    "w": 7,
+    "h": 14,
+    "text": "3",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-btn__container.uc-btn__container--center > uc-button.uc.uc-component > a#standalone-button_view-your-deals1",
+    "x": 609,
+    "y": 1961,
+    "w": 232,
+    "h": 57,
+    "text": "view your deals",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.none > h2.preferred-cards__heading.text-brightRed",
+    "x": 169,
+    "y": 2283,
+    "w": 479,
+    "h": 48,
+    "level": 2,
+    "text": "stack your rewards"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.none > div.preferred-cards__subHeading.text > p",
+    "x": 169,
+    "y": 2359,
+    "w": 479,
+    "h": 87,
+    "text": "Your cash back is any other cash back, discounts or rewards your eligible Bank o"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.none > h2.preferred-cards__heading.text-brightRed",
+    "x": 816,
+    "y": 2831,
+    "w": 479,
+    "h": 48,
+    "level": 2,
+    "text": "daily essentials"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.none > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 2907,
+    "w": 479,
+    "h": 58,
+    "text": "Discover limited-time deals on everyday essentials like gas, lunch or coffee."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__contentWrapper.none > div.preferred-cards__subHeading.text > p",
+    "x": 816,
+    "y": 2988,
+    "w": 479,
+    "h": 58,
+    "text": "These deals are only available for a few hours — check back often so you don't m"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.preferred-cards__cardContent.content-center > div.preferred-cards__contentWrapper.none > h2.preferred-cards__heading.text-brightRed",
+    "x": 169,
+    "y": 3335,
+    "w": 479,
+    "h": 48,
+    "level": 2,
+    "text": "special event deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > h3#csp-id-aabb48bd-c61c-4d22-9672-b6b4a9712f60",
+    "x": 158,
+    "y": 3411,
+    "w": 248,
+    "h": 27,
+    "level": 3,
+    "text": "june"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > h3#csp-id-aabb48bd-c61c-4d22-9672-b6b4a9712f60 > b",
+    "x": 158,
+    "y": 3411,
+    "w": 44,
+    "h": 27,
+    "text": "June"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > p#csp-id-c567bb37-e850-4eee-a467-e1756cd4eb30",
+    "x": 158,
+    "y": 3438,
+    "w": 248,
+    "h": 29,
+    "text": "FIFA World Cup 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > h3#csp-id-dd50bbb3-5038-43ef-a573-99b6c34485ce",
+    "x": 158,
+    "y": 3490,
+    "w": 248,
+    "h": 27,
+    "level": 3,
+    "text": "july"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > h3#csp-id-dd50bbb3-5038-43ef-a573-99b6c34485ce > b",
+    "x": 158,
+    "y": 3490,
+    "w": 37,
+    "h": 27,
+    "text": "July"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > p#csp-id-6cd7d1a9-328f-4651-905b-17b8feda5152",
+    "x": 158,
+    "y": 3517,
+    "w": 248,
+    "h": 29,
+    "text": "Sizzling Summer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > p#csp-id-0af99474-af21-4073-b84e-5b563a506cbd",
+    "x": 158,
+    "y": 3546,
+    "w": 248,
+    "h": 29,
+    "text": "Road Trip"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > h3#csp-id-16022179-945d-446c-bfac-764672a459ec",
+    "x": 158,
+    "y": 3599,
+    "w": 248,
+    "h": 27,
+    "level": 3,
+    "text": "august"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > h3#csp-id-16022179-945d-446c-bfac-764672a459ec > b",
+    "x": 158,
+    "y": 3599,
+    "w": 70,
+    "h": 27,
+    "text": "August"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > p#csp-id-1dc3746c-0041-44c8-b159-7ded88b20ecf",
+    "x": 158,
+    "y": 3626,
+    "w": 248,
+    "h": 29,
+    "text": "Back to School"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-43fd1703-6f89-4014-b2c0-b4f0418e9d7e > p#csp-id-773f64d5-4539-4fba-a377-c1f9d8268dc3",
+    "x": 158,
+    "y": 3655,
+    "w": 248,
+    "h": 29,
+    "text": "Cool Tech, Hot Savings"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > h3#csp-id-04365a35-ad77-4c60-8098-ed78579f8bf2",
+    "x": 421,
+    "y": 3411,
+    "w": 233,
+    "h": 27,
+    "level": 3,
+    "text": "october"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > h3#csp-id-04365a35-ad77-4c60-8098-ed78579f8bf2 > b",
+    "x": 421,
+    "y": 3411,
+    "w": 81,
+    "h": 27,
+    "text": "October"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > p#csp-id-90c22980-7829-4d8a-85b6-61789bff4422",
+    "x": 421,
+    "y": 3438,
+    "w": 233,
+    "h": 29,
+    "text": "Double Days"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > p#csp-id-e263288c-f01b-459e-8a19-04e34f171f60",
+    "x": 421,
+    "y": 3466,
+    "w": 233,
+    "h": 29,
+    "text": "Spooky Deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > p#csp-id-32bed6a6-6126-40f0-94ce-02ae161cd51e > b#csp-id-8f704fd0-0f61-4e62-b740-60295f732345",
+    "x": 421,
+    "y": 3524,
+    "w": 103,
+    "h": 27,
+    "text": "November"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > p#csp-id-519901ec-89e7-4dbc-ac9a-021c2bc101ae",
+    "x": 421,
+    "y": 3553,
+    "w": 233,
+    "h": 29,
+    "text": "Black Friday"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > p#csp-id-394ef514-0e65-45f0-90f8-9d9a1bbf9b79",
+    "x": 421,
+    "y": 3582,
+    "w": 233,
+    "h": 29,
+    "text": "National Cash Back Day"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > h3#csp-id-c72b39d1-72a1-4c02-aa97-af7a66a6f657",
+    "x": 421,
+    "y": 3634,
+    "w": 233,
+    "h": 27,
+    "level": 3,
+    "text": "december"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > h3#csp-id-c72b39d1-72a1-4c02-aa97-af7a66a6f657 > b",
+    "x": 421,
+    "y": 3634,
+    "w": 100,
+    "h": 27,
+    "text": "December"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-1ef54e88-a760-41f5-a372-4a1ce203c6c4 > div#csp-id-9f6581d0-2afe-4be8-9f56-a2dda0627417 > p#csp-id-8320f44d-add6-4c97-83ab-4e81fea37c01",
+    "x": 421,
+    "y": 3661,
+    "w": 233,
+    "h": 29,
+    "text": "HoliDeals"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc.uc-image__wrapper > picture > img#csp-id-9582781a-0934-4695-862b-19f8487348cf",
+    "x": 112,
+    "y": 3953,
+    "w": 300,
+    "h": 42,
+    "text": "bofa rewards",
+    "file": "bofa_rewards_rgb_center"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > uc-heading-group.uc.uc-component > h2#csp-id-b44e1b2e-b34a-42b7-b43e-92601ba07742",
+    "x": 112,
+    "y": 4015,
+    "w": 544,
+    "h": 120,
+    "level": 2,
+    "text": "exclusive deals for bofa rewards tm members"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "span.uc-headline--sm > span.uc-text--black > span.font-connections-bold",
+    "x": 112,
+    "y": 4153,
+    "w": 443,
+    "h": 61,
+    "text": "BofA Rewards members get access to premium deals."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "span.uc-headline--sm > span.uc-text--black > span.font-connections-medium",
+    "x": 112,
+    "y": 4184,
+    "w": 522,
+    "h": 61,
+    "text": "Not a member? It's free to join, you just need a BofA personal checking account."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "span.font-connections-medium > sup > a#footnote-1553673808-0",
+    "x": 627,
+    "y": 4216,
+    "w": 7,
+    "h": 15,
+    "text": "4",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-btn__container.uc-btn__container--center > uc-button.uc.uc-component > a#standalone-button_learn-more",
+    "x": 322,
+    "y": 4264,
+    "w": 133,
+    "h": 45,
+    "text": "learn more",
+    "href": "/en/rewards/bofa-rewards"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-grid.uc-grid--col-span-6--medium > uc-heading-group.uc.uc-component > h2#csp-id-c08b2c0f-e730-4211-8c07-25c6a7603aed",
+    "x": 168,
+    "y": 4455,
+    "w": 1104,
+    "h": 63,
+    "level": 2,
+    "text": "check your deals — here's how:"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#content-carousel > consumer-flag-carousel.content-carousel__slider.container > button.uc-carousel-next.uc-carousel-arrow",
+    "x": 1400,
+    "y": 4863,
+    "w": 30,
+    "h": 55,
+    "text": "next"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#content-carousel > consumer-flag-carousel.content-carousel__slider.container > button.uc-carousel-prev.uc-carousel-arrow",
+    "x": 10,
+    "y": 4863,
+    "w": 30,
+    "h": 55,
+    "text": "previous"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.content-carousel__fullImg > picture > img",
+    "x": 0,
+    "y": 4542,
+    "w": 1440,
+    "h": 696,
+    "text": "open the app, then scroll down and find deals. screenshot of",
+    "file": "app_carousel-1-dt-1440x692-april-2026"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.uc-carousel-dots > li.uc-carousel-active > button#uc-carousel-slide-control10",
+    "x": 251,
+    "y": 5195,
+    "w": 48,
+    "h": 4,
+    "text": "1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.uc-carousel-dots > li > button#uc-carousel-slide-control11",
+    "x": 317,
+    "y": 5196,
+    "w": 48,
+    "h": 2,
+    "text": "2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.uc-carousel-dots > li > button#uc-carousel-slide-control12",
+    "x": 383,
+    "y": 5196,
+    "w": 48,
+    "h": 2,
+    "text": "3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.uc-carousel-dots > li > button#uc-carousel-slide-control13",
+    "x": 449,
+    "y": 5196,
+    "w": 48,
+    "h": 2,
+    "text": "4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#tiles > div.container.section__wrapper > h2.tiles__heading.text-black",
+    "x": 72,
+    "y": 5336,
+    "w": 1296,
+    "h": 108,
+    "level": 2,
+    "text": "cash back deals are an exclusive benefit for bank of america credit and debit card holders. 1"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h2.tiles__heading.text-black > sup > a#footnote-1279581369-2",
+    "x": 935,
+    "y": 5397,
+    "w": 7,
+    "h": 17,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 301,
+    "y": 5468,
+    "w": 399,
+    "h": 273,
+    "text": "",
+    "file": "card-790x540-dt"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__item.tiles__item--two > div.tiles__content > h3.tiles__subHeading.text-black",
+    "x": 317,
+    "y": 5761,
+    "w": 367,
+    "h": 70,
+    "level": 3,
+    "text": "don't have a bank of america credit or debit card?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__cta > a#tile494427737-_-open-an-account",
+    "x": 399,
+    "y": 5879,
+    "w": 202,
+    "h": 64,
+    "text": "open an account",
+    "href": "/hp-oaa2/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__media.large-image > picture > img",
+    "x": 740,
+    "y": 5468,
+    "w": 399,
+    "h": 273,
+    "text": "",
+    "file": "mobile-bank-phone-790x540-dt"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__item.tiles__item--two > div.tiles__content > h3.tiles__subHeading.text-black",
+    "x": 756,
+    "y": 5761,
+    "w": 367,
+    "h": 70,
+    "level": 3,
+    "text": "not enrolled in mobile or online banking?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles__content > div.tiles__cta > a#tile907625763-_-enroll-now",
+    "x": 870,
+    "y": 5879,
+    "w": 140,
+    "h": 64,
+    "text": "enroll now",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.uc-grid.uc-grid--col-span-6--medium > uc-heading-group.uc.uc-component > h2#csp-id-034f4a66-295d-494f-85cb-39511f99a01c",
+    "x": 168,
+    "y": 6073,
+    "w": 1104,
+    "h": 50,
+    "level": 2,
+    "text": "frequently asked questions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-665237b8-2ca6-42b5-8f08-893c7d01ca81 > div.accordion-items-option > a#accordion451919027-_-expandable-_-expand-all-expande",
+    "x": 1196,
+    "y": 6198,
+    "w": 68,
+    "h": 19,
+    "text": "expand all",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-665237b8-2ca6-42b5-8f08-893c7d01ca81 > div#accordion-item-_-accordion-_-1715131071 > h3.accordion-item__question.section-gray",
+    "x": 176,
+    "y": 6228,
+    "w": 1088,
+    "h": 60,
+    "level": 3,
+    "text": "what is the cash back deals program?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1715131071 > h3.accordion-item__question.section-gray > button#accordion1212045160-_-expandable-_-what-is-the-cash-back-deals-program_",
+    "x": 178,
+    "y": 6228,
+    "w": 1084,
+    "h": 60,
+    "text": "what is the cash back deals program?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1715131071 > h3.accordion-item__question.section-gray > button#accordion1212045160-_-expandable-_-what-is-the-cash-back-deals-program_",
+    "x": 178,
+    "y": 6228,
+    "w": 1084,
+    "h": 60,
+    "label": "trigger",
+    "value": "what is the cash back deals program?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-665237b8-2ca6-42b5-8f08-893c7d01ca81 > div#accordion-item-_-accordion-_-1718936727 > h3.accordion-item__question.section-gray",
+    "x": 176,
+    "y": 6296,
+    "w": 1088,
+    "h": 60,
+    "level": 3,
+    "text": "how do i earn rewards with cash back deals?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1718936727 > h3.accordion-item__question.section-gray > button#accordion188739349-_-expandable-_-how-do-i-earn-rewards-with-cash-back-deals_",
+    "x": 178,
+    "y": 6296,
+    "w": 1084,
+    "h": 60,
+    "text": "how do i earn rewards with cash back deals?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1718936727 > h3.accordion-item__question.section-gray > button#accordion188739349-_-expandable-_-how-do-i-earn-rewards-with-cash-back-deals_",
+    "x": 178,
+    "y": 6296,
+    "w": 1084,
+    "h": 60,
+    "label": "trigger",
+    "value": "how do i earn rewards with cash back deals?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-665237b8-2ca6-42b5-8f08-893c7d01ca81 > div#accordion-item-_-accordion-_-1739019574 > h3.accordion-item__question.section-gray",
+    "x": 176,
+    "y": 6364,
+    "w": 1088,
+    "h": 60,
+    "level": 3,
+    "text": "how do cash back deals differ from my credit card rewards?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1739019574 > h3.accordion-item__question.section-gray > button#accordion715272615-_-expandable-_-how-do-cash-back-deals-differ-from-my-credit-card-rewards_-",
+    "x": 178,
+    "y": 6364,
+    "w": 1084,
+    "h": 60,
+    "text": "how do cash back deals differ from my credit card rewards?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1739019574 > h3.accordion-item__question.section-gray > button#accordion715272615-_-expandable-_-how-do-cash-back-deals-differ-from-my-credit-card-rewards_-",
+    "x": 178,
+    "y": 6364,
+    "w": 1084,
+    "h": 60,
+    "label": "trigger",
+    "value": "how do cash back deals differ from my credit card rewards?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-665237b8-2ca6-42b5-8f08-893c7d01ca81 > div#accordion-item-_-accordion-_-1739079255 > h3.accordion-item__question.section-gray",
+    "x": 176,
+    "y": 6432,
+    "w": 1088,
+    "h": 96,
+    "level": 3,
+    "text": "what bank of america cards are considered not eligible to earn rewards from cash back deals?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1739079255 > h3.accordion-item__question.section-gray > button#accordion1173734380-_-expandable-_-what-bank-of-america-cards-are-considered-not-eligible-to-earn-rewards-from-cash-back-deals_-",
+    "x": 178,
+    "y": 6432,
+    "w": 1084,
+    "h": 96,
+    "text": "what bank of america cards are considered not eligible to earn rewards from cash"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1739079255 > h3.accordion-item__question.section-gray > button#accordion1173734380-_-expandable-_-what-bank-of-america-cards-are-considered-not-eligible-to-earn-rewards-from-cash-back-deals_-",
+    "x": 178,
+    "y": 6432,
+    "w": 1084,
+    "h": 96,
+    "label": "trigger",
+    "value": "what bank of america cards are considered not eligible to ea",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#csp-id-665237b8-2ca6-42b5-8f08-893c7d01ca81 > div#accordion-item-_-accordion-_-1739139735 > h3.accordion-item__question.section-gray",
+    "x": 176,
+    "y": 6536,
+    "w": 1088,
+    "h": 60,
+    "level": 3,
+    "text": "if i have a joint account, what happens with my deals?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1739139735 > h3.accordion-item__question.section-gray > button#accordion1881133266-_-expandable-_-if-i-have-a-joint-account_-what-happens-with-my-deals_",
+    "x": 178,
+    "y": 6536,
+    "w": 1084,
+    "h": 60,
+    "text": "if i have a joint account, what happens with my deals?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#accordion-item-_-accordion-_-1739139735 > h3.accordion-item__question.section-gray > button#accordion1881133266-_-expandable-_-if-i-have-a-joint-account_-what-happens-with-my-deals_",
+    "x": 178,
+    "y": 6536,
+    "w": 1084,
+    "h": 60,
+    "label": "trigger",
+    "value": "if i have a joint account, what happens with my deals?",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1279581369 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6675,
+    "w": 1264,
+    "h": 56,
+    "text": "You must be enrolled in Online Banking or Mobile Banking to participate in the d"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1279581369 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6676,
+    "w": 12,
+    "h": 14,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1372637601 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6754,
+    "w": 913,
+    "h": 17,
+    "text": "Mobile Banking requires that you download the Mobile Banking app and may not be "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1372637601 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6754,
+    "w": 12,
+    "h": 14,
+    "text": "2",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-73991137 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6794,
+    "w": 913,
+    "h": 17,
+    "text": "In most cases earned rewards will be credited to your designated account within "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-73991137 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6794,
+    "w": 12,
+    "h": 14,
+    "text": "3",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1553673808 > div.disclosures__text.text > p",
+    "x": 74,
+    "y": 6833,
+    "w": 1212,
+    "h": 37,
+    "text": "BofA Rewards™ members will be eligible for exclusive deal offers. All such offer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__text.text > p > a#disclosures_deals-homepage",
+    "x": 74,
+    "y": 6833,
+    "w": 1212,
+    "h": 37,
+    "text": "deals homepage",
+    "href": "/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#disclosure-1553673808 > div.disclosures__text.text > a.disclosures__note.t-track-body-copy-link",
+    "x": 56,
+    "y": 6834,
+    "w": 12,
+    "h": 14,
+    "text": "4",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.disclosures__wrapper > div.disclosures__item.disclosures__item--generic > p",
+    "x": 72,
+    "y": 6893,
+    "w": 1292,
+    "h": 37,
+    "text": "Merrill, Bank of America and the Bank of America logo are registered trademarks "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__boalogo > a#footer-_-logo",
+    "x": 72,
+    "y": 7001,
+    "w": 200,
+    "h": 26,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__boalogo > a#footer-_-logo > img",
+    "x": 72,
+    "y": 7001,
+    "w": 200,
+    "h": 20,
+    "text": "bank of america homepage",
+    "file": "BofA-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer_wrapper.not-modal > div.footer__copy.text > div.footer__bottom",
+    "x": 72,
+    "y": 7046,
+    "w": 1296,
+    "h": 48,
+    "text": "| | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_PrivacySecurity",
+    "x": 94,
+    "y": 7049,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_Security",
+    "x": 147,
+    "y": 7049,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_AdPractices",
+    "x": 207,
+    "y": 7049,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#footer_children_s-privacy",
+    "x": 342,
+    "y": 7049,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#launchOtPc",
+    "x": 457,
+    "y": 7049,
+    "w": 126,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#cobrowse",
+    "x": 619,
+    "y": 7046,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__copy.text > div.footer__bottom > a#Footer_EHL",
+    "x": 291,
+    "y": 7073,
+    "w": 148,
+    "h": 17,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-content.aem-GridColumn > div.footer_wrapper.not-modal > div.footer__copyright",
+    "x": 72,
+    "y": 7094,
+    "w": 1296,
+    "h": 24,
+    "text": "© Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.not-modal > div.container.section__wrapper > p.footer__ar",
+    "x": 72,
+    "y": 7146,
+    "w": 1296,
+    "h": 20,
+    "text": "MAP8839938-10082027 | LP-01-26-2423"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 2,
+    "textNodes": 102,
+    "controls": 42,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--78f2fb76--aemcoder.aem.page/en/deals",
+  "at": "2026-11-13T20:44:51.570Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7205,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-utility > p > a",
+    "x": 1295,
+    "y": 10,
+    "w": 73,
+    "h": 19,
+    "text": "en español",
+    "href": "/es/deals.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-brand > p > a",
+    "x": 72,
+    "y": 51,
+    "w": 245,
+    "h": 44,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p > a > img.header-logo",
+    "x": 72,
+    "y": 51,
+    "w": 245,
+    "h": 44,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-ctas > p > a",
+    "x": 843,
+    "y": 51,
+    "w": 318,
+    "h": 44,
+    "text": "not a customer? open an account today.",
+    "href": "/hp-oaa2/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-ctas > p > a",
+    "x": 1193,
+    "y": 51,
+    "w": 175,
+    "h": 44,
+    "text": "view your deals",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-notch-img.masthead-notch-desktop > picture > img",
+    "x": 0,
+    "y": 106,
+    "w": 1440,
+    "h": 600,
+    "text": "",
+    "file": "media_1bc9821bd0141916fa7079fb04b3248921"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-notch-card > div.masthead-notch-heading > h1#cash-back-deals--tailored-to-you",
+    "x": 224,
+    "y": 674,
+    "w": 992,
+    "h": 63,
+    "level": 1,
+    "text": "cash back deals — tailored to you"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-notch-card > div.masthead-notch-sub.headline-sm-wrap > p",
+    "x": 224,
+    "y": 755,
+    "w": 992,
+    "h": 60,
+    "text": "As a Bank of America customer, get cash back, discounts and more with deals from"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.masthead-notch-cta > p.button-wrapper > a.button.accent",
+    "x": 643,
+    "y": 833,
+    "w": 164,
+    "h": 45,
+    "text": "view your deals",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.brands.block > div.brands-text > h2#top-brands",
+    "x": 186,
+    "y": 974,
+    "w": 1068,
+    "h": 63,
+    "level": 2,
+    "text": "top brands"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.brands.block > div.brands-text > h3#explore-deals-tailored-to-you-from-easy-to-search-categories-like-travel-retail-health--beauty-entertainment-and-more1",
+    "x": 186,
+    "y": 1053,
+    "w": 1068,
+    "h": 75,
+    "level": 3,
+    "text": "explore deals tailored to you from easy-to search categories like travel, retail, health & beauty, entertainment and mor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.brands-text > h3#explore-deals-tailored-to-you-from-easy-to-search-categories-like-travel-retail-health--beauty-entertainment-and-more1 > a#footnote-1279581369-0",
+    "x": 914,
+    "y": 1092,
+    "w": 6,
+    "h": 35,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.brands.block > div.brands-text > p",
+    "x": 186,
+    "y": 1144,
+    "w": 1068,
+    "h": 28,
+    "text": "Here are some brands that have been featured:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.brands-item > picture > img",
+    "x": 0,
+    "y": 1220,
+    "w": 704,
+    "h": 244,
+    "text": "dunkin, best buy, cvs, sephora, nike, lyft, macy's, walmart",
+    "file": "media_1b1e5bf5dacae2637f3db54603822dbade"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.brands-item > picture > img",
+    "x": 736,
+    "y": 1220,
+    "w": 704,
+    "h": 244,
+    "text": "expedia, the home depot, fanatics, lyft, lululemon, mcdonald",
+    "file": "media_16266324894fb1aef5ef5e5fc49a4ce784"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-body > div.features-heading > h2#cash-back-made-simple",
+    "x": 72,
+    "y": 1583,
+    "w": 1296,
+    "h": 56,
+    "level": 2,
+    "text": "cash back made simple"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-items > div.features-item > h3#click",
+    "x": 238,
+    "y": 1687,
+    "w": 260,
+    "h": 60,
+    "level": 3,
+    "text": "click"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 343,
+    "y": 1763,
+    "w": 50,
+    "h": 50,
+    "text": "scroll",
+    "file": "media_1dc51b3466e5dd055ad2c9410a32edca1b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-items > div.features-item > p",
+    "x": 238,
+    "y": 1819,
+    "w": 260,
+    "h": 78,
+    "text": "Pick deals from your list of offers in Mobile or Online Banking."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-item > p > a#footnote-1372637601-0",
+    "x": 391,
+    "y": 1846,
+    "w": 7,
+    "h": 24,
+    "text": "2",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-items > div.features-item > h3#shop",
+    "x": 590,
+    "y": 1687,
+    "w": 260,
+    "h": 60,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 695,
+    "y": 1763,
+    "w": 50,
+    "h": 50,
+    "text": "credit card",
+    "file": "media_169553a7f9ab880c3569487056a12f8b4a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-items > div.features-item > p",
+    "x": 590,
+    "y": 1819,
+    "w": 260,
+    "h": 78,
+    "text": "Pay with your eligible Bank of America credit or debit card."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-item > p > a#footnote-1279581369-1",
+    "x": 773,
+    "y": 1872,
+    "w": 7,
+    "h": 24,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-items > div.features-item > h3#earn",
+    "x": 942,
+    "y": 1687,
+    "w": 260,
+    "h": 60,
+    "level": 3,
+    "text": "earn"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 1047,
+    "y": 1763,
+    "w": 50,
+    "h": 50,
+    "text": "dollar sign",
+    "file": "media_17c049016e79d0fd50b7e87ecef99916a4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-items > div.features-item > p",
+    "x": 942,
+    "y": 1819,
+    "w": 260,
+    "h": 78,
+    "text": "Your account will be credited with the cash back you've earned."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-item > p > a#footnote-73991137-0",
+    "x": 1100,
+    "y": 1872,
+    "w": 7,
+    "h": 24,
+    "text": "3",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.features-cta > p.button-wrapper > a.button.accent",
+    "x": 609,
+    "y": 1961,
+    "w": 232,
+    "h": 57,
+    "text": "view your deals",
+    "href": "/deeplink/redirect.go"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-img > picture > img",
+    "x": 720,
+    "y": 2110,
+    "w": 647,
+    "h": 548,
+    "text": "",
+    "file": "media_10e3cb885666e8c5b37757de320e9964b5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-heading > h2#stack-your-rewards",
+    "x": 169,
+    "y": 2283,
+    "w": 479,
+    "h": 48,
+    "level": 2,
+    "text": "stack your rewards"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 169,
+    "y": 2359,
+    "w": 479,
+    "h": 87,
+    "text": "Your cash back is any other cash back, discounts or rewards your eligible Bank o"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-img > picture > img",
+    "x": 73,
+    "y": 2684,
+    "w": 647,
+    "h": 548,
+    "text": "",
+    "file": "media_1e6deb6c894abc01f4269041b7dfd220dc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-heading > h2#daily-essentials",
+    "x": 816,
+    "y": 2831,
+    "w": 479,
+    "h": 48,
+    "level": 2,
+    "text": "daily essentials"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 2907,
+    "w": 479,
+    "h": 58,
+    "text": "Discover limited-time deals on everyday essentials like gas, lunch or coffee."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-text > p",
+    "x": 816,
+    "y": 2988,
+    "w": 479,
+    "h": 58,
+    "text": "These deals are only available for a few hours — check back often so you don't m"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-img > picture > img",
+    "x": 720,
+    "y": 3258,
+    "w": 647,
+    "h": 548,
+    "text": "",
+    "file": "media_11c060e085d6f988fca6e6733d6999a5c9"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-body > div.pcard-heading > h2#special-event-deals",
+    "x": 169,
+    "y": 3334,
+    "w": 479,
+    "h": 48,
+    "level": 2,
+    "text": "special event deals"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > h3#june",
+    "x": 158,
+    "y": 3410,
+    "w": 248,
+    "h": 27,
+    "level": 3,
+    "text": "june"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-col > h3#june > strong",
+    "x": 158,
+    "y": 3410,
+    "w": 44,
+    "h": 27,
+    "text": "June"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 158,
+    "y": 3437,
+    "w": 248,
+    "h": 29,
+    "text": "FIFA World Cup 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > h3#july",
+    "x": 158,
+    "y": 3490,
+    "w": 248,
+    "h": 27,
+    "level": 3,
+    "text": "july"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-col > h3#july > strong",
+    "x": 158,
+    "y": 3490,
+    "w": 37,
+    "h": 27,
+    "text": "July"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 158,
+    "y": 3517,
+    "w": 248,
+    "h": 29,
+    "text": "Sizzling Summer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 158,
+    "y": 3546,
+    "w": 248,
+    "h": 29,
+    "text": "Road Trip"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > h3#august",
+    "x": 158,
+    "y": 3598,
+    "w": 248,
+    "h": 27,
+    "level": 3,
+    "text": "august"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-col > h3#august > strong",
+    "x": 158,
+    "y": 3598,
+    "w": 70,
+    "h": 27,
+    "text": "August"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 158,
+    "y": 3625,
+    "w": 248,
+    "h": 29,
+    "text": "Back to School"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 158,
+    "y": 3654,
+    "w": 248,
+    "h": 29,
+    "text": "Cool Tech, Hot Savings"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > h3#october",
+    "x": 421,
+    "y": 3410,
+    "w": 233,
+    "h": 27,
+    "level": 3,
+    "text": "october"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-col > h3#october > strong",
+    "x": 421,
+    "y": 3410,
+    "w": 81,
+    "h": 27,
+    "text": "October"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 421,
+    "y": 3437,
+    "w": 233,
+    "h": 29,
+    "text": "Double Days"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 421,
+    "y": 3466,
+    "w": 233,
+    "h": 29,
+    "text": "Spooky Deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-col > p > strong",
+    "x": 421,
+    "y": 3523,
+    "w": 104,
+    "h": 28,
+    "text": "November"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 421,
+    "y": 3553,
+    "w": 233,
+    "h": 29,
+    "text": "Black Friday"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 421,
+    "y": 3582,
+    "w": 233,
+    "h": 29,
+    "text": "National Cash Back Day"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > h3#december",
+    "x": 421,
+    "y": 3635,
+    "w": 233,
+    "h": 27,
+    "level": 3,
+    "text": "december"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-col > h3#december > strong",
+    "x": 421,
+    "y": 3635,
+    "w": 100,
+    "h": 27,
+    "text": "December"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pcard-row > div.pcard-col > p",
+    "x": 421,
+    "y": 3662,
+    "w": 233,
+    "h": 29,
+    "text": "HoliDeals"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-bg > picture > img",
+    "x": 0,
+    "y": 3831,
+    "w": 1440,
+    "h": 600,
+    "text": "",
+    "file": "media_15faaa21a91c8f5fa31bcc6222d54b7168"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-logo > picture > img",
+    "x": 112,
+    "y": 3953,
+    "w": 300,
+    "h": 42,
+    "text": "bofa rewards",
+    "file": "media_1bd29364d41f08fd01d3fa4577315dc55a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-panel > div.story-title > h2#exclusive-deals-for-bofarewardstm-members",
+    "x": 112,
+    "y": 4015,
+    "w": 544,
+    "h": 120,
+    "level": 2,
+    "text": "exclusive deals for bofa rewards tm members"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-panel > div.story-sub > p",
+    "x": 112,
+    "y": 4153,
+    "w": 544,
+    "h": 90,
+    "text": "Not a member? It's free to join, you just need a BofA personal checking account."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-sub > p > a#footnote-1553673808-0",
+    "x": 534,
+    "y": 4213,
+    "w": 7,
+    "h": 30,
+    "text": "4",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-cta > p.button-wrapper > a.button.accent",
+    "x": 322,
+    "y": 4261,
+    "w": 133,
+    "h": 45,
+    "text": "learn more",
+    "href": "/en/rewards/bofa-rewards"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.banner.block > div.banner-inner > h2#check-your-deals--heres-how",
+    "x": 168,
+    "y": 4455,
+    "w": 1104,
+    "h": 63,
+    "level": 2,
+    "text": "check your deals — here's how:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.carousel-media.carousel-desktop > picture > img",
+    "x": 0,
+    "y": 4542,
+    "w": 1440,
+    "h": 696,
+    "text": "open the app, then scroll down and find deals. screenshot of",
+    "file": "media_19a448eac36376c20f9bc4bcdb7388995c"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.carousel-wrapper > div.carousel.block > button.carousel-arrow.carousel-next",
+    "x": 1400,
+    "y": 4863,
+    "w": 30,
+    "h": 55,
+    "text": "next"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.carousel-wrapper > div.carousel.block > button.carousel-arrow.carousel-prev",
+    "x": 10,
+    "y": 4863,
+    "w": 30,
+    "h": 55,
+    "text": "previous"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.carousel-dots > li.is-active > button",
+    "x": 251,
+    "y": 5195,
+    "w": 48,
+    "h": 4,
+    "text": "1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.carousel-dots > li > button",
+    "x": 317,
+    "y": 5196,
+    "w": 48,
+    "h": 2,
+    "text": "2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.carousel-dots > li > button",
+    "x": 383,
+    "y": 5196,
+    "w": 48,
+    "h": 2,
+    "text": "3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.carousel-dots > li > button",
+    "x": 449,
+    "y": 5196,
+    "w": 48,
+    "h": 2,
+    "text": "4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles.block > div.tiles-heading > h2#cash-back-deals-are-an-exclusive-benefit-for-bankofamerica-credit-and-debit-cardholders1",
+    "x": 72,
+    "y": 5336,
+    "w": 1296,
+    "h": 108,
+    "level": 2,
+    "text": "cash back deals are an exclusive benefit for bank of america credit and debit card holders. 1"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-heading > h2#cash-back-deals-are-an-exclusive-benefit-for-bankofamerica-credit-and-debit-cardholders1 > a#footnote-1279581369-2",
+    "x": 936,
+    "y": 5388,
+    "w": 6,
+    "h": 57,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-desktop > picture > img",
+    "x": 301,
+    "y": 5468,
+    "w": 399,
+    "h": 273,
+    "text": "",
+    "file": "media_1af41828f55cd0cd1702d65bf616f79ecd"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item.tiles-item-first > div.tiles-subheading > h3#dont-have-a-bankofamerica-credit-or-debit-card",
+    "x": 317,
+    "y": 5761,
+    "w": 367,
+    "h": 70,
+    "level": 3,
+    "text": "don't have a bank of america credit or debit card?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-cta > p.button-wrapper > a.button.primary",
+    "x": 399,
+    "y": 5879,
+    "w": 202,
+    "h": 64,
+    "text": "open an account",
+    "href": "/hp-oaa2/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-img.tiles-img-desktop > picture > img",
+    "x": 740,
+    "y": 5468,
+    "w": 399,
+    "h": 273,
+    "text": "",
+    "file": "media_16ec71891e1ddc7e73679c7e7ce2d248b2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-item > div.tiles-subheading > h3#not-enrolled-in-mobile-or-onlinebanking",
+    "x": 756,
+    "y": 5761,
+    "w": 367,
+    "h": 70,
+    "level": 3,
+    "text": "not enrolled in mobile or online banking?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tiles-cta > p.button-wrapper > a.button.primary",
+    "x": 870,
+    "y": 5879,
+    "w": 140,
+    "h": 64,
+    "text": "enroll now",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.banner.dark > div.banner-inner > h2#frequently-asked-questions",
+    "x": 168,
+    "y": 6073,
+    "w": 1104,
+    "h": 50,
+    "level": 2,
+    "text": "frequently asked questions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > span.faq-expand > a",
+    "x": 1196,
+    "y": 6198,
+    "w": 68,
+    "h": 19,
+    "text": "expand all",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6250,
+    "w": 30,
+    "h": 18,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6250,
+    "w": 30,
+    "h": 18,
+    "label": "what is the cash back deals program?",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-handle > div.faq-title > h3#what-is-the-cash-back-deals-program",
+    "x": 245,
+    "y": 6239,
+    "w": 487,
+    "h": 38,
+    "level": 3,
+    "text": "what is the cash back deals program?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6318,
+    "w": 30,
+    "h": 18,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6318,
+    "w": 30,
+    "h": 18,
+    "label": "how do i earn rewards with cash back deals?",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-handle > div.faq-title > h3#how-do-i-earn-rewards-with-cash-back-deals",
+    "x": 245,
+    "y": 6307,
+    "w": 577,
+    "h": 38,
+    "level": 3,
+    "text": "how do i earn rewards with cash back deals?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6386,
+    "w": 30,
+    "h": 18,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6386,
+    "w": 30,
+    "h": 18,
+    "label": "how do cash back deals differ from my credit card rewards?",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-handle > div.faq-title > h3#how-do-cash-back-deals-differ-from-my-credit-card-rewards",
+    "x": 245,
+    "y": 6375,
+    "w": 775,
+    "h": 38,
+    "level": 3,
+    "text": "how do cash back deals differ from my credit card rewards?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6454,
+    "w": 30,
+    "h": 18,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6454,
+    "w": 30,
+    "h": 18,
+    "label": "what bank of america cards are considered not eligible to earn rewards from cash back deals?",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-handle > div.faq-title > h3#what-bank-of-america-cards-are-considered-not-eligible-to-earn-rewards-from-cash-back-deals",
+    "x": 245,
+    "y": 6442,
+    "w": 973,
+    "h": 76,
+    "level": 3,
+    "text": "what bank of america cards are considered not eligible to earn rewards from cash back deals?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6558,
+    "w": 30,
+    "h": 18,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-item > div.faq-handle > button.faq-toggle",
+    "x": 191,
+    "y": 6558,
+    "w": 30,
+    "h": 18,
+    "label": "if i have a joint account, what happens with my deals?",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-handle > div.faq-title > h3#if-i-have-a-joint-account-what-happens-with-my-deals",
+    "x": 245,
+    "y": 6547,
+    "w": 695,
+    "h": 38,
+    "level": 3,
+    "text": "if i have a joint account, what happens with my deals?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6675,
+    "w": 1264,
+    "h": 56,
+    "text": "You must be enrolled in Online Banking or Mobile Banking to participate in the d"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6676,
+    "w": 5,
+    "h": 12,
+    "text": "1",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6754,
+    "w": 913,
+    "h": 17,
+    "text": "Mobile Banking requires that you download the Mobile Banking app and may not be "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6754,
+    "w": 5,
+    "h": 12,
+    "text": "2",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6794,
+    "w": 913,
+    "h": 17,
+    "text": "In most cases earned rewards will be credited to your designated account within "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6794,
+    "w": 5,
+    "h": 12,
+    "text": "3",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6833,
+    "w": 1212,
+    "h": 37,
+    "text": "BofA Rewards™ members will be eligible for exclusive deal offers. All such offer"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-lead > p > a",
+    "x": 74,
+    "y": 6833,
+    "w": 1212,
+    "h": 37,
+    "text": "deals homepage",
+    "href": "/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-note > p > a",
+    "x": 63,
+    "y": 6834,
+    "w": 5,
+    "h": 12,
+    "text": "4",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.disclosure-body > div.disclosure-lead > p",
+    "x": 74,
+    "y": 6893,
+    "w": 1276,
+    "h": 37,
+    "text": "Merrill, Bank of America and the Bank of America logo are registered trademarks "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-logo > a",
+    "x": 72,
+    "y": 7001,
+    "w": 1296,
+    "h": 20,
+    "text": "bank of america homepage",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-logo > a > img",
+    "x": 72,
+    "y": 7001,
+    "w": 200,
+    "h": 20,
+    "text": "",
+    "file": "bofa-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copy",
+    "x": 72,
+    "y": 7046,
+    "w": 1296,
+    "h": 48,
+    "text": "| | | | | | Bank of America, N.A. Member FDIC."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 94,
+    "y": 7049,
+    "w": 42,
+    "h": 17,
+    "text": "privacy",
+    "href": "/en/privacy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 147,
+    "y": 7049,
+    "w": 48,
+    "h": 17,
+    "text": "security",
+    "href": "/en/security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 207,
+    "y": 7049,
+    "w": 124,
+    "h": 17,
+    "text": "advertising practices",
+    "href": "/modals/advertising-practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 342,
+    "y": 7049,
+    "w": 103,
+    "h": 17,
+    "text": "children's privacy",
+    "href": "/online-banking/childrens-privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 457,
+    "y": 7049,
+    "w": 122,
+    "h": 17,
+    "text": "your privacy choices",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "p.footer-copy > span.icon.icon-optout > img",
+    "x": 587,
+    "y": 7048,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "optout"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a",
+    "x": 619,
+    "y": 7046,
+    "w": 135,
+    "h": 24,
+    "text": "browse with specialist",
+    "href": "/en/deals"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-inner > p.footer-copy > a.footer-ehl",
+    "x": 291,
+    "y": 7073,
+    "w": 148,
+    "h": 17,
+    "text": "equal housing lender",
+    "href": "/help/equalhousing-popup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-copyright",
+    "x": 72,
+    "y": 7094,
+    "w": 1296,
+    "h": 24,
+    "text": "© 2026 Bank of America Corporation. All rights reserved."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-inner > p.footer-code",
+    "x": 72,
+    "y": 7146,
+    "w": 1296,
+    "h": 20,
+    "text": "MAP8839938-10082027 | LP-01-26-2423"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 2,
+    "textNodes": 100,
+    "controls": 42,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "cash back deals — tailored to you",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "top brands",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "explore deals tailored to you from easy-to search categories like travel, retail, health & beauty, entertainment and mor",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 2
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "cash back made simple",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "click",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "shop",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "earn",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 3,
+    "image": 3
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 4,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "stack your rewards",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "daily essentials",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "special event deals",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "june",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "october",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "july",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "august",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 15,
+   "heading": "december",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 16,
+   "heading": "exclusive deals for bofa rewards tm members",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 17,
+   "heading": "check your deals — here's how:",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 6,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 6,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 18,
+   "heading": "cash back deals are an exclusive benefit for bank of america credit and debit card holders. 1",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 19,
+   "heading": "don't have a bank of america credit or debit card?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 20,
+   "heading": "not enrolled in mobile or online banking?",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 21,
+   "heading": "frequently asked questions",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 22,
+   "heading": "what is the cash back deals program?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON",
+    "CONTROL STATE"
+   ]
+  },
+  {
+   "index": 23,
+   "heading": "how do i earn rewards with cash back deals?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON",
+    "CONTROL STATE"
+   ]
+  },
+  {
+   "index": 24,
+   "heading": "how do cash back deals differ from my credit card rewards?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON",
+    "CONTROL STATE"
+   ]
+  },
+  {
+   "index": 25,
+   "heading": "what bank of america cards are considered not eligible to earn rewards from cash back deals?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON",
+    "CONTROL STATE"
+   ]
+  },
+  {
+   "index": 26,
+   "heading": "if i have a joint account, what happens with my deals?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "MISSING BUTTON",
+    "COUNT TEXT",
+    "CONTROL STATE"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"what is the cash back deals program?\" in band \"what is the cash back deals program?\" (origin y 6228) not on the served page",
+   "band": 22,
+   "n": 1,
+   "text": "what is the cash back deals program?"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"what is the cash back deals program?\" → served \"\" (band \"what is the cash back deals program?\")",
+   "band": 22,
+   "label": "trigger",
+   "origin": "what is the cash back deals program?",
+   "eds": ""
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"how do i earn rewards with cash back deals?\" in band \"how do i earn rewards with cash back deals?\" (origin y 6296) not on the served page",
+   "band": 23,
+   "n": 1,
+   "text": "how do i earn rewards with cash back deals?"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"how do i earn rewards with cash back deals?\" → served \"\" (band \"how do i earn rewards with cash back deals?\")",
+   "band": 23,
+   "label": "trigger",
+   "origin": "how do i earn rewards with cash back deals?",
+   "eds": ""
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"how do cash back deals differ from my credit card rewards?\" in band \"how do cash back deals differ from my credit card rewards?\" (origin y 6364) not on the served page",
+   "band": 24,
+   "n": 1,
+   "text": "how do cash back deals differ from my credit card rewards?"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"how do cash back deals differ from my credit card rewards?\" → served \"\" (band \"how do cash back deals differ from my credit card rewards?\")",
+   "band": 24,
+   "label": "trigger",
+   "origin": "how do cash back deals differ from my credit card rewards?",
+   "eds": ""
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"what bank of america cards are considered not eligible to earn rewards from cash\" in band \"what bank of america cards are considered not eligible to earn rewards from cash back deals?\" (origin y 6432) not on the served page",
+   "band": 25,
+   "n": 1,
+   "text": "what bank of america cards are considered not eligible to earn rewards from cash"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"what bank of america cards are considered not eligible to ea\" → served \"\" (band \"what bank of america cards are considered not eligible to earn rewards from cash back deals?\")",
+   "band": 25,
+   "label": "trigger",
+   "origin": "what bank of america cards are considered not eligible to ea",
+   "eds": ""
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"if i have a joint account, what happens with my deals?\" in band \"if i have a joint account, what happens with my deals?\" (origin y 6536) not on the served page",
+   "band": 26,
+   "n": 1,
+   "text": "if i have a joint account, what happens with my deals?"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"if i have a joint account, what happens with my deals?\" → served \"\" (band \"if i have a joint account, what happens with my deals?\")",
+   "band": 26,
+   "label": "trigger",
+   "origin": "if i have a joint account, what happens with my deals?",
+   "eds": ""
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"deals homepage\" served in band \"if i have a joint account, what happens with my deals?\", no origin link or button",
+   "band": 26,
+   "n": 1,
+   "text": "deals homepage"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"if i have a joint account, what happens with my deals?\": 0 origin → 5 served visible",
+   "band": 26,
+   "origin": 0,
+   "eds": 5,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 1,
+  "missingButtons": 5,
+  "hiddenButtons": 0,
+  "controlState": 5,
+  "countDeltas": 1,
+  "findings": 12,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1295,
+    "y": 10,
+    "w": 73,
+    "h": 19
+   },
+   {
+    "x": 865,
+    "y": 63,
+    "w": 274,
+    "h": 19
+   },
+   {
+    "x": 1216,
+    "y": 63,
+    "w": 130,
+    "h": 19
+   },
+   {
+    "x": 335,
+    "y": 672,
+    "w": 769,
+    "h": 66
+   },
+   {
+    "x": 252,
+    "y": 755,
+    "w": 936,
+    "h": 29
+   },
+   {
+    "x": 568,
+    "y": 785,
+    "w": 304,
+    "h": 29
+   },
+   {
+    "x": 666,
+    "y": 844,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 593,
+    "y": 972,
+    "w": 253,
+    "h": 66
+   },
+   {
+    "x": 192,
+    "y": 1054,
+    "w": 1055,
+    "h": 35
+   },
+   {
+    "x": 518,
+    "y": 1092,
+    "w": 395,
+    "h": 35
+   },
+   {
+    "x": 914,
+    "y": 1094,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 521,
+    "y": 1146,
+    "w": 397,
+    "h": 24
+   },
+   {
+    "x": 493,
+    "y": 1582,
+    "w": 454,
+    "h": 57
+   },
+   {
+    "x": 309,
+    "y": 1688,
+    "w": 118,
+    "h": 57
+   },
+   {
+    "x": 255,
+    "y": 1820,
+    "w": 226,
+    "h": 24
+   },
+   {
+    "x": 256,
+    "y": 1846,
+    "w": 134,
+    "h": 24
+   },
+   {
+    "x": 391,
+    "y": 1845,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 398,
+    "y": 1846,
+    "w": 83,
+    "h": 24
+   },
+   {
+    "x": 332,
+    "y": 1872,
+    "w": 71,
+    "h": 24
+   },
+   {
+    "x": 663,
+    "y": 1688,
+    "w": 114,
+    "h": 57
+   },
+   {
+    "x": 630,
+    "y": 1820,
+    "w": 180,
+    "h": 24
+   },
+   {
+    "x": 624,
+    "y": 1846,
+    "w": 193,
+    "h": 24
+   },
+   {
+    "x": 660,
+    "y": 1872,
+    "w": 112,
+    "h": 24
+   },
+   {
+    "x": 773,
+    "y": 1871,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 1017,
+    "y": 1688,
+    "w": 111,
+    "h": 57
+   },
+   {
+    "x": 950,
+    "y": 1820,
+    "w": 243,
+    "h": 24
+   },
+   {
+    "x": 964,
+    "y": 1846,
+    "w": 215,
+    "h": 24
+   },
+   {
+    "x": 1037,
+    "y": 1872,
+    "w": 62,
+    "h": 24
+   },
+   {
+    "x": 1100,
+    "y": 1871,
+    "w": 7,
+    "h": 14
+   },
+   {
+    "x": 646,
+    "y": 1977,
+    "w": 158,
+    "h": 28
+   },
+   {
+    "x": 169,
+    "y": 2283,
+    "w": 307,
+    "h": 47
+   },
+   {
+    "x": 169,
+    "y": 2359,
+    "w": 171,
+    "h": 29
+   },
+   {
+    "x": 340,
+    "y": 2358,
+    "w": 110,
+    "h": 30
+   },
+   {
+    "x": 450,
+    "y": 2359,
+    "w": 195,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 2387,
+    "w": 323,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 2416,
+    "w": 373,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2831,
+    "w": 249,
+    "h": 47
+   },
+   {
+    "x": 816,
+    "y": 2906,
+    "w": 385,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2935,
+    "w": 334,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2987,
+    "w": 469,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3016,
+    "w": 381,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3335,
+    "w": 308,
+    "h": 47
+   },
+   {
+    "x": 158,
+    "y": 3411,
+    "w": 44,
+    "h": 27
+   },
+   {
+    "x": 158,
+    "y": 3437,
+    "w": 204,
+    "h": 29
+   },
+   {
+    "x": 363,
+    "y": 3439,
+    "w": 16,
+    "h": 14
+   },
+   {
+    "x": 158,
+    "y": 3490,
+    "w": 37,
+    "h": 27
+   },
+   {
+    "x": 158,
+    "y": 3516,
+    "w": 160,
+    "h": 29
+   },
+   {
+    "x": 158,
+    "y": 3545,
+    "w": 92,
+    "h": 29
+   },
+   {
+    "x": 158,
+    "y": 3599,
+    "w": 70,
+    "h": 27
+   },
+   {
+    "x": 158,
+    "y": 3625,
+    "w": 144,
+    "h": 29
+   },
+   {
+    "x": 158,
+    "y": 3654,
+    "w": 221,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3411,
+    "w": 81,
+    "h": 27
+   },
+   {
+    "x": 421,
+    "y": 3437,
+    "w": 120,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3465,
+    "w": 129,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3524,
+    "w": 103,
+    "h": 27
+   },
+   {
+    "x": 421,
+    "y": 3552,
+    "w": 116,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3581,
+    "w": 229,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3634,
+    "w": 100,
+    "h": 27
+   },
+   {
+    "x": 421,
+    "y": 3660,
+    "w": 90,
+    "h": 29
+   },
+   {
+    "x": 112,
+    "y": 4016,
+    "w": 354,
+    "h": 57
+   },
+   {
+    "x": 112,
+    "y": 4076,
+    "w": 273,
+    "h": 57
+   },
+   {
+    "x": 386,
+    "y": 4087,
+    "w": 19,
+    "h": 17
+   },
+   {
+    "x": 404,
+    "y": 4076,
+    "w": 194,
+    "h": 57
+   },
+   {
+    "x": 112,
+    "y": 4153,
+    "w": 159,
+    "h": 30
+   },
+   {
+    "x": 272,
+    "y": 4153,
+    "w": 19,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 4153,
+    "w": 264,
+    "h": 30
+   },
+   {
+    "x": 112,
+    "y": 4184,
+    "w": 170,
+    "h": 30
+   },
+   {
+    "x": 282,
+    "y": 4184,
+    "w": 341,
+    "h": 30
+   },
+   {
+    "x": 112,
+    "y": 4215,
+    "w": 513,
+    "h": 30
+   },
+   {
+    "x": 627,
+    "y": 4216,
+    "w": 7,
+    "h": 15
+   },
+   {
+    "x": 345,
+    "y": 4276,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 363,
+    "y": 4453,
+    "w": 715,
+    "h": 66
+   },
+   {
+    "x": 73,
+    "y": 5334,
+    "w": 1294,
+    "h": 57
+   },
+   {
+    "x": 497,
+    "y": 5388,
+    "w": 437,
+    "h": 57
+   },
+   {
+    "x": 935,
+    "y": 5397,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 326,
+    "y": 5762,
+    "w": 348,
+    "h": 33
+   },
+   {
+    "x": 381,
+    "y": 5797,
+    "w": 239,
+    "h": 33
+   },
+   {
+    "x": 415,
+    "y": 5897,
+    "w": 170,
+    "h": 28
+   },
+   {
+    "x": 792,
+    "y": 5762,
+    "w": 295,
+    "h": 33
+   },
+   {
+    "x": 845,
+    "y": 5797,
+    "w": 190,
+    "h": 33
+   },
+   {
+    "x": 887,
+    "y": 5897,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 502,
+    "y": 6074,
+    "w": 437,
+    "h": 47
+   },
+   {
+    "x": 1196,
+    "y": 6198,
+    "w": 68,
+    "h": 19
+   },
+   {
+    "x": 245,
+    "y": 6239,
+    "w": 487,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6307,
+    "w": 577,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6375,
+    "w": 775,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6442,
+    "w": 924,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6480,
+    "w": 285,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6547,
+    "w": 695,
+    "h": 38
+   },
+   {
+    "x": 74,
+    "y": 6675,
+    "w": 1264,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6695,
+    "w": 1253,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6715,
+    "w": 957,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6676,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6754,
+    "w": 913,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6754,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6794,
+    "w": 913,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6794,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6832,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 271,
+    "y": 6833,
+    "w": 982,
+    "h": 17
+   },
+   {
+    "x": 1253,
+    "y": 6833,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6853,
+    "w": 62,
+    "h": 17
+   },
+   {
+    "x": 135,
+    "y": 6853,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6834,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 72,
+    "y": 6893,
+    "w": 1292,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 6912,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 87,
+    "y": 7049,
+    "w": 3,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 7049,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 7049,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 196,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 7049,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 331,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 342,
+    "y": 7049,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 446,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 457,
+    "y": 7049,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 7049,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 7073,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 7073,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 7097,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 88,
+    "y": 7097,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 118,
+    "y": 7097,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 7147,
+    "w": 251,
+    "h": 17
+   }
+  ],
+  "eds": [
+   {
+    "x": 1295,
+    "y": 10,
+    "w": 73,
+    "h": 19
+   },
+   {
+    "x": 865,
+    "y": 63,
+    "w": 274,
+    "h": 19
+   },
+   {
+    "x": 1216,
+    "y": 63,
+    "w": 130,
+    "h": 19
+   },
+   {
+    "x": 335,
+    "y": 672,
+    "w": 769,
+    "h": 66
+   },
+   {
+    "x": 252,
+    "y": 755,
+    "w": 936,
+    "h": 29
+   },
+   {
+    "x": 568,
+    "y": 785,
+    "w": 304,
+    "h": 29
+   },
+   {
+    "x": 666,
+    "y": 844,
+    "w": 118,
+    "h": 22
+   },
+   {
+    "x": 593,
+    "y": 972,
+    "w": 253,
+    "h": 66
+   },
+   {
+    "x": 192,
+    "y": 1054,
+    "w": 1055,
+    "h": 35
+   },
+   {
+    "x": 519,
+    "y": 1092,
+    "w": 395,
+    "h": 35
+   },
+   {
+    "x": 915,
+    "y": 1103,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 521,
+    "y": 1146,
+    "w": 397,
+    "h": 24
+   },
+   {
+    "x": 493,
+    "y": 1582,
+    "w": 454,
+    "h": 57
+   },
+   {
+    "x": 309,
+    "y": 1688,
+    "w": 118,
+    "h": 57
+   },
+   {
+    "x": 255,
+    "y": 1820,
+    "w": 226,
+    "h": 24
+   },
+   {
+    "x": 256,
+    "y": 1846,
+    "w": 134,
+    "h": 24
+   },
+   {
+    "x": 392,
+    "y": 1849,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 397,
+    "y": 1846,
+    "w": 83,
+    "h": 24
+   },
+   {
+    "x": 332,
+    "y": 1872,
+    "w": 71,
+    "h": 24
+   },
+   {
+    "x": 663,
+    "y": 1688,
+    "w": 114,
+    "h": 57
+   },
+   {
+    "x": 630,
+    "y": 1820,
+    "w": 180,
+    "h": 24
+   },
+   {
+    "x": 624,
+    "y": 1846,
+    "w": 193,
+    "h": 24
+   },
+   {
+    "x": 661,
+    "y": 1872,
+    "w": 112,
+    "h": 24
+   },
+   {
+    "x": 774,
+    "y": 1875,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 1017,
+    "y": 1688,
+    "w": 111,
+    "h": 57
+   },
+   {
+    "x": 950,
+    "y": 1820,
+    "w": 243,
+    "h": 24
+   },
+   {
+    "x": 964,
+    "y": 1846,
+    "w": 215,
+    "h": 24
+   },
+   {
+    "x": 1038,
+    "y": 1872,
+    "w": 62,
+    "h": 24
+   },
+   {
+    "x": 1101,
+    "y": 1875,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 646,
+    "y": 1977,
+    "w": 158,
+    "h": 28
+   },
+   {
+    "x": 169,
+    "y": 2283,
+    "w": 307,
+    "h": 47
+   },
+   {
+    "x": 169,
+    "y": 2359,
+    "w": 171,
+    "h": 29
+   },
+   {
+    "x": 340,
+    "y": 2359,
+    "w": 93,
+    "h": 28
+   },
+   {
+    "x": 433,
+    "y": 2359,
+    "w": 202,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 2387,
+    "w": 323,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 2416,
+    "w": 373,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2831,
+    "w": 249,
+    "h": 47
+   },
+   {
+    "x": 816,
+    "y": 2906,
+    "w": 385,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2935,
+    "w": 334,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 2987,
+    "w": 469,
+    "h": 29
+   },
+   {
+    "x": 816,
+    "y": 3016,
+    "w": 381,
+    "h": 29
+   },
+   {
+    "x": 169,
+    "y": 3334,
+    "w": 308,
+    "h": 47
+   },
+   {
+    "x": 158,
+    "y": 3410,
+    "w": 44,
+    "h": 27
+   },
+   {
+    "x": 158,
+    "y": 3436,
+    "w": 204,
+    "h": 29
+   },
+   {
+    "x": 363,
+    "y": 3442,
+    "w": 13,
+    "h": 12
+   },
+   {
+    "x": 158,
+    "y": 3490,
+    "w": 37,
+    "h": 27
+   },
+   {
+    "x": 158,
+    "y": 3516,
+    "w": 160,
+    "h": 29
+   },
+   {
+    "x": 158,
+    "y": 3545,
+    "w": 92,
+    "h": 29
+   },
+   {
+    "x": 158,
+    "y": 3598,
+    "w": 70,
+    "h": 27
+   },
+   {
+    "x": 158,
+    "y": 3624,
+    "w": 144,
+    "h": 29
+   },
+   {
+    "x": 158,
+    "y": 3653,
+    "w": 221,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3410,
+    "w": 81,
+    "h": 27
+   },
+   {
+    "x": 421,
+    "y": 3436,
+    "w": 120,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3465,
+    "w": 129,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3523,
+    "w": 104,
+    "h": 28
+   },
+   {
+    "x": 421,
+    "y": 3552,
+    "w": 116,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3581,
+    "w": 229,
+    "h": 29
+   },
+   {
+    "x": 421,
+    "y": 3635,
+    "w": 100,
+    "h": 27
+   },
+   {
+    "x": 421,
+    "y": 3661,
+    "w": 90,
+    "h": 29
+   },
+   {
+    "x": 112,
+    "y": 4016,
+    "w": 354,
+    "h": 57
+   },
+   {
+    "x": 112,
+    "y": 4076,
+    "w": 273,
+    "h": 57
+   },
+   {
+    "x": 386,
+    "y": 4104,
+    "w": 13,
+    "h": 12
+   },
+   {
+    "x": 399,
+    "y": 4076,
+    "w": 194,
+    "h": 57
+   },
+   {
+    "x": 112,
+    "y": 4153,
+    "w": 159,
+    "h": 30
+   },
+   {
+    "x": 272,
+    "y": 4159,
+    "w": 15,
+    "h": 13
+   },
+   {
+    "x": 287,
+    "y": 4153,
+    "w": 369,
+    "h": 30
+   },
+   {
+    "x": 112,
+    "y": 4183,
+    "w": 64,
+    "h": 30
+   },
+   {
+    "x": 176,
+    "y": 4183,
+    "w": 432,
+    "h": 30
+   },
+   {
+    "x": 112,
+    "y": 4213,
+    "w": 422,
+    "h": 30
+   },
+   {
+    "x": 535,
+    "y": 4220,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 345,
+    "y": 4273,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 363,
+    "y": 4453,
+    "w": 715,
+    "h": 66
+   },
+   {
+    "x": 74,
+    "y": 5334,
+    "w": 1292,
+    "h": 57
+   },
+   {
+    "x": 498,
+    "y": 5388,
+    "w": 437,
+    "h": 57
+   },
+   {
+    "x": 937,
+    "y": 5416,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 326,
+    "y": 5762,
+    "w": 348,
+    "h": 33
+   },
+   {
+    "x": 381,
+    "y": 5797,
+    "w": 239,
+    "h": 33
+   },
+   {
+    "x": 415,
+    "y": 5897,
+    "w": 170,
+    "h": 28
+   },
+   {
+    "x": 792,
+    "y": 5762,
+    "w": 295,
+    "h": 33
+   },
+   {
+    "x": 845,
+    "y": 5797,
+    "w": 190,
+    "h": 33
+   },
+   {
+    "x": 887,
+    "y": 5897,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 502,
+    "y": 6074,
+    "w": 437,
+    "h": 47
+   },
+   {
+    "x": 1196,
+    "y": 6198,
+    "w": 68,
+    "h": 19
+   },
+   {
+    "x": 245,
+    "y": 6239,
+    "w": 487,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6307,
+    "w": 577,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6375,
+    "w": 775,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6442,
+    "w": 924,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6480,
+    "w": 285,
+    "h": 38
+   },
+   {
+    "x": 245,
+    "y": 6547,
+    "w": 695,
+    "h": 38
+   },
+   {
+    "x": 74,
+    "y": 6675,
+    "w": 1264,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6695,
+    "w": 1253,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6715,
+    "w": 957,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6676,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6754,
+    "w": 913,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6754,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6794,
+    "w": 913,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6794,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6832,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 271,
+    "y": 6833,
+    "w": 982,
+    "h": 17
+   },
+   {
+    "x": 1253,
+    "y": 6833,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6853,
+    "w": 62,
+    "h": 17
+   },
+   {
+    "x": 135,
+    "y": 6853,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 6834,
+    "w": 5,
+    "h": 12
+   },
+   {
+    "x": 74,
+    "y": 6893,
+    "w": 1276,
+    "h": 17
+   },
+   {
+    "x": 74,
+    "y": 6912,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 87,
+    "y": 7049,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 7049,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 7049,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 196,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 7049,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 331,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 342,
+    "y": 7049,
+    "w": 103,
+    "h": 17
+   },
+   {
+    "x": 446,
+    "y": 7049,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 457,
+    "y": 7049,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 611,
+    "y": 7049,
+    "w": 7,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 7049,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 7073,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 291,
+    "y": 7073,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 7097,
+    "w": 337,
+    "h": 17
+   },
+   {
+    "x": 72,
+    "y": 7147,
+    "w": 251,
+    "h": 17
+   }
+  ]
+ }
+}

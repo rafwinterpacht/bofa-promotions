@@ -1,0 +1,50 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:29:30.789Z",
+    "waitMode": "modal-click",
+    "waitMs": 1630,
+    "httpStatus": 200,
+    "note": "experience fragment: direct navigation 302s to an error page on the source; captured as rendered in its host page modal (click on the offer page link), content from the modal service endpoint"
+  },
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+  "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:29:30.789Z",
+  "finalUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+  "kind": "modal-fragment",
+  "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "serviceUrl": "https://promotions.bankofamerica.com/services/consumer-marketing/modalitem.xf_path./content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal",
+  "serviceJson": {
+    "modalType": "additional-info",
+    "rteMarkup": "<h2>Bank&nbsp;of&nbsp;America Advantage Relationship Banking®</h2>\n<div class=\"text-center\">\n <b>&nbsp;</b>\n <p><b><span class=\"text-regalRed\">We'll waive the $25 monthly maintenance fee each statement cycle when you meet one of the following:</span></b></p>\n <p>Maintain a minimum daily balance of $20,000 in your account</p>\n <p><span class=\"ornament\">or</span></p>\n <p>An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*</p>\n</div>\n<p class=\"text-left\">*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to <a href=\"/content/consumer-info/en/rewards/bofa-rewards.html\" target=\"_blank\" rel=\"noopener noreferrer\">BofA Rewards</a>.</p>",
+    "modalId": 286952680,
+    "modalSize": "modal__wide",
+    "alignment": "modal__align--center",
+    "ariaLabel": "Advantage Relationship Banking"
+  },
+  "title": "Bank of America Advantage Relationship Banking®",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Bank of America Advantage Relationship Banking®"
+    }
+  ],
+  "body": [
+    "We'll waive the $25 monthly maintenance fee each statement cycle when you meet one of the following:",
+    "Maintain a minimum daily balance of $20,000 in your account",
+    "or",
+    "An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*",
+    "*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards."
+  ],
+  "ctas": [
+    {
+      "text": "BofA Rewards",
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html"
+    }
+  ],
+  "text": "Bank of America Advantage Relationship Banking®\n\n  \n We'll waive the $25 monthly maintenance fee each statement cycle when you meet one of the following:\n Maintain a minimum daily balance of $20,000 in your account\n or\n An account owner is enrolled in BofA Rewards™ and qualifies for the Preferred Plus, Preferred Honors, or Premier tier*\n\n*The monthly maintenance fee waiver does not apply to clients in the BofA Rewards Member tier. The monthly maintenance fee is waived for clients in the Preferred Plus, Preferred Honors, and Premier tiers. For BofA Rewards program eligibility requirements, go to BofA Rewards.",
+  "screenshot": "assets/screenshots/content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal.png",
+  "renderedHtml": "pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal.html",
+  "crawlSlug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal-html"
+}

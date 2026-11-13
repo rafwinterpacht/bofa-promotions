@@ -1,0 +1,9 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+  "log": [
+    "stitched stardust/replica/gates/all-360/deposits-debitcard-overview/origin.png: 360x11125 from 13 chunks"
+  ],
+  "fontsFailed": [],
+  "at": "2026-11-13T20:12:22.548Z"
+}

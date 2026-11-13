@@ -1,0 +1,679 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:25:13.942Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "deposits-debitcard-overview",
+  "url": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:25:13.942Z",
+  "finalUrl": "https://promotions.bankofamerica.com/deposits/debitcard/overview",
+  "title": "Debit card overview | Bank of America",
+  "description": "Debit card overview",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Debit is a fast, easy and secure way to pay in‑store and online"
+    },
+    {
+      "tag": "h2",
+      "text": "Lock or unlock1 your debit"
+    },
+    {
+      "tag": "h2",
+      "text": "$0 Liability Guarantee2"
+    },
+    {
+      "tag": "h2",
+      "text": "24/7 monitoring"
+    },
+    {
+      "tag": "h2",
+      "text": "Activate, set up and spend with your debit card"
+    },
+    {
+      "tag": "h3",
+      "text": "Activate and Use"
+    },
+    {
+      "tag": "h3",
+      "text": "Monitor4"
+    },
+    {
+      "tag": "h3",
+      "text": "Pay"
+    },
+    {
+      "tag": "h2",
+      "text": "Ways to PAY with your debit card"
+    },
+    {
+      "tag": "h3",
+      "text": "Enhanced Digital Card for Debit5"
+    },
+    {
+      "tag": "h3",
+      "text": "Digital Wallet"
+    },
+    {
+      "tag": "h3",
+      "text": "PazeSM"
+    },
+    {
+      "tag": "h2",
+      "text": "Ways to SAVE and get REWARDED"
+    },
+    {
+      "tag": "h3",
+      "text": "Keep the Change® Savings Program7"
+    },
+    {
+      "tag": "h3",
+      "text": "Museums on Us®"
+    },
+    {
+      "tag": "h2",
+      "text": "Bank simply and conveniently on your own schedule"
+    }
+  ],
+  "body": [
+    "Misplaced your debit card? You can temporarily lock your debit card, right from our Mobile Banking app or through Online Banking. Then, when you find it, unlocking your card is just as easy.",
+    "Shop with confidence. Our $0 Liability Guarantee means that you’re not liable for unauthorized transactions made using your consumer debit card, as long as you report them promptly.",
+    "Fraud monitoring reviews how and where your card is being used and is designed to help block potential fraud if abnormal patterns are detected.",
+    "Activate your card using the Mobile Banking app3 or call 888-624-2323 and start using your card for everyday purchases.",
+    "Set up and customize alerts to monitor card activity, balances and payment due dates.",
+    "Need to pay utility, subscription and other bills on a schedule? Add your debit card to your billing account to make recurring payments.",
+    "Digital card for debit is a digital version of your physical debit card in our Mobile Banking app. It provides industry-leading fraud protection for online purchases. Please note, the digital card for debit can only be added from a mobile device.",
+    "Benefits include:",
+    "Stronger security — Creates a dynamic security code that changes every time it’s viewed.",
+    "Greater flexibility — Continue to use your digital card for debit even if you lock your physical debit card.",
+    "Convenience — Access your digital card right from our Mobile Banking app when shopping online.",
+    "Get now in the app",
+    "Pay with your debit card by adding it to a digital wallet.",
+    "Simply load your eligible debit card in the digital wallet that works best for you, then shop in-store or in-app using your device. You’ll get the same benefits you’ve come to expect from your Bank of America debit card.",
+    "Learn more",
+    "Paze℠ is a fast and easy way to check out online.",
+    "✓checkmark Add your eligible debit or credit card in Mobile or Online Banking.3",
+    "✓checkmark Activate and use Paze to check out online at participating merchants.",
+    "✓checkmark It’s simple to use: No new apps to download or usernames and passwords to memorize.6",
+    "✓checkmark Paze has added security at checkout because your actual card numbers are not shared with merchants.",
+    "We'll round up your purchases to the nearest dollar amount, then transfer the difference from your checking to the enrolled savings account.",
+    "Debit and credit card holders get free general admission during the first full weekend of every month to more than 225 cultural institutions across the U.S.",
+    "By providing your mobile number you are consenting to receive a text message. Text message fees may apply from your carrier. Text messages may be transmitted automatically. Terms and Conditions"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "En español",
+      "href": "https://promotions.bankofamerica.com/deposits/es/debitcard/overview.html"
+    },
+    {
+      "label": "Manage your card",
+      "href": "https://www.bankofamerica.com/deposits/checking/debit-card/"
+    },
+    {
+      "label": "Explore FAQs",
+      "href": "https://www.bankofamerica.com/deposits/debit-card-faqs/"
+    },
+    {
+      "label": "1",
+      "href": "#disclosure-2048132104"
+    },
+    {
+      "label": "2",
+      "href": "#disclosure-1801811738"
+    },
+    {
+      "label": "3",
+      "href": "#disclosure-1238785478"
+    },
+    {
+      "label": "4",
+      "href": "#disclosure-370329342"
+    },
+    {
+      "label": "Set up and customize alerts",
+      "href": "https://info.bankofamerica.com/en/digital-banking#account-management"
+    },
+    {
+      "label": "5",
+      "href": "#disclosure-727251327"
+    },
+    {
+      "label": "Get now in the app",
+      "href": "https://www.bankofamerica.com/deeplink/redirect.go?target=cardsettings&amp;screen=CardSettings:Home&amp;version=7.2.0"
+    },
+    {
+      "label": "Watch video",
+      "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-debit-card-video/master"
+    },
+    {
+      "label": "Learn more",
+      "href": "/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-wallet-setup/master.html"
+    },
+    {
+      "label": "Watch video",
+      "href": "/content/experience-fragments/consumer_marketing/ecs/deposits/debit-card-digital-wallet-video/master"
+    },
+    {
+      "label": "3",
+      "href": "#disclosure-1238785478"
+    },
+    {
+      "label": "participating merchants",
+      "href": "https://www.paze.com/merchant-directory"
+    },
+    {
+      "label": "6",
+      "href": "#disclosure-1695254006"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://promotions.bankofamerica.com/card/paze"
+    },
+    {
+      "label": "7",
+      "href": "#disclosure-1290758616"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.bankofamerica.com/deposits/keep-the-change/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://about.bankofamerica.com/en/making-an-impact/arts-and-culture"
+    },
+    {
+      "label": "Get the app",
+      "href": null
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "https://promo.bankofamerica.com/messaging-terms-and-conditions"
+    },
+    {
+      "label": "1",
+      "href": "#footnote-2048132104-0"
+    },
+    {
+      "label": "2",
+      "href": "#footnote-1801811738-0"
+    },
+    {
+      "label": "3",
+      "href": "#footnote-1238785478-0"
+    },
+    {
+      "label": "4",
+      "href": "#footnote-370329342-0"
+    },
+    {
+      "label": "5",
+      "href": "#footnote-727251327-0"
+    },
+    {
+      "label": "6",
+      "href": "#footnote-1695254006-0"
+    },
+    {
+      "label": "7",
+      "href": "#footnote-1290758616-0"
+    },
+    {
+      "label": "Privacy",
+      "href": "https://web.bankofamerica.com/en/privacy"
+    },
+    {
+      "label": "Security",
+      "href": "https://web.bankofamerica.com/en/security"
+    },
+    {
+      "label": "Advertising Practices",
+      "href": "#"
+    },
+    {
+      "label": "Children's Privacy",
+      "href": "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/"
+    },
+    {
+      "label": "Your Privacy Choices",
+      "href": "#lot"
+    },
+    {
+      "label": "Browse with Specialist",
+      "href": "#lot"
+    },
+    {
+      "label": "Equal Housing Lender",
+      "href": "https://www.bankofamerica.com/help/equalhousing-popup"
+    }
+  ],
+  "links": [
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#",
+    "https://youradchoices.com/control",
+    "https://www.networkadvertising.org/choices",
+    "https://www.bankofamerica.com/privacy/online-privacy-notice.go?request_locale=en_US",
+    "https://www.bankofamerica.com/privacy/faq/online-privacy-faq.go?request_locale=en_US",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#main-content",
+    "https://www.bankofamerica.com/",
+    "https://promotions.bankofamerica.com/deposits/es/debitcard/overview.html",
+    "https://www.bankofamerica.com/deposits/checking/debit-card/",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=managesettingsdebit",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?reason=profile_settings&version=7.0.0&screen=HelpAndSupport:ProfileAndSettings&channel=desktop",
+    "https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go?requestFrom=search&reason=hsreportlostcard&searchText=lost%5b%5b0020%5d%5dcard",
+    "https://www.bankofamerica.com/deposits/debit-card-faqs/",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-2048132104",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-1801811738",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-1238785478",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-370329342",
+    "https://info.bankofamerica.com/en/digital-banking#account-management",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-727251327",
+    "https://www.bankofamerica.com/deeplink/redirect.go?target=cardsettings&amp;screen=CardSettings:Home&amp;version=7.2.0",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-debit-card-video/master",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/deposits/debitcard/overview/digital-wallet-setup/master.html",
+    "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/ecs/deposits/debit-card-digital-wallet-video/master",
+    "https://www.paze.com/merchant-directory",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-1695254006",
+    "https://promotions.bankofamerica.com/card/paze",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#disclosure-1290758616",
+    "https://www.bankofamerica.com/deposits/keep-the-change/",
+    "https://about.bankofamerica.com/en/making-an-impact/arts-and-culture",
+    "https://promo.bankofamerica.com/messaging-terms-and-conditions",
+    "https://www.bankofamerica.com/online-banking/android-banking-app/#apple",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-2048132104-0",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-1801811738-0",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-1238785478-0",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-370329342-0",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-727251327-0",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-1695254006-0",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#footnote-1290758616-0",
+    "https://web.bankofamerica.com/en/privacy",
+    "https://web.bankofamerica.com/en/security",
+    "https://www.bankofamerica.com/online-banking/childrens-privacy-policy/",
+    "https://promotions.bankofamerica.com/deposits/debitcard/overview#lot",
+    "https://www.bankofamerica.com/help/equalhousing-popup",
+    "https://business.bofa.com/en-us/content/global-privacy-notices.html",
+    "https://secure.bankofamerica.com/customer/public/privacy.go?request_locale=en-US",
+    "https://web.bankofamerica.com/en/privacy/ccpa-disclosure/",
+    "https://secure.bankofamerica.com/customer-preferences/public/personal-information-request/#!/page1/",
+    "https://www.onetrust.com/solutions/consent-and-preferences/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/core_illus_groceriespov1-m_rgb-200x400.png",
+        "alt": "groceries in a bag",
+        "w": 400,
+        "h": 200
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/monitor-phone-m-200x400.png",
+        "alt": "mobile phone with alert",
+        "w": 400,
+        "h": 200
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/core_illus_cardspov-debit-card-m_rgb.png",
+        "alt": "debit card",
+        "w": 400,
+        "h": 200
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/gettyimages-2189035771-200x400.png",
+        "alt": "Two girls shopping and taking selfies",
+        "w": 400,
+        "h": 200
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/gettyimages-1498695348-200x400.png",
+        "alt": "Child and father at a museum",
+        "w": 400,
+        "h": 200
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/mobile-app-widget-debit-card-qrc.jpg",
+        "alt": "Scan the QR code to download our app",
+        "w": 790,
+        "h": 540
+      },
+      {
+        "src": "https://promotions.bankofamerica.com/content/dam/consumer-marketing/global/BofA-logo.svg",
+        "alt": "Bank of America Homepage",
+        "w": 300,
+        "h": 30
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/9b1b72d0-06ef-4e7c-9b2a-e8bc09f34daf/019ae49a-3baa-77a4-8ed2-a3c21db2ce67/67510210-afc0-4051-9bb8-d642e707336c/BOA.PNG",
+        "alt": "Bank of America Logo ",
+        "w": 849,
+        "h": 84
+      },
+      {
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "alt": "Powered by Onetrust",
+        "w": 568,
+        "h": 53
+      }
+    ],
+    "allImgCount": 10,
+    "cssBackgrounds": [
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/debitcard/masthead/LP-02-25-0386_1440x600.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/deposits/debitcard/masthead/G1467976868_790x540.jpg",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/Pittsburgh_230521_StripDistrict_05_19869-1-640x650.png",
+      "https://promotions.bankofamerica.com/content/dam/consumer-marketing/ecs/debit-card/alta_C08_phone_dt_062023.png"
+    ],
+    "modals": [
+      "× Important notice: You are now leaving a Bank of America website. By clicking Continue you will be taken to a website that is not affiliated with Bank of America and may offer a different privacy policy and level of security. Bank of America is not responsible for and does not endorse, guarantee or monitor content availability, viewpoints, products or services that are offered or expressed on other websites. Please refer to the website’s posted privacy terms and use. You can click the Continue button to proceed or the Cancel button to return to the previous page. Continue Cancel Advertising Practices We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that. Bank of America participates in the Digital Advertising Alliance (\"DAA\") self-regulatory Principles for Online Behavioral Advertising and uses the Advertising Options Icon on our behavioral ads on non-affiliated third-party sites (excluding ads appearing on platforms that do not accept the icon). Ads served on our behalf by these companies do not contain unencrypted personal information and we limit the use of personal information by companies that serve our ads. To learn more about ad choices, or to opt out of interest-based advertising with non-affiliated third-party sites, visit YourAdChoices powered by the Digital Advertising Alliance or through the Network Advertising Initiative's Opt-Out Tool. You may also visit the individual sites for additional information on their data and privacy practices and opt-out options. To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the Bank of America Online Privacy Notice and our Online Privacy FAQs. content additional copy",
+      "Your Privacy ChoicesOpt-Out Request HonoredYour Privacy ChoicesYour Privacy ChoicesCalifornia Notice of Right to Opt-Out from Sale/SharingSharing and Selling of Personal DataYour Privacy ChoicesThis feature allows you to manage your privacy choices. By selecting a category, you can learn about your choices and make changes. Selections you make will update your default settings. Where possible, we will provide you with a single privacy profile and store settings across our brands. Occasionally there are legal or technical limitations, where you have multiple user names or accounts, that may prevent this from occurring. You should check your settings for accuracy based on your relationship with us. Local Privacy Notices and Requirements The Privacy Choices displayed are specific to your local privacy requirements and our privacy notices. For more information about how we protect your privacy, including specific rights that may apply, please visit the Opens in a new windowInstitutional Privacy and the Opens in a new windowConsumer Privacy pages. Marketing Preferences To manage your general marketing preferences, please visit the “Control how we can share your data and market to you” form on our Opens in a new windowPrivacy Page. California Residents To learn more about your privacy rights as a California resident, please see our Opens in a new windowCalifornia Consumer Privacy Act Notice.To exercise your CCPA consumer rights to request, correct or delete your personal information, please visit our Opens in a new windowCalifornia Personal Information Request form.To opt out of sharing and selling, open the “Sharing and selling of Personal Data” tab and make a selection. California Notice of Right to Opt-Out from Sale/SharingAlways ActiveBank of America does not sell your Personal Information. Beginning in April 2025, we have commenced sharing Personal Information collected from our webpages with non-affiliated, third-party websites and advertisers to provide a personalized marketing experience, commonly known as Cross-context Behavioral Advertising. Bank of America customers can request to opt-out from the sharing of their Personal Information for cross-context behavioral advertising. How to opt-out of sharing your information: We offer two (2) methods for opting out: 1. Click “Your Privacy Choices” link at the bottom of our web and mobile pages. On the pop-up window, select the “Sharing and Selling of Personal Data” tab located in the left column. Here you will be able to choose your preferences. Note: you can make changes to your preferences at any time; any adjustment will override the previous settings. 2. Using your web browser. Bank of America recognizes users' opt-out preference signals, honoring these preference signals as valid requests. An authorized agent may submit an opt-out request on your behalf if you have provided the authorized agent signed permission to do so. All opt-out requests are processed within 15 calendar days from time of receipt.Sharing and Selling of Personal Data Sharing and Selling of Personal Data Bank of America does not sell personal information, but we may share personal information for targeted advertising. You have the right to opt-out of the selling or sharing of your personal information. By switching the toggle to the left and clicking save, you are indicating that you do not want us to sell your personal information or share your personal information for online targeted advertising activities. If you do not have an account or if you are not logged into your account, your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. At any time, you may change your preference setting using the toggle bar. Any manual adjustment will override previous settings. Back ButtonCookie List Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave SettingsReject All Allow All"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--type-display-inline--alt-glyphs": "styleset(raised-baseline)",
+    "--connections-inline": "\"connections inline alts\",\"connections inline\",\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--connections": "\"Connections\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+    "--background-color": "#fff",
+    "--highlight-color": "#000",
+    "--secondary-color": "#000",
+    "--main-text-color": "#000",
+    "--interaction-color": "#2f42ff",
+    "--focus-outline-color": "#2f42ff",
+    "--divider-color": "rgba(0,0,0,.24)",
+    "--border-color": "rgba(0,0,0,.24)",
+    "--accordion-subtext-color": "#000",
+    "--unity-grid--col-gap": "2rem",
+    "--unity-grid--row-gap": "1.5rem",
+    "--unity-screen-padding-x": "4rem",
+    "--uc-nav-height": "0",
+    "--red-120": "#4f011d",
+    "--red-110": "#780032",
+    "--red-100": "#94002b",
+    "--red-90": "#c41230",
+    "--red-80": "#e31837",
+    "--red-20": "#ffe6e3",
+    "--blue-120": "#001543",
+    "--blue-110": "#012169",
+    "--blue-100": "#0d1ba7",
+    "--blue-90": "#1d2ecf",
+    "--blue-30": "#cedfff",
+    "--blue-20": "#dfeaff",
+    "--blue-10": "#f3f6ff",
+    "--neutral-10": "#f7f4f4",
+    "--neutral-20": "#f3f0f0",
+    "--neutral-30": "#edeaea",
+    "--white": "#fff",
+    "--frost-light-48": "hsla(0,0%,100%,.48)",
+    "--frost-light-64": "hsla(0,0%,100%,.64)",
+    "--frost-light-72": "hsla(0,0%,100%,.72)",
+    "--frost-dark-48": "rgba(0,0,0,.48)",
+    "--frost-dark-64": "rgba(0,0,0,.64)",
+    "--frost-dark-72": "rgba(0,0,0,.72)",
+    "--uc-zalc-zones": "3",
+    "--backdrop-filter": "none",
+    "--dynamic-color": "#919191",
+    "--features-hex-color": "transparent",
+    "--nav-height": "103px",
+    "--win-height": "0",
+    "--fdic-height": "0px",
+    "--unityContentBannerHeight": "undefinedpx"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 16,
+    "mainTextLen": 3912,
+    "realImageCount": 10,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/6ba00e9c-679a-491c-bd2d-7c496f18a053.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/sri-hashes.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 680,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/sri-hashes.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/6ba00e9c-679a-491c-bd2d-7c496f18a053/019ed21c-0fef-79d8-ab2e-4d38726458f0/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/js/events/v10/session.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1702,
+        "hits": 1,
+        "example": "https://tilt.bankofamerica.com/7216/js/events/v10/session.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "tilt.bankofamerica.com",
+        "path": "/{n}/{hash}/js/events/v10/jsEvent.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 47,
+        "hits": 2,
+        "example": "https://tilt.bankofamerica.com/7216/3233584533156522069/js/events/v10/jsEvent.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "smetrics.bankofamerica.com",
+        "path": "/ee/or2/v1/interact",
+        "query": [
+          "configId",
+          "requestId"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 6,
+        "example": "https://smetrics.bankofamerica.com/ee/or2/v1/interact",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 14190,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 3142,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202606.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "privacyportal-bofa.my.onetrust.com",
+        "path": "/request/v1/consentreceipts",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://privacyportal-bofa.my.onetrust.com/request/v1/consentreceipts",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 14
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "storage.glancecdn.net",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 6,
+    "triggers": [
+      {
+        "marker": "modal-exit--continue",
+        "href": "#"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://youradchoices.com/control"
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.networkadvertising.org/choices"
+      },
+      {
+        "marker": "not-modal",
+        "href": null
+      },
+      {
+        "marker": "data-modal-target",
+        "href": "https://www.paze.com/merchant-directory"
+      },
+      {
+        "marker": "show__modal",
+        "href": "#"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 3,
+      "thirdPartyEndpoints": 9,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/deposits-debitcard-overview.png",
+  "renderedHtml": "pages/deposits-debitcard-overview.html",
+  "crawlSlug": "deposits-debitcard-overview-html"
+}

@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-11-13T20:53:25.024Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://promotions.bankofamerica.com",
+    "liveHost": "main--78f2fb76--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 12,
+    "prototyped": 12,
+    "deployed": 12,
+    "optimised": 1
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 11,
+    "optimised": 1
+  },
+  "pages": [
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/eligible-accounts-modal/master",
+      "stage": "deployed",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal",
+      "stage": "deployed",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal",
+      "stage": "deployed",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master",
+      "stage": "deployed",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal",
+      "stage": "deployed",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal",
+      "path": "/content/experience-fragments/consumer-marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal",
+      "stage": "deployed",
+      "templateId": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "deposits-balanceconnect",
+      "path": "/deposits/balanceconnect",
+      "stage": "optimised",
+      "templateId": "deposits-growyoursavings",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "deposits-debitcard-overview",
+      "path": "/deposits/debitcard/overview",
+      "stage": "deployed",
+      "templateId": "deposits-growyoursavings",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "deposits-growyoursavings",
+      "path": "/deposits/growyoursavings",
+      "stage": "deployed",
+      "templateId": "deposits-growyoursavings",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "deposits-growyoursavings-cd-ira",
+      "path": "/deposits/growyoursavings/cd-ira",
+      "stage": "deployed",
+      "templateId": "deposits-growyoursavings",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-deals",
+      "path": "/en/deals",
+      "stage": "deployed",
+      "templateId": "en-deals",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-offers-chooseyourchecking500tiered",
+      "path": "/en/offers/chooseyourchecking500tiered",
+      "stage": "deployed",
+      "templateId": "en-offers-chooseyourchecking500tiered",
+      "isTemplate": true,
+      "openFindings": 1
+    }
+  ],
+  "templates": [
+    {
+      "id": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "archetype": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+      "pageCount": 6,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 6,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "deposits-growyoursavings",
+      "archetype": "deposits-growyoursavings",
+      "pageCount": 4,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 3,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "en-deals",
+      "archetype": "en-deals",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-offers-chooseyourchecking500tiered",
+      "archetype": "en-offers-chooseyourchecking500tiered",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 18,
+    "converted": 18
+  },
+  "quality": {
+    "overall": 100,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 100,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": null
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 0
+    },
+    "history": [
+      45,
+      95,
+      100
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 11
+    },
+    "byAutofix": {}
+  }
+}

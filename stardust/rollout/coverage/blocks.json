@@ -1,0 +1,406 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-13T16:44:53.680Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T20:48:35.171Z",
+  "blocks": [
+    {
+      "id": "banner",
+      "label": "banner",
+      "kind": "module",
+      "signature": "module:banner",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "banner",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "carousel",
+      "label": "carousel",
+      "kind": "module",
+      "signature": "module:carousel",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "carousel",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "content-tile",
+      "label": "content-tile",
+      "kind": "module",
+      "signature": "module:content-tile",
+      "source": null,
+      "usedByTemplates": [
+        "deposits-growyoursavings"
+      ],
+      "usedByPages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira"
+      ],
+      "instanceCount": 4,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "content-tile",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "faq",
+      "label": "faq",
+      "kind": "module",
+      "signature": "module:faq",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "faq",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "features",
+      "label": "features",
+      "kind": "module",
+      "signature": "module:features",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "features",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "footer",
+      "label": "footer",
+      "kind": "chrome",
+      "signature": "chrome:footer",
+      "source": null,
+      "usedByTemplates": [
+        "deposits-growyoursavings",
+        "en-deals",
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "usedByPages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira",
+        "en-deals",
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "instanceCount": 6,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "footer",
+        "blockPath": "fragments/footer.html",
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "header",
+      "label": "header",
+      "kind": "chrome",
+      "signature": "chrome:header",
+      "source": null,
+      "usedByTemplates": [
+        "deposits-growyoursavings",
+        "en-deals",
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "usedByPages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira",
+        "en-deals",
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "instanceCount": 6,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "header",
+        "blockPath": "fragments/header.html",
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "image-with-text-offset",
+      "label": "image-with-text-offset",
+      "kind": "module",
+      "signature": "module:image-with-text-offset",
+      "source": null,
+      "usedByTemplates": [
+        "deposits-growyoursavings"
+      ],
+      "usedByPages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira"
+      ],
+      "instanceCount": 4,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "image-with-text-offset",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "masthead",
+      "label": "masthead",
+      "kind": "module",
+      "signature": "module:masthead",
+      "source": null,
+      "usedByTemplates": [
+        "deposits-growyoursavings",
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "usedByPages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira",
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "instanceCount": 5,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "masthead",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "masthead-notch",
+      "label": "masthead-notch",
+      "kind": "module",
+      "signature": "module:masthead-notch",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "masthead-notch",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "modal-dialog",
+      "label": "modal-dialog",
+      "kind": "module",
+      "signature": "module:modal-dialog",
+      "source": null,
+      "usedByTemplates": [
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal"
+      ],
+      "usedByPages": [
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-plus-learn-more-modal-plus-2026-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-qualifying-direct-deposit-modal-master",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-relationship-learn-more-modal-relationship-2026-modal",
+        "content-experience-fragments-consumer_marketing-en-offers-t3-dda-safebalance-learn-more-modal-safebalance-2026-modal"
+      ],
+      "instanceCount": 6,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "modal-dialog",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "multi-step-content",
+      "label": "multi-step-content",
+      "kind": "module",
+      "signature": "module:multi-step-content",
+      "source": null,
+      "usedByTemplates": [
+        "deposits-growyoursavings"
+      ],
+      "usedByPages": [
+        "deposits-balanceconnect",
+        "deposits-debitcard-overview",
+        "deposits-growyoursavings",
+        "deposits-growyoursavings-cd-ira"
+      ],
+      "instanceCount": 4,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "multi-step-content",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "pcard",
+      "label": "pcard",
+      "kind": "module",
+      "signature": "module:pcard",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "pcard",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-details",
+      "label": "product-details",
+      "kind": "module",
+      "signature": "module:product-details",
+      "source": null,
+      "usedByTemplates": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "usedByPages": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "product-details",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "promo-card-row",
+      "label": "promo-card-row",
+      "kind": "module",
+      "signature": "module:promo-card-row",
+      "source": null,
+      "usedByTemplates": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "usedByPages": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "promo-card-row",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "steps",
+      "label": "steps",
+      "kind": "module",
+      "signature": "module:steps",
+      "source": null,
+      "usedByTemplates": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "usedByPages": [
+        "en-offers-chooseyourchecking500tiered"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "steps",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "story",
+      "label": "story",
+      "kind": "module",
+      "signature": "module:story",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "story",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "tiles",
+      "label": "tiles",
+      "kind": "module",
+      "signature": "module:tiles",
+      "source": null,
+      "usedByTemplates": [
+        "en-deals"
+      ],
+      "usedByPages": [
+        "en-deals"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "tiles",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

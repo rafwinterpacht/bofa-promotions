@@ -1,0 +1,135 @@
+/* promo-card-row — content card row (source .content-card, BofA Rewards promo) */
+.promo-card-row {
+  margin: 0 0 35px;
+}
+
+.promo-card-row .promo-card-row-inner {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.promo-card-row .promo-card {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 32px;
+  background: var(--color-light-blue);
+  box-shadow: 0 0 16px 0 #d2caca;
+  vertical-align: baseline;
+}
+
+.promo-card-row .promo-card-media {
+  position: relative;
+  aspect-ratio: 1;
+}
+
+.promo-card-row .promo-card-media p,
+.promo-card-row .promo-card-media picture {
+  margin: 0;
+}
+
+.promo-card-row .promo-card-media img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.promo-card-row .promo-card-text {
+  margin: 32px;
+}
+
+.promo-card-row .promo-card-logo p {
+  margin: 0;
+}
+
+.promo-card-row .promo-card-logo img {
+  display: block;
+  width: 250px;
+  max-width: 250px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.promo-card-row .promo-card-title {
+  margin: 0 0 12px;
+}
+
+.promo-card-row .promo-card-title :is(h1, h2, h3, h4) {
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 40px;
+}
+
+.promo-card-row .promo-card-body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.promo-card-row .promo-card-body p {
+  margin: 1em 0;
+  font-family: var(--font-text);
+  font-size: 1.25em;
+  line-height: 1.5;
+}
+
+.promo-card-row .promo-card-body sup {
+  font-size: inherit;
+}
+
+.promo-card-row .promo-card-body sup a:any-link {
+  font-size: 0.55em;
+  letter-spacing: -0.025em;
+}
+
+/* the delivery pipeline serves footnotes as <a><sup>N</sup></a>: same glyph and lift */
+.promo-card-row .promo-card-body a:any-link:has(> sup) {
+  text-decoration: none;
+}
+
+.promo-card-row .promo-card-body a:any-link:has(> sup) sup {
+  top: -1.27em;
+  font-size: 0.55em;
+  letter-spacing: -0.025em;
+}
+
+@media (width >= 640px) {
+  .promo-card-row {
+    margin-bottom: 50px;
+  }
+
+  .promo-card-row .promo-card-row-inner {
+    display: flex;
+    line-height: 0;
+  }
+
+  .promo-card-row .promo-card {
+    display: flex;
+    flex-direction: row-reverse;
+    line-height: 1.4;
+  }
+
+  .promo-card-row .promo-card-media {
+    flex: 0 0 39.75%;
+  }
+
+  .promo-card-row .promo-card-text {
+    flex: 1;
+    margin: 48px;
+  }
+
+  .promo-card-row .promo-card-body {
+    font-size: 18px;
+  }
+
+  .promo-card-row .promo-card-body p {
+    margin: 0 0 1em;
+  }
+}

@@ -1,0 +1,480 @@
+[live-session] waiting to pace live navigations to promotions.bankofamerica.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 890 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/deposits-growyoursavings-360/vdiff-1/
+
+build red flags (advisory): 
+  • HEADING FACE: <h2> "Ways to waive the monthly mainte" is 40px Connections in build vs 31.3043px Connections in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h2> "Ways to Save" is 40px Connections in build vs 31.3043px Connections in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h2> "Help stay on track with Better M" is 40px Connections in build vs 31.3043px Connections in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5131,
+  "textLen": 2249,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "176x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_mobile-375x290.jpg",
+    "natural": "119x92",
+    "rendered": "360x278",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_compass.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_spending.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_time.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_mobile-375x290.png",
+    "natural": "119x92",
+    "rendered": "360x278",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_insurance.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BOA.PNG",
+    "natural": "849x84",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "What are you saving for? We can ",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to waive the monthly mainte",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "31.3043px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Here’s how you can start saving ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 1 — Create a Life Plan",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 2 — Track your spending",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 3 — Set a timetable",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to Save",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "31.3043px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Keep the Change®6",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Automatic Transfers",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Split Direct Deposits",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Help stay on track with Better M",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "31.3043px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "masthead__heading",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "masthead__copy",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "content-tile__legalCopy",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 304,
+    "left": 28
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 304,
+    "left": 28
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 304,
+    "left": 28
+   },
+   {
+    "sel": "multi-step-content__subcopy",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5131,
+  "textLen": 2249,
+  "images": [
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "176x36",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_mobile-375x290.jpg",
+    "natural": "119x92",
+    "rendered": "360x278",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_compass.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_spending.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_time.svg",
+    "natural": "150x150",
+    "rendered": "100x70",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "C08_mobile-375x290.png",
+    "natural": "119x92",
+    "rendered": "360x278",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon_insurance.svg",
+    "natural": "150x150",
+    "rendered": "50x50",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "BofA-logo.svg",
+    "natural": "300x30",
+    "rendered": "200x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "What are you saving for? We can ",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to waive the monthly mainte",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Here’s how you can start saving ",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 1 — Create a Life Plan",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 2 — Track your spending",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Step 3 — Set a timetable",
+    "color": "rgb(227, 24, 55)",
+    "fontSize": "22px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ways to Save",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Keep the Change®6",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Automatic Transfers",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Split Direct Deposits",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "20px",
+    "family": "Connections",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Help stay on track with Better M",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "40px",
+    "family": "Connections",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "masthead__heading",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "masthead__copy",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "content-tile__legal",
+    "width": 324,
+    "left": 18
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 304,
+    "left": 28
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 304,
+    "left": 28
+   },
+   {
+    "sel": "multi-step-content-item__copy",
+    "width": 304,
+    "left": 28
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   },
+   {
+    "sel": "overview-item__copy",
+    "width": 235,
+    "left": 92
+   }
+  ]
+ }
+}

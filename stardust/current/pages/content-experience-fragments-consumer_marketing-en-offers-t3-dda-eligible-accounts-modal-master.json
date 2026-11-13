@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:29:32.651Z",
+    "waitMode": "modal-click",
+    "waitMs": 1230,
+    "httpStatus": 200,
+    "note": "experience fragment: direct navigation 302s to an error page on the source; captured as rendered in its host page modal (click on the offer page link), content from the modal service endpoint"
+  },
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master",
+  "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:29:32.651Z",
+  "finalUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+  "kind": "modal-fragment",
+  "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "serviceUrl": "https://promotions.bankofamerica.com/services/consumer-marketing/modalitem.xf_path./content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master",
+  "serviceJson": {
+    "modalType": "additional-info",
+    "rteMarkup": "<h2>New Eligible Accounts</h2>\n<p><span class=\"horizontal-line\">&nbsp;</span></p>\n<p>Only new SafeBalance Banking®, Advantage Plus Banking and Advantage Relationship Banking accounts are eligible for this offer. SafeBalance Banking® for Family Banking accounts are <b>not eligible</b> for this offer.</p>",
+    "modalId": 1320953642,
+    "modalSize": " ",
+    "alignment": " ",
+    "ariaLabel": "Eligible Accounts"
+  },
+  "title": "New Eligible Accounts",
+  "headings": [
+    {
+      "level": 2,
+      "text": "New Eligible Accounts"
+    }
+  ],
+  "body": [
+    "Only new SafeBalance Banking®, Advantage Plus Banking and Advantage Relationship Banking accounts are eligible for this offer. SafeBalance Banking® for Family Banking accounts are not eligible for this offer."
+  ],
+  "ctas": [],
+  "text": "New Eligible Accounts\n \nOnly new SafeBalance Banking®, Advantage Plus Banking and Advantage Relationship Banking accounts are eligible for this offer. SafeBalance Banking® for Family Banking accounts are not eligible for this offer.",
+  "screenshot": "assets/screenshots/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master.png",
+  "renderedHtml": "pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-eligible-accounts-modal-master.html",
+  "crawlSlug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-eligible-accounts-modal-master-html"
+}

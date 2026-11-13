@@ -1,0 +1,32 @@
+{
+  "type": "program",
+  "archetype": "deposits-growyoursavings",
+  "liveUrl": "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+  "prototype": "stardust/prototypes/deposits-growyoursavings-proposed.html",
+  "css": "stardust/prototypes/deposits-growyoursavings.css",
+  "components": ["masthead (--left, deep)", "content-tile (--right/--left) + overview-item list", "multi-step-content (--vertical)", "image-with-text-offset (--left, --red)", "long-form-text (--blue)"],
+  "iterations": { "1440": 3, "360": 3 },
+  "gates": {
+    "1440": { "pixel": 0.15, "heightDelta": -1, "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome), 0 advisory", "clipped": 0, "overflow": "ok", "chromeParity": "within tolerance", "pass": true, "note": "post-cap confirmation round 'confirm' (after 360 fixes: heading span model, footer bg) reproduced 0.15% / -1px" },
+    "360": { "pixel": 0.17, "heightDelta": -1, "contentDiff": "0 red / 0 nothing-lost yellow (main + chrome), 0 advisory", "clipped": 0, "overflow": "ok", "chromeParity": "within tolerance", "pass": true }
+  },
+  "capProbe": "PASS",
+  "residuals": [
+    "1440 band 3500-4000 (0.9%) / 360 band 7000-7489 (1.0%): disclosure + legal-bar text anti-aliasing; measure.mjs shows disclosure ol/li boxes identical (Δ0)",
+    "page 1px shorter than live at both widths (sub-pixel footer height 926.67 vs 927.27)",
+    "motion advisory: build's first .cta (En español, cta--standard) colour-shifts on hover while live's first .cta probe showed none; source rule .cta--standard:hover (color #012169, underline) lifted verbatim",
+    "pixel-compare tolerance hides #ededed vs white: legal-bar gray found by pixel sampling, not by the verdict"
+  ],
+  "motion": {
+    "observed": ["nav Checking submenu hover (500ms caret rotate + link colour)", "body-copy link hover colour -> #012169"],
+    "implemented": ["nav submenu hover + caret rotate (canon)", "body-copy link hover colour", "exit-notice / Advertising Practices chrome modal (canon script)", "mobile menu toggle with En español CTA inside"],
+    "dead": ["header scroll-morph (static on both)"]
+  },
+  "backportRequests": [
+    ".site-header__inner background transparent (+ .site-header__bar transparent < 1024px): chrome-parity REGION backgroundColor delta at 1440 and 360",
+    ".site-footer background #ededed (source legal bar is gray; canon renders white)",
+    "header CTA slot (.site-header__cta--desktop/--mobile, expanded-nav__cta--wrapper 'En español') + .cta--standard variant",
+    "module caps: source sections are each max-width 1440 centred (no content-root cap) — cap-probe at 2560"
+  ],
+  "files": ["stardust/prototypes/deposits-growyoursavings.css", "stardust/prototypes/deposits-growyoursavings-proposed.html", "stardust/prototypes/assets/deposits-growyoursavings/", "stardust/replica/motion/program-live.json", "stardust/replica/motion/program-build.json", "stardust/replica/motion/program-compare.txt", "stardust/replica/gates/deposits-growyoursavings-{1440,360,2560,probe}/"]
+}

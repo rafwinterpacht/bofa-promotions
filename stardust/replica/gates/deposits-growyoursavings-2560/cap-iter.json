@@ -1,0 +1,1085 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T16:37:49.486Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+      "http://localhost:8791/deposits-growyoursavings-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://promotions.bankofamerica.com/deposits/growyoursavings.html",
+    "http://localhost:8791/deposits-growyoursavings-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 43,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.07,
+        "section": 0,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 713,
+        "via": "fixed",
+        "selector": "#masthead > div.container.section__wrapper > div.masthead__section",
+        "tier": 9,
+        "share": 0.07,
+        "section": 0,
+        "w1": 713,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 606,
+        "via": "fixed",
+        "selector": "div.container.section__wrapper > div.masthead__section > div.masthead__section-upper > div.masthead__copy.text",
+        "tier": 11,
+        "share": 0.02,
+        "section": 0,
+        "w1": 606,
+        "maxWidth": "85%"
+      },
+      {
+        "kind": "module",
+        "px": 272,
+        "via": "fixed",
+        "selector": "div.container.section__wrapper > div.masthead__section > div.masthead__section-lower > a.cta.cta__desktop",
+        "tier": 11,
+        "share": 0.02,
+        "section": 0,
+        "w1": 272,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.33,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#waive-mmf > div.content-tile__wrapper.container > div.row.content-tile__row > div.content-tile__column",
+        "tier": 10,
+        "share": 0.33,
+        "section": 1,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.02,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.02,
+        "section": 1,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.05,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.05,
+        "section": 1,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.05,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 411,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.05,
+        "section": 1,
+        "w1": 411,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.05,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.05,
+        "section": 1,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 272,
+        "via": "fixed",
+        "selector": "div.row.content-tile__row > div.content-tile__column > div.content-tile__cta > a.cta.cta__desktop",
+        "tier": 12,
+        "share": 0.02,
+        "section": 1,
+        "w1": 272,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#waive-mmf > div.content-tile__wrapper.container > div.row.content-tile__row > div.content-tile__img.col-xs-12",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.28,
+        "section": 2,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 428,
+        "via": "fixed",
+        "selector": "#multi-step-content > div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items",
+        "tier": 9,
+        "share": 0.09,
+        "section": 2,
+        "w1": 428,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 350,
+        "via": "max-width",
+        "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon",
+        "tier": 10,
+        "share": 0.09,
+        "section": 2,
+        "w1": 350,
+        "maxWidth": "350px"
+      },
+      {
+        "kind": "module",
+        "px": 284,
+        "via": "fixed",
+        "selector": "div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon > h3 > span.text-brightRed",
+        "tier": 12,
+        "share": 0.02,
+        "section": 2,
+        "w1": 284,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 428,
+        "via": "fixed",
+        "selector": "#multi-step-content > div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items",
+        "tier": 9,
+        "share": 0.09,
+        "section": 2,
+        "w1": 428,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 350,
+        "via": "max-width",
+        "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon",
+        "tier": 10,
+        "share": 0.09,
+        "section": 2,
+        "w1": 350,
+        "maxWidth": "350px"
+      },
+      {
+        "kind": "module",
+        "px": 307,
+        "via": "fixed",
+        "selector": "div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon > h3 > span.text-brightRed",
+        "tier": 12,
+        "share": 0.02,
+        "section": 2,
+        "w1": 307,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 303,
+        "via": "fixed",
+        "selector": "div > div.multi-step-content-item__copy.text > p > a.t-track-body-copy-link",
+        "tier": 14,
+        "share": 0.02,
+        "section": 2,
+        "w1": 303,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 428,
+        "via": "fixed",
+        "selector": "#multi-step-content > div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items.last-qitem",
+        "tier": 9,
+        "share": 0.07,
+        "section": 2,
+        "w1": 428,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 350,
+        "via": "max-width",
+        "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items.last-qitem > div.multi-step-content-item.multi-step-content-item--icon",
+        "tier": 10,
+        "share": 0.07,
+        "section": 2,
+        "w1": 350,
+        "maxWidth": "350px"
+      },
+      {
+        "kind": "module",
+        "px": 259,
+        "via": "fixed",
+        "selector": "div.multi-step-content__items.last-qitem > div.multi-step-content-item.multi-step-content-item--icon > h3 > span.text-brightRed",
+        "tier": 12,
+        "share": 0.02,
+        "section": 2,
+        "w1": 259,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 276,
+        "via": "fixed",
+        "selector": "div > div.multi-step-content-item__copy.text > p > a.t-track-body-copy-link",
+        "tier": 14,
+        "share": 0.02,
+        "section": 2,
+        "w1": 276,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.23,
+        "section": 3,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#save-money-features > div.content-tile__wrapper.container > div.row.content-tile__row > div.content-tile__img.col-xs-12",
+        "tier": 10,
+        "share": 0,
+        "section": 3,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#save-money-features > div.content-tile__wrapper.container > div.row.content-tile__row > div.content-tile__column",
+        "tier": 10,
+        "share": 0.23,
+        "section": 3,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.07,
+        "section": 3,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.07,
+        "section": 3,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.05,
+        "section": 3,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.05,
+        "section": 3,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item",
+        "tier": 13,
+        "share": 0.05,
+        "section": 3,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy.col-xs-12 > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 14,
+        "share": 0.05,
+        "section": 3,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 540,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__cta > a.cta.cta__desktop > span",
+        "tier": 13,
+        "share": 0.02,
+        "section": 3,
+        "w1": 540,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.07,
+        "section": 4,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 835,
+        "via": "fixed",
+        "selector": "#image-with-text-offset > div.image-with-text-offset__wrapper",
+        "tier": 8,
+        "share": 0.07,
+        "section": 4,
+        "w1": 835,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 444,
+        "via": "fixed",
+        "selector": "div.image-with-text-offset__section > div > h2.image-with-text-offset__heading > span.text-medium",
+        "tier": 12,
+        "share": 0.02,
+        "section": 4,
+        "w1": 444,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.02,
+        "section": 5,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1068,
+        "via": "max-width",
+        "selector": "#long-form-text > div.section__wrapper.long-form-text__wrapper",
+        "tier": 8,
+        "share": 0.02,
+        "section": 5,
+        "w1": 1068,
+        "maxWidth": "1068px"
+      },
+      {
+        "kind": "module",
+        "px": 900,
+        "via": "fixed",
+        "selector": "div.section__wrapper.long-form-text__wrapper > div.text.js-initialized > p > span.color-reverse",
+        "tier": 11,
+        "share": 0.02,
+        "section": 5,
+        "w1": 900,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      },
+      {
+        "index": 1,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      },
+      {
+        "index": 2,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      },
+      {
+        "index": 3,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      },
+      {
+        "index": 4,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      },
+      {
+        "index": 5,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1440,
+    "contentFrom": "module",
+    "maxCap": 1440,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 190
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 43,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#masthead",
+        "tier": 1,
+        "share": 0.07,
+        "section": 0,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 272,
+        "via": "fixed",
+        "selector": "div.masthead__wrapper > div.masthead__section > div.masthead__lower > a.cta",
+        "tier": 5,
+        "share": 0.02,
+        "section": 0,
+        "w1": 272,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#waive-mmf > div.content-tile__row",
+        "tier": 2,
+        "share": 0.33,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#waive-mmf > div.content-tile__row > div.content-tile__column",
+        "tier": 3,
+        "share": 0.33,
+        "section": 1,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 520,
+        "via": "fixed",
+        "selector": "div.content-tile__row > div.content-tile__column > h2.content-tile__title > span.content-tile__title-copy",
+        "tier": 5,
+        "share": 0.02,
+        "section": 1,
+        "w1": 520,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.02,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.02,
+        "section": 1,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.05,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.05,
+        "section": 1,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.05,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 411,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.05,
+        "section": 1,
+        "w1": 411,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.05,
+        "section": 1,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.05,
+        "section": 1,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 272,
+        "via": "fixed",
+        "selector": "div.content-tile__row > div.content-tile__column > div.content-tile__cta > a.cta.cta--blue",
+        "tier": 5,
+        "share": 0.02,
+        "section": 1,
+        "w1": 272,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#waive-mmf > div.content-tile__row > div.content-tile__img",
+        "tier": 3,
+        "share": 0,
+        "section": 1,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#multi-step-content",
+        "tier": 1,
+        "share": 0.28,
+        "section": 2,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 350,
+        "via": "max-width",
+        "selector": "div.multi-step-content__wrapper > div.multi-step-content__list > div.multi-step-content__items > div.multi-step-content-item",
+        "tier": 5,
+        "share": 0.09,
+        "section": 2,
+        "w1": 350,
+        "maxWidth": "350px"
+      },
+      {
+        "kind": "module",
+        "px": 350,
+        "via": "max-width",
+        "selector": "div.multi-step-content__wrapper > div.multi-step-content__list > div.multi-step-content__items > div.multi-step-content-item",
+        "tier": 5,
+        "share": 0.09,
+        "section": 2,
+        "w1": 350,
+        "maxWidth": "350px"
+      },
+      {
+        "kind": "module",
+        "px": 303,
+        "via": "fixed",
+        "selector": "div.multi-step-content-item > div.multi-step-content-item__copy > p > a",
+        "tier": 8,
+        "share": 0.02,
+        "section": 2,
+        "w1": 303,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 350,
+        "via": "max-width",
+        "selector": "div.multi-step-content__wrapper > div.multi-step-content__list > div.multi-step-content__items > div.multi-step-content-item",
+        "tier": 5,
+        "share": 0.07,
+        "section": 2,
+        "w1": 350,
+        "maxWidth": "350px"
+      },
+      {
+        "kind": "module",
+        "px": 276,
+        "via": "fixed",
+        "selector": "div.multi-step-content-item > div.multi-step-content-item__copy > p > a",
+        "tier": 8,
+        "share": 0.02,
+        "section": 2,
+        "w1": 276,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#save-money-features > div.content-tile__row",
+        "tier": 2,
+        "share": 0.23,
+        "section": 3,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#save-money-features > div.content-tile__row > div.content-tile__img",
+        "tier": 3,
+        "share": 0,
+        "section": 3,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 720,
+        "via": "fixed",
+        "selector": "#save-money-features > div.content-tile__row > div.content-tile__column",
+        "tier": 3,
+        "share": 0.23,
+        "section": 3,
+        "w1": 720,
+        "maxWidth": "50%"
+      },
+      {
+        "kind": "module",
+        "px": 259,
+        "via": "fixed",
+        "selector": "div.content-tile__row > div.content-tile__column > h2.content-tile__title > span.content-tile__title-copy",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 259,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.07,
+        "section": 3,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.07,
+        "section": 3,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.05,
+        "section": 3,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.05,
+        "section": 3,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 557,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__copy > ul.overview__items > li.overview-item",
+        "tier": 6,
+        "share": 0.05,
+        "section": 3,
+        "w1": 557,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "fixed",
+        "selector": "div.content-tile__copy > ul.overview__items > li.overview-item > div.overview-item__content",
+        "tier": 7,
+        "share": 0.05,
+        "section": 3,
+        "w1": 489,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 540,
+        "via": "fixed",
+        "selector": "div.content-tile__column > div.content-tile__cta > a.cta.cta--standard > span",
+        "tier": 6,
+        "share": 0.02,
+        "section": 3,
+        "w1": 540,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#image-with-text-offset",
+        "tier": 1,
+        "share": 0.07,
+        "section": 4,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 835,
+        "via": "fixed",
+        "selector": "#image-with-text-offset > div.image-with-text-offset__wrapper",
+        "tier": 2,
+        "share": 0.07,
+        "section": 4,
+        "w1": 835,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 444,
+        "via": "fixed",
+        "selector": "div.image-with-text-offset__wrapper > div.image-with-text-offset__section > h2.image-with-text-offset__heading > span",
+        "tier": 5,
+        "share": 0.02,
+        "section": 4,
+        "w1": 444,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#long-form-text",
+        "tier": 1,
+        "share": 0.02,
+        "section": 5,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1068,
+        "via": "max-width",
+        "selector": "#long-form-text > div.long-form-text__wrapper",
+        "tier": 2,
+        "share": 0.02,
+        "section": 5,
+        "w1": 1068,
+        "maxWidth": "1068px"
+      },
+      {
+        "kind": "module",
+        "px": 900,
+        "via": "fixed",
+        "selector": "#long-form-text > div.long-form-text__wrapper > p.long-form-text__lead > span.color-reverse",
+        "tier": 4,
+        "share": 0.02,
+        "section": 5,
+        "w1": 900,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#masthead",
+        "px": 1440,
+        "capSelector": "#masthead"
+      },
+      {
+        "index": 1,
+        "selector": "#waive-mmf",
+        "px": 1440,
+        "capSelector": "#waive-mmf > div.content-tile__row"
+      },
+      {
+        "index": 2,
+        "selector": "#multi-step-content",
+        "px": 1440,
+        "capSelector": "#multi-step-content"
+      },
+      {
+        "index": 3,
+        "selector": "#save-money-features",
+        "px": 1440,
+        "capSelector": "#save-money-features > div.content-tile__row"
+      },
+      {
+        "index": 4,
+        "selector": "#image-with-text-offset",
+        "px": 1440,
+        "capSelector": "#image-with-text-offset"
+      },
+      {
+        "index": 5,
+        "selector": "#long-form-text",
+        "px": 1440,
+        "capSelector": "#long-form-text"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1440,
+    "contentFrom": "module",
+    "maxCap": 1440,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 138
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1440px = build 1440px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/6",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/6",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/6",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/6",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/6",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/6",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/deposits-growyoursavings-2560/cap-iter.json"
+}

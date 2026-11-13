@@ -1,0 +1,591 @@
+/* product-details — product comparison cards (source .product-details / .product-card) */
+/* stylelint-disable no-descending-specificity -- unrelated sub-trees share the p tail */
+.product-details {
+  --display-lg: 48px;
+
+  padding: 0 var(--gutter) 48px;
+  background: var(--color-white);
+}
+
+.product-details .product-details-inner {
+  max-width: var(--page-max);
+  margin: 0 auto;
+}
+
+.product-details .product-details-heading {
+  margin: 0 auto 1.5rem;
+  color: var(--color-dark-blue);
+  text-align: center;
+}
+
+.product-details .product-details-heading :is(h1, h2, h3) {
+  color: inherit;
+  font-family: var(--font-sans);
+  font-size: var(--display-lg);
+  font-weight: 100;
+  line-height: 1.2;
+}
+
+.product-details .product-details-tabs {
+  display: none;
+}
+
+.product-details .product-details-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: repeat(5, auto);
+  margin: 0 -8px;
+  text-align: center;
+}
+
+.product-details .product-card {
+  display: grid;
+  grid-row: span 5;
+  grid-template-rows: subgrid;
+  margin: 0 11px;
+  padding: 0 32px;
+  border: 1px solid var(--color-gray-border);
+  background: var(--color-white);
+}
+
+.product-details .product-card.is-clone {
+  display: none;
+}
+
+.product-details .product-card-header {
+  display: grid;
+  grid-row: span 3;
+  grid-template-rows: subgrid;
+  margin: 0 -32px;
+  padding: 40px 32px 20px;
+  background: var(--color-gray);
+}
+
+.product-details .product-card-title {
+  width: 100%;
+  margin: 0 0 1.5rem;
+  color: var(--color-regal-red);
+  text-align: center;
+}
+
+.product-details .product-card-title :is(h2, h3, h4) {
+  color: inherit;
+  font-family: var(--font-sans);
+  font-size: 2rem;
+  font-weight: 100;
+  line-height: 1.25;
+}
+
+.product-details .product-card-intro {
+  /* 2.5rem below the intro; the last paragraph's 16px margin stays inside the box */
+  margin: 0 0 24px;
+  font-size: 20px;
+  line-height: 1.35;
+  text-align: left;
+}
+
+.product-details .product-card-intro p,
+.product-details .product-card-key p,
+.product-details .product-card-desc p {
+  margin: 0 0 16px;
+}
+
+.product-details .product-card-eyebrow strong {
+  color: var(--color-dark-blue);
+  font-size: 1rem;
+  font-variant: small-caps;
+  font-weight: 700;
+  line-height: 1.5rem;
+}
+
+.product-details .product-card-cta {
+  text-align: center;
+}
+
+.product-details .product-card-cta p {
+  margin: 0;
+}
+
+.product-details .product-card-cta a.button:any-link {
+  width: 100%;
+  max-width: 300px;
+  margin: 0;
+}
+
+.product-details .product-card-body {
+  /* desktop: key facts and features align across cards (rows 4 and 5 of the subgrid) */
+  display: contents;
+}
+
+.product-details .product-card-key,
+.product-details .product-card-desc {
+  /* 20px under the last fact: its 16px margin + 4px */
+  padding: 0 0 4px;
+  font-size: 20px;
+  line-height: 1.35;
+  text-align: left;
+}
+
+.product-details .product-card-rule {
+  /* source: 1px line, its 8px margin collapses into the 16px paragraph margin */
+  height: 1px;
+  margin: 0 auto 16px;
+  background-color: var(--color-gray-line);
+}
+
+.product-details .product-card sup a:any-link,
+.product-details .product-card a:any-link:has(> sup) sup {
+  font-size: 12px;
+}
+
+/* the delivery pipeline serves footnotes as <a><sup>N</sup></a>: no link underline */
+.product-details a:any-link:has(> sup) {
+  text-decoration: none;
+}
+
+/* sticky product bar: drops in at the top while the card list is scrolled past its CTAs */
+.product-details .product-sticky {
+  position: fixed;
+  top: -100%;
+  left: 0;
+  z-index: 998;
+  width: 100%;
+  margin: 0;
+  padding: 0 var(--gutter);
+  overflow-x: hidden;
+  background: var(--color-gray-light);
+  box-shadow: 0 0.125rem 0.25rem 0 rgb(0 0 0 / 25%);
+}
+
+.product-details .product-sticky.is-visible {
+  top: 0;
+}
+
+.product-details .product-sticky-inner {
+  position: relative;
+  width: 100%;
+  max-width: var(--page-max);
+  margin: 0 auto;
+}
+
+.product-details .product-sticky-list {
+  display: flex;
+  margin: 0 -16px;
+}
+
+.product-details .product-sticky-item {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 0 11px;
+}
+
+.product-details .product-sticky-box {
+  padding: 16px 32px 32px;
+  text-align: center;
+}
+
+.product-details .product-sticky-title {
+  margin: 0 0 20px;
+  color: var(--color-regal-red);
+  text-align: center;
+}
+
+.product-details .product-sticky-title :is(h2, h3, h4) {
+  color: inherit;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.33;
+}
+
+.product-details .product-sticky-cta p {
+  margin: 0;
+}
+
+.product-details .product-sticky-cta a.button:any-link {
+  width: 270px;
+  min-width: 0;
+  height: 48px;
+  margin: 0;
+  padding: 0 16px;
+  border-radius: 35px;
+  font-size: 18px;
+}
+
+.product-details .product-details-arrow {
+  display: none;
+}
+
+.product-details .product-details-a11y {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+@media (width >= 640px) {
+  .product-details .product-details-heading :is(h1, h2, h3) {
+    line-height: 1.1675;
+  }
+}
+
+@media (width >= 1068px) {
+  .product-details {
+    --display-lg: 56px;
+  }
+}
+
+/* ---------- below 640px: tabs + centred carousel ---------- */
+@media (width <= 639px) {
+  .product-details .product-details-content {
+    position: relative;
+    margin: 0 -5.5%;
+    overflow: hidden;
+    border-top: 1px solid var(--color-gray-border);
+  }
+
+  .product-details .product-details-tabs {
+    display: flex;
+    padding: 0 25px;
+  }
+
+  .product-details .product-details-tab {
+    display: flex;
+    flex: 0 0 104px;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0.75rem 0;
+    border: 0;
+    border-bottom: 4px solid transparent;
+    background: none;
+    color: var(--color-black);
+    font: 400 1rem/1.33 var(--font-sans);
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .product-details .product-details-tab.is-active {
+    border-bottom-color: var(--color-bright-red);
+  }
+
+  .product-details .product-details-list {
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: none;
+    grid-auto-columns: 320px;
+    grid-auto-flow: column;
+    margin: 0;
+    transform: translateX(calc((100% - 320px) / 2 - var(--track-step, 0) * 320px));
+    transition: transform 0.5s ease;
+  }
+
+  /* source: the card heads align across the track, the facts below them do not */
+  .product-details .product-card,
+  .product-details .product-card.is-clone {
+    display: grid;
+    grid-row: span 4;
+    margin: 0 5px;
+    padding: 0 16px;
+  }
+
+  .product-details .product-card-body {
+    display: block;
+  }
+
+  .product-details .product-card-header {
+    margin: 0 -16px;
+    padding: 32px 16px 16px;
+  }
+
+  .product-details .product-card-title :is(h2, h3, h4) {
+    font-size: 1.25rem;
+    font-weight: 400;
+  }
+
+  .product-details .product-card-intro {
+    margin-bottom: 16px;
+    font-size: 18px;
+  }
+
+  .product-details .product-card-eyebrow strong {
+    line-height: 24px;
+  }
+
+  .product-details .product-card-cta a.button:any-link {
+    max-width: 236px;
+    font-size: 21px;
+  }
+
+  .product-details .product-card-key,
+  .product-details .product-card-desc {
+    padding-bottom: 0;
+    font-size: 18px;
+  }
+
+  .product-details .product-details-arrow {
+    position: absolute;
+    top: 168px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 24px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: var(--color-white);
+    cursor: pointer;
+  }
+
+  .product-details .product-details-arrow svg {
+    width: 9px;
+    height: 15px;
+    fill: var(--color-bright-red);
+  }
+
+  .product-details .product-details-arrow-prev {
+    left: 18px;
+  }
+
+  .product-details .product-details-arrow-next {
+    right: 18px;
+  }
+}
+
+/* plain (cd-ira): 40px heading, label-less tab bar, 20px list copy below 640px (source) */
+@media (width <= 639px) {
+  .product-details.plain {
+    --display-lg: 40px;
+
+    margin-bottom: 60px;
+  }
+
+  .product-details.plain .product-details-tab {
+    font-size: 0;
+  }
+
+  .product-details.plain .product-card-intro ul li {
+    margin: 0 0 1rem;
+    font-size: 1.25rem;
+    line-height: 1.2;
+  }
+}
+
+@media (width <= 639px) {
+  .product-details.accessible .product-details-tabs,
+  .product-details.accessible .product-details-arrow,
+  .product-details.accessible .product-card.is-clone {
+    display: none;
+  }
+
+  .product-details.accessible .product-details-list {
+    display: block;
+    padding: 0 5.5%;
+    transform: none;
+  }
+
+  .product-details.accessible .product-card {
+    margin: 0 0 16px;
+  }
+}
+
+@media (width <= 639px) {
+  .product-details .product-sticky {
+    padding: 0;
+    background: var(--color-white);
+  }
+
+  .product-details .product-sticky-list {
+    margin: 0;
+    transform: translateX(calc((100% - 320px) / 2 - var(--track-step, 0) * 320px));
+    transition: transform 0.5s ease;
+  }
+
+  .product-details .product-sticky-item {
+    flex: 0 0 320px;
+    padding: 0 5px;
+  }
+
+  .product-details .product-sticky-box {
+    padding: 16px 16px 24px;
+    background: var(--color-gray-light);
+  }
+
+  .product-details .product-sticky-title :is(h2, h3, h4) {
+    font-size: 18px;
+  }
+
+  .product-details .product-sticky-cta a.button:any-link {
+    width: 236px;
+    height: 40.5px;
+    padding: 0 8px;
+    border-radius: 25px;
+  }
+
+  .product-details .product-sticky .product-details-arrow {
+    top: 38px;
+    width: 24px;
+  }
+
+  .product-details .product-sticky .product-details-arrow-prev {
+    left: 16px;
+  }
+
+  .product-details .product-sticky .product-details-arrow-next {
+    right: 16px;
+  }
+}
+
+@media (width >= 375px) and (width <= 639px) {
+  .product-details .product-details-tab {
+    font-size: 1.125rem;
+  }
+}
+
+@media (width >= 980px) {
+  .product-details .product-card-eyebrow strong {
+    line-height: 1.25rem;
+  }
+}
+
+/* disclosures: canon rules for lists and the bonus chart table, which the program-owned
+   disclosures block does not ship (its pages carry neither) */
+.disclosures .disclosure-body ol li p {
+  margin: 14px 0 0;
+  line-height: 1.4;
+}
+
+.disclosures .disclosure-body ol:not(:has(p)) {
+  margin-top: 10px;
+}
+
+.disclosures .disclosure-body li:last-child p:last-child:not(:first-child) {
+  line-height: inherit;
+  text-align: center;
+}
+
+.disclosures .disclosure-body table {
+  margin: 0 auto;
+  border: 1px solid var(--color-black);
+}
+
+.disclosures .disclosure-body :is(th, td) {
+  padding: 0;
+  border: 1px solid var(--color-black);
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.disclosures .disclosure-body tr:first-child :is(th, td) {
+  width: 205px;
+}
+
+.disclosures .disclosure-body :is(th, td) p {
+  display: block;
+  margin: 0;
+}
+
+/* ---------- page-level variants of program-owned blocks (this template only) ----------
+   masthead.light: dark copy on a light animated background, eyebrow above the h1
+   (source .masthead on /en/offers/*). Shipped here because masthead/ is owned by another
+   template; see stardust/rollout/foundation-requests.md. */
+.masthead.light {
+  color: var(--color-black);
+}
+
+.masthead.light .masthead-wrapper {
+  min-height: 0;
+}
+
+.masthead.light .masthead-upper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.masthead.light .masthead-copy {
+  display: contents;
+}
+
+.masthead.light .masthead-heading {
+  order: 1;
+  max-width: 980px;
+  margin: 0 0 1.25rem;
+}
+
+.masthead.light .masthead-heading :is(h1, h2, h3) {
+  color: var(--color-black);
+  font-size: 48px;
+  line-height: 1.35;
+}
+
+.masthead.light .masthead-heading strong,
+.masthead.light .masthead-copy strong {
+  font-weight: 700;
+}
+
+.masthead.light .masthead-copy p {
+  order: 2;
+  max-width: 980px;
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+
+.masthead.light .masthead-copy p:has(> strong:only-child) {
+  order: 0;
+  margin-top: 0.5rem;
+  color: var(--color-bright-red);
+  font-size: 1.25rem;
+  font-weight: 100;
+  font-variant: small-caps;
+  line-height: 1.3;
+  letter-spacing: 0.05em;
+  text-transform: lowercase;
+}
+
+.masthead.light .masthead-copy a:any-link:has(> sup) {
+  text-decoration: none;
+}
+
+.masthead.light .masthead-copy a:any-link:has(> sup) sup {
+  font-size: 12px;
+}
+
+@media (width >= 640px) {
+  .masthead.light .masthead-wrapper {
+    min-height: 380px;
+  }
+
+  .masthead.light .masthead-heading {
+    margin: 0 0 1.5rem;
+  }
+
+  .masthead.light .masthead-copy p {
+    max-width: 85%;
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  .masthead.light .masthead-copy p:has(> strong:only-child) {
+    max-width: 980px;
+    margin-top: 0;
+    font-size: 1.5rem;
+    line-height: 1.3;
+  }
+}
+
+@media (width >= 1068px) {
+  .masthead.light .masthead-wrapper {
+    min-height: 489px;
+  }
+
+  .masthead.light .masthead-heading :is(h1, h2, h3) {
+    font-size: 56px;
+  }
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "vendor": "Google Tag Manager",
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-6KEPN1V5EM",
+  "file": "tags/www.googletagmanager.com-js-G-6KEPN1V5EM.js",
+  "bytes": 524491
+ },
+ {
+  "vendor": "Google Tag Manager",
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-R1YNK5WY2C",
+  "file": "tags/www.googletagmanager.com-js-G-R1YNK5WY2C.js",
+  "bytes": 506788
+ },
+ {
+  "vendor": "Google Tag Manager",
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-NNP0RK1XHF",
+  "file": "tags/www.googletagmanager.com-js-G-NNP0RK1XHF.js",
+  "bytes": 506788
+ }
+]

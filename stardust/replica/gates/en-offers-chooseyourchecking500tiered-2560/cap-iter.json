@@ -1,0 +1,840 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T16:02:36.899Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+      "http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+    "http://localhost:8791/en-offers-chooseyourchecking500tiered-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 76,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "tier": 3,
+        "share": 0.08,
+        "section": 0,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 713,
+        "via": "fixed",
+        "selector": "#masthead > div.container.section__wrapper > div.masthead__section",
+        "tier": 9,
+        "share": 0.08,
+        "section": 0,
+        "w1": 713,
+        "maxWidth": "100%"
+      },
+      {
+        "kind": "module",
+        "px": 387,
+        "via": "fixed",
+        "selector": "div.masthead__section-upper > div.masthead__heading > p.masthead__heading--lead > span",
+        "tier": 13,
+        "share": 0.01,
+        "section": 0,
+        "w1": 387,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 415,
+        "via": "fixed",
+        "selector": "div.masthead__section-upper > div.masthead__heading > h1.masthead__heading--copy.text-black > b",
+        "tier": 13,
+        "share": 0.01,
+        "section": 0,
+        "w1": 415,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 606,
+        "via": "fixed",
+        "selector": "div.container.section__wrapper > div.masthead__section > div.masthead__section-upper > div.masthead__copy.text",
+        "tier": 11,
+        "share": 0.03,
+        "section": 0,
+        "w1": 606,
+        "maxWidth": "85%"
+      },
+      {
+        "kind": "module",
+        "px": 260,
+        "via": "fixed",
+        "selector": "div.container.section__wrapper > div.masthead__section > div.masthead__section-lower > a.cta.cta__desktop",
+        "tier": 11,
+        "share": 0.01,
+        "section": 0,
+        "w1": 260,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--product-details.aem-GridColumn",
+        "tier": 3,
+        "share": 0.55,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 437,
+        "via": "fixed",
+        "selector": "#product-details__productItem--1",
+        "tier": 9,
+        "share": 0.16,
+        "section": 1,
+        "w1": 437,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "div.bg-white.outline > div.bg-gray > div.product-details__productCTA > a.cta.cta__desktop",
+        "tier": 13,
+        "share": 0.01,
+        "section": 1,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 325,
+        "via": "fixed",
+        "selector": "div.bg-white.outline > div.product-details__productDesc.text > p > a.t-track-body-copy-link",
+        "tier": 13,
+        "share": 0.01,
+        "section": 1,
+        "w1": 325,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 437,
+        "via": "fixed",
+        "selector": "#product-details__productItem--2",
+        "tier": 9,
+        "share": 0.16,
+        "section": 1,
+        "w1": 437,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "div.bg-white.outline > div.bg-gray > div.product-details__productCTA > a.cta.cta__desktop",
+        "tier": 13,
+        "share": 0.01,
+        "section": 1,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 437,
+        "via": "fixed",
+        "selector": "#product-details__productItem--3",
+        "tier": 9,
+        "share": 0.18,
+        "section": 1,
+        "w1": 437,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "div.bg-white.outline > div.bg-gray > div.product-details__productCTA > a.cta.cta__desktop",
+        "tier": 13,
+        "share": 0.01,
+        "section": 1,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 325,
+        "via": "fixed",
+        "selector": "div.bg-white.outline > div.product-details__productDesc.text > p > a.t-track-body-copy-link",
+        "tier": 13,
+        "share": 0.01,
+        "section": 1,
+        "w1": 325,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1300,
+        "via": "max-width",
+        "selector": "#products > div.product-details__sticky.not-modal > div.product-details__stickyWrapper",
+        "tier": 7,
+        "share": 0.04,
+        "section": 1,
+        "w1": 1296,
+        "maxWidth": "1300px"
+      },
+      {
+        "kind": "module",
+        "px": 444,
+        "via": "fixed",
+        "selector": "div.product-details__sticky.not-modal > div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList > div.product-details__stickyItem",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 443,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 444,
+        "via": "fixed",
+        "selector": "div.product-details__sticky.not-modal > div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList > div.product-details__stickyItem",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 443,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 444,
+        "via": "fixed",
+        "selector": "div.product-details__sticky.not-modal > div.product-details__stickyWrapper > consumer-flag-carousel.product-details--P3.product-details__stickyList > div.product-details__stickyItem",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 443,
+        "maxWidth": "33.3333%"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--multi-step-content.aem-GridColumn",
+        "tier": 3,
+        "share": 0.26,
+        "section": 2,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1068,
+        "via": "max-width",
+        "selector": "#offer > div.section__wrapper.multi-step-content__wrapper",
+        "tier": 5,
+        "share": 0.26,
+        "section": 2,
+        "w1": 1068,
+        "maxWidth": "1068px"
+      },
+      {
+        "kind": "module",
+        "px": 1047,
+        "via": "fixed",
+        "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon",
+        "tier": 8,
+        "share": 0.05,
+        "section": 2,
+        "w1": 1047,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 722,
+        "via": "fixed",
+        "selector": "div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon > div > div.multi-step-content-item__copy.text",
+        "tier": 10,
+        "share": 0.04,
+        "section": 2,
+        "w1": 722,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1047,
+        "via": "fixed",
+        "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items > div.multi-step-content-item.multi-step-content-item--icon",
+        "tier": 8,
+        "share": 0.14,
+        "section": 2,
+        "w1": 1047,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 245,
+        "via": "fixed",
+        "selector": "div > div.multi-step-content-item__copy.text > p > b",
+        "tier": 12,
+        "share": 0.01,
+        "section": 2,
+        "w1": 245,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 443,
+        "via": "fixed",
+        "selector": "div.multi-step-content-item.multi-step-content-item--icon > div > div.multi-step-content-item__copy.text > div",
+        "tier": 11,
+        "share": 0.11,
+        "section": 2,
+        "w1": 443,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.center > tbody > tr > th",
+        "tier": 15,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.center > tbody > tr > td",
+        "tier": 15,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.center > tbody > tr > td",
+        "tier": 15,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.center > tbody > tr > td",
+        "tier": 15,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1047,
+        "via": "fixed",
+        "selector": "div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__items.last-qitem > div.multi-step-content-item.multi-step-content-item--icon",
+        "tier": 8,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1047,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 980,
+        "via": "max-width",
+        "selector": "#offer > div.section__wrapper.multi-step-content__wrapper > div.newQualiwrapper > div.multi-step-content__subcopy.text",
+        "tier": 7,
+        "share": 0.03,
+        "section": 2,
+        "w1": 980,
+        "maxWidth": "980px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-GridColumn.aem-GridColumn--default--12",
+        "tier": 3,
+        "share": 0.11,
+        "section": 3,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1296,
+        "via": "fixed",
+        "selector": "#bofa",
+        "tier": 5,
+        "share": 0.11,
+        "section": 3,
+        "w1": 1296,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 685,
+        "via": "fixed",
+        "selector": "#bofa-rewards > div.uc-card__container > div.uc-card__container-text",
+        "tier": 9,
+        "share": 0.11,
+        "section": 3,
+        "w1": 685,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.experiencefragment.aem-GridColumn"
+      },
+      {
+        "index": 1,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--product-details.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--product-details.aem-GridColumn"
+      },
+      {
+        "index": 2,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--multi-step-content.aem-GridColumn",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-wrap--multi-step-content.aem-GridColumn"
+      },
+      {
+        "index": 3,
+        "selector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-GridColumn.aem-GridColumn--default--12",
+        "px": 1440,
+        "capSelector": "#main-content > div.root.responsivegrid > div.aem-Grid.aem-Grid--12 > div.aem-GridColumn.aem-GridColumn--default--12"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1440,
+    "contentFrom": "module",
+    "maxCap": 1440,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 233
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 77,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#masthead > div.masthead__inner",
+        "tier": 2,
+        "share": 0.08,
+        "section": 0,
+        "w1": 1296,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 387,
+        "via": "fixed",
+        "selector": "div.masthead__upper > div.masthead__heading > p.masthead__eyebrow > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 0,
+        "w1": 387,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 415,
+        "via": "fixed",
+        "selector": "div.masthead__upper > div.masthead__heading > h1.masthead__title > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 0,
+        "w1": 415,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 260,
+        "via": "fixed",
+        "selector": "div.masthead__inner > div.masthead__section > div.masthead__lower > a.cta.masthead__cta",
+        "tier": 5,
+        "share": 0.01,
+        "section": 0,
+        "w1": 260,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#products > div.product-details__inner",
+        "tier": 2,
+        "share": 0.52,
+        "section": 1,
+        "w1": 1296,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "article.product-card.is-active > div.product-card__header > div.product-card__cta > a.cta",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 325,
+        "via": "fixed",
+        "selector": "article.product-card.is-active > div.product-card__desc > p > a",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 325,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "article.product-card > div.product-card__header > div.product-card__cta > a.cta",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 300,
+        "via": "max-width",
+        "selector": "article.product-card > div.product-card__header > div.product-card__cta > a.cta",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 300,
+        "maxWidth": "300px"
+      },
+      {
+        "kind": "module",
+        "px": 325,
+        "via": "fixed",
+        "selector": "article.product-card > div.product-card__desc > p > a",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 325,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1300,
+        "via": "max-width",
+        "selector": "#products > div.product-sticky > div.product-sticky__inner",
+        "tier": 3,
+        "share": 0.04,
+        "section": 1,
+        "w1": 1296,
+        "maxWidth": "1300px"
+      },
+      {
+        "kind": "module",
+        "px": 433,
+        "via": "fixed",
+        "selector": "#products > div.product-sticky > div.product-sticky__inner > div.product-sticky__item",
+        "tier": 4,
+        "share": 0.01,
+        "section": 1,
+        "w1": 432,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 433,
+        "via": "fixed",
+        "selector": "#products > div.product-sticky > div.product-sticky__inner > div.product-sticky__item",
+        "tier": 4,
+        "share": 0.01,
+        "section": 1,
+        "w1": 432,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 433,
+        "via": "fixed",
+        "selector": "#products > div.product-sticky > div.product-sticky__inner > div.product-sticky__item",
+        "tier": 4,
+        "share": 0.01,
+        "section": 1,
+        "w1": 432,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#offer > div.steps__container",
+        "tier": 2,
+        "share": 0.26,
+        "section": 2,
+        "w1": 1296,
+        "maxWidth": "1440px"
+      },
+      {
+        "kind": "module",
+        "px": 1068,
+        "via": "max-width",
+        "selector": "#offer > div.steps__container > div.steps__inner",
+        "tier": 3,
+        "share": 0.26,
+        "section": 2,
+        "w1": 1068,
+        "maxWidth": "1068px"
+      },
+      {
+        "kind": "module",
+        "px": 1047,
+        "via": "fixed",
+        "selector": "div.steps__container > div.steps__inner > ol.steps__list > li.step",
+        "tier": 5,
+        "share": 0.05,
+        "section": 2,
+        "w1": 1047,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 722,
+        "via": "fixed",
+        "selector": "ol.steps__list > li.step > div.step__content > div.step__copy",
+        "tier": 7,
+        "share": 0.04,
+        "section": 2,
+        "w1": 722,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1047,
+        "via": "fixed",
+        "selector": "div.steps__container > div.steps__inner > ol.steps__list > li.step",
+        "tier": 5,
+        "share": 0.14,
+        "section": 2,
+        "w1": 1047,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 245,
+        "via": "fixed",
+        "selector": "div.step__content > div.step__copy > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 2,
+        "w1": 245,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 443,
+        "via": "fixed",
+        "selector": "li.step > div.step__content > div.step__copy > div.step__table-wrap",
+        "tier": 8,
+        "share": 0.1,
+        "section": 2,
+        "w1": 443,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.bonus-table > tbody > tr > th",
+        "tier": 12,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.bonus-table > tbody > tr > td",
+        "tier": 12,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.bonus-table > tbody > tr > td",
+        "tier": 12,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 277,
+        "via": "fixed",
+        "selector": "table.bonus-table > tbody > tr > td",
+        "tier": 12,
+        "share": 0.01,
+        "section": 2,
+        "w1": 277,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1047,
+        "via": "fixed",
+        "selector": "div.steps__container > div.steps__inner > ol.steps__list > li.step.step--last",
+        "tier": 5,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1047,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 980,
+        "via": "max-width",
+        "selector": "#offer > div.steps__container > div.steps__inner > div.steps__subcopy",
+        "tier": 4,
+        "share": 0.03,
+        "section": 2,
+        "w1": 980,
+        "maxWidth": "980px"
+      },
+      {
+        "kind": "module",
+        "px": 1440,
+        "via": "max-width",
+        "selector": "#bofa > div.promo-card-row__inner",
+        "tier": 2,
+        "share": 0.1,
+        "section": 3,
+        "w1": 1440,
+        "maxWidth": "1440px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#masthead",
+        "px": 1440,
+        "capSelector": "#masthead > div.masthead__inner"
+      },
+      {
+        "index": 1,
+        "selector": "#products",
+        "px": 1440,
+        "capSelector": "#products > div.product-details__inner"
+      },
+      {
+        "index": 2,
+        "selector": "#offer",
+        "px": 1440,
+        "capSelector": "#offer > div.steps__container"
+      },
+      {
+        "index": 3,
+        "selector": "#bofa",
+        "px": 1440,
+        "capSelector": "#bofa > div.promo-card-row__inner"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1440,
+    "contentFrom": "module",
+    "maxCap": 1440,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 183
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1440px = build 1440px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/4",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/4",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/4",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/4",
+        "detail": "1440px = 1440px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-offers-chooseyourchecking500tiered-2560/cap-iter.json"
+}

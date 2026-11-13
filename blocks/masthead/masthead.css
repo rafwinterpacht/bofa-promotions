@@ -1,0 +1,219 @@
+/* masthead — hero band (source .masthead / .masthead--left) */
+.masthead {
+  --display-md: 40px;
+
+  position: relative;
+  padding: 0 var(--gutter);
+  overflow: hidden;
+  color: var(--color-white);
+  text-align: center;
+}
+
+.masthead .masthead-media {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.masthead .masthead-media > div,
+.masthead .masthead-media picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.masthead .masthead-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 100%;
+}
+
+.masthead .masthead-media .masthead-media-desktop {
+  display: none;
+}
+
+.masthead .masthead-wrapper {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: var(--page-max);
+  min-height: 500px;
+  margin: 0 auto;
+  padding: 6.4vw 0 46vw;
+}
+
+.masthead .masthead-section {
+  position: relative;
+  max-width: 100%;
+}
+
+.masthead .masthead-heading {
+  margin: 0.5rem 0 1.25rem;
+}
+
+.masthead .masthead-heading :is(h1, h2, h3) {
+  margin: 0;
+  color: var(--color-white);
+  font-family: var(--font-sans);
+  font-size: var(--display-md);
+  font-weight: 100;
+  line-height: 1.35;
+}
+
+.masthead .masthead-copy {
+  max-width: 980px;
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+
+.masthead .masthead-copy p {
+  margin: 0;
+}
+
+.masthead .masthead-copy :where(p + p) {
+  margin-top: 1rem;
+}
+
+/* spaced: the source module margin below the band (no `no-margin`) */
+.masthead.spaced {
+  margin-bottom: 60px;
+}
+
+.masthead .masthead-lower {
+  margin: 1.5rem 0;
+}
+
+.masthead .masthead-lower p {
+  margin: 0;
+}
+
+.masthead .masthead-lower a.button:any-link {
+  margin: 8px 8px 8px 0;
+}
+
+.masthead .masthead-lower a:any-link:not(.button) {
+  color: var(--color-white);
+}
+
+@media (width <= 639px) {
+  .masthead .masthead-lower a.button:any-link {
+    padding: 0 8px;
+  }
+}
+
+@media (width >= 640px) {
+  .masthead {
+    text-align: left;
+  }
+
+  .masthead .masthead-media img {
+    object-position: 50% 50%;
+  }
+
+  .masthead .masthead-wrapper {
+    flex-direction: row;
+    align-items: center;
+    min-height: 500px;
+    padding: 3rem 0;
+  }
+
+  .masthead .masthead-section {
+    display: flex;
+    flex: 0 1 60%;
+    flex-direction: column;
+    padding: 1vw 0;
+  }
+
+  .masthead .masthead-heading {
+    margin: 0 0 1.5rem;
+  }
+
+  .masthead .masthead-copy {
+    max-width: 85%;
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  .masthead .masthead-lower {
+    margin: 2rem 0 1.5rem;
+  }
+
+  .masthead.center {
+    text-align: center;
+  }
+
+  .masthead.center .masthead-wrapper {
+    justify-content: center;
+  }
+
+  .masthead.center .masthead-copy {
+    margin: 0 auto;
+  }
+}
+
+@media (width >= 643px) {
+  .masthead .masthead-media .masthead-media-desktop {
+    display: block;
+  }
+
+  .masthead .masthead-media .masthead-media-mobile {
+    display: none;
+  }
+}
+
+@media (width >= 1068px) {
+  .masthead {
+    --display-md: 48px;
+  }
+
+  .masthead .masthead-wrapper {
+    min-height: 600px;
+  }
+
+  .masthead .masthead-section {
+    flex: 0 1 55%;
+  }
+}
+
+/* large: the 48px (56px from 1068px) display heading (source uc-headline-display--lg) */
+.masthead.large {
+  --display-md: 48px;
+}
+
+/* short: paragraphs 20px apart (source .masthead__copy p margin-bottom) */
+.masthead.short .masthead-copy p + p {
+  margin-top: 20px;
+}
+
+/* dark: black copy on a light photo (source masthead--text-black) */
+.masthead.dark,
+.masthead.dark .masthead-heading :is(h1, h2, h3),
+.masthead.dark .masthead-lower a:any-link:not(.button) {
+  color: var(--color-black);
+}
+
+@media (width >= 640px) {
+  .masthead.spaced {
+    margin-bottom: 50px;
+  }
+}
+
+@media (width >= 1068px) {
+  .masthead.short .masthead-wrapper {
+    min-height: 500px;
+  }
+
+  .masthead.large {
+    --display-md: 56px;
+  }
+}
+
+/* footnote references: the pipeline serves <a><sup>n</sup></a> — no underline (source) */
+/* stylelint-disable-next-line no-descending-specificity -- a footnote link, not a CTA */
+.masthead a:any-link:has(> sup) {
+  text-decoration: none;
+}

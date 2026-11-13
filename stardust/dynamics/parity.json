@@ -1,0 +1,109 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:dynamics",
+    "writtenAt": "2026-11-13T20:40:46.301785Z"
+  },
+  "method": "rows of stardust/dynamic-features.md grouped by delivered mechanism; tag/consent rows replayed from stardust/martech-contract.json (all parts disabled)",
+  "features": [
+    {
+      "id": "offer-terms-modals",
+      "feature": "offer-page terms / account-detail modals (6 experience-fragment dialogs)",
+      "class": "M",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "checks": [
+        {
+          "type": "click-dialog",
+          "path": "/en/offers/chooseyourchecking500tiered",
+          "trigger": "main a[href='/content/experience-fragments/consumer-marketing/en/offers/t3-dda/plus-learn-more-modal/plus-2026-modal']",
+          "headingIncludes": "Advantage Plus"
+        },
+        {
+          "type": "click-dialog",
+          "path": "/en/offers/chooseyourchecking500tiered",
+          "trigger": "main a[href='/content/experience-fragments/consumer-marketing/en/offers/t3-dda/eligible-accounts-modal/master']",
+          "headingIncludes": "New Eligible Accounts"
+        },
+        {
+          "type": "click-dialog",
+          "path": "/en/offers/chooseyourchecking500tiered",
+          "trigger": "main a[href='/content/experience-fragments/consumer-marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master']",
+          "headingIncludes": "Qualifying Direct Deposit"
+        }
+      ],
+      "verifiedBy": "3/3 dialogs open, headings match, Escape closes"
+    },
+    {
+      "id": "exit-notice-modal",
+      "feature": "exit-notice modal for off-site links",
+      "class": "M",
+      "pages": 6,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "checks": [
+        {
+          "type": "click-dialog",
+          "path": "/deposits/debitcard/overview",
+          "trigger": "a[href^='https://www.paze.com']",
+          "headingIncludes": "leaving a Bank of America website"
+        }
+      ],
+      "verifiedBy": "paze.com link opens exit notice, Escape closes"
+    },
+    {
+      "id": "no-runtime-errors",
+      "feature": "client-rendered component copy delivered as static content (rows 8\u201321)",
+      "class": "CR",
+      "pages": 12,
+      "disposition": "static-snapshot",
+      "reproducibility": "self",
+      "status": "done",
+      "checks": [
+        {
+          "type": "no-page-errors",
+          "paths": [
+            "/en/offers/chooseyourchecking500tiered",
+            "/en/deals",
+            "/deposits/growyoursavings",
+            "/deposits/balanceconnect",
+            "/deposits/debitcard/overview",
+            "/deposits/growyoursavings/cd-ira"
+          ]
+        }
+      ],
+      "verifiedBy": "0 uncaught exceptions on 6 pages"
+    },
+    {
+      "id": "locale-variants",
+      "feature": "En espa\u00f1ol links to the source /es/ pages",
+      "class": "I18N",
+      "disposition": "rebuild-native",
+      "reproducibility": "needs-business-decision",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "whether the Spanish pages are migrated; links stay absolute to the source until then",
+      "checks": []
+    },
+    {
+      "id": "debitcard-app-link-widget",
+      "feature": "debit card 'send the app link' widget",
+      "class": "F",
+      "disposition": "static-snapshot",
+      "reproducibility": "needs-business-decision",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "SMS app-link service endpoint; delivered as static download CTA + QR",
+      "checks": []
+    },
+    {
+      "id": "sign-in-links",
+      "feature": "sign-in / account links",
+      "class": "X",
+      "status": "decided-out",
+      "disposition": "static-snapshot",
+      "reproducibility": "self",
+      "checks": []
+    }
+  ]
+}

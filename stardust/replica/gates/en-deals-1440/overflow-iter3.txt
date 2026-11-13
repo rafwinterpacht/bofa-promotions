@@ -1,0 +1,8 @@
+measure  http://localhost:8791/en-deals-proposed.html
+  widths 1440 · 1 selector(s) · 1 props · first match
+
+@ 1440px
+  root  scrollWidth  1440  viewport 1440  scrollHeight   7205
+  html
+       x     0  y      0  w  1440  h  7205  vis  "Skip to content En español Not a custom…"
+      display: block

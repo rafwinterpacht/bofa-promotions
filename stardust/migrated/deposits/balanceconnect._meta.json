@@ -1,0 +1,79 @@
+{
+  "slug": "deposits-balanceconnect",
+  "type": "program",
+  "renderBranch": "A'",
+  "template": "deposits-growyoursavings",
+  "modules": [
+    "masthead",
+    "content-tile",
+    "long-form-text",
+    "multi-step-content",
+    "disclosures"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "root"
+  ],
+  "canonShas": {
+    "header": "d1769ba615b3",
+    "footer": "3ecd920fc7e6",
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "What Is Balance Connect® for Overdraft Protection? | Bank of America",
+    "description": "Balance Connect® for overdraft protection can help you cover purchases and payments. Learn more about what it is, how it works, and enroll today.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "What Is Balance Connect® for Overdraft Protection? | Bank of America",
+    "description": "Balance Connect® for overdraft protection can help you cover purchases and payments. Learn more about what it is, how it works, and enroll today.",
+    "url": "https://promotions.bankofamerica.com/deposits/balanceconnect.html"
+  },
+  "migratedAt": "2026-11-13T18:19:18Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "c9a340f9994a",
+  "sourceProposedSha": "fc0eb05f3ce5",
+  "fidelityTier": "sibling",
+  "archetypeSource": "deposits-growyoursavings",
+  "archetypeSha": "7448ec4a9b6c",
+  "variants": [
+    "masthead.dark masthead.short masthead.large content-tile.navy content-tile.small-title long-form-text.flagscape long-form-text.white-cta multi-step-content.features multi-step-content.inline multi-step-content.gray"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff.mjs capture vs rendered clone (--profile generic --main main, 1440, accepted stardust/.work/rollout/program/accepted.json): Tiers looks-same 🔴 0 · nothing-lost 🟡 0 (job program-rt4)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 20,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://promotions.bankofamerica.com/es/deposits/balance-connect.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/balanceconnect/overdraft.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/balanceconnect/overdraft.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/es/deposits/balance-connect.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "deposits/balanceconnect.html",
+  "outputPathDefault": null,
+  "sidecar": "deposits/balanceconnect._meta.json",
+  "driverVersion": "1"
+}

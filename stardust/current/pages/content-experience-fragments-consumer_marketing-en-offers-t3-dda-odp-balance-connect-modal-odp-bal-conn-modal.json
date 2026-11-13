@@ -1,0 +1,42 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T15:29:26.361Z",
+    "waitMode": "modal-click",
+    "waitMs": 1434,
+    "httpStatus": 200,
+    "note": "experience fragment: direct navigation 302s to an error page on the source; captured as rendered in its host page modal (click on the offer page link), content from the modal service endpoint"
+  },
+  "slug": "content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal",
+  "url": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T15:29:26.361Z",
+  "finalUrl": "https://promotions.bankofamerica.com/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+  "kind": "modal-fragment",
+  "hostPage": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered",
+  "serviceUrl": "https://promotions.bankofamerica.com/services/consumer-marketing/modalitem.xf_path./content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal",
+  "serviceJson": {
+    "modalType": "additional-info",
+    "rteMarkup": "<h2>Balance Connect® for&nbsp;overdraft protection</h2>\n<p><span class=\"horizontal-line\">&nbsp;</span></p>\n<p>Balance Connect® for overdraft protection allows you to link your eligible checking account with up to 5 eligible Bank of America accounts for overdraft protection. This optional service can help you cover your payments and purchases and help avoid overdrafts and Overdraft Item Fees by automatically transferring available funds from your linked backup account(s) when needed. If your linked backup account does not have enough available funds to cover the necessary amount, we may decline to make the transfer.</p>",
+    "additionalCopy": "<p><i>Transfers from a linked (1) brokerage account with Merrill Lynch that is enrolled in margin lending, (2) Loan Management Account (LMA®), (3) credit card, or (4) HELOC are subject to interest charges. Please see your account agreement(s) for additional details. Balance Connect® is not available with SafeBalance Banking® or SafeBalance Banking® for Family Banking as a covered or linked backup account. Balance Connect® is available on Advantage Savings as a linked backup account, but not eligible to be enrolled as a covered account.</i></p>",
+    "modalId": 561143527,
+    "modalSize": "modal__wide",
+    "alignment": " ",
+    "ariaLabel": "bal-connect-odp"
+  },
+  "title": "Balance Connect® for overdraft protection",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Balance Connect® for overdraft protection"
+    }
+  ],
+  "body": [
+    "Balance Connect® for overdraft protection allows you to link your eligible checking account with up to 5 eligible Bank of America accounts for overdraft protection. This optional service can help you cover your payments and purchases and help avoid overdrafts and Overdraft Item Fees by automatically transferring available funds from your linked backup account(s) when needed. If your linked backup account does not have enough available funds to cover the necessary amount, we may decline to make the transfer."
+  ],
+  "ctas": [],
+  "text": "Balance Connect® for overdraft protection\n \nBalance Connect® for overdraft protection allows you to link your eligible checking account with up to 5 eligible Bank of America accounts for overdraft protection. This optional service can help you cover your payments and purchases and help avoid overdrafts and Overdraft Item Fees by automatically transferring available funds from your linked backup account(s) when needed. If your linked backup account does not have enough available funds to cover the necessary amount, we may decline to make the transfer.",
+  "screenshot": "assets/screenshots/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal.png",
+  "renderedHtml": "pages/content-experience-fragments-consumer_marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal.html",
+  "crawlSlug": "content-experience-fragments-consumer-marketing-en-offers-t3-dda-odp-balance-connect-modal-odp-bal-conn-modal-html"
+}

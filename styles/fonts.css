@@ -1,36 +1,102 @@
-/* stylelint-disable max-line-length */
+/*
+ * Brand faces, self-hosted. Loaded by loadFonts() (scripts/scripts.js) after first paint;
+ * the metric-matched connections-fallback faces live in styles.css.
+ * LICENSING: Connections and the icomoon icon fonts are Bank of America proprietary faces,
+ * self-hosted for the owner's own site only. See fonts/LICENSING.md.
+ */
+
 @font-face {
-  font-family: roboto-condensed;
+  font-family: connections;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 100 300;
   font-display: swap;
-  src: url('../fonts/roboto-condensed-bold.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: url("../fonts/connections_light-web.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: roboto;
-  font-style: normal;
-  font-weight: 700;
+  font-family: connections;
+  font-style: italic;
+  font-weight: 100 300;
   font-display: swap;
-  src: url('../fonts/roboto-bold.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: url("../fonts/connections_lightitalic-web.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url('../fonts/roboto-medium.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-@font-face {
-  font-family: roboto;
+  font-family: connections;
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../fonts/roboto-regular.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: url("../fonts/connections_regular-web.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: connections;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/connections_italic-web.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: connections;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/connections_medium-web.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: connections;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/connections_mediumitalic-web.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: connections;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/connections_bold-web.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: connections;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/connections_bolditalic-web.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "connections text";
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("../fonts/connections_text.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "connections text";
+  font-style: italic;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("../fonts/connections_text-vf-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: icomoon;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/icomoon.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: icomoon-interactive;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/icomoon-interactive.woff2") format("woff2");
 }

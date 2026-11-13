@@ -1,0 +1,654 @@
+/* multi-step-content — heading + steps row (source .multi-step-content--vertical) */
+.multi-step-content {
+  --display-md: 40px;
+
+  padding: 0 var(--gutter);
+  text-align: center;
+}
+
+.multi-step-content .multi-step-content-wrapper {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 3rem 0;
+}
+
+.multi-step-content .multi-step-content-heading :is(h1, h2) {
+  margin: 0;
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: var(--display-md);
+  font-weight: 100;
+  line-height: 1.2;
+}
+
+.multi-step-content .multi-step-content-intro p {
+  margin: 1rem 0 0;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.multi-step-content .multi-step-content-list {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.multi-step-content .multi-step-content-items {
+  display: flow-root;
+}
+
+.multi-step-content .multi-step-content-item {
+  max-width: 350px;
+  margin: 3.25rem auto 0;
+  padding: 0.625rem;
+}
+
+.multi-step-content .multi-step-content-item-icon {
+  width: 100px;
+  height: 70px;
+  margin: 0 auto 16px;
+}
+
+.multi-step-content .multi-step-content-item-icon p {
+  margin: 0;
+}
+
+.multi-step-content .multi-step-content-item-icon img {
+  display: block;
+  width: 100px;
+  height: 70px;
+}
+
+.multi-step-content .multi-step-content-item h3 {
+  margin: 0 0 1rem;
+  color: var(--color-bright-red);
+  font-family: var(--font-sans);
+  font-size: 1.375em;
+  font-weight: 700;
+}
+
+.multi-step-content .multi-step-content-item-copy p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.multi-step-content .multi-step-content-subcopy {
+  width: 100%;
+  max-width: 980px;
+  margin: 2rem auto 0;
+}
+
+@media (width >= 640px) {
+  .multi-step-content .multi-step-content-heading :is(h1, h2) {
+    line-height: 1.1675;
+  }
+
+  .multi-step-content .multi-step-content-items {
+    display: inline-flex;
+    width: 32.5%;
+  }
+
+  .multi-step-content .multi-step-content-subcopy {
+    margin-top: 3.25rem;
+  }
+}
+
+@media (width >= 980px) {
+  .multi-step-content .multi-step-content-heading :is(h1, h2) {
+    line-height: 1.125;
+  }
+
+  .multi-step-content .multi-step-content-items {
+    width: 33%;
+  }
+}
+
+@media (width >= 1068px) {
+  .multi-step-content {
+    --display-md: 48px;
+  }
+}
+
+/* ---- features (source .features: --bg-gray / --bg-white, horizontal | threeCol) ---- */
+.multi-step-content.gray {
+  background-color: #f5f5f5;
+}
+
+.multi-step-content.spaced {
+  margin-bottom: 60px;
+}
+
+.multi-step-content.features .multi-step-content-heading :is(h1, h2) {
+  font-size: 2.25rem;
+}
+
+.multi-step-content.red .multi-step-content-heading :is(h1, h2) {
+  color: var(--color-bright-red);
+}
+
+.multi-step-content.features .multi-step-content-intro {
+  max-width: 980px;
+  margin: 0.5rem auto 0;
+}
+
+.multi-step-content.features .multi-step-content-intro p {
+  margin: 0;
+  line-height: 1.3;
+}
+
+.multi-step-content.features .multi-step-content-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.multi-step-content.features .multi-step-content-items {
+  display: block;
+  width: auto;
+}
+
+.multi-step-content.features .multi-step-content-item {
+  display: flow-root; /* the icon's top margin stays inside the item (source: flex column) */
+  max-width: none;
+  margin: 2rem 0 1rem;
+  padding: 0 1.25rem;
+}
+
+.multi-step-content.features .multi-step-content-item-icon {
+  width: auto;
+  height: 3.75rem;
+  margin: 1rem auto;
+}
+
+.multi-step-content.features .multi-step-content-item-icon img {
+  width: auto;
+  max-width: 100%;
+  height: 3.75rem;
+  margin: 0 auto;
+}
+
+.multi-step-content .multi-step-content-item-icon .icon {
+  display: inline;
+  width: auto;
+  height: auto;
+  color: var(--color-black);
+  font-family: var(--font-icon);
+  font-size: 3.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.multi-step-content.features .multi-step-content-item :is(h2, h3) {
+  margin: 0 0 0.5rem;
+  color: var(--color-black);
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.multi-step-content.features .multi-step-content-item :is(h2, h3) sup {
+  font-size: 0.875rem;
+  top: -0.625rem;
+}
+
+.multi-step-content.features .multi-step-content-item-copy p {
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+/* inline: icon beside the copy (source .features.threeCol) */
+.multi-step-content.inline .multi-step-content-list {
+  display: grid;
+  gap: 1.875rem;
+  margin-top: 3rem;
+}
+
+.multi-step-content.features.spaced .multi-step-content-heading :is(h1, h2) {
+  font-size: 2.5rem;
+}
+
+.multi-step-content.inline .multi-step-content-heading :is(h1, h2) {
+  font-size: 2.5rem;
+}
+
+.multi-step-content.inline .multi-step-content-item {
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.multi-step-content.inline .multi-step-content-item-icon {
+  flex: 0 0 80px;
+  align-self: flex-start;
+  height: auto;
+  margin: 0;
+}
+
+.multi-step-content.inline .multi-step-content-item-icon .icon {
+  color: var(--color-dark-blue);
+}
+
+.multi-step-content.inline .multi-step-content-item-copy {
+  padding: 0 20px;
+  text-align: left;
+}
+
+.multi-step-content.features .multi-step-content-subcopy:empty {
+  display: none;
+}
+
+/* the four glyphs this template's siblings author (icomoon) */
+.multi-step-content .icon-finance-check::before {
+  content: "\e99a";
+}
+
+.multi-step-content .icon-finance-savings::before {
+  content: "\e9b0";
+}
+
+.multi-step-content .icon-finance-card::before {
+  content: "\e996";
+}
+
+.multi-step-content .icon-action-lock::before {
+  content: "\e91d";
+}
+
+.multi-step-content .icon-finance-accounts::before {
+  content: "\e98c";
+}
+
+.multi-step-content .icon-action-alert::before {
+  content: "\e902";
+}
+
+@media (width >= 640px) {
+  .multi-step-content.spaced {
+    margin-bottom: 50px;
+  }
+
+  .multi-step-content.features .multi-step-content-heading :is(h1, h2) {
+    font-size: 2.5rem;
+  }
+
+  .multi-step-content.features .multi-step-content-intro p {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  .multi-step-content.features .multi-step-content-list {
+    flex-flow: row wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 1rem 0 0;
+  }
+
+  .multi-step-content.features .multi-step-content-items {
+    flex: 1 1 30%;
+    max-width: 300px;
+    margin: 0 1rem;
+  }
+
+  .multi-step-content.features .multi-step-content-item :is(h2, h3) {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  .multi-step-content.features .multi-step-content-item-copy p {
+    font-size: 1.25rem;
+  }
+
+  .multi-step-content.inline .multi-step-content-list {
+    display: grid;
+    margin: 3rem 0 0;
+  }
+
+  .multi-step-content.inline .multi-step-content-items {
+    max-width: none;
+    margin: 0;
+  }
+
+  .multi-step-content.inline .multi-step-content-item {
+    flex-direction: row;
+  }
+
+  .multi-step-content.inline .multi-step-content-item-icon {
+    flex: 0 0 80px;
+    align-self: flex-start;
+    height: auto;
+  }
+
+  .multi-step-content.inline .multi-step-content-item-copy {
+    padding: 0;
+    text-align: left;
+  }
+}
+
+@media (width >= 768px) {
+  .multi-step-content.features:not(.inline) .multi-step-content-items {
+    flex-basis: 25%;
+  }
+}
+
+@media (width >= 980px) {
+  .multi-step-content.features .multi-step-content-heading :is(h1, h2) {
+    font-size: 3rem;
+  }
+
+  .multi-step-content.inline .multi-step-content-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ------------------------------------------------------------------------------------------
+   Variant classes for blocks this template does not own, shipped here because every program
+   sibling that uses them also carries a multi-step-content band (archetype-brief Rules: a
+   needed change to another template's block = a variant class handled in OUR block CSS).
+   tiles.copy  — tile copy paragraphs at the source .tiles__copy size
+   tiles.flush — no module margin below (source tiles `no-margin`)
+   banner.large — 3rem heading in the dark band (source uc-headline-display--md)
+   tiles.gray  — tile text on a light-grey panel (source .tiles__content.theme-gray)
+   pcard.compact — bulleted lists and a small pill CTA (source .preferred-cards)
+   product-details.plain — black centred heading, bold small card titles, bulleted lists
+     (source .product-details on /deposits/growyoursavings/cd-ira)
+   ------------------------------------------------------------------------------------------ */
+.tiles.copy .tiles-item > p {
+  margin: 0 0 1rem;
+  padding: 0 1rem;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.tiles.flush {
+  margin-bottom: 0;
+}
+
+.banner.dark.large {
+  margin-bottom: 60px;
+}
+
+.banner.dark.large .banner-inner :is(h1, h2, h3) {
+  font-size: 3rem;
+  line-height: 1.25;
+}
+
+.tiles.gray .tiles-item {
+  padding-bottom: 32px;
+  background-clip: content-box;
+  background-color: #f5f5f5;
+}
+
+.tiles.gray .tiles-item > :not(.tiles-media) {
+  padding: 0 24px;
+}
+
+.pcard.compact .pcard-text strong {
+  font-weight: 700;
+}
+
+.pcard.compact .pcard-text ul {
+  margin: 1.5rem 0 40px;
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+.pcard.compact .pcard-text li {
+  margin: 0 0 1rem;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+.pcard.compact .pcard-text ul > li:last-child {
+  margin-bottom: 0;
+}
+
+/* pcard.checks: the source's check-mark image makes each check line 7px taller */
+.pcard.checks .pcard-text p:not(:first-of-type, .button-wrapper) {
+  padding-top: 7px;
+}
+
+/* a blank line before the text link that precedes the CTA (source empty paragraph) */
+.pcard.compact .pcard-text p:not(.button-wrapper):has(> a:only-child):has(+ .button-wrapper) {
+  padding-top: 29px;
+}
+
+.pcard.compact a.button:any-link {
+  min-width: 0;
+  height: 52px;
+  margin: 8px 0 0;
+  padding: 0 1.5rem;
+  border-radius: 26px;
+  font-size: 1.25rem;
+}
+
+.product-details.plain {
+  padding-top: 3rem;
+}
+
+.product-details.plain .product-details-heading :is(h1, h2, h3) {
+  color: var(--color-black);
+}
+
+.product-details.plain .product-card {
+  background: #ededed;
+}
+
+.product-details.plain .product-card-title :is(h2, h3, h4) {
+  color: var(--color-black);
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.product-details.plain .product-card-intro ul {
+  margin: 1rem 0 0;
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+/* stylelint-disable-next-line no-descending-specificity -- another block's list, not a pcard one */
+.product-details.plain .product-card-intro li {
+  margin: 0 0 0.75rem;
+}
+
+@media (width >= 640px) {
+  .tiles.copy .tiles-item > p {
+    font-size: 1.25rem;
+  }
+
+  .tiles.gray .tiles-item {
+    flex: 0 0 420px;
+    max-width: 420px;
+    padding: 0 10px 40px;
+  }
+}
+
+@media (width >= 1088px) {
+  .banner.dark.large {
+    margin-bottom: 50px;
+  }
+
+  .banner.dark.large .banner-inner {
+    padding: 24px 48px;
+  }
+
+  .banner.dark.large .banner-inner :is(h1, h2, h3) {
+    font-size: 3.5rem;
+    line-height: 1.125;
+  }
+
+  /* tiles.gray: 439px tiles 40px apart, 24px panel padding, 25px titles (source .tiles__item--two) */
+  .tiles.gray .tiles-item {
+    flex: 0 0 399px;
+    max-width: 399px;
+    margin: 0 20px;
+    padding: 0 0 24px;
+    background-clip: border-box;
+  }
+
+  .tiles.gray .tiles-subheading :is(h2, h3, h4) {
+    margin-top: 24px;
+  }
+
+  .tiles.copy.gray .tiles-item > p {
+    margin-bottom: 0;
+  }
+
+  .tiles.gray .tiles-subheading :is(h2, h3, h4),
+  .tiles.wide-copy .tiles-subheading :is(h2, h3, h4) {
+    font-size: 1.5625rem;
+    line-height: 1.25;
+  }
+
+  /* tiles.wide-copy: titles and copy flush left in the tile, 16px clear on the right */
+  .tiles.wide-copy .tiles-subheading :is(h2, h3, h4) {
+    margin: 20px 16px 16px 0;
+  }
+
+  .tiles.copy.wide-copy .tiles-item > p {
+    padding: 0 16px 0 0;
+  }
+
+  /* the source's tallest tile ends in two empty copy lines (not carried as content) */
+  .tiles.copy.wide-copy .tiles-item {
+    padding-bottom: 17px;
+  }
+
+}
+
+/* footnote references: the pipeline serves <a><sup>n</sup></a> — no underline (source) */
+.multi-step-content a:any-link:has(> sup) {
+  text-decoration: none;
+}
+
+.pcard.compact a:any-link:has(> sup) {
+  text-decoration: none;
+}
+
+/* carousel: below 640px one 234px step at a time between two chevrons, dash indicators
+   under it (source .features slick carousel); from 640px the steps sit in their row */
+.multi-step-content.carousel :is(.multi-step-content-viewport, .multi-step-content-track) {
+  display: contents;
+}
+
+.multi-step-content.carousel :is(.multi-step-content-prev, .multi-step-content-next, .multi-step-content-dots) {
+  display: none;
+}
+
+@media (width < 640px) {
+  .multi-step-content.carousel .multi-step-content-heading :is(h1, h2) {
+    line-height: 1.167;
+  }
+
+  .multi-step-content.carousel .multi-step-content-list {
+    position: relative;
+  }
+
+  .multi-step-content.carousel .multi-step-content-viewport {
+    display: block;
+    margin: 0 27px;
+    overflow: hidden;
+  }
+
+  .multi-step-content.carousel .multi-step-content-track {
+    display: flex;
+    align-items: flex-start;
+    transform: translateX(calc(18px - var(--slide, 0) * 274px));
+    transition: transform 0.5s ease;
+  }
+
+  .multi-step-content.carousel .multi-step-content-items {
+    flex: 0 0 234px;
+    margin: 0 40px 0 0;
+  }
+
+  .multi-step-content.carousel .multi-step-content-item {
+    padding: 0;
+  }
+
+  .multi-step-content.carousel :is(.multi-step-content-prev, .multi-step-content-next) {
+    position: absolute;
+    top: 0;
+    bottom: 40px;
+    display: flex;
+    align-items: center;
+    width: 16px;
+    padding: 0;
+    border: 0;
+    background: none;
+    color: var(--color-black);
+    cursor: pointer;
+  }
+
+  .multi-step-content.carousel .multi-step-content-prev {
+    left: 0;
+  }
+
+  .multi-step-content.carousel .multi-step-content-next {
+    right: 0;
+    transform: scaleX(-1);
+  }
+
+  .multi-step-content.carousel :is(.multi-step-content-prev, .multi-step-content-next) svg {
+    width: 16px;
+    height: 28px;
+  }
+
+  .multi-step-content.carousel .multi-step-content-dots {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-top: 45px;
+  }
+
+  .multi-step-content.carousel .multi-step-content-dot {
+    width: 28px;
+    height: 8px;
+    padding: 0;
+    border: 0;
+    border-top: 2px solid var(--color-black);
+    background: none;
+    cursor: pointer;
+  }
+
+  .multi-step-content.carousel .multi-step-content-dot[aria-current="true"] {
+    border-top-width: 4px;
+  }
+}
+
+/* tiles.wide-copy below 640px: 22.5px titles, 48px between stacked tiles, no trailing copy
+   margin; the second tile keeps the source's two empty copy lines (78px) */
+@media (width < 640px) {
+  .tiles.wide-copy .tiles-subheading :is(h2, h3, h4) {
+    font-size: 22.5px;
+    line-height: 1.25;
+  }
+
+  .tiles.wide-copy .tiles-item:not(:last-child) {
+    padding-bottom: 48px;
+  }
+
+  .tiles.copy.wide-copy .tiles-item > p:last-of-type {
+    margin-bottom: 0;
+  }
+
+  .tiles.copy.wide-copy .tiles-item:nth-child(2) > p:last-of-type {
+    margin-bottom: 78px;
+  }
+}
+
+/* tiles.copy below 640px: a lone tile carries no stacking gap, and its copy sits 32px above
+   the CTA (source .tiles__item--one) */
+@media (width < 640px) {
+  .tiles.copy .tiles-item-first:last-child {
+    padding-bottom: 0;
+  }
+
+  .tiles.copy:not(.gray) .tiles-item > p:has(+ .tiles-cta) {
+    margin-bottom: 0;
+  }
+}

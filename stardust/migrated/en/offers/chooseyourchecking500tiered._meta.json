@@ -1,0 +1,131 @@
+{
+  "slug": "en-offers-chooseyourchecking500tiered",
+  "type": "landing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "masthead",
+    "product-details",
+    "steps",
+    "promo-card-row",
+    "header",
+    "footer"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "spacer",
+    "masthead",
+    "spacer",
+    "product-details",
+    "steps",
+    "promo-card-row"
+  ],
+  "canonShas": {
+    "header": "f3435c6eb7bf",
+    "footer": "a94ea6200eee",
+    "css": "142ddfc70f99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Up to $500 Tiered Checking offer | Bank of America",
+    "description": "Special Checking Offer",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Up to $500 Tiered Checking offer | Bank of America",
+    "description": "Special Checking Offer",
+    "url": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered"
+  },
+  "migratedAt": "2026-11-13T16:43:44Z",
+  "designMdSha": "85ebffa7f1dd",
+  "designJsonSha": "ab9eb81c0589",
+  "sourceCurrentSha": "58a4c5b0be9d",
+  "sourceProposedSha": "4bf06ed9c9e4",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 25,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/en/offers/chooseyourchecking500tiered.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/debitcard/overview.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/balanceconnect.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://promotions.bankofamerica.com/deposits/growyoursavings/cd-ira.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/safebalance-learn-more-modal/safebalance-2026-modal.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/relationship-learn-more-modal/relationship-2026-modal.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/odp-balance-connect-modal/odp-bal-conn-modal.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/eligible-accounts-modal/master.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/experience-fragments/consumer_marketing/en/offers/t3-dda/qualifying-direct-deposit-modal/master.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/consumer-info/en/rewards/bofa-rewards.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/offers/chooseyourchecking500tiered.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "en/offers/chooseyourchecking500tiered._meta.json",
+  "driverVersion": "1"
+}
